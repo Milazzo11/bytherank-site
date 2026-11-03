@@ -6,5 +6,5 @@ rank,product,brand,score,Integrated Energy Factor (L/kWh),Certified capacity (pi
 5,Aeocky RHEA-RCS32(Y)-N4-3,Aeocky,97.0,2.09,32.0,308.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3994316, retrieved 2026-11-01"
 6,Vellgoo TAURUS-RCS32(Y)-N4-3,Vellgoo,97.0,2.09,32.0,304.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3629581, retrieved 2026-11-01"
 7,Deciuu LIBRA-RCS32(Y)-N4-3 [LIBRA-RCS32(Y)-N4-3(B)],Deciuu,96.4,2.07,32.0,302.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3994319, retrieved 2026-11-01"
-8,AeroNova ADC018,AeroNova,86.8,2.05,24.5,233.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572924, retrieved 2026-11-01"
-9,Avylo ADC018,Avylo,86.8,2.05,24.5,233.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572840, retrieved 2026-11-01"
+8,edx AS-CSJ72XK-5WT-OL,CONCETTA,87.1,2.04,25.0,233.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4576709, retrieved 2026-11-01"
+9,Avylo ADC018,AeroNova,86.8,2.05,24.5,233.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572924, retrieved 2026-11-01"

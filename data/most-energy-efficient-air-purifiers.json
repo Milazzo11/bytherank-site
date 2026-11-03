@@ -1,4 +1,15 @@
 {
+ "analysis": {
+  "decile": 8.02,
+  "higher_better": true,
+  "label": "Smoke CADR per watt",
+  "median": 6.185,
+  "pool": 126,
+  "top_beats_pct": 99,
+  "top_name": "Rainbow Luggable XL Ultra",
+  "top_value": 23.96,
+  "unit": "cfm/W"
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -21,6 +32,13 @@
    "label": "5-year electricity cost",
    "unit": "USD",
    "weight": 0.2
+  }
+ ],
+ "filters": [
+  {
+   "field": "ozone_emissions_ppb",
+   "op": "==",
+   "value": 0
   }
  ],
  "items": [
@@ -166,7 +184,9 @@
   "cut": 9.26,
   "label": "Smoke CADR per watt",
   "listed": 10,
-  "pool": 166,
+  "listings": 204,
+  "merge": "listings with identical certified values on all 23 reported fields",
+  "pool": 126,
   "tied_beyond_cut": 0,
   "unit": "cfm/W"
  },
@@ -175,5 +195,64 @@
   "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
  ],
  "updated": "2026-11-01",
- "url": "https://bytherank.com/most-energy-efficient-air-purifiers/"
+ "url": "https://bytherank.com/most-energy-efficient-air-purifiers/",
+ "why_first": {
+  "criteria": [
+   {
+    "difference": 0.1,
+    "first_points": 60.0,
+    "first_value": 23.96,
+    "key": "efficiency",
+    "label": "Smoke CADR per watt",
+    "second_points": 59.9,
+    "second_value": 23.91,
+    "unit": "cfm/W",
+    "weight_pct": 60.0
+   },
+   {
+    "difference": 0.9,
+    "first_points": 11.5,
+    "first_value": 333.0,
+    "key": "smoke_cadr",
+    "label": "Smoke CADR",
+    "second_points": 10.6,
+    "second_value": 306.0,
+    "unit": "cfm",
+    "weight_pct": 20.0
+   },
+   {
+    "difference": -0.7,
+    "first_points": 7.8,
+    "first_value": 74.0,
+    "key": "cost5",
+    "label": "5-year electricity cost",
+    "second_points": 8.5,
+    "second_value": 68.0,
+    "unit": "USD",
+    "weight_pct": 20.0
+   }
+  ],
+  "deciding": {
+   "computed": false,
+   "first_value": 333.0,
+   "key": "smoke_cadr",
+   "label": "Smoke CADR",
+   "retrieved": "2026-11-01",
+   "second_value": 306.0,
+   "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6"
+  },
+  "first": "Rainbow Luggable XL Ultra",
+  "first_score": 79.4,
+  "flip": {
+   "key": "cost5",
+   "label": "5-year electricity cost",
+   "needed_pct": 27.7,
+   "now_pct": 20.0
+  },
+  "headline_leader": null,
+  "margin": 0.4,
+  "second": "Rainbow Luggable XXL",
+  "second_score": 79.0,
+  "ties": []
+ }
 }

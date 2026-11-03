@@ -1,4 +1,15 @@
 {
+ "analysis": {
+  "decile": 2.1,
+  "higher_better": true,
+  "label": "Integrated Energy Factor",
+  "median": 2.01,
+  "pool": 41,
+  "top_beats_pct": 97,
+  "top_name": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
+  "top_value": 2.24,
+  "unit": "L/kWh"
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -21,6 +32,18 @@
    "label": "5-year electricity cost",
    "unit": "USD",
    "weight": 0
+  }
+ ],
+ "filters": [
+  {
+   "field": "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+   "op": ">=",
+   "value": 45
+  },
+  {
+   "field": "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+   "op": "<=",
+   "value": 55
   }
  ],
  "items": [
@@ -116,12 +139,12 @@
    }
   },
   {
-   "brand": "Waykar; KESNOS; YAUFEY; Fehom",
+   "brand": "waykar, KESNOS, YAUFEY, Fehom",
    "id": "waykar-kesnos-yaufey-fehom-portable-dehumidifier-yda-150",
    "name": "Waykar; KESNOS; YAUFEY; Fehom PORTABLE DEHUMIDIFIER (YDA-150)",
    "rank": 8,
    "score": 91.2,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510166, retrieved 2026-11-01",
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510160, retrieved 2026-11-01",
    "specs": {
     "capacity": 50.0,
     "cost5": 474.0,
@@ -130,8 +153,8 @@
   },
   {
    "brand": "Yoau, Shinco, UHOME",
-   "id": "yoau-shinco-uhome-portable-dehumidifier-ydz-50p-s6",
-   "name": "Yoau, Shinco, UHOME PORTABLE DEHUMIDIFIER (YDZ-50P/S6)",
+   "id": "yoau-shinco-uhome-portable-dehumidifier-sdz1-150p",
+   "name": "Yoau; Shinco; UHOME PORTABLE DEHUMIDIFIER (SDZ1-150P)",
    "rank": 9,
    "score": 91.2,
    "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4497593, retrieved 2026-11-01",
@@ -142,64 +165,12 @@
    }
   },
   {
-   "brand": "Yoau; Shinco; UHOME",
-   "id": "yoau-shinco-uhome-portable-dehumidifier-sdz1-150p",
-   "name": "Yoau; Shinco; UHOME PORTABLE DEHUMIDIFIER (SDZ1-150P)",
-   "rank": 10,
-   "score": 91.2,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4497597, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 50.0,
-    "cost5": 431.0,
-    "ief": 2.02
-   }
-  },
-  {
-   "brand": "waykar, KESNOS, YAUFEY, Fehom",
-   "id": "waykar-kesnos-yaufey-fehom-portable-dehumidifier-ydy-150",
-   "name": "waykar, KESNOS, YAUFEY, Fehom PORTABLE DEHUMIDIFIER (YDY-150)",
-   "rank": 11,
-   "score": 91.2,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510160, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 50.0,
-    "cost5": 474.0,
-    "ief": 2.02
-   }
-  },
-  {
    "brand": "AVAHUM",
    "id": "avahum-am160",
    "name": "AVAHUM AM160",
-   "rank": 12,
+   "rank": 10,
    "score": 91.1,
    "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4520244, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 49.83,
-    "cost5": 481.0,
-    "ief": 2.02
-   }
-  },
-  {
-   "brand": "Airzentti",
-   "id": "airzentti-acd155p-pg100",
-   "name": "Airzentti ACD155P-PG100",
-   "rank": 13,
-   "score": 91.1,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4511313, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 49.83,
-    "cost5": 481.0,
-    "ief": 2.02
-   }
-  },
-  {
-   "brand": "MOISWELL",
-   "id": "moiswell-defender-m70",
-   "name": "MOISWELL Defender M70",
-   "rank": 14,
-   "score": 91.1,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4520481, retrieved 2026-11-01",
    "specs": {
     "capacity": 49.83,
     "cost5": 481.0,
@@ -208,7 +179,7 @@
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "method": "We took portable ENERGY STAR dehumidifiers certified at 45 to 55 pints per day (the 50-pint class under the current DOE test) and compared the most efficient by IEF, with a 10% weight on capacity. The five-year electricity cost is shown for each (certified yearly energy use x current EIA U.S. average residential price x 5). Every model tied with the last one on the selection criterion is listed, so the cut never picks among equals.",
+ "method": "We took portable ENERGY STAR dehumidifiers certified at 45 to 55 pints per day (the 50-pint class under the current DOE test) and compared the most efficient by IEF, with a 10% weight on capacity. The five-year electricity cost is shown for each (certified yearly energy use x current EIA U.S. average residential price x 5). The list stops above a tie for the last place rather than picking among tied models.",
  "name": "Best 50-pint dehumidifiers, ranked by certified efficiency",
  "next_refresh": "2026-12-01",
  "publisher": "ByTheRank",
@@ -217,8 +188,10 @@
   "best": 2.24,
   "cut": 2.02,
   "label": "Integrated Energy Factor",
-  "listed": 14,
-  "pool": 74,
+  "listed": 10,
+  "listings": 168,
+  "merge": "listings with identical certified values on all 11 reported fields",
+  "pool": 41,
   "tied_beyond_cut": 0,
   "unit": "L/kWh"
  },
@@ -227,5 +200,83 @@
   "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
  ],
  "updated": "2026-11-01",
- "url": "https://bytherank.com/best-50-pint-dehumidifiers/"
+ "url": "https://bytherank.com/best-50-pint-dehumidifiers/",
+ "why_first": {
+  "criteria": [
+   {
+    "difference": 1.6,
+    "first_points": 90.0,
+    "first_value": 2.24,
+    "key": "ief",
+    "label": "Integrated Energy Factor",
+    "second_points": 88.4,
+    "second_value": 2.2,
+    "unit": "L/kWh",
+    "weight_pct": 90.0
+   },
+   {
+    "difference": -1.0,
+    "first_points": 9.0,
+    "first_value": 45.0,
+    "key": "capacity",
+    "label": "Certified capacity",
+    "second_points": 10.0,
+    "second_value": 49.86,
+    "unit": "pints/day",
+    "weight_pct": 10.0
+   },
+   {
+    "difference": 0.0,
+    "first_points": 0.0,
+    "first_value": 403.0,
+    "key": "cost5",
+    "label": "5-year electricity cost",
+    "second_points": 0.0,
+    "second_value": 458.0,
+    "unit": "USD",
+    "weight_pct": 0.0
+   }
+  ],
+  "deciding": {
+   "computed": false,
+   "first_value": 2.24,
+   "key": "ief",
+   "label": "Integrated Energy Factor",
+   "retrieved": "2026-11-01",
+   "second_value": 2.2,
+   "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z"
+  },
+  "first": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
+  "first_score": 99.0,
+  "flip": {
+   "key": "capacity",
+   "label": "Certified capacity",
+   "needed_pct": 15.5,
+   "now_pct": 10.0
+  },
+  "headline_leader": null,
+  "margin": 0.6,
+  "second": "ZAFRO D026W-50Pt3M",
+  "second_score": 98.4,
+  "ties": [
+   {
+    "names": [
+     "MegaLight PD-HPC750-WT",
+     "Waykar CTH150B"
+    ],
+    "rank": "=3",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "score": 98.3
+   },
+   {
+    "names": [
+     "Waykar; KESNOS; YAUFEY; Fehom PORTABLE DEHUMIDIFIER (YDA-150)",
+     "Yoau; Shinco; UHOME PORTABLE DEHUMIDIFIER (SDZ1-150P)"
+    ],
+    "rank": "=8",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "score": 91.2
+   }
+  ]
+ }
 }

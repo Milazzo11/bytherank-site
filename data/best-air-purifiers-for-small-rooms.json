@@ -1,4 +1,15 @@
 {
+ "analysis": {
+  "decile": 149.0,
+  "higher_better": true,
+  "label": "Smoke CADR",
+  "median": 110.0,
+  "pool": 68,
+  "top_beats_pct": 94,
+  "top_name": "Bosch Air 4000",
+  "top_value": 156.0,
+  "unit": "cfm"
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -14,6 +25,18 @@
    "label": "5-year electricity cost",
    "unit": "USD",
    "weight": 0.45
+  }
+ ],
+ "filters": [
+  {
+   "field": "ozone_emissions_ppb",
+   "op": "==",
+   "value": 0
+  },
+  {
+   "field": "room_size_sq_ft",
+   "op": "<=",
+   "value": 250
   }
  ],
  "items": [
@@ -54,84 +77,12 @@
    }
   },
   {
-   "brand": "PELONIS",
-   "id": "pelonis-kj250g-z43",
-   "name": "PELONIS KJ250G-Z43",
-   "rank": 4,
-   "score": 96.2,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439575, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 114.0,
-    "smoke_cadr": 151.0
-   }
-  },
-  {
-   "brand": "PURE CODE",
-   "id": "pure-code-apu-z43wus",
-   "name": "PURE CODE APU-Z43WUS",
-   "rank": 5,
-   "score": 96.2,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439576, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 114.0,
-    "smoke_cadr": 151.0
-   }
-  },
-  {
    "brand": "CUCKOO",
-   "id": "cuckoo-cac-ab0610fi",
-   "name": "CUCKOO CAC-AB0610FI",
-   "rank": 6,
-   "score": 95.5,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439566, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 114.0,
-    "smoke_cadr": 149.0
-   }
-  },
-  {
-   "brand": "Greenlite",
-   "id": "greenlite-g-pure-22w",
-   "name": "Greenlite G-Pure-22W",
-   "rank": 7,
-   "score": 95.5,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4514275, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 114.0,
-    "smoke_cadr": 149.0
-   }
-  },
-  {
-   "brand": "ISINLIVE",
-   "id": "isinlive-vortex-v2",
-   "name": "ISINLIVE vortex V2",
-   "rank": 8,
-   "score": 95.5,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439565, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 114.0,
-    "smoke_cadr": 149.0
-   }
-  },
-  {
-   "brand": "Midea",
    "id": "midea-793k18a",
    "name": "Midea 793K18A",
-   "rank": 9,
+   "rank": 4,
    "score": 95.5,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439567, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 114.0,
-    "smoke_cadr": 149.0
-   }
-  },
-  {
-   "brand": "Senville",
-   "id": "senville-senap-250g-z41",
-   "name": "Senville SENAP-250G-Z41",
-   "rank": 10,
-   "score": 95.5,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439568, retrieved 2026-11-01",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439566, retrieved 2026-11-01",
    "specs": {
     "cost5": 114.0,
     "smoke_cadr": 149.0
@@ -141,7 +92,7 @@
    "brand": "LEVOIT",
    "id": "levoit-lap-c341s-wusz",
    "name": "LEVOIT LAP-C341S-WUSZ",
-   "rank": 11,
+   "rank": 5,
    "score": 93.5,
    "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4614674, retrieved 2026-11-01",
    "specs": {
@@ -150,10 +101,22 @@
    }
   },
   {
+   "brand": "CLOROX",
+   "id": "clorox-type-ap32-11030",
+   "name": "CLOROX TYPE AP32 (11030)",
+   "rank": 6,
+   "score": 92.9,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439467, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 120.0,
+    "smoke_cadr": 148.0
+   }
+  },
+  {
    "brand": "Alen",
    "id": "alen-breathesmart-35i",
    "name": "Alen BreatheSmart 35i",
-   "rank": 12,
+   "rank": 7,
    "score": 92.6,
    "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481445, retrieved 2026-11-01",
    "specs": {
@@ -165,7 +128,7 @@
    "brand": "Dreo",
    "id": "dreo-dr-hap005as",
    "name": "Dreo DR-HAP005AS",
-   "rank": 13,
+   "rank": 8,
    "score": 90.2,
    "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4670514, retrieved 2026-11-01",
    "specs": {
@@ -174,15 +137,87 @@
    }
   },
   {
+   "brand": "Honeywell",
+   "id": "honeywell-hpa4200b",
+   "name": "Honeywell HPA4200B",
+   "rank": 9,
+   "score": 90.2,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4518201, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 124.0,
+    "smoke_cadr": 144.0
+   }
+  },
+  {
+   "brand": "Longstar",
+   "id": "maxlite-ap215sf4b",
+   "name": "MaxLite AP215SF4B",
+   "rank": 10,
+   "score": 89.4,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4654774, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 131.0,
+    "smoke_cadr": 148.0
+   }
+  },
+  {
+   "brand": "Dreo",
+   "id": "dreo-dr-hap007s",
+   "name": "Dreo DR-HAP007S",
+   "rank": 11,
+   "score": 88.9,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4528733, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 127.0,
+    "smoke_cadr": 143.0
+   }
+  },
+  {
    "brand": "Dreo",
    "id": "dreo-dr-hap009",
    "name": "Dreo DR-HAP009",
-   "rank": 14,
+   "rank": 12,
    "score": 88.6,
    "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586495, retrieved 2026-11-01",
    "specs": {
     "cost5": 147.0,
     "smoke_cadr": 158.0
+   }
+  },
+  {
+   "brand": "WOOZOO",
+   "id": "woozoo-apf-20",
+   "name": "WOOZOO APF-20",
+   "rank": 13,
+   "score": 87.9,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4515996, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 136.0,
+    "smoke_cadr": 148.0
+   }
+  },
+  {
+   "brand": "Dreo",
+   "id": "dreo-dr-hap007as",
+   "name": "Dreo DR-HAP007AS",
+   "rank": 14,
+   "score": 85.7,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4577020, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 138.0,
+    "smoke_cadr": 143.0
+   }
+  },
+  {
+   "brand": "Dreo",
+   "id": "dreo-dr-hap009as",
+   "name": "Dreo DR-HAP009AS",
+   "rank": 15,
+   "score": 84.8,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586614, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 144.0,
+    "smoke_cadr": 145.0
    }
   }
  ],
@@ -194,10 +229,12 @@
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 161.0,
-  "cut": 149.0,
+  "cut": 143.0,
   "label": "Smoke CADR",
-  "listed": 14,
-  "pool": 88,
+  "listed": 15,
+  "listings": 106,
+  "merge": "listings with identical certified values on all 23 reported fields",
+  "pool": 68,
   "tied_beyond_cut": 0,
   "unit": "cfm"
  },
@@ -206,5 +243,71 @@
   "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
  ],
  "updated": "2026-11-01",
- "url": "https://bytherank.com/best-air-purifiers-for-small-rooms/"
+ "url": "https://bytherank.com/best-air-purifiers-for-small-rooms/",
+ "why_first": {
+  "criteria": [
+   {
+    "difference": -0.7,
+    "first_points": 53.3,
+    "first_value": 156.0,
+    "key": "smoke_cadr",
+    "label": "Smoke CADR",
+    "second_points": 54.0,
+    "second_value": 158.0,
+    "unit": "cfm",
+    "weight_pct": 55.0
+   },
+   {
+    "difference": 1.5,
+    "first_points": 45.0,
+    "first_value": 113.0,
+    "key": "cost5",
+    "label": "5-year electricity cost",
+    "second_points": 43.5,
+    "second_value": 117.0,
+    "unit": "USD",
+    "weight_pct": 45.0
+   }
+  ],
+  "deciding": {
+   "computed": true,
+   "first_value": 113.0,
+   "key": "cost5",
+   "label": "5-year electricity cost",
+   "retrieved": "2026-11-01",
+   "second_value": 117.0,
+   "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6"
+  },
+  "first": "Bosch Air 4000",
+  "first_score": 98.3,
+  "flip": {
+   "key": "smoke_cadr",
+   "label": "Smoke CADR",
+   "needed_pct": 73.3,
+   "now_pct": 55.0
+  },
+  "headline_leader": {
+   "first_value": 156.0,
+   "key": "smoke_cadr",
+   "label": "Smoke CADR",
+   "name": "LEVOIT LAP-C341S-WUSZ",
+   "needed_pct": 82.3,
+   "now_pct": 55.0,
+   "value": 161.0
+  },
+  "margin": 0.9,
+  "second": "Greenlite G-Pure1-22W",
+  "second_score": 97.4,
+  "ties": [
+   {
+    "names": [
+     "Dreo DR-HAP005AS",
+     "Honeywell HPA4200B"
+    ],
+    "rank": "=8",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "score": 90.2
+   }
+  ]
+ }
 }

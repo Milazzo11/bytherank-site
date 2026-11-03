@@ -1,4 +1,15 @@
 {
+ "analysis": {
+  "decile": 127.51,
+  "higher_better": true,
+  "label": "Certified capacity",
+  "median": 85.31,
+  "pool": 14,
+  "top_beats_pct": 92,
+  "top_name": "Santa Fe Ultra V205 (4046180)",
+  "top_value": 172.13,
+  "unit": "pints/day"
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -130,8 +141,8 @@
   },
   {
    "brand": "CARRIER CORPORATION",
-   "id": "carrier-corporation-dehxxcda1100",
-   "name": "CARRIER CORPORATION DEHXXCDA1100",
+   "id": "healthy-climate-hcwhd-100",
+   "name": "Healthy Climate HCWHD#-100",
    "rank": 9,
    "score": 61.9,
    "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594974, retrieved 2026-11-01",
@@ -142,31 +153,59 @@
    }
   },
   {
-   "brand": "Healthy Climate",
-   "id": "healthy-climate-hcwhd-100",
-   "name": "Healthy Climate HCWHD#-100",
+   "brand": "Aprilaire",
+   "id": "aprilaire-e080",
+   "name": "Aprilaire E080",
    "rank": 10,
-   "score": 61.9,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594954, retrieved 2026-11-01",
+   "score": 56.6,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510066, retrieved 2026-11-01",
    "specs": {
-    "capacity": 85.0,
-    "cost5": 2171.0,
+    "capacity": 65.0,
+    "cost5": 574.0,
     "ief": 2.35
+   }
+  },
+  {
+   "brand": "CARRIER CORPORATION",
+   "id": "healthy-climate-hcwhd-080",
+   "name": "Healthy Climate HCWHD#-080",
+   "rank": 11,
+   "score": 56.6,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594934, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 65.0,
+    "cost5": 929.0,
+    "ief": 2.35
+   }
+  },
+  {
+   "brand": "MOISWELL",
+   "id": "moiswell-admiral-w160",
+   "name": "MOISWELL Admiral W160",
+   "rank": 12,
+   "score": 55.0,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4616314, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 65.0,
+    "cost5": 570.0,
+    "ief": 2.25
    }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "method": "We compared the 10 ENERGY STAR whole-home (ducted) dehumidifiers with the highest certified capacity, scoring capacity and IEF. The five-year electricity cost is shown for each (certified yearly energy use x current EIA U.S. average residential price x 5).",
+ "method": "We compared the ENERGY STAR whole-home (ducted) dehumidifiers with the highest certified capacity, scoring capacity and IEF. The five-year electricity cost is shown for each (certified yearly energy use x current EIA U.S. average residential price x 5). Every model tied with the last one on the selection criterion is listed, so the cut never picks among equals.",
  "name": "Best whole-house dehumidifiers, ranked by certified data",
  "next_refresh": "2026-12-01",
  "publisher": "ByTheRank",
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 172.13,
-  "cut": 85.0,
+  "cut": 65.0,
   "label": "Certified capacity",
-  "listed": 10,
-  "pool": 16,
+  "listed": 12,
+  "listings": 24,
+  "merge": "listings with identical certified values on all 11 reported fields",
+  "pool": 14,
   "tied_beyond_cut": 0,
   "unit": "pints/day"
  },
@@ -175,5 +214,92 @@
   "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
  ],
  "updated": "2026-11-01",
- "url": "https://bytherank.com/best-whole-house-dehumidifiers/"
+ "url": "https://bytherank.com/best-whole-house-dehumidifiers/",
+ "why_first": {
+  "criteria": [
+   {
+    "difference": 11.7,
+    "first_points": 45.0,
+    "first_value": 172.13,
+    "key": "capacity",
+    "label": "Certified capacity",
+    "second_points": 33.3,
+    "second_value": 127.51,
+    "unit": "pints/day",
+    "weight_pct": 45.0
+   },
+   {
+    "difference": -2.4,
+    "first_points": 52.6,
+    "first_value": 3.12,
+    "key": "ief",
+    "label": "Integrated Energy Factor",
+    "second_points": 55.0,
+    "second_value": 3.26,
+    "unit": "L/kWh",
+    "weight_pct": 55.0
+   },
+   {
+    "difference": 0.0,
+    "first_points": 0.0,
+    "first_value": 1079.0,
+    "key": "cost5",
+    "label": "5-year electricity cost",
+    "second_points": 0.0,
+    "second_value": 765.0,
+    "unit": "USD",
+    "weight_pct": 0.0
+   }
+  ],
+  "deciding": {
+   "computed": false,
+   "first_value": 172.13,
+   "key": "capacity",
+   "label": "Certified capacity",
+   "retrieved": "2026-11-01",
+   "second_value": 127.51,
+   "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z"
+  },
+  "first": "Santa Fe Ultra V205 (4046180)",
+  "first_score": 97.6,
+  "flip": {
+   "key": "ief",
+   "label": "Integrated Energy Factor",
+   "needed_pct": 85.8,
+   "now_pct": 55.0
+  },
+  "headline_leader": null,
+  "margin": 9.3,
+  "second": "Santa Fe Ultra V155 (4047300)",
+  "second_score": 88.3,
+  "ties": [
+   {
+    "names": [
+     "Aprilaire E130",
+     "Healthy Climate HCWHD#-130"
+    ],
+    "rank": "=4",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "score": 67.1
+   },
+   {
+    "names": [
+     "Aprilaire E100",
+     "Healthy Climate HCWHD#-100"
+    ],
+    "rank": "=8",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "score": 61.9
+   },
+   {
+    "names": [
+     "Aprilaire E080",
+     "Healthy Climate HCWHD#-080"
+    ],
+    "rank": "=10",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "score": 56.6
+   }
+  ]
+ }
 }

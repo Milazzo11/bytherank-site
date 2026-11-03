@@ -1,4 +1,15 @@
 {
+ "analysis": {
+  "decile": 2.05,
+  "higher_better": true,
+  "label": "Integrated Energy Factor",
+  "median": 2.01,
+  "pool": 161,
+  "top_beats_pct": 99,
+  "top_name": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
+  "top_value": 2.24,
+  "unit": "L/kWh"
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -205,7 +216,9 @@
   "cut": 2.09,
   "label": "Integrated Energy Factor",
   "listed": 13,
-  "pool": 326,
+  "listings": 547,
+  "merge": "listings with identical certified values on all 11 reported fields",
+  "pool": 161,
   "tied_beyond_cut": 0,
   "unit": "L/kWh"
  },
@@ -214,5 +227,84 @@
   "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
  ],
  "updated": "2026-11-01",
- "url": "https://bytherank.com/most-efficient-dehumidifiers/"
+ "url": "https://bytherank.com/most-efficient-dehumidifiers/",
+ "why_first": {
+  "criteria": [
+   {
+    "difference": 1.6,
+    "first_points": 90.0,
+    "first_value": 2.24,
+    "key": "ief",
+    "label": "Integrated Energy Factor",
+    "second_points": 88.4,
+    "second_value": 2.2,
+    "unit": "L/kWh",
+    "weight_pct": 90.0
+   },
+   {
+    "difference": -1.0,
+    "first_points": 9.0,
+    "first_value": 45.0,
+    "key": "capacity",
+    "label": "Certified capacity",
+    "second_points": 10.0,
+    "second_value": 49.86,
+    "unit": "pints/day",
+    "weight_pct": 10.0
+   },
+   {
+    "difference": 0.0,
+    "first_points": 0.0,
+    "first_value": 403.0,
+    "key": "cost5",
+    "label": "5-year electricity cost",
+    "second_points": 0.0,
+    "second_value": 458.0,
+    "unit": "USD",
+    "weight_pct": 0.0
+   }
+  ],
+  "deciding": {
+   "computed": false,
+   "first_value": 2.24,
+   "key": "ief",
+   "label": "Integrated Energy Factor",
+   "retrieved": "2026-11-01",
+   "second_value": 2.2,
+   "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z"
+  },
+  "first": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
+  "first_score": 99.0,
+  "flip": {
+   "key": "capacity",
+   "label": "Certified capacity",
+   "needed_pct": 15.5,
+   "now_pct": 10.0
+  },
+  "headline_leader": null,
+  "margin": 0.6,
+  "second": "ZAFRO D026W-50Pt3M",
+  "second_score": 98.4,
+  "ties": [
+   {
+    "names": [
+     "MegaLight PD-HPC750-WT",
+     "Waykar CTH150B"
+    ],
+    "rank": "=3",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "score": 98.3
+   },
+   {
+    "names": [
+     "Aeocky LEO-RCS32(Y)-N4-3",
+     "Aeocky RHEA-RCS32(Y)-N4-3",
+     "Vellgoo TAURUS-RCS32(Y)-N4-3"
+    ],
+    "rank": "=11",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "score": 90.4
+   }
+  ]
+ }
 }
