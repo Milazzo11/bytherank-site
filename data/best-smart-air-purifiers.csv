@@ -1,0 +1,12 @@
+rank,product,brand,score,Smoke CADR (cfm),5-year electricity cost (USD),spec_source
+1,Soleusair GA1-W,Soleusair,86.8,523.0,420.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4046703, retrieved 2026-11-01"
+2,Coway Airmega 450S,Coway,78.8,443.0,362.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4005914, retrieved 2026-11-01"
+3,IQAir ATEM E,IQAir,75.7,369.0,268.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4016351, retrieved 2026-11-01"
+4,HealthWay MAX500,HealthWay,73.4,413.0,390.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4701214, retrieved 2026-11-01"
+5,Intellipure MAX500,Intellipure,73.4,413.0,390.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4701234, retrieved 2026-11-01"
+6,LEVOIT LAP-C601S-WUS,LEVOIT,72.4,391.0,351.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020853, retrieved 2026-11-01"
+7,Midea CAF-Z85US (W),Midea,71.8,312.0,235.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439569, retrieved 2026-11-01"
+8,Toshiba CAF-Z85US (W),Toshiba,71.8,312.0,235.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439570, retrieved 2026-11-01"
+9,Midea KJ600G-RX600A,Midea,71.7,366.0,310.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439585, retrieved 2026-11-01"
+10,PURECODE PAR001,PURECODE,71.7,366.0,310.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439586, retrieved 2026-11-01"
+11,Sharp KJ600F-LM1-SH,Sharp,71.7,366.0,310.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4687074, retrieved 2026-11-01"

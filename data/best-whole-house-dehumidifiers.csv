@@ -1,0 +1,11 @@
+rank,product,brand,score,Certified capacity (pints/day),Integrated Energy Factor (L/kWh),5-year electricity cost (USD),spec_source
+1,Santa Fe Ultra V205 (4046180),Santa Fe,97.6,172.13,3.12,1079.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4006002, retrieved 2026-11-01"
+2,Santa Fe Ultra V155 (4047300),Santa Fe,88.3,127.51,3.26,765.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4429193, retrieved 2026-11-01"
+3,Santa Fe Ultra V125 (4047200),Santa Fe,71.2,102.69,2.63,513.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510405, retrieved 2026-11-01"
+4,Aprilaire E130,Aprilaire,67.1,105.0,2.35,841.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510068, retrieved 2026-11-01"
+5,Healthy Climate HCWHD#-130,Healthy Climate,67.1,105.0,2.35,2550.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594994, retrieved 2026-11-01"
+6,Santa Fe Ultra V100 (4047100),Santa Fe,63.7,85.62,2.45,380.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510404, retrieved 2026-11-01"
+7,Honeywell Home DHM120R4000/U,Honeywell Home,62.1,94.33,2.22,505.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4576905, retrieved 2026-11-01"
+8,Aprilaire E100,Aprilaire,61.9,85.0,2.35,745.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510067, retrieved 2026-11-01"
+9,CARRIER CORPORATION DEHXXCDA1100,CARRIER CORPORATION,61.9,85.0,2.35,2171.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594974, retrieved 2026-11-01"
+10,Healthy Climate HCWHD#-100,Healthy Climate,61.9,85.0,2.35,2171.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594954, retrieved 2026-11-01"

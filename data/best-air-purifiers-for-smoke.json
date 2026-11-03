@@ -1,0 +1,162 @@
+{
+ "criteria": [
+  {
+   "direction": "higher",
+   "key": "smoke_cadr",
+   "label": "Smoke CADR",
+   "unit": "cfm",
+   "weight": 0.7
+  },
+  {
+   "direction": "lower",
+   "formula": "certified kWh per year x EIA U.S. average residential price x 5",
+   "key": "cost5",
+   "label": "5-year electricity cost",
+   "unit": "USD",
+   "weight": 0.3
+  }
+ ],
+ "items": [
+  {
+   "brand": "Coway",
+   "id": "coway-airmega-prox",
+   "name": "Coway Airmega ProX",
+   "rank": 1,
+   "score": 91.0,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4015877, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 304.0,
+    "smoke_cadr": 577.0
+   }
+  },
+  {
+   "brand": "CUCKOO",
+   "id": "cuckoo-cac-f3010fw",
+   "name": "CUCKOO CAC-F3010FW",
+   "rank": 2,
+   "score": 84.3,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4517930, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 369.0,
+    "smoke_cadr": 552.0
+   }
+  },
+  {
+   "brand": "Coway",
+   "id": "coway-ap-3018b",
+   "name": "Coway AP-3018B",
+   "rank": 3,
+   "score": 80.1,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481456, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 213.0,
+    "smoke_cadr": 413.0
+   }
+  },
+  {
+   "brand": "Soleusair",
+   "id": "soleusair-ga1-w",
+   "name": "Soleusair GA1-W",
+   "rank": 4,
+   "score": 78.7,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4046703, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 420.0,
+    "smoke_cadr": 523.0
+   }
+  },
+  {
+   "brand": "Fellowes",
+   "id": "fellowes-aeramax-sv",
+   "name": "Fellowes Aeramax SV",
+   "rank": 5,
+   "score": 77.2,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4587264, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 445.0,
+    "smoke_cadr": 518.0
+   }
+  },
+  {
+   "brand": "CUCKOO",
+   "id": "cuckoo-cac-ah2810fnw",
+   "name": "CUCKOO CAC-AH2810FNW",
+   "rank": 6,
+   "score": 73.4,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4528788, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 352.0,
+    "smoke_cadr": 455.0
+   }
+  },
+  {
+   "brand": "Coway",
+   "id": "coway-airmega-450",
+   "name": "Coway Airmega 450",
+   "rank": 7,
+   "score": 71.8,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4005917, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 353.0,
+    "smoke_cadr": 443.0
+   }
+  },
+  {
+   "brand": "Coway",
+   "id": "coway-airmega-450s",
+   "name": "Coway Airmega 450S",
+   "rank": 8,
+   "score": 71.4,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4005914, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 362.0,
+    "smoke_cadr": 443.0
+   }
+  },
+  {
+   "brand": "HealthWay",
+   "id": "healthway-max500",
+   "name": "HealthWay MAX500",
+   "rank": 9,
+   "score": 66.5,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4701214, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 390.0,
+    "smoke_cadr": 413.0
+   }
+  },
+  {
+   "brand": "Intellipure",
+   "id": "intellipure-max500",
+   "name": "Intellipure MAX500",
+   "rank": 10,
+   "score": 66.5,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4701234, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 390.0,
+    "smoke_cadr": 413.0
+   }
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "method": "We compared the 10 zero-ozone ENERGY STAR certified air purifiers with the highest certified smoke CADR. Smoke CADR carries most of the weight; the rest goes to the five-year electricity cost, computed from the certified yearly energy use and the current EIA U.S. average residential price. Rated room size is left out of the score because ENERGY STAR derives it from smoke CADR.",
+ "name": "Best air purifiers for smoke, ranked by certified smoke CADR",
+ "next_refresh": "2026-12-01",
+ "publisher": "ByTheRank",
+ "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
+ "selection": {
+  "best": 577.0,
+  "cut": 413.0,
+  "label": "Smoke CADR",
+  "listed": 10,
+  "pool": 164,
+  "tied_beyond_cut": 0,
+  "unit": "cfm"
+ },
+ "sources": [
+  "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
+  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+ ],
+ "updated": "2026-11-01",
+ "url": "https://bytherank.com/best-air-purifiers-for-smoke/"
+}

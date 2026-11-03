@@ -1,0 +1,210 @@
+{
+ "criteria": [
+  {
+   "direction": "higher",
+   "key": "smoke_cadr",
+   "label": "Smoke CADR",
+   "unit": "cfm",
+   "weight": 0.55
+  },
+  {
+   "direction": "lower",
+   "formula": "certified kWh per year x EIA U.S. average residential price x 5",
+   "key": "cost5",
+   "label": "5-year electricity cost",
+   "unit": "USD",
+   "weight": 0.45
+  }
+ ],
+ "items": [
+  {
+   "brand": "Bosch",
+   "id": "bosch-air-4000",
+   "name": "Bosch Air 4000",
+   "rank": 1,
+   "score": 98.3,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4471345, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 113.0,
+    "smoke_cadr": 156.0
+   }
+  },
+  {
+   "brand": "Greenlite",
+   "id": "greenlite-g-pure1-22w",
+   "name": "Greenlite G-Pure1-22W",
+   "rank": 2,
+   "score": 97.4,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4672534, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 117.0,
+    "smoke_cadr": 158.0
+   }
+  },
+  {
+   "brand": "Midea",
+   "id": "midea-kj250g-z43",
+   "name": "Midea KJ250G-Z43",
+   "rank": 3,
+   "score": 96.2,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439574, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 114.0,
+    "smoke_cadr": 151.0
+   }
+  },
+  {
+   "brand": "PELONIS",
+   "id": "pelonis-kj250g-z43",
+   "name": "PELONIS KJ250G-Z43",
+   "rank": 4,
+   "score": 96.2,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439575, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 114.0,
+    "smoke_cadr": 151.0
+   }
+  },
+  {
+   "brand": "PURE CODE",
+   "id": "pure-code-apu-z43wus",
+   "name": "PURE CODE APU-Z43WUS",
+   "rank": 5,
+   "score": 96.2,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439576, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 114.0,
+    "smoke_cadr": 151.0
+   }
+  },
+  {
+   "brand": "CUCKOO",
+   "id": "cuckoo-cac-ab0610fi",
+   "name": "CUCKOO CAC-AB0610FI",
+   "rank": 6,
+   "score": 95.5,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439566, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 114.0,
+    "smoke_cadr": 149.0
+   }
+  },
+  {
+   "brand": "Greenlite",
+   "id": "greenlite-g-pure-22w",
+   "name": "Greenlite G-Pure-22W",
+   "rank": 7,
+   "score": 95.5,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4514275, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 114.0,
+    "smoke_cadr": 149.0
+   }
+  },
+  {
+   "brand": "ISINLIVE",
+   "id": "isinlive-vortex-v2",
+   "name": "ISINLIVE vortex V2",
+   "rank": 8,
+   "score": 95.5,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439565, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 114.0,
+    "smoke_cadr": 149.0
+   }
+  },
+  {
+   "brand": "Midea",
+   "id": "midea-793k18a",
+   "name": "Midea 793K18A",
+   "rank": 9,
+   "score": 95.5,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439567, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 114.0,
+    "smoke_cadr": 149.0
+   }
+  },
+  {
+   "brand": "Senville",
+   "id": "senville-senap-250g-z41",
+   "name": "Senville SENAP-250G-Z41",
+   "rank": 10,
+   "score": 95.5,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439568, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 114.0,
+    "smoke_cadr": 149.0
+   }
+  },
+  {
+   "brand": "LEVOIT",
+   "id": "levoit-lap-c341s-wusz",
+   "name": "LEVOIT LAP-C341S-WUSZ",
+   "rank": 11,
+   "score": 93.5,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4614674, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 132.0,
+    "smoke_cadr": 161.0
+   }
+  },
+  {
+   "brand": "Alen",
+   "id": "alen-breathesmart-35i",
+   "name": "Alen BreatheSmart 35i",
+   "rank": 12,
+   "score": 92.6,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481445, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 123.0,
+    "smoke_cadr": 150.0
+   }
+  },
+  {
+   "brand": "Dreo",
+   "id": "dreo-dr-hap005as",
+   "name": "Dreo DR-HAP005AS",
+   "rank": 13,
+   "score": 90.2,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4670514, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 133.0,
+    "smoke_cadr": 152.0
+   }
+  },
+  {
+   "brand": "Dreo",
+   "id": "dreo-dr-hap009",
+   "name": "Dreo DR-HAP009",
+   "rank": 14,
+   "score": 88.6,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586495, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 147.0,
+    "smoke_cadr": 158.0
+   }
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "method": "We kept zero-ozone ENERGY STAR air purifiers certified for rooms of 250 sq ft or less and compared those with the highest smoke CADR, weighing smoke CADR and the five-year electricity cost (certified yearly energy use x current EIA U.S. average residential price x 5). Every model tied with the last one on the selection criterion is listed, so the cut never picks among equals.",
+ "name": "Best air purifiers for small rooms (up to 250 sq ft), ranked by certified data",
+ "next_refresh": "2026-12-01",
+ "publisher": "ByTheRank",
+ "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
+ "selection": {
+  "best": 161.0,
+  "cut": 149.0,
+  "label": "Smoke CADR",
+  "listed": 14,
+  "pool": 88,
+  "tied_beyond_cut": 0,
+  "unit": "cfm"
+ },
+ "sources": [
+  "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
+  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+ ],
+ "updated": "2026-11-01",
+ "url": "https://bytherank.com/best-air-purifiers-for-small-rooms/"
+}

@@ -1,0 +1,11 @@
+rank,product,brand,score,Smoke CADR per watt (cfm/W),Smoke CADR (cfm),5-year electricity cost (USD),spec_source
+1,Rainbow Luggable XL Ultra,Rainbow,79.4,23.96,333.0,74.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020923, retrieved 2026-11-01"
+2,Rainbow Luggable XXL,Rainbow,79.0,23.91,306.0,68.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020924, retrieved 2026-11-01"
+3,Rainbow Brisk Box Ultra,Rainbow,77.9,23.27,370.0,85.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4518178, retrieved 2026-11-01"
+4,Rainbow Luggable Ultra,Rainbow,69.0,21.59,231.0,84.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4518200, retrieved 2026-11-01"
+5,Rainbow Exhalaron Ultra Tri,Rainbow,58.8,15.86,111.0,38.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020922, retrieved 2026-11-01"
+6,Coway Airmega ProX,Coway,47.7,10.3,577.0,304.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4015877, retrieved 2026-11-01"
+7,DREAME CVA10B,DREAME,46.9,10.0,54.0,29.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4662914, retrieved 2026-11-01"
+8,MoreLite MLRAP-2000W,MoreLite,44.2,10.32,64.0,36.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4429394, retrieved 2026-11-01"
+9,Coway AP-3018B,Coway,42.9,10.33,413.0,213.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481456, retrieved 2026-11-01"
+10,LEVOIT LAP-C511S-WUS,LEVOIT,36.9,9.26,301.0,176.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4682774, retrieved 2026-11-01"

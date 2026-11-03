@@ -1,0 +1,174 @@
+{
+ "criteria": [
+  {
+   "direction": "higher",
+   "key": "smoke_cadr",
+   "label": "Smoke CADR",
+   "unit": "cfm",
+   "weight": 0.7
+  },
+  {
+   "direction": "lower",
+   "formula": "certified kWh per year x EIA U.S. average residential price x 5",
+   "key": "cost5",
+   "label": "5-year electricity cost",
+   "unit": "USD",
+   "weight": 0.3
+  }
+ ],
+ "items": [
+  {
+   "brand": "Soleusair",
+   "id": "soleusair-ga1-w",
+   "name": "Soleusair GA1-W",
+   "rank": 1,
+   "score": 86.8,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4046703, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 420.0,
+    "smoke_cadr": 523.0
+   }
+  },
+  {
+   "brand": "Coway",
+   "id": "coway-airmega-450s",
+   "name": "Coway Airmega 450S",
+   "rank": 2,
+   "score": 78.8,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4005914, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 362.0,
+    "smoke_cadr": 443.0
+   }
+  },
+  {
+   "brand": "IQAir",
+   "id": "iqair-atem-e",
+   "name": "IQAir ATEM E",
+   "rank": 3,
+   "score": 75.7,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4016351, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 268.0,
+    "smoke_cadr": 369.0
+   }
+  },
+  {
+   "brand": "HealthWay",
+   "id": "healthway-max500",
+   "name": "HealthWay MAX500",
+   "rank": 4,
+   "score": 73.4,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4701214, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 390.0,
+    "smoke_cadr": 413.0
+   }
+  },
+  {
+   "brand": "Intellipure",
+   "id": "intellipure-max500",
+   "name": "Intellipure MAX500",
+   "rank": 5,
+   "score": 73.4,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4701234, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 390.0,
+    "smoke_cadr": 413.0
+   }
+  },
+  {
+   "brand": "LEVOIT",
+   "id": "levoit-lap-c601s-wus",
+   "name": "LEVOIT LAP-C601S-WUS",
+   "rank": 6,
+   "score": 72.4,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020853, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 351.0,
+    "smoke_cadr": 391.0
+   }
+  },
+  {
+   "brand": "Midea",
+   "id": "midea-caf-z85us-w",
+   "name": "Midea CAF-Z85US (W)",
+   "rank": 7,
+   "score": 71.8,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439569, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 235.0,
+    "smoke_cadr": 312.0
+   }
+  },
+  {
+   "brand": "Toshiba",
+   "id": "toshiba-caf-z85us-w",
+   "name": "Toshiba CAF-Z85US (W)",
+   "rank": 8,
+   "score": 71.8,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439570, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 235.0,
+    "smoke_cadr": 312.0
+   }
+  },
+  {
+   "brand": "Midea",
+   "id": "midea-kj600g-rx600a",
+   "name": "Midea KJ600G-RX600A",
+   "rank": 9,
+   "score": 71.7,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439585, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 310.0,
+    "smoke_cadr": 366.0
+   }
+  },
+  {
+   "brand": "PURECODE",
+   "id": "purecode-par001",
+   "name": "PURECODE PAR001",
+   "rank": 10,
+   "score": 71.7,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439586, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 310.0,
+    "smoke_cadr": 366.0
+   }
+  },
+  {
+   "brand": "Sharp",
+   "id": "sharp-kj600f-lm1-sh",
+   "name": "Sharp KJ600F-LM1-SH",
+   "rank": 11,
+   "score": 71.7,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4687074, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 310.0,
+    "smoke_cadr": 366.0
+   }
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "method": "We kept zero-ozone ENERGY STAR air purifiers certified as connected-capable (network control) and compared those with the highest smoke CADR, weighing smoke CADR and the five-year electricity cost (certified yearly energy use x current EIA U.S. average residential price x 5). Every model tied with the last one on the selection criterion is listed, so the cut never picks among equals.",
+ "name": "Best smart Wi-Fi air purifiers, ranked by certified data",
+ "next_refresh": "2026-12-01",
+ "publisher": "ByTheRank",
+ "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
+ "selection": {
+  "best": 523.0,
+  "cut": 312.0,
+  "label": "Smoke CADR",
+  "listed": 11,
+  "pool": 39,
+  "tied_beyond_cut": 0,
+  "unit": "cfm"
+ },
+ "sources": [
+  "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
+  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+ ],
+ "updated": "2026-11-01",
+ "url": "https://bytherank.com/best-smart-air-purifiers/"
+}

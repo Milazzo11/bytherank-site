@@ -1,0 +1,12 @@
+rank,product,brand,score,5-year electricity cost (USD),Rated room size (sq ft),spec_source
+1,Rainbow Luggable XL Ultra,Rainbow,83.1,74.0,516.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020923, retrieved 2026-11-01"
+2,Rainbow Brisk Box Ultra,Rainbow,77.9,85.0,574.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4518178, retrieved 2026-11-01"
+3,Coway Airmega ProX,Coway,54.6,304.0,894.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4015877, retrieved 2026-11-01"
+4,Coway AP-3018B,Coway,49.5,213.0,640.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481456, retrieved 2026-11-01"
+5,Amazon Basics AP5110-UL,Amazon Basics,42.9,217.0,502.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481886, retrieved 2026-11-01"
+6,IQAir ATEM E,IQAir,42.2,268.0,572.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4016351, retrieved 2026-11-01"
+7,CUCKOO CAC-D2020FW,CUCKOO,42.0,287.0,592.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4517931, retrieved 2026-11-01"
+8,Bosch Air 6000,Bosch,40.4,262.0,525.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4471344, retrieved 2026-11-01"
+9,Midea KJ600G-RX600A,Midea,39.7,310.0,567.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439585, retrieved 2026-11-01"
+10,PURECODE PAR001,PURECODE,39.7,310.0,567.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439586, retrieved 2026-11-01"
+11,Sharp KJ600F-LM1-SH,Sharp,39.7,310.0,567.0,"ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4687074, retrieved 2026-11-01"

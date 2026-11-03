@@ -1,0 +1,166 @@
+{
+ "criteria": [
+  {
+   "direction": "higher",
+   "key": "ief",
+   "label": "Integrated Energy Factor",
+   "unit": "L/kWh",
+   "weight": 0.6
+  },
+  {
+   "direction": "higher",
+   "key": "capacity",
+   "label": "Certified capacity",
+   "unit": "pints/day",
+   "weight": 0.4
+  },
+  {
+   "direction": "lower",
+   "formula": "certified kWh per year x EIA U.S. average residential price x 5",
+   "key": "cost5",
+   "label": "5-year electricity cost",
+   "unit": "USD",
+   "weight": 0
+  }
+ ],
+ "items": [
+  {
+   "brand": "Arecovas",
+   "id": "arecovas-ar-df005",
+   "name": "Arecovas AR-DF005",
+   "rank": 1,
+   "score": 98.6,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4586595, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 32.0,
+    "cost5": 307.0,
+    "ief": 2.15
+   }
+  },
+  {
+   "brand": "GARVEE",
+   "id": "garvee-sayram-rcs32-y-n4-3",
+   "name": "GARVEE SAYRAM-RCS32(Y)-N4-3",
+   "rank": 2,
+   "score": 98.3,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4614594, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 33.13,
+    "cost5": 311.0,
+    "ief": 2.09
+   }
+  },
+  {
+   "brand": "Deciuu",
+   "id": "deciuu-libra-rcs32-y-n4-3",
+   "name": "Deciuu LIBRA-RCS32(Y)-N4-3",
+   "rank": 3,
+   "score": 98.1,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4015854, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 32.0,
+    "cost5": 303.0,
+    "ief": 2.13
+   }
+  },
+  {
+   "brand": "Aeocky",
+   "id": "aeocky-leo-rcs32-y-n4-3",
+   "name": "Aeocky LEO-RCS32(Y)-N4-3",
+   "rank": 4,
+   "score": 97.0,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4481293, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 32.0,
+    "cost5": 305.0,
+    "ief": 2.09
+   }
+  },
+  {
+   "brand": "Aeocky",
+   "id": "aeocky-rhea-rcs32-y-n4-3",
+   "name": "Aeocky RHEA-RCS32(Y)-N4-3",
+   "rank": 5,
+   "score": 97.0,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3994316, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 32.0,
+    "cost5": 308.0,
+    "ief": 2.09
+   }
+  },
+  {
+   "brand": "Vellgoo",
+   "id": "vellgoo-taurus-rcs32-y-n4-3",
+   "name": "Vellgoo TAURUS-RCS32(Y)-N4-3",
+   "rank": 6,
+   "score": 97.0,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3629581, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 32.0,
+    "cost5": 304.0,
+    "ief": 2.09
+   }
+  },
+  {
+   "brand": "Deciuu",
+   "id": "deciuu-libra-rcs32-y-n4-3-libra-rcs32-y-n4-3-b",
+   "name": "Deciuu LIBRA-RCS32(Y)-N4-3 [LIBRA-RCS32(Y)-N4-3(B)]",
+   "rank": 7,
+   "score": 96.4,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3994319, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 32.0,
+    "cost5": 302.0,
+    "ief": 2.07
+   }
+  },
+  {
+   "brand": "AeroNova",
+   "id": "aeronova-adc018",
+   "name": "AeroNova ADC018",
+   "rank": 8,
+   "score": 86.8,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572924, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 24.5,
+    "cost5": 233.0,
+    "ief": 2.05
+   }
+  },
+  {
+   "brand": "Avylo",
+   "id": "avylo-adc018",
+   "name": "Avylo ADC018",
+   "rank": 9,
+   "score": 86.8,
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572840, retrieved 2026-11-01",
+   "specs": {
+    "capacity": 24.5,
+    "cost5": 233.0,
+    "ief": 2.05
+   }
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "method": "We took portable ENERGY STAR dehumidifiers certified at up to 35 pints per day and compared the most efficient by IEF, scoring IEF and capacity. The five-year electricity cost is shown for each (certified yearly energy use x current EIA U.S. average residential price x 5). The list stops above a tie for the last place rather than picking among tied models.",
+ "name": "Best small dehumidifiers (up to 35 pints a day), ranked by certified data",
+ "next_refresh": "2026-12-01",
+ "publisher": "ByTheRank",
+ "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
+ "selection": {
+  "best": 2.15,
+  "cut": 2.05,
+  "label": "Integrated Energy Factor",
+  "listed": 9,
+  "pool": 206,
+  "tied_beyond_cut": 0,
+  "unit": "L/kWh"
+ },
+ "sources": [
+  "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z",
+  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+ ],
+ "updated": "2026-11-01",
+ "url": "https://bytherank.com/best-small-dehumidifiers/"
+}

@@ -1,0 +1,174 @@
+{
+ "criteria": [
+  {
+   "direction": "lower",
+   "formula": "certified kWh per year x EIA U.S. average residential price x 5",
+   "key": "cost5",
+   "label": "5-year electricity cost",
+   "unit": "USD",
+   "weight": 0.6
+  },
+  {
+   "direction": "higher",
+   "key": "room",
+   "label": "Rated room size",
+   "unit": "sq ft",
+   "weight": 0.4
+  }
+ ],
+ "items": [
+  {
+   "brand": "Rainbow",
+   "id": "rainbow-luggable-xl-ultra",
+   "name": "Rainbow Luggable XL Ultra",
+   "rank": 1,
+   "score": 83.1,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020923, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 74.0,
+    "room": 516.0
+   }
+  },
+  {
+   "brand": "Rainbow",
+   "id": "rainbow-brisk-box-ultra",
+   "name": "Rainbow Brisk Box Ultra",
+   "rank": 2,
+   "score": 77.9,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4518178, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 85.0,
+    "room": 574.0
+   }
+  },
+  {
+   "brand": "Coway",
+   "id": "coway-airmega-prox",
+   "name": "Coway Airmega ProX",
+   "rank": 3,
+   "score": 54.6,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4015877, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 304.0,
+    "room": 894.0
+   }
+  },
+  {
+   "brand": "Coway",
+   "id": "coway-ap-3018b",
+   "name": "Coway AP-3018B",
+   "rank": 4,
+   "score": 49.5,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481456, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 213.0,
+    "room": 640.0
+   }
+  },
+  {
+   "brand": "Amazon Basics",
+   "id": "amazon-basics-ap5110-ul",
+   "name": "Amazon Basics AP5110-UL",
+   "rank": 5,
+   "score": 42.9,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481886, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 217.0,
+    "room": 502.0
+   }
+  },
+  {
+   "brand": "IQAir",
+   "id": "iqair-atem-e",
+   "name": "IQAir ATEM E",
+   "rank": 6,
+   "score": 42.2,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4016351, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 268.0,
+    "room": 572.0
+   }
+  },
+  {
+   "brand": "CUCKOO",
+   "id": "cuckoo-cac-d2020fw",
+   "name": "CUCKOO CAC-D2020FW",
+   "rank": 7,
+   "score": 42.0,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4517931, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 287.0,
+    "room": 592.0
+   }
+  },
+  {
+   "brand": "Bosch",
+   "id": "bosch-air-6000",
+   "name": "Bosch Air 6000",
+   "rank": 8,
+   "score": 40.4,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4471344, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 262.0,
+    "room": 525.0
+   }
+  },
+  {
+   "brand": "Midea",
+   "id": "midea-kj600g-rx600a",
+   "name": "Midea KJ600G-RX600A",
+   "rank": 9,
+   "score": 39.7,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439585, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 310.0,
+    "room": 567.0
+   }
+  },
+  {
+   "brand": "PURECODE",
+   "id": "purecode-par001",
+   "name": "PURECODE PAR001",
+   "rank": 10,
+   "score": 39.7,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439586, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 310.0,
+    "room": 567.0
+   }
+  },
+  {
+   "brand": "Sharp",
+   "id": "sharp-kj600f-lm1-sh",
+   "name": "Sharp KJ600F-LM1-SH",
+   "rank": 11,
+   "score": 39.7,
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4687074, retrieved 2026-11-01",
+   "specs": {
+    "cost5": 310.0,
+    "room": 567.0
+   }
+  }
+ ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "method": "We kept zero-ozone ENERGY STAR air purifiers certified for rooms of 500 sq ft or more and took those with the lowest five-year electricity cost (certified yearly energy use x current EIA U.S. average residential price x 5). Running cost carries most of the weight, rated room size the rest. Every model tied with the last one on the selection criterion is listed, so the cut never picks among equals.",
+ "name": "Air purifiers for large rooms that cost the least to run, ranked by certified data",
+ "next_refresh": "2026-12-01",
+ "publisher": "ByTheRank",
+ "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
+ "selection": {
+  "best": 74.0,
+  "cut": 310.0,
+  "label": "5-year electricity cost",
+  "listed": 11,
+  "pool": 27,
+  "tied_beyond_cut": 0,
+  "unit": "USD"
+ },
+ "sources": [
+  "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
+  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+ ],
+ "updated": "2026-11-01",
+ "url": "https://bytherank.com/best-air-purifiers-for-large-rooms/"
+}

@@ -1,0 +1,10 @@
+rank,product,brand,score,Integrated Energy Factor (L/kWh),Certified capacity (pints/day),5-year electricity cost (USD),spec_source
+1,Arecovas AR-DF005,Arecovas,98.6,2.15,32.0,307.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4586595, retrieved 2026-11-01"
+2,GARVEE SAYRAM-RCS32(Y)-N4-3,GARVEE,98.3,2.09,33.13,311.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4614594, retrieved 2026-11-01"
+3,Deciuu LIBRA-RCS32(Y)-N4-3,Deciuu,98.1,2.13,32.0,303.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4015854, retrieved 2026-11-01"
+4,Aeocky LEO-RCS32(Y)-N4-3,Aeocky,97.0,2.09,32.0,305.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4481293, retrieved 2026-11-01"
+5,Aeocky RHEA-RCS32(Y)-N4-3,Aeocky,97.0,2.09,32.0,308.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3994316, retrieved 2026-11-01"
+6,Vellgoo TAURUS-RCS32(Y)-N4-3,Vellgoo,97.0,2.09,32.0,304.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3629581, retrieved 2026-11-01"
+7,Deciuu LIBRA-RCS32(Y)-N4-3 [LIBRA-RCS32(Y)-N4-3(B)],Deciuu,96.4,2.07,32.0,302.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3994319, retrieved 2026-11-01"
+8,AeroNova ADC018,AeroNova,86.8,2.05,24.5,233.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572924, retrieved 2026-11-01"
+9,Avylo ADC018,Avylo,86.8,2.05,24.5,233.0,"ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572840, retrieved 2026-11-01"
