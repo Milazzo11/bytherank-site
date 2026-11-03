@@ -1,0 +1,5930 @@
+{
+ "dataset": "energystar-dehumidifiers",
+ "key_fields": [
+  "annual_energy_consumption_kwh_yr",
+  "connected_capable",
+  "connected_features",
+  "connects_using",
+  "dehumidifier_efficiency_integrated_energy_factor_l_kwh_",
+  "dehumidifier_type",
+  "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+  "meets_most_efficient_criteria",
+  "refrigerant_charge_oz",
+  "refrigerant_type",
+  "whole_home_dehumidifier_case_volume_ft3"
+ ],
+ "retrieved": "2026-11-01",
+ "sets": [
+  {
+   "brand_roots": [
+    "CONCETTA",
+    "DR",
+    "DUMOS",
+    "EDX",
+    "GIANNA",
+    "HUMILABS",
+    "IULULU",
+    "JIOABL",
+    "KINETHEME",
+    "KMFURNILA",
+    "MANASTIN",
+    "NEPSAM",
+    "NEWBULIG",
+    "OLIXIS",
+    "PATIOSUNNY",
+    "SMUG",
+    "SUMELL",
+    "SWEETCRISPY",
+    "TEHANLD",
+    "URBANSYNC",
+    "ZUNMOS"
+   ],
+   "brands": [
+    "CONCETTA",
+    "DUMOS",
+    "Dr. Prepare",
+    "Gianna",
+    "HUMILABS",
+    "IULULU",
+    "JIOABL",
+    "KMFurnila",
+    "Kinetheme",
+    "MANASTIN",
+    "NEWBULIG",
+    "Nepsam",
+    "OLIXIS",
+    "Patiosunny",
+    "SMUG",
+    "SUMELL",
+    "Sweetcrispy",
+    "TEHANLD",
+    "UrbanSync",
+    "ZUNMOS",
+    "edx"
+   ],
+   "id": "cs-6599a7de19",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "181",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.89",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "2.5",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4576690",
+    "4576691",
+    "4576692",
+    "4576693",
+    "4576694",
+    "4576695",
+    "4576696",
+    "4576697",
+    "4576698",
+    "4576699",
+    "4576700",
+    "4576701",
+    "4576702",
+    "4611874",
+    "4639175",
+    "4675014",
+    "4675015",
+    "4675016",
+    "4675017",
+    "4675018",
+    "4675019",
+    "4675020"
+   ],
+   "models": 10,
+   "partners": [
+    "FOCUS FURNITURE INTERNATIONAL INC",
+    "Humilabs LLC",
+    "RNG INTERNATIONAL, INC.",
+    "Zhejiang Hengjian Home Furnishing Co.,Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "CONCETTA",
+    "DR",
+    "DUMOS",
+    "EDX",
+    "GIANNA",
+    "IULULU",
+    "JIOABL",
+    "KEGIAN",
+    "KMFURNILA",
+    "MOUNTMAN",
+    "NEWBULIG",
+    "OLIXIS",
+    "SMUG",
+    "SUMELL",
+    "SWEETCRISPY",
+    "UTHFY",
+    "ZUNMOS"
+   ],
+   "brands": [
+    "CONCETTA",
+    "DUMOS",
+    "Dr. Prepare",
+    "Gianna",
+    "IULULU",
+    "JIOABL",
+    "KEGIAN",
+    "KMFurnila",
+    "Mountman",
+    "NEWBULIG",
+    "OLIXIS",
+    "SMUG",
+    "SUMELL",
+    "Sweetcrispy",
+    "Uthfy",
+    "ZUNMOS",
+    "edx"
+   ],
+   "id": "cs-a8b021843f",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "105",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.93",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "9.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "1.8",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4576678",
+    "4576679",
+    "4576680",
+    "4576681",
+    "4576682",
+    "4576683",
+    "4576684",
+    "4576685",
+    "4576686",
+    "4576687",
+    "4576688",
+    "4576689",
+    "4576920",
+    "4611894",
+    "4714834",
+    "4714835",
+    "4714836",
+    "4714837",
+    "4714838",
+    "4714839"
+   ],
+   "models": 8,
+   "partners": [
+    "Ningbo Heyu Trade Co., Ltd",
+    "RNG INTERNATIONAL, INC.",
+    "Zhejiang Hengjian Home Furnishing Co.,Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR",
+    "YOAU"
+   ],
+   "brands": [
+    "Waykar; KESNOS; YAUFEY; Fehom",
+    "Yoau, Shinco, UHOME",
+    "Yoau; Shinco; UHOME"
+   ],
+   "id": "cs-621d4e3d66",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "282",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.76",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4497605",
+    "4497606",
+    "4497607",
+    "4497608",
+    "4497609",
+    "4497610",
+    "4497611",
+    "4497612",
+    "4497613",
+    "4497614",
+    "4497615",
+    "4497616",
+    "4497617",
+    "4497618",
+    "4510153",
+    "4510154",
+    "4510155",
+    "4510156",
+    "4510157"
+   ],
+   "models": 19,
+   "partners": [
+    "HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "FRIDGEMASTER",
+    "HISENSE",
+    "NOMA",
+    "RONA"
+   ],
+   "brands": [
+    "Hisense",
+    "Noma",
+    "RONA",
+    "fridgemaster"
+   ],
+   "id": "cs-24e3abda2d",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "526",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.95",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4497031",
+    "4497032",
+    "4510201",
+    "4510202",
+    "4510203",
+    "4510323",
+    "4510324",
+    "4511301",
+    "4514017",
+    "4514575",
+    "4514576",
+    "4514577",
+    "4519596",
+    "4519597"
+   ],
+   "models": 14,
+   "partners": [
+    "Canadian Tire",
+    "Hisense (Guangdong) Air Conditioning Co. Ltd",
+    "RONA Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "BLACKDECKER",
+    "DANBY",
+    "FOR",
+    "MIDEA",
+    "OMNI",
+    "PELONIS",
+    "VISSANI"
+   ],
+   "brands": [
+    "BLACK+DECKER",
+    "Danby",
+    "For living",
+    "Midea",
+    "OMNI MAX",
+    "PELONIS",
+    "Vissani"
+   ],
+   "id": "cs-3afc1097d9",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "276",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.27",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4478488",
+    "4478489",
+    "4509978",
+    "4510112",
+    "4510219",
+    "4510308",
+    "4511188",
+    "4511238",
+    "4512766",
+    "4514016",
+    "4515939",
+    "4517375",
+    "4518589",
+    "4570006"
+   ],
+   "models": 14,
+   "partners": [
+    "Canadian Tire",
+    "Danby Products Inc.",
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
+    "Home Hardware Stores Limited",
+    "The Home Depot",
+    "W Appliance Company, LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AIRECOLER",
+    "MOISWELL"
+   ],
+   "brands": [
+    "Airecoler",
+    "MOISWELL"
+   ],
+   "id": "cs-900475ffaf",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "285",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.84",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.43",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4570161",
+    "4570162",
+    "4570163",
+    "4570164",
+    "4570165",
+    "4570166",
+    "4570167",
+    "4570168",
+    "4576724",
+    "4576725",
+    "4576726",
+    "4576727",
+    "4576728",
+    "4576729"
+   ],
+   "models": 14,
+   "partners": [
+    "INOFIASLEEP INC.",
+    "SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "FEHOM",
+    "KESNOS",
+    "PRIKOD",
+    "WAYKAR",
+    "YAUFEY"
+   ],
+   "brands": [
+    "Fehom",
+    "KESNOS",
+    "PRIKOD",
+    "Waykar",
+    "YAUFEY"
+   ],
+   "id": "cs-e3329bd564",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "290",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.79",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4481341",
+    "4481342",
+    "4481343",
+    "4481344",
+    "4662514",
+    "4662534",
+    "4662554",
+    "4662574",
+    "4662594",
+    "4662614",
+    "4662634",
+    "4662654",
+    "4662674",
+    "4662694"
+   ],
+   "models": 14,
+   "partners": [
+    "Shenzhen Huizhetonghao Consulting Management Co., Ltd",
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AMAZON",
+    "BROTHERS",
+    "COOLWORKS",
+    "DANBY",
+    "KEYSTONE",
+    "MIDEA",
+    "PELONIS",
+    "PERFECT",
+    "SEASONS"
+   ],
+   "brands": [
+    "Amazon Basics",
+    "Brothers",
+    "Coolworks",
+    "Danby",
+    "Keystone",
+    "Midea",
+    "PELONIS",
+    "Perfect aire",
+    "Seasons"
+   ],
+   "id": "cs-e65b6475f6",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "525",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.74",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437381",
+    "4497345",
+    "4497346",
+    "4510114",
+    "4511186",
+    "4511241",
+    "4512375",
+    "4512376",
+    "4512657",
+    "4513856",
+    "4513857",
+    "4515578",
+    "4586610",
+    "4586611"
+   ],
+   "models": 14,
+   "partners": [
+    "Almo Corporation",
+    "Amazon.com Services LLC",
+    "Chadwell Supply",
+    "Danby Products Inc.",
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
+    "HD Supply Facilities Maintenance",
+    "Hometech Smart Technology Ltd.",
+    "Perfect Aire, LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "CONCETTA",
+    "DUMOS",
+    "EDX",
+    "GIANNA",
+    "IULULU",
+    "JIOABL",
+    "KMFURNILA",
+    "NEWBULIG",
+    "OLIXIS",
+    "SMUG",
+    "SUMELL",
+    "SWEETCRISPY",
+    "ZUNMOS"
+   ],
+   "brands": [
+    "CONCETTA",
+    "DUMOS",
+    "Gianna",
+    "IULULU",
+    "JIOABL",
+    "KMFurnila",
+    "NEWBULIG",
+    "OLIXIS",
+    "SMUG",
+    "SUMELL",
+    "Sweetcrispy",
+    "ZUNMOS",
+    "edx"
+   ],
+   "id": "cs-ee5d97870b",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "257",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.04",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "25.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4576703",
+    "4576704",
+    "4576705",
+    "4576706",
+    "4576707",
+    "4576708",
+    "4576709",
+    "4576710",
+    "4576711",
+    "4576712",
+    "4576713",
+    "4576714",
+    "4576715"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhejiang Hengjian Home Furnishing Co.,Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "COMFORT",
+    "COOLWORKS",
+    "DANBY",
+    "KEYSTONE",
+    "MIDEA",
+    "OMNI",
+    "PERFECT",
+    "SEASONS",
+    "SENVILLE"
+   ],
+   "brands": [
+    "Comfort Aire",
+    "Coolworks",
+    "Danby",
+    "Keystone",
+    "Midea",
+    "OMNI MAX",
+    "Perfect aire",
+    "Seasons",
+    "Senville"
+   ],
+   "id": "cs-22bead9cc3",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "278",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.31",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4478486",
+    "4509997",
+    "4510113",
+    "4510204",
+    "4510299",
+    "4510309",
+    "4510310",
+    "4511189",
+    "4511204",
+    "4512373",
+    "4513859",
+    "4515577"
+   ],
+   "models": 12,
+   "partners": [
+    "Almo Corporation",
+    "Danby Products Inc.",
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
+    "HD Supply Facilities Maintenance",
+    "Heat Controller Inc.",
+    "Home Hardware Stores Limited",
+    "Hometech Smart Technology Ltd.",
+    "Perfect Aire, LLC",
+    "Senville Air Conditioners"
+   ]
+  },
+  {
+   "brand_roots": [
+    "BLACKDECKER",
+    "COMFORT",
+    "FOR",
+    "INSIGNIA",
+    "MIDEA",
+    "OMNI",
+    "PELONIS",
+    "VISSANI"
+   ],
+   "brands": [
+    "BLACK+DECKER",
+    "Comfort Aire",
+    "For living",
+    "Insignia",
+    "Midea",
+    "OMNI MAX",
+    "PELONIS",
+    "Vissani"
+   ],
+   "id": "cs-8504d8a136",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "383",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "36.39",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437364",
+    "4481029",
+    "4481030",
+    "4497028",
+    "4509994",
+    "4511239",
+    "4512615",
+    "4512765",
+    "4514015",
+    "4515938",
+    "4517374",
+    "4618014"
+   ],
+   "models": 12,
+   "partners": [
+    "Best Buy Purchasing, LLC",
+    "Canadian Tire",
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
+    "Heat Controller Inc.",
+    "Home Hardware Stores Limited",
+    "The Home Depot",
+    "W Appliance Company, LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "YOAU"
+   ],
+   "brands": [
+    "Yoau, Shinco, UHOME",
+    "Yoau; Shinco; UHOME"
+   ],
+   "id": "cs-c857bef928",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "475",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.02",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "50.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4497592",
+    "4497593",
+    "4497594",
+    "4497595",
+    "4497596",
+    "4497597",
+    "4497599",
+    "4497600",
+    "4497601",
+    "4497602",
+    "4497603",
+    "4497604"
+   ],
+   "models": 12,
+   "partners": [
+    "HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AEROID",
+    "AIRZENTTI"
+   ],
+   "brands": [
+    "Aeroid",
+    "Airzentti"
+   ],
+   "id": "cs-edcec00b70",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "285",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4654994",
+    "4655014",
+    "4655034",
+    "4655054",
+    "4687374",
+    "4687394",
+    "4687414",
+    "4687434",
+    "4687454",
+    "4687474",
+    "4687494",
+    "4687514"
+   ],
+   "models": 12,
+   "partners": [
+    "Fong Chow International (HK) Company Limited"
+   ]
+  },
+  {
+   "brand_roots": [
+    "BLACKDECKER",
+    "FOR",
+    "INSIGNIA",
+    "MIDEA",
+    "OMNI",
+    "VISSANI"
+   ],
+   "brands": [
+    "BLACK+DECKER",
+    "For living",
+    "Insignia",
+    "Midea",
+    "OMNI MAX",
+    "Vissani"
+   ],
+   "id": "cs-e85171a761",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "512",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.95",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437366",
+    "4481027",
+    "4481028",
+    "4497030",
+    "4509992",
+    "4509993",
+    "4512616",
+    "4512763",
+    "4515937",
+    "4518590",
+    "4570008"
+   ],
+   "models": 11,
+   "partners": [
+    "Best Buy Purchasing, LLC",
+    "Canadian Tire",
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
+    "Home Hardware Stores Limited",
+    "The Home Depot",
+    "W Appliance Company, LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AIRZENTTI",
+    "AVAHUM",
+    "MOISWELL"
+   ],
+   "brands": [
+    "AVAHUM",
+    "Airzentti",
+    "MOISWELL"
+   ],
+   "id": "cs-02188938f8",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "530",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.02",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.83",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "10.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4511313",
+    "4511314",
+    "4520244",
+    "4520245",
+    "4520476",
+    "4520477",
+    "4520478",
+    "4520479",
+    "4520480",
+    "4520481"
+   ],
+   "models": 10,
+   "partners": [
+    "Fong Chow International (HK) Company Limited",
+    "SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",
+    "Shenzhen Baili Technology Co., Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "HONEYWELL",
+    "TCL"
+   ],
+   "brands": [
+    "Honeywell",
+    "TCL"
+   ],
+   "id": "cs-10afb8d744",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "516",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.66",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3994427",
+    "3994428",
+    "3994429",
+    "3994430",
+    "4515177",
+    "4515178",
+    "4572935",
+    "4572936",
+    "4572937",
+    "4572938"
+   ],
+   "models": 10,
+   "partners": [
+    "JMA North America, LLC",
+    "TCL Delonghi Home Appliances (Zhongshan) Co Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR"
+   ],
+   "brands": [
+    "Waykar; KESNOS; YAUFEY; Fehom",
+    "waykar, KESNOS, YAUFEY, Fehom"
+   ],
+   "id": "cs-e3e1fab85e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "522",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.02",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "50.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4510158",
+    "4510159",
+    "4510160",
+    "4510161",
+    "4510162",
+    "4510163",
+    "4510164",
+    "4510165",
+    "4510166",
+    "4510167"
+   ],
+   "models": 10,
+   "partners": [
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "FEHOM",
+    "GRIDR",
+    "KESNOS",
+    "WAYKAR",
+    "YAUFEY"
+   ],
+   "brands": [
+    "Fehom",
+    "GRIDR",
+    "KESNOS",
+    "Waykar",
+    "YAUFEY"
+   ],
+   "id": "cs-1e57e8c4cc",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "507",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.47",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.3",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4012673",
+    "4439119",
+    "4439120",
+    "4439121",
+    "4439122",
+    "4439124",
+    "4439126",
+    "4439127"
+   ],
+   "models": 8,
+   "partners": [
+    "JHS INC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "FRIDGEMASTER",
+    "HISENSE",
+    "NOMA"
+   ],
+   "brands": [
+    "Hisense",
+    "Noma",
+    "fridgemaster"
+   ],
+   "id": "cs-805ba5910e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "363",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.32",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4510198",
+    "4510199",
+    "4510200",
+    "4510321",
+    "4512359",
+    "4512360",
+    "4514574",
+    "4519598"
+   ],
+   "models": 8,
+   "partners": [
+    "Canadian Tire",
+    "Hisense (Guangdong) Air Conditioning Co. Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "BLACKDECKER",
+    "FRIGIDAIRE",
+    "MIDEA",
+    "VISSANI"
+   ],
+   "brands": [
+    "BLACK+DECKER",
+    "Frigidaire",
+    "Midea",
+    "Vissani"
+   ],
+   "id": "cs-f07f711b27",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "520",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.95",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437365",
+    "4497024",
+    "4497025",
+    "4497029",
+    "4512764",
+    "4514014",
+    "4517373",
+    "4591181"
+   ],
+   "models": 8,
+   "partners": [
+    "Electrolux Consumer Products, Inc.",
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
+    "The Home Depot",
+    "W Appliance Company, LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "FEHOM",
+    "FOLANZY",
+    "JHS",
+    "KESNOS",
+    "SAHAUHY",
+    "WAYKAR",
+    "YAUFEY"
+   ],
+   "brands": [
+    "Fehom",
+    "Folanzy",
+    "JHS",
+    "KESNOS",
+    "SAHAUHY",
+    "Waykar",
+    "YAUFEY"
+   ],
+   "id": "cs-1dd1226659",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "299",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.93",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4005581",
+    "4005582",
+    "4005583",
+    "4005584",
+    "4005588",
+    "4005590",
+    "4005592"
+   ],
+   "models": 7,
+   "partners": [
+    "JHS INC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "FEHOM",
+    "FOLANZY",
+    "KESNOS",
+    "SAHAUHY",
+    "WAYKAR",
+    "YAUFEY"
+   ],
+   "brands": [
+    "Fehom",
+    "Folanzy",
+    "KESNOS",
+    "SAHAUHY",
+    "Waykar",
+    "YAUFEY"
+   ],
+   "id": "cs-49eef00771",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "375",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.78",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.3",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4439114",
+    "4439115",
+    "4439116",
+    "4439117",
+    "4439118",
+    "4439123",
+    "4439125"
+   ],
+   "models": 7,
+   "partners": [
+    "JHS INC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "SHINCO",
+    "WAYKAR"
+   ],
+   "brands": [
+    "Shinco",
+    "waykar, KESNOS, YAUFEY, Fehom"
+   ],
+   "id": "cs-57dca00912",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "137",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.89",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "12.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4514180",
+    "4518218",
+    "4518219",
+    "4518220",
+    "4518221",
+    "4518223",
+    "4518224"
+   ],
+   "models": 7,
+   "partners": [
+    "HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "YOAU"
+   ],
+   "brands": [
+    "Yoau; Shinco; UHOME"
+   ],
+   "id": "cs-a0681d3f4e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "340",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.02",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4497619",
+    "4497620",
+    "4497621",
+    "4497622",
+    "4497623",
+    "4497624",
+    "4497625"
+   ],
+   "models": 7,
+   "partners": [
+    "HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-c02e9567fc",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "515",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.67",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "7.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4439455",
+    "4509976",
+    "4509977",
+    "4511237",
+    "4512372",
+    "4698494",
+    "4698514"
+   ],
+   "models": 7,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "HOMELABS",
+    "HONEYWELL",
+    "TCL"
+   ],
+   "brands": [
+    "Honeywell",
+    "TCL",
+    "hOmeLabs"
+   ],
+   "id": "cs-2eba05c0e7",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "343",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "32.46",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3892973",
+    "3994433",
+    "3994434",
+    "4515175",
+    "4572941",
+    "4572942"
+   ],
+   "models": 6,
+   "partners": [
+    "Aterian Group, Inc.",
+    "JMA North America, LLC",
+    "TCL Delonghi Home Appliances (Zhongshan) Co Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "NEWAIR",
+    "TCL",
+    "WAYKAR",
+    "WHIRLPOOL"
+   ],
+   "brands": [
+    "Newair",
+    "TCL",
+    "Waykar",
+    "Whirlpool"
+   ],
+   "id": "cs-415e7020ba",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "343",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "32.46",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4000204",
+    "4005791",
+    "4499034",
+    "4591184",
+    "4591190",
+    "4615054"
+   ],
+   "models": 6,
+   "partners": [
+    "Almo Corporation",
+    "NewAir, LLC",
+    "TCL Delonghi Home Appliances (Zhongshan) Co Ltd",
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AIRECOLER",
+    "MOISWELL"
+   ],
+   "brands": [
+    "Airecoler",
+    "MOISWELL"
+   ],
+   "id": "cs-abd47e744f",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "530",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "50.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "10.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4621974",
+    "4621994",
+    "4622154",
+    "4622174",
+    "4622194",
+    "4653214"
+   ],
+   "models": 6,
+   "partners": [
+    "INOFIASLEEP INC.",
+    "SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "AUX",
+    "GARVEE",
+    "QUILO",
+    "WAYKAR"
+   ],
+   "brands": [
+    "AUX",
+    "GARVEE",
+    "Quilo",
+    "Waykar"
+   ],
+   "id": "cs-e86b0c0e3b",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "504",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.67",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4479626",
+    "4479627",
+    "4480889",
+    "4512772",
+    "4512773",
+    "4520709"
+   ],
+   "models": 6,
+   "partners": [
+    "AUX CLOUD COMMERCE(USA) INC",
+    "Garvee Innovation Inc.",
+    "JMA North America, LLC",
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MOISWELL"
+   ],
+   "brands": [
+    "MOISWELL"
+   ],
+   "id": "cs-eb406862c9",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "628",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.25",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "65.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "10.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "4.4"
+   },
+   "listings": [
+    "4616314",
+    "4616334",
+    "4616354",
+    "4616374",
+    "4616394",
+    "4616414"
+   ],
+   "models": 6,
+   "partners": [
+    "SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DURACOMFORT",
+    "NEWAIR",
+    "WAYKAR"
+   ],
+   "brands": [
+    "DuraComfort",
+    "Newair",
+    "Waykar"
+   ],
+   "id": "cs-8c8a0b1320",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "516",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.66",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4000203",
+    "4465040",
+    "4520359",
+    "4591188",
+    "4591189"
+   ],
+   "models": 5,
+   "partners": [
+    "NewAir, LLC",
+    "Shenzhen TCL Dura Electronic Technology Co., Ltd.",
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MEGALIGHT",
+    "TCL",
+    "WAYKAR",
+    "WHIRLPOOL"
+   ],
+   "brands": [
+    "MegaLight",
+    "TCL",
+    "Waykar",
+    "Whirlpool"
+   ],
+   "id": "cs-9b800c060b",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "283",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.85",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.84",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "3.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4005792",
+    "4499035",
+    "4572929",
+    "4591182",
+    "4615074"
+   ],
+   "models": 5,
+   "partners": [
+    "Almo Corporation",
+    "Megalight Inc.",
+    "TCL Delonghi Home Appliances (Zhongshan) Co Ltd",
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-ab6afec8d1",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "378",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.82",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "7.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4439454",
+    "4511187",
+    "4512370",
+    "4518591",
+    "4698474"
+   ],
+   "models": 5,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DOGHLY",
+    "DOLLARDASH",
+    "ERIVESS",
+    "STOPSAD",
+    "WINFIRE"
+   ],
+   "brands": [
+    "DOGHLY",
+    "DOLLARDASH",
+    "ERIVESS",
+    "STOPSAD",
+    "WINFIRE"
+   ],
+   "id": "cs-b9e04fadca",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "198",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.85",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "2.8",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4612254",
+    "4612274",
+    "4612294",
+    "4612314",
+    "4612334"
+   ],
+   "models": 1,
+   "partners": [
+    "Ningbo Yituo Enterprise Management Co., LTD"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR"
+   ],
+   "brands": [
+    "Waykar; KESNOS; YAUFEY; Fehom"
+   ],
+   "id": "cs-e1579282a9",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "382",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.02",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4510168",
+    "4510169",
+    "4510170",
+    "4510171",
+    "4510172"
+   ],
+   "models": 5,
+   "partners": [
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AEOCKY",
+    "BOGLVR",
+    "DECIUU",
+    "VELLGOO"
+   ],
+   "brands": [
+    "Aeocky",
+    "Deciuu",
+    "Vellgoo",
+    "boglvr"
+   ],
+   "id": "cs-34c813ec53",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "287",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.50",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4008610",
+    "4008611",
+    "4008612",
+    "4497482"
+   ],
+   "models": 4,
+   "partners": [
+    "Guangdong Invitop Technology Co., Ltd.",
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DURACOMFORT",
+    "GASBYE"
+   ],
+   "brands": [
+    "DuraComfort",
+    "Gasbye"
+   ],
+   "id": "cs-3603da9af2",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "525",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.70",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4520357",
+    "4520358",
+    "4520705",
+    "4520706"
+   ],
+   "models": 4,
+   "partners": [
+    "Shenzhen Dianzilai Technology Limited",
+    "Shenzhen TCL Dura Electronic Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "COSTWAY",
+    "HUMSURE",
+    "LUDATIDO"
+   ],
+   "brands": [
+    "COSTWAY",
+    "Humsure",
+    "Ludatido"
+   ],
+   "id": "cs-382b6bcf66",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "199",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.78",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.8",
+    "refrigerant_type": null,
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4572757",
+    "4576893",
+    "4682254",
+    "4710974"
+   ],
+   "models": 3,
+   "partners": [
+    "Goplus Corp.",
+    "Ningbo Heallux International Trading Co.. Ltd.",
+    "Ningbo Xiaochai Electrical Appliances Co., Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AERONOVA",
+    "AVYLO"
+   ],
+   "brands": [
+    "AeroNova",
+    "Avylo"
+   ],
+   "id": "cs-511c845f9c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "257",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.05",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.50",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4572839",
+    "4572840",
+    "4572923",
+    "4572924"
+   ],
+   "models": 2,
+   "partners": [
+    "Airova Inc"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR"
+   ],
+   "brands": [
+    "Waykar"
+   ],
+   "id": "cs-5b077f8498",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "471",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.20",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.43",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "6.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4005789",
+    "4005790",
+    "4591186",
+    "4591187"
+   ],
+   "models": 4,
+   "partners": [
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "COOLWORKS",
+    "MIDEA",
+    "PERFECT",
+    "SEASONS"
+   ],
+   "brands": [
+    "Coolworks",
+    "Midea",
+    "Perfect aire",
+    "Seasons"
+   ],
+   "id": "cs-6c831ecc3c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "382",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "36.18",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437382",
+    "4497347",
+    "4511185",
+    "4515579"
+   ],
+   "models": 4,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
+    "HD Supply Facilities Maintenance",
+    "Hometech Smart Technology Ltd.",
+    "Perfect Aire, LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "HISENSE",
+    "MORA"
+   ],
+   "brands": [
+    "Hisense",
+    "Mora"
+   ],
+   "id": "cs-6ea68927ac",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "526",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.89",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4514459",
+    "4514460",
+    "4514461",
+    "4519595"
+   ],
+   "models": 4,
+   "partners": [
+    "Hisense (Guangdong) Air Conditioning Co. Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR"
+   ],
+   "brands": [
+    "Waykar"
+   ],
+   "id": "cs-79e55a40e7",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "122",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.73",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "9.81",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4511315",
+    "4511316",
+    "4511317",
+    "4511318"
+   ],
+   "models": 4,
+   "partners": [
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "KESNOS",
+    "WAYKAR"
+   ],
+   "brands": [
+    "KESNOS",
+    "Waykar"
+   ],
+   "id": "cs-82da7974ae",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "117",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "9.20",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "1.4",
+    "refrigerant_type": null,
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4429397",
+    "4429398",
+    "4429399",
+    "4429400"
+   ],
+   "models": 4,
+   "partners": [
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AMAZON",
+    "KEYSTONE",
+    "MIDEA"
+   ],
+   "brands": [
+    "Amazon Basics",
+    "Keystone",
+    "Midea"
+   ],
+   "id": "cs-849e033b79",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "388",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "36.71",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437378",
+    "4512374",
+    "4513858",
+    "4586609"
+   ],
+   "models": 4,
+   "partners": [
+    "Almo Corporation",
+    "Amazon.com Services LLC",
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "AIRECOLER",
+    "MOISWELL"
+   ],
+   "brands": [
+    "Airecoler",
+    "MOISWELL"
+   ],
+   "id": "cs-aaaa7c35f8",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "374",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "38.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4676554",
+    "4676574",
+    "4676594",
+    "4676614"
+   ],
+   "models": 4,
+   "partners": [
+    "INOFIASLEEP INC.",
+    "SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR"
+   ],
+   "brands": [
+    "Waykar"
+   ],
+   "id": "cs-d88d7b7deb",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "144",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.91",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "10.16",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "1.8",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4511319",
+    "4511320",
+    "4511321",
+    "4511322"
+   ],
+   "models": 4,
+   "partners": [
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "TCL",
+    "WHIRLPOOL"
+   ],
+   "brands": [
+    "TCL",
+    "Whirlpool"
+   ],
+   "id": "cs-dcc97bc1ca",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "530",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "50.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4499032",
+    "4499033",
+    "4614854",
+    "4614874"
+   ],
+   "models": 4,
+   "partners": [
+    "Almo Corporation",
+    "TCL Delonghi Home Appliances (Zhongshan) Co Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "ECZWXZ",
+    "HUMILABS",
+    "NYPEAK",
+    "UIDYGGD"
+   ],
+   "brands": [
+    "ECZWXZ or CPHCPH",
+    "HUMILABS",
+    "Nypeak",
+    "UIDYGGD or FYHXZYB"
+   ],
+   "id": "cs-eccf89b5e6",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "267",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.95",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4511252",
+    "4612894",
+    "4612895",
+    "4639176"
+   ],
+   "models": 3,
+   "partners": [
+    "Humilabs LLC",
+    "Shanghai Lefuan Technology Co., Ltd",
+    "Shanghai Shengchen Hangyu International Trade Co., LTD"
+   ]
+  },
+  {
+   "brand_roots": [
+    "HOMELABS",
+    "HONEYWELL"
+   ],
+   "brands": [
+    "Honeywell",
+    "hOmeLabs"
+   ],
+   "id": "cs-03662c7d71",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "291",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.48",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3892972",
+    "4572939",
+    "4572940"
+   ],
+   "models": 3,
+   "partners": [
+    "Aterian Group, Inc.",
+    "JMA North America, LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "ABESTORM",
+    "ALORAIR",
+    "BASEAIRE"
+   ],
+   "brands": [
+    "ABESTORM",
+    "ALORAIR",
+    "BASEAIRE"
+   ],
+   "id": "cs-1212c70291",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "379",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.08",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "36.33",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "7.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4005597",
+    "4005598",
+    "4005599"
+   ],
+   "models": 3,
+   "partners": [
+    "AlorAir Solutions Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "HISENSE",
+    "VISSANI"
+   ],
+   "brands": [
+    "Hisense",
+    "Vissani"
+   ],
+   "id": "cs-156eb86662",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "526",
+    "connected_capable": "Yes",
+    "connected_features": "Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.89",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4514462",
+    "4514463",
+    "4519350"
+   ],
+   "models": 3,
+   "partners": [
+    "Hisense (Guangdong) Air Conditioning Co. Ltd",
+    "The Home Depot"
+   ]
+  },
+  {
+   "brand_roots": [
+    "DURACOMFORT",
+    "WAYKAR"
+   ],
+   "brands": [
+    "DuraComfort",
+    "Waykar"
+   ],
+   "id": "cs-486182b03a",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "291",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.48",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4587253",
+    "4587254",
+    "4591185"
+   ],
+   "models": 3,
+   "partners": [
+    "Shenzhen TCL Dura Electronic Technology Co., Ltd.",
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AUX",
+    "GARVEE",
+    "WAYKAR"
+   ],
+   "brands": [
+    "AUX",
+    "GARVEE",
+    "Waykar"
+   ],
+   "id": "cs-72299ff139",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "369",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "36.90",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4479624",
+    "4480891",
+    "4520708"
+   ],
+   "models": 3,
+   "partners": [
+    "AUX CLOUD COMMERCE(USA) INC",
+    "Garvee Innovation Inc.",
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "TCL"
+   ],
+   "brands": [
+    "TCL"
+   ],
+   "id": "cs-8217cdfc45",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "291",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.48",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3994431",
+    "3994432",
+    "4515174"
+   ],
+   "models": 3,
+   "partners": [
+    "TCL Delonghi Home Appliances (Zhongshan) Co Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA",
+    "VISSANI"
+   ],
+   "brands": [
+    "Midea",
+    "Vissani"
+   ],
+   "id": "cs-89750b063e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "283",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "26.87",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437363",
+    "4497027",
+    "4509995"
+   ],
+   "models": 3,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
+    "The Home Depot"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-92698e0eb7",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "249",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "20.16",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4478487",
+    "4512369",
+    "4515258"
+   ],
+   "models": 3,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "HISENSE"
+   ],
+   "brands": [
+    "Hisense"
+   ],
+   "id": "cs-e953331c29",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "314",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.89",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.3",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4499031",
+    "4514573",
+    "4519599"
+   ],
+   "models": 3,
+   "partners": [
+    "Hisense (Guangdong) Air Conditioning Co. Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AMANA"
+   ],
+   "brands": [
+    "Amana"
+   ],
+   "id": "cs-0c31c92c53",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "520",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.43",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4690834",
+    "4690854"
+   ],
+   "models": 2,
+   "partners": [
+    "Almo Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR"
+   ],
+   "brands": [
+    "Waykar"
+   ],
+   "id": "cs-0d9dc75dfd",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "260",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.90",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.91",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "3.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4479621",
+    "4479622"
+   ],
+   "models": 2,
+   "partners": [
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA",
+    "PELONIS"
+   ],
+   "brands": [
+    "Midea",
+    "PELONIS"
+   ],
+   "id": "cs-131cf74c12",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "430",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "41.79",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437379",
+    "4511240"
+   ],
+   "models": 2,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DURACOMFORT"
+   ],
+   "brands": [
+    "DuraComfort"
+   ],
+   "id": "cs-1595e3f385",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "508",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.52",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4573308",
+    "4573310"
+   ],
+   "models": 2,
+   "partners": [
+    "Shenzhen TCL Dura Electronic Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "CARRIER",
+    "HEALTHY"
+   ],
+   "brands": [
+    "CARRIER CORPORATION",
+    "Healthy Climate"
+   ],
+   "id": "cs-3eb4d632d9",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "2391",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.35",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "85.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "13.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "3.3"
+   },
+   "listings": [
+    "4594954",
+    "4594974"
+   ],
+   "models": 2,
+   "partners": [
+    "Bryant Heating and Cooling Systems (Carrier Corporation)",
+    "Lennox Industries"
+   ]
+  },
+  {
+   "brand_roots": [
+    "HONEYWELL"
+   ],
+   "brands": [
+    "Honeywell Home"
+   ],
+   "id": "cs-506b3692ea",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "556",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.22",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "94.33",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "17.3",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "4.9"
+   },
+   "listings": [
+    "4576905",
+    "4576919"
+   ],
+   "models": 1,
+   "partners": [
+    "Resideo Technologies, Inc"
+   ]
+  },
+  {
+   "brand_roots": [
+    "CARRIER",
+    "HEALTHY"
+   ],
+   "brands": [
+    "CARRIER CORPORATION",
+    "Healthy Climate"
+   ],
+   "id": "cs-5f8caa4985",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "1023",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.35",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "65.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "9.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "3.3"
+   },
+   "listings": [
+    "4594914",
+    "4594934"
+   ],
+   "models": 2,
+   "partners": [
+    "Bryant Heating and Cooling Systems (Carrier Corporation)",
+    "Lennox Industries"
+   ]
+  },
+  {
+   "brand_roots": [
+    "BEHOME",
+    "HBN"
+   ],
+   "brands": [
+    "BEHOME",
+    "HBN"
+   ],
+   "id": "cs-6707f15121",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "182",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.85",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4689234",
+    "4689254"
+   ],
+   "models": 1,
+   "partners": [
+    "BNLINK Inc"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR"
+   ],
+   "brands": [
+    "Waykar"
+   ],
+   "id": "cs-824e01e0b7",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "499",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.52",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4479625",
+    "4479628"
+   ],
+   "models": 2,
+   "partners": [
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "HISENSE",
+    "NOMA"
+   ],
+   "brands": [
+    "Hisense",
+    "Noma iQ"
+   ],
+   "id": "cs-8629243a41",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "526",
+    "connected_capable": "Yes",
+    "connected_features": "Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.95",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4510322",
+    "4514018"
+   ],
+   "models": 2,
+   "partners": [
+    "Canadian Tire",
+    "Hisense (Guangdong) Air Conditioning Co. Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "VELLGOO"
+   ],
+   "brands": [
+    "Vellgoo"
+   ],
+   "id": "cs-9024a12eea",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "335",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.09",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "32.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3629580",
+    "3629581"
+   ],
+   "models": 2,
+   "partners": [
+    "Guangdong Invitop Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "HISENSE",
+    "NOMA"
+   ],
+   "brands": [
+    "Hisense",
+    "Noma iQ"
+   ],
+   "id": "cs-9ec31c3dbc",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "363",
+    "connected_capable": "Yes",
+    "connected_features": "Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.32",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4510320",
+    "4512364"
+   ],
+   "models": 2,
+   "partners": [
+    "Canadian Tire",
+    "Hisense (Guangdong) Air Conditioning Co. Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "ALORAIR",
+    "ARGENDON"
+   ],
+   "brands": [
+    "ALORAIR",
+    "ARGENDON"
+   ],
+   "id": "cs-a5740fe98b",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "242",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.90",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "21.27",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "6.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3998546",
+    "3998547"
+   ],
+   "models": 2,
+   "partners": [
+    "AlorAir Solutions Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DREO"
+   ],
+   "brands": [
+    "Dreo",
+    "Dreo Home"
+   ],
+   "id": "cs-a6579a8b64",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "335",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "31.71",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4577018",
+    "4577019"
+   ],
+   "models": 1,
+   "partners": [
+    "Hesung Innovation Corp"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AUX",
+    "GARVEE"
+   ],
+   "brands": [
+    "AUX",
+    "GARVEE"
+   ],
+   "id": "cs-aa32a104cf",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "268",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.91",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4480890",
+    "4520707"
+   ],
+   "models": 2,
+   "partners": [
+    "AUX CLOUD COMMERCE(USA) INC",
+    "Garvee Innovation Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "EASYKEY",
+    "WAYKAR"
+   ],
+   "brands": [
+    "Easykey",
+    "Waykar"
+   ],
+   "id": "cs-c490942672",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "285",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.88",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.79",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4614154",
+    "4711214"
+   ],
+   "models": 2,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "AEOCKY",
+    "VELLGOO"
+   ],
+   "brands": [
+    "Aeocky",
+    "Vellgoo"
+   ],
+   "id": "cs-d2cc54389d",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "286",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.87",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.50",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3994317",
+    "3998085"
+   ],
+   "models": 2,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "AERIC"
+   ],
+   "brands": [
+    "AERIC"
+   ],
+   "id": "cs-d3c7d4ef47",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "502",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.10",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.32",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4005873",
+    "4005876"
+   ],
+   "models": 2,
+   "partners": [
+    "AERIC LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "DGVAM",
+    "MIONJO"
+   ],
+   "brands": [
+    "DGVAM",
+    "MIONJO"
+   ],
+   "id": "cs-d5f277d201",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "183",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.80",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "15.29",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.8",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4693554",
+    "4708694"
+   ],
+   "models": 1,
+   "partners": [
+    "Guangzhou Rongxin Investment Partnership Enterprise"
+   ]
+  },
+  {
+   "brand_roots": [
+    "HONEYWELL"
+   ],
+   "brands": [
+    "Honeywell Home"
+   ],
+   "id": "cs-e158f8ca71",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "503",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.23",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "52.09",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "12.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "2.0"
+   },
+   "listings": [
+    "4576903",
+    "4576917"
+   ],
+   "models": 1,
+   "partners": [
+    "Resideo Technologies, Inc"
+   ]
+  },
+  {
+   "brand_roots": [
+    "KNKA"
+   ],
+   "brands": [
+    "KNKA",
+    "KNKA PRO"
+   ],
+   "id": "cs-e6a9ce3a92",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "230",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "18.50",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "1.9",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4622034",
+    "4657054"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai BoFan Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "HISENSE",
+    "RONA"
+   ],
+   "brands": [
+    "Hisense",
+    "RONA"
+   ],
+   "id": "cs-eeea745db3",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "315",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.82",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4016309",
+    "4512361"
+   ],
+   "models": 2,
+   "partners": [
+    "Hisense (Guangdong) Air Conditioning Co. Ltd",
+    "RONA Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "HONEYWELL"
+   ],
+   "brands": [
+    "Honeywell Home"
+   ],
+   "id": "cs-fb4e399e49",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "556",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.22",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "64.17",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "16.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "4.9"
+   },
+   "listings": [
+    "4576904",
+    "4576918"
+   ],
+   "models": 1,
+   "partners": [
+    "Resideo Technologies, Inc"
+   ]
+  },
+  {
+   "brand_roots": [
+    "DREO"
+   ],
+   "brands": [
+    "Dreo",
+    "Dreo Home"
+   ],
+   "id": "cs-fca1bfc4e7",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "271",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.09",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4577080",
+    "4577081"
+   ],
+   "models": 1,
+   "partners": [
+    "Hesung Innovation Corp"
+   ]
+  },
+  {
+   "brand_roots": [
+    "LG"
+   ],
+   "brands": [
+    "LG"
+   ],
+   "id": "cs-01dc7dab16",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "374",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.30",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4613614"
+   ],
+   "models": 1,
+   "partners": [
+    "LG Electronics, Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "AEOCKY"
+   ],
+   "brands": [
+    "Aeocky"
+   ],
+   "id": "cs-08084e71c9",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "336",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.09",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "32.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4481293"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-08d544d6a2",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "284",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.92",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4718354"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "UPSTREMAN"
+   ],
+   "brands": [
+    "upstreman"
+   ],
+   "id": "cs-09a32d591c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "295",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.76",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.01",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4615094"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "HEALTHY"
+   ],
+   "brands": [
+    "Healthy Climate"
+   ],
+   "id": "cs-0c41b0e00b",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "2808",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.35",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "105.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "18.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "6.6"
+   },
+   "listings": [
+    "4594994"
+   ],
+   "models": 1,
+   "partners": [
+    "Lennox Industries"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-0e57a6ac68",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "523",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.96",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.3",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4711314"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "FRIGIDAIRE"
+   ],
+   "brands": [
+    "Frigidaire"
+   ],
+   "id": "cs-150a7eb223",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "276",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.27",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4497023"
+   ],
+   "models": 1,
+   "partners": [
+    "Electrolux Consumer Products, Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "UKOKE"
+   ],
+   "brands": [
+    "Ukoke"
+   ],
+   "id": "cs-17ea428d91",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "105",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.92",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "9.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "1.8",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4478493"
+   ],
+   "models": 1,
+   "partners": [
+    "For Generation Inc"
+   ]
+  },
+  {
+   "brand_roots": [
+    "HUMILABS"
+   ],
+   "brands": [
+    "HUMILABS"
+   ],
+   "id": "cs-18f12b7d9e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "110",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.92",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "9.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "1.9",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4639174"
+   ],
+   "models": 1,
+   "partners": [
+    "Humilabs LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WELLSLE"
+   ],
+   "brands": [
+    "Wellsle"
+   ],
+   "id": "cs-1934a045fb",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "413",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.85",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "12.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": null,
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4021638"
+   ],
+   "models": 1,
+   "partners": [
+    "Chuangxiang Huiju\uff08Shenzhen\uff09Technology Co.\uff0cLtd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AIRCYAN"
+   ],
+   "brands": [
+    "AirCyan"
+   ],
+   "id": "cs-1aa5866bd4",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "196",
+    "connected_capable": "Yes",
+    "connected_features": "Remote Operation",
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.79",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.30",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.3",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4512556"
+   ],
+   "models": 1,
+   "partners": [
+    "Changzhou Honghai Intelligent Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "AEOCKY"
+   ],
+   "brands": [
+    "Aeocky"
+   ],
+   "id": "cs-1c955f587e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "285",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.86",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.50",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3994318"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "COSTWAY"
+   ],
+   "brands": [
+    "COSTWAY"
+   ],
+   "id": "cs-1d619657da",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "191",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "15.50",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4622014"
+   ],
+   "models": 1,
+   "partners": [
+    "Goplus Corp."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-1f041d7110",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "515",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.67",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4512371"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "ANDTE"
+   ],
+   "brands": [
+    "ANDTE"
+   ],
+   "id": "cs-212f2a2003",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "265",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "23.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4612214"
+   ],
+   "models": 1,
+   "partners": [
+    "Shenzhen Zhengjiu Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-28f2d3a31c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "515",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.08",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.67",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "7.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4439456"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "GARVEE"
+   ],
+   "brands": [
+    "GARVEE"
+   ],
+   "id": "cs-32d363b1b2",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "288",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.85",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.80",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4614574"
+   ],
+   "models": 1,
+   "partners": [
+    "Garvee Innovation Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "GLOWELLS"
+   ],
+   "brands": [
+    "Glowells"
+   ],
+   "id": "cs-33989f8c2c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "192",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.81",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.11",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4439179"
+   ],
+   "models": 1,
+   "partners": [
+    "Ningbo Hongming Waterproof Insulation Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-35504e00c1",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "520",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.95",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4511299"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "AEOCKY"
+   ],
+   "brands": [
+    "Aeocky"
+   ],
+   "id": "cs-39255197a5",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "432",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.21",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "44.34",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "5.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4481294"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "GE"
+   ],
+   "brands": [
+    "GE"
+   ],
+   "id": "cs-39344fdd15",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "305",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.71",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4515188"
+   ],
+   "models": 1,
+   "partners": [
+    "GE Appliances, a Haier Company"
+   ]
+  },
+  {
+   "brand_roots": [
+    "SANTA"
+   ],
+   "brands": [
+    "Santa Fe"
+   ],
+   "id": "cs-45bd108495",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "419",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.45",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "85.62",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "24.0",
+    "refrigerant_type": "R454B",
+    "whole_home_dehumidifier_case_volume_ft3": "5.4"
+   },
+   "listings": [
+    "4510404"
+   ],
+   "models": 1,
+   "partners": [
+    "Research Products Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WELLSLE"
+   ],
+   "brands": [
+    "Wellsle"
+   ],
+   "id": "cs-468efbe59e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "181",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.90",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437438"
+   ],
+   "models": 1,
+   "partners": [
+    "Chuangxiang Huiju\uff08Shenzhen\uff09Technology Co.\uff0cLtd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "LG"
+   ],
+   "brands": [
+    "LG"
+   ],
+   "id": "cs-47954a4a9b",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "308",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.71",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.99",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4586593"
+   ],
+   "models": 1,
+   "partners": [
+    "LG Electronics, Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "BOSCH"
+   ],
+   "brands": [
+    "Bosch"
+   ],
+   "id": "cs-4eb7418a40",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "276",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "23.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4515093"
+   ],
+   "models": 1,
+   "partners": [
+    "Bosch Thermotechnology Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "GASBYE"
+   ],
+   "brands": [
+    "Gasbye"
+   ],
+   "id": "cs-504ed5982d",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "378",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "36.53",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4005672"
+   ],
+   "models": 1,
+   "partners": [
+    "Shenzhen Dianzilai Technology Limited"
+   ]
+  },
+  {
+   "brand_roots": [
+    "GREENLITE"
+   ],
+   "brands": [
+    "Greenlite"
+   ],
+   "id": "cs-50bb987fe9",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "529",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.04",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.95",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4614174"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MEGALIGHT"
+   ],
+   "brands": [
+    "MegaLight"
+   ],
+   "id": "cs-528c6df171",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "472",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.20",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.43",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "6.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4586106"
+   ],
+   "models": 1,
+   "partners": [
+    "Megalight Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "FRIGIDAIRE"
+   ],
+   "brands": [
+    "Frigidaire"
+   ],
+   "id": "cs-601cf69873",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "521",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.71",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4481105"
+   ],
+   "models": 1,
+   "partners": [
+    "Electrolux Consumer Products, Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "FRIEDRICH"
+   ],
+   "brands": [
+    "Friedrich"
+   ],
+   "id": "cs-622f7b674c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "378",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "36.53",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4479456"
+   ],
+   "models": 1,
+   "partners": [
+    "Friedrich Air Conditioning Company"
+   ]
+  },
+  {
+   "brand_roots": [
+    "ALORAIR"
+   ],
+   "brands": [
+    "ALORAIR"
+   ],
+   "id": "cs-627036cb71",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "274",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.95",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "5.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4529039"
+   ],
+   "models": 1,
+   "partners": [
+    "AlorAir Solutions Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "COSTWAY"
+   ],
+   "brands": [
+    "COSTWAY"
+   ],
+   "id": "cs-6300770eb6",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "779",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.66",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3798625"
+   ],
+   "models": 1,
+   "partners": [
+    "Goplus Corp."
+   ]
+  },
+  {
+   "brand_roots": [
+    "GLOWELLS"
+   ],
+   "brands": [
+    "Glowells"
+   ],
+   "id": "cs-63b4e5b3c0",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "379",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4618374"
+   ],
+   "models": 1,
+   "partners": [
+    "Ningbo Hongming Waterproof Insulation Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "ARECOVAS"
+   ],
+   "brands": [
+    "Arecovas"
+   ],
+   "id": "cs-66c222a283",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "193",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.79",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4431338"
+   ],
+   "models": 1,
+   "partners": [
+    "Shenzhen Jinchannel Innovation Technology Co. Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "PAUVOERN"
+   ],
+   "brands": [
+    "pauvoern"
+   ],
+   "id": "cs-6dc4d1ec44",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "297",
+    "connected_capable": "Yes",
+    "connected_features": "Remote Operation",
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.73",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "23.89",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.5",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3892712"
+   ],
+   "models": 1,
+   "partners": [
+    "Ningbo Dilamu Electric Appliance Co., Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "ANDTE"
+   ],
+   "brands": [
+    "ANDTE"
+   ],
+   "id": "cs-6f1c2e2ebd",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "193",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "15.50",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4612234"
+   ],
+   "models": 1,
+   "partners": [
+    "Shenzhen Zhengjiu Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "GE"
+   ],
+   "brands": [
+    "GE"
+   ],
+   "id": "cs-77cdb91d4f",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "519",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.64",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "8.3",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4515187"
+   ],
+   "models": 1,
+   "partners": [
+    "GE Appliances, a Haier Company"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AEOCKY"
+   ],
+   "brands": [
+    "Aeocky"
+   ],
+   "id": "cs-78687d9002",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "287",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.85",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.68",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.4",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4711194"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DEVERSE"
+   ],
+   "brands": [
+    "DEVERSE"
+   ],
+   "id": "cs-799daad973",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "886",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.93",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4478525"
+   ],
+   "models": 1,
+   "partners": [
+    "JHS INC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "ARECOVAS"
+   ],
+   "brands": [
+    "Arecovas"
+   ],
+   "id": "cs-7ab12aa7e9",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "338",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.15",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "32.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4586595"
+   ],
+   "models": 1,
+   "partners": [
+    "Shenzhen Jinchannel Innovation Technology Co. Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "LEVOIT"
+   ],
+   "brands": [
+    "LEVOIT"
+   ],
+   "id": "cs-7d9dddfe4e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "281",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.88",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.54",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "3.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4682794"
+   ],
+   "models": 1,
+   "partners": [
+    "Vesync (US) Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "ARECOVAS"
+   ],
+   "brands": [
+    "Arecovas"
+   ],
+   "id": "cs-8314a4e232",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "274",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "23.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4586643"
+   ],
+   "models": 1,
+   "partners": [
+    "Shenzhen Jinchannel Innovation Technology Co. Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DECIUU"
+   ],
+   "brands": [
+    "Deciuu"
+   ],
+   "id": "cs-83549e95cf",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "284",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.88",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.72",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4655854"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "BOSCH"
+   ],
+   "brands": [
+    "Bosch"
+   ],
+   "id": "cs-83cf82e90b",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "365",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.94",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4515094"
+   ],
+   "models": 1,
+   "partners": [
+    "Bosch Thermotechnology Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "JACKROSE"
+   ],
+   "brands": [
+    "Jack&Rose"
+   ],
+   "id": "cs-85056a0146",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "182",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.90",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.10",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4478531"
+   ],
+   "models": 1,
+   "partners": [
+    "huizhoushiqingfengdianzishangwuyouxiangongsi"
+   ]
+  },
+  {
+   "brand_roots": [
+    "GARVEE"
+   ],
+   "brands": [
+    "GARVEE"
+   ],
+   "id": "cs-855556628c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "342",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.09",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "33.13",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4614594"
+   ],
+   "models": 1,
+   "partners": [
+    "Garvee Innovation Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "TABYIK"
+   ],
+   "brands": [
+    "TABYIK"
+   ],
+   "id": "cs-8993a20bcf",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "277",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.85",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.75",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "3.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4012669"
+   ],
+   "models": 1,
+   "partners": [
+    "JHS INC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "KEEPGLAD"
+   ],
+   "brands": [
+    "KeepGlad"
+   ],
+   "id": "cs-89f7c6bfe3",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "195",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.78",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.8",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4515878"
+   ],
+   "models": 1,
+   "partners": [
+    "Quanzhou Yat Global International Trade Co., Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "DREAME"
+   ],
+   "brands": [
+    "DREAME"
+   ],
+   "id": "cs-8ba7b33766",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "295",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "23.29",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4614614"
+   ],
+   "models": 1,
+   "partners": [
+    "Dreame Trading (Tianjin) Co. Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "WELLSLE"
+   ],
+   "brands": [
+    "Wellsle"
+   ],
+   "id": "cs-8f54bd6a5f",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "791",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "25.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "3.9",
+    "refrigerant_type": null,
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4021635"
+   ],
+   "models": 1,
+   "partners": [
+    "Chuangxiang Huiju\uff08Shenzhen\uff09Technology Co.\uff0cLtd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "APRILAIRE"
+   ],
+   "brands": [
+    "Aprilaire"
+   ],
+   "id": "cs-8f663c631c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "821",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.35",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "85.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "13.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "3.3"
+   },
+   "listings": [
+    "4510067"
+   ],
+   "models": 1,
+   "partners": [
+    "Research Products Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "DECIUU"
+   ],
+   "brands": [
+    "Deciuu"
+   ],
+   "id": "cs-9359851854",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "334",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.13",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "32.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4015854"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR"
+   ],
+   "brands": [
+    "Waykar"
+   ],
+   "id": "cs-936821b53d",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "360",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.20",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4479623"
+   ],
+   "models": 1,
+   "partners": [
+    "Waykar"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AEOCKY"
+   ],
+   "brands": [
+    "Aeocky"
+   ],
+   "id": "cs-9574fe84eb",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "438",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.21",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "44.94",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "5.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4576900"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "BOGLVR"
+   ],
+   "brands": [
+    "boglvr"
+   ],
+   "id": "cs-9e3c99619e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "303",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.83",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4572855"
+   ],
+   "models": 1,
+   "partners": [
+    "JHS INC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "AVAHUM"
+   ],
+   "brands": [
+    "AVAHUM"
+   ],
+   "id": "cs-9ecebb63b9",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "511",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.80",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4618354"
+   ],
+   "models": 1,
+   "partners": [
+    "Shenzhen Baili Technology Co., Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "LUDATIDO"
+   ],
+   "brands": [
+    "Ludatido"
+   ],
+   "id": "cs-a3b29662c4",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "264",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.91",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "1.91",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4529253"
+   ],
+   "models": 1,
+   "partners": [
+    "Ningbo Xiaochai Electrical Appliances Co., Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "INNOVATIVE"
+   ],
+   "brands": [
+    "INNOVATIVE"
+   ],
+   "id": "cs-a5d515e0ba",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "272",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.90",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.01",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "6.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4709354"
+   ],
+   "models": 1,
+   "partners": [
+    "Innovative Dehumidifier Systems Division of Maradyne Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "OGACFO"
+   ],
+   "brands": [
+    "OGACFO"
+   ],
+   "id": "cs-a8f0ae162f",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "194",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.76",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "15.84",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.1",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4005670"
+   ],
+   "models": 1,
+   "partners": [
+    "NINGBO UNION GRAND IMP. &EXP. CO.,LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIONJO"
+   ],
+   "brands": [
+    "MIONJO"
+   ],
+   "id": "cs-aba7a46286",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "196",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.77",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "16.13",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.8",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4613694"
+   ],
+   "models": 1,
+   "partners": [
+    "Guangzhou Rongxin Investment Partnership Enterprise"
+   ]
+  },
+  {
+   "brand_roots": [
+    "ZAFRO"
+   ],
+   "brands": [
+    "ZAFRO"
+   ],
+   "id": "cs-b37274deb0",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "504",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.20",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.86",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "5.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4623714"
+   ],
+   "models": 1,
+   "partners": [
+    "JHS INC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "FRIGIDAIRE"
+   ],
+   "brands": [
+    "Frigidaire"
+   ],
+   "id": "cs-b49fed9e9f",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "379",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.85",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4481104"
+   ],
+   "models": 1,
+   "partners": [
+    "Electrolux Consumer Products, Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DEYE"
+   ],
+   "brands": [
+    "Deye"
+   ],
+   "id": "cs-b6895cbef8",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "256",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.03",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "25.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": null,
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4661614"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhejiang Deye Electrical Appliances Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "VELLGOO"
+   ],
+   "brands": [
+    "Vellgoo"
+   ],
+   "id": "cs-bb7455516d",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "444",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.24",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "45.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "5.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4481295"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "ARECOVAS"
+   ],
+   "brands": [
+    "Arecovas"
+   ],
+   "id": "cs-bd8099a6ea",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "285",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.88",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.50",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4586594"
+   ],
+   "models": 1,
+   "partners": [
+    "Shenzhen Jinchannel Innovation Technology Co. Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-bf2ac2cd51",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "520",
+    "connected_capable": "Yes",
+    "connected_features": null,
+    "connects_using": "Wi-Fi",
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.95",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4518682"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DEYE"
+   ],
+   "brands": [
+    "Deye"
+   ],
+   "id": "cs-c55dfeb4eb",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "132",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "10.50",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "1.8",
+    "refrigerant_type": null,
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4661634"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhejiang Deye Electrical Appliances Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "VISSANI"
+   ],
+   "brands": [
+    "Vissani"
+   ],
+   "id": "cs-c745ebc7b6",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "519",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.95",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4570007"
+   ],
+   "models": 1,
+   "partners": [
+    "The Home Depot"
+   ]
+  },
+  {
+   "brand_roots": [
+    "GLOWELLS"
+   ],
+   "brands": [
+    "Glowells"
+   ],
+   "id": "cs-c76a93c839",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "225",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "19.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "1.9",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4675294"
+   ],
+   "models": 1,
+   "partners": [
+    "Ningbo Hongming Waterproof Insulation Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "BUFANLI"
+   ],
+   "brands": [
+    "Bufanli"
+   ],
+   "id": "cs-c7ce77c91e",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "267",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.97",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4680474"
+   ],
+   "models": 1,
+   "partners": [
+    "Shanghai Shengchen Hangyu International Trade Co., LTD"
+   ]
+  },
+  {
+   "brand_roots": [
+    "FRIGIDAIRE"
+   ],
+   "brands": [
+    "Frigidaire"
+   ],
+   "id": "cs-ca185e8813",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "283",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.70",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "22.57",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3845105"
+   ],
+   "models": 1,
+   "partners": [
+    "Electrolux Consumer Products, Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "APRILAIRE"
+   ],
+   "brands": [
+    "Aprilaire"
+   ],
+   "id": "cs-cd977340c7",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "926",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.35",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "105.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "18.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "6.6"
+   },
+   "listings": [
+    "4510068"
+   ],
+   "models": 1,
+   "partners": [
+    "Research Products Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "WAYKAR"
+   ],
+   "brands": [
+    "Waykar"
+   ],
+   "id": "cs-cfac480a1a",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "287",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.85",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "24.66",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "4.1",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4711234"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-d17b2b8c08",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "530",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.96",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.3",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4711294"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "SANTA"
+   ],
+   "brands": [
+    "Santa Fe"
+   ],
+   "id": "cs-d3a6543072",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "565",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.63",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "102.69",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "24.0",
+    "refrigerant_type": "R454B",
+    "whole_home_dehumidifier_case_volume_ft3": "5.4"
+   },
+   "listings": [
+    "4510405"
+   ],
+   "models": 1,
+   "partners": [
+    "Research Products Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "DECIUU"
+   ],
+   "brands": [
+    "Deciuu"
+   ],
+   "id": "cs-d446508f55",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "333",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.07",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "32.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3994319"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "ASAHWO"
+   ],
+   "brands": [
+    "ASAHWO"
+   ],
+   "id": "cs-d4a7d09bc9",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "140",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.88",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "12.22",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "1.8",
+    "refrigerant_type": "R290",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437437"
+   ],
+   "models": 1,
+   "partners": [
+    "Guangzhou Nengfaliang Technology Co., Ltd"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-d52152f26c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "525",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.95",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.3",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4718314"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MULTISTAR"
+   ],
+   "brands": [
+    "Multistar"
+   ],
+   "id": "cs-d7bc2c41fa",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "500",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.48",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.4",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4512643"
+   ],
+   "models": 1,
+   "partners": [
+    "Export 220Volt Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "LG"
+   ],
+   "brands": [
+    "LG"
+   ],
+   "id": "cs-d95afd58e0",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "524",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.81",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4572921"
+   ],
+   "models": 1,
+   "partners": [
+    "LG Electronics, Inc."
+   ]
+  },
+  {
+   "brand_roots": [
+    "APRILAIRE"
+   ],
+   "brands": [
+    "Aprilaire"
+   ],
+   "id": "cs-dc3cc4e198",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "632",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.35",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "65.00",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "9.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": "3.3"
+   },
+   "listings": [
+    "4510066"
+   ],
+   "models": 1,
+   "partners": [
+    "Research Products Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-e16e549ca4",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "362",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.8",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4717514"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-e48cde9d35",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "271",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "26.30",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "3.7",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4717574"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "DGUAM"
+   ],
+   "brands": [
+    "DGUAM"
+   ],
+   "id": "cs-ee78c1c995",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "183",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.80",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "15.29",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "2.8",
+    "refrigerant_type": null,
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4528748"
+   ],
+   "models": 1,
+   "partners": [
+    "Guangzhou Rongxin Investment Partnership Enterprise"
+   ]
+  },
+  {
+   "brand_roots": [
+    "SANTA"
+   ],
+   "brands": [
+    "Santa Fe"
+   ],
+   "id": "cs-eefb9d69cc",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "842",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "3.26",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "127.51",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "48.0",
+    "refrigerant_type": "R454B",
+    "whole_home_dehumidifier_case_volume_ft3": "5.6"
+   },
+   "listings": [
+    "4429193"
+   ],
+   "models": 1,
+   "partners": [
+    "Research Products Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "SANTA"
+   ],
+   "brands": [
+    "Santa Fe"
+   ],
+   "id": "cs-f430ac9792",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "1188",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "3.12",
+    "dehumidifier_type": "Whole-home Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "172.13",
+    "meets_most_efficient_criteria": "Yes",
+    "refrigerant_charge_oz": "48.0",
+    "refrigerant_type": "R454B",
+    "whole_home_dehumidifier_case_volume_ft3": "6.4"
+   },
+   "listings": [
+    "4006002"
+   ],
+   "models": 1,
+   "partners": [
+    "Research Products Corporation"
+   ]
+  },
+  {
+   "brand_roots": [
+    "GLOWELLS"
+   ],
+   "brands": [
+    "Glowells"
+   ],
+   "id": "cs-fa68d18846",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "276",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.75",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "23.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.2",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4586642"
+   ],
+   "models": 1,
+   "partners": [
+    "Ningbo Hongming Waterproof Insulation Technology Co., Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "AEOCKY"
+   ],
+   "brands": [
+    "Aeocky"
+   ],
+   "id": "cs-faa935f9e8",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "339",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.09",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "32.00",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.0",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "3994316"
+   ],
+   "models": 1,
+   "partners": [
+    "Zhuhai Invitop Technology Co.,Ltd."
+   ]
+  },
+  {
+   "brand_roots": [
+    "GE"
+   ],
+   "brands": [
+    "GE"
+   ],
+   "id": "cs-fbf8f3d84c",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "355",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.34",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "6.9",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4515189"
+   ],
+   "models": 1,
+   "partners": [
+    "GE Appliances, a Haier Company"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-fd4e221053",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "518",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "49.74",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.5",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4437380"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "BLACKDECKER"
+   ],
+   "brands": [
+    "BLACK+DECKER"
+   ],
+   "id": "cs-fd5d8b0bef",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "117",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "1.73",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "9.20",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "1.4",
+    "refrigerant_type": null,
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4046701"
+   ],
+   "models": 1,
+   "partners": [
+    "W Appliance Company, LLC"
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-febbc4ec17",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "429",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "40.76",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "5.3",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4717534"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  },
+  {
+   "brand_roots": [
+    "MIDEA"
+   ],
+   "brands": [
+    "Midea"
+   ],
+   "id": "cs-ffb8840c84",
+   "key": {
+    "annual_energy_consumption_kwh_yr": "368",
+    "connected_capable": "No",
+    "connected_features": null,
+    "connects_using": null,
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": "2.01",
+    "dehumidifier_type": "Portable Dehumidifier",
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": "35.50",
+    "meets_most_efficient_criteria": "No",
+    "refrigerant_charge_oz": "4.6",
+    "refrigerant_type": "R32",
+    "whole_home_dehumidifier_case_volume_ft3": null
+   },
+   "listings": [
+    "4717554"
+   ],
+   "models": 1,
+   "partners": [
+    "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
+   ]
+  }
+ ]
+}

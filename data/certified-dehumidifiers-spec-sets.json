@@ -1,0 +1,28 @@
+{
+ "dataset": "energystar-dehumidifiers",
+ "definition": "a spec set = listings with identical certified values on all 11 reported fields",
+ "key_fields": [
+  "annual_energy_consumption_kwh_yr",
+  "connected_capable",
+  "connected_features",
+  "connects_using",
+  "dehumidifier_efficiency_integrated_energy_factor_l_kwh_",
+  "dehumidifier_type",
+  "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+  "meets_most_efficient_criteria",
+  "refrigerant_charge_oz",
+  "refrigerant_type",
+  "whole_home_dehumidifier_case_volume_ft3"
+ ],
+ "name": "Certified dehumidifiers: how many distinct spec sets sit behind the listings",
+ "retrieved": "2026-11-01",
+ "stats": {
+  "largest_set_listings": 22,
+  "listings": 571,
+  "models": 516,
+  "models_per_set": 2.95,
+  "sets_spanning_brands": 53,
+  "sets_spanning_partners": 41,
+  "spec_sets": 175
+ }
+}
