@@ -1,309 +1,504 @@
 {
  "analysis": {
-  "decile": 2.05,
+  "decile": 5.4,
   "higher_better": true,
-  "label": "Integrated Energy Factor",
-  "median": 2.01,
-  "pool": 161,
+  "label": "IEF vs its class line",
+  "median": -1.3,
+  "pool": 151,
   "top_beats_pct": 99,
-  "top_name": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
-  "top_value": 2.24,
-  "unit": "L/kWh"
+  "top_name": "Avylo ADC018",
+  "top_value": 13.7,
+  "unit": "%"
  },
  "criteria": [
+  {
+   "direction": "higher",
+   "formula": "100 * (Integrated Energy Factor / (1.8175 - 0.0006 * Certified capacity) - 1) if Certified capacity <= 25, else 100 * (Integrated Energy Factor / (2.0424 - 0.0001 * Certified capacity) - 1)",
+   "key": "vs_fit",
+   "label": "IEF vs same-class models",
+   "offset": 100,
+   "unit": "%",
+   "weight": 1.0
+  },
   {
    "direction": "higher",
    "key": "ief",
    "label": "Integrated Energy Factor",
    "unit": "L/kWh",
-   "weight": 0.9
+   "weight": 0
   },
   {
    "direction": "higher",
    "key": "capacity",
    "label": "Certified capacity",
    "unit": "pints/day",
-   "weight": 0.1
+   "weight": 0
   },
   {
    "direction": "lower",
-   "formula": "certified kWh per year x EIA U.S. average residential price x 5",
+   "formula": "certified capacity (pints/day) x 0.473 L per pint / certified IEF (L/kWh) x 1,095 / 24 (DOE's annual dehumidification hours, 10 CFR 430 subpart B appendix X1) x EIA U.S. average residential price x 5",
    "key": "cost5",
    "label": "5-year electricity cost",
    "unit": "USD",
    "weight": 0
+  },
+  {
+   "direction": "lower",
+   "formula": "100 pints x 0.473 L per pint / certified IEF (L/kWh) x EIA U.S. average residential price (no operating hours: it depends only on IEF and the rate)",
+   "key": "cost100",
+   "label": "Electricity cost per 100 pints removed",
+   "unit": "USD",
+   "weight": 0
+  }
+ ],
+ "filters": [
+  {
+   "field": "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+   "op": ">=",
+   "value": 12
+  }
+ ],
+ "fits": [
+  {
+   "a": 1.8175,
+   "as": "pct_vs_fit",
+   "b": -0.0006,
+   "break_at": 25,
+   "class": "lo",
+   "key": "select_by",
+   "listed_outside": [
+    "Sweetcrispy AS-CSJ72XK-5WT-OL",
+    "Deye DYD-P30",
+    "Wellsle YDL24P"
+   ],
+   "n": 72,
+   "x": "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+   "x_label": "Certified capacity",
+   "x_max": 25.0,
+   "x_min": 12.0,
+   "x_p5": 15.5,
+   "x_p95": 24.93,
+   "x_unit": "pints/day",
+   "y": "dehumidifier_efficiency_integrated_energy_factor_l_kwh_",
+   "y_label": "Integrated Energy Factor"
+  },
+  {
+   "a": 2.0424,
+   "as": "pct_vs_fit",
+   "b": -0.0001,
+   "break_at": 25,
+   "class": "hi",
+   "key": "select_by",
+   "n": 79,
+   "x": "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+   "x_label": "Certified capacity",
+   "x_max": 50.0,
+   "x_min": 26.3,
+   "x_p5": 32.0,
+   "x_p95": 49.96,
+   "x_unit": "pints/day",
+   "y": "dehumidifier_efficiency_integrated_energy_factor_l_kwh_",
+   "y_label": "Integrated Energy Factor"
+  },
+  {
+   "a": 1.8175,
+   "as": "pct_vs_fit",
+   "b": -0.0006,
+   "break_at": 25,
+   "class": "lo",
+   "key": "vs_fit",
+   "listed_outside": [
+    "Sweetcrispy AS-CSJ72XK-5WT-OL",
+    "Deye DYD-P30",
+    "Wellsle YDL24P"
+   ],
+   "n": 72,
+   "x": "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+   "x_label": "Certified capacity",
+   "x_max": 25.0,
+   "x_min": 12.0,
+   "x_p5": 15.5,
+   "x_p95": 24.93,
+   "x_unit": "pints/day",
+   "y": "dehumidifier_efficiency_integrated_energy_factor_l_kwh_",
+   "y_label": "Integrated Energy Factor"
+  },
+  {
+   "a": 2.0424,
+   "as": "pct_vs_fit",
+   "b": -0.0001,
+   "break_at": 25,
+   "class": "hi",
+   "key": "vs_fit",
+   "n": 79,
+   "x": "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+   "x_label": "Certified capacity",
+   "x_max": 50.0,
+   "x_min": 26.3,
+   "x_p5": 32.0,
+   "x_p95": 49.96,
+   "x_unit": "pints/day",
+   "y": "dehumidifier_efficiency_integrated_energy_factor_l_kwh_",
+   "y_label": "Integrated Energy Factor"
   }
  ],
  "items": [
   {
+   "best_for": "more efficient for its size than this page's average",
+   "best_for_key": "vs_fit",
+   "brand": "Avylo",
+   "id": "avylo-adc018",
+   "name": "Avylo ADC018",
+   "rank": 1,
+   "score": 100.0,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (avylo store, sold by YUANC, in stock at $238.99 when read 2026-11-04) gives Brand avylo, Model ADC018 and UPC 199874824031 in its item details, the UPC of the certified Avylo record; it markets 'max 90 pints' a day, while ENERGY STAR certifies 24.5 pints a day under the DOE test.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0GF7QBWXH",
+    "url": "https://www.amazon.com/dp/B0GF7QBWXH"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572840, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GF7QBWXH per https://www.amazon.com/dp/B0GF7QBWXH (2026-11-04)",
+   "specs": {
+    "capacity": 24.5,
+    "cost100": 4.19,
+    "cost5": 234.0,
+    "ief": 2.05,
+    "vs_fit": 13.7
+   }
+  },
+  {
+   "best_for": "more efficient for its size than this page's average",
+   "best_for_key": "vs_fit",
+   "brand": "Sweetcrispy",
+   "id": "sweetcrispy-as-csj72xk-5wt-ol",
+   "name": "Sweetcrispy AS-CSJ72XK-5WT-OL",
+   "rank": 2,
+   "score": 99.5,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Sweetcrispy's own store lists it as variant SKU SW-AS-CSJ72XK-5WT-OL (5 L tank), $209.99 when read 2026-11-04; the certified model is the SKU without the SW- prefix.",
+    "seller": "Sweetcrispy",
+    "source": "https://sweetcrispy.com/products/sweetcrispy-dehumidifier-for-spaces-up-to-2500-sq-ft-with-3-modes",
+    "url": "https://sweetcrispy.com/products/sweetcrispy-dehumidifier-for-spaces-up-to-2500-sq-ft-with-3-modes"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4576703, retrieved 2026-11-01; buy link https://sweetcrispy.com/products/sweetcrispy-dehumidifier-for-spaces-up-to-2500-sq-ft-with-3-modes per https://sweetcrispy.com/products/sweetcrispy-dehumidifier-for-spaces-up-to-2500-sq-ft-with-3-modes (2026-11-04)",
+   "specs": {
+    "capacity": 25.0,
+    "cost100": 4.21,
+    "cost5": 240.0,
+    "ief": 2.04,
+    "vs_fit": 13.2
+   }
+  },
+  {
+   "best_for": "more efficient for its size than this page's average",
+   "best_for_key": "vs_fit",
+   "brand": "Deye",
+   "id": "deye-dyd-p30",
+   "name": "Deye DYD-P30",
+   "rank": 3,
+   "score": 99.0,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (Deye, ships from Amazon, sold by Woot, in stock at $206.99 when read 2026-11-04) gives Model DYD-P30 in its item details, the certified model number (the certified record lists no UPC). It is marketed as a 75-pint unit with WiFi and Alexa app control; ENERGY STAR certifies it at the capacity shown here and as not connected-capable.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0GX4XZXDW",
+    "url": "https://www.amazon.com/dp/B0GX4XZXDW"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4661614, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GX4XZXDW per https://www.amazon.com/dp/B0GX4XZXDW (2026-11-04)",
+   "specs": {
+    "capacity": 25.0,
+    "cost100": 4.23,
+    "cost5": 241.0,
+    "ief": 2.03,
+    "vs_fit": 12.6
+   }
+  },
+  {
+   "brand": "Wellsle",
+   "id": "wellsle-ydl24p",
+   "name": "Wellsle YDL24P",
+   "rank": 4,
+   "score": 98.1,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (Wellsle store, sold by Wellsle, in stock at $259.99 when read 2026-11-04) gives Brand Wellsle, Model YDL24P and UPC 850062409323 in its item details, the certified UPC.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0DYV5WKY8",
+    "url": "https://www.amazon.com/dp/B0DYV5WKY8"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4021635, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0DYV5WKY8 per https://www.amazon.com/dp/B0DYV5WKY8 (2026-11-04)",
+   "specs": {
+    "capacity": 25.0,
+    "cost100": 4.28,
+    "cost5": 244.0,
+    "ief": 2.01,
+    "vs_fit": 11.5
+   }
+  },
+  {
    "brand": "Vellgoo",
    "id": "vellgoo-taurus-pro-rcs50-y-n4-3-25",
    "name": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
-   "rank": 1,
-   "score": 99.0,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4481295, retrieved 2026-11-01",
+   "rank": 5,
+   "score": 96.7,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Matched by feature: Vellgoo's store sells the DryTank Pro (140 Pints Energy Star Most Efficient 2025); when read 2026-11-04 only the version with pump (140PB, $399.99) was in stock, the no-pump 140P ($369.99) was sold out. The store page prints no certified model number, but the user manual it links (Vellgoo_50.pdf, read 2026-11-04) is for the DryTank Pro Series, with and without pump, and carries the document code 'TAURUS Pro_US_20241217_V12'; its manufacturer, Zhuhai Invitop Technology, is the certified partner. The TAURUS PRO (45 pints a day, Most Efficient, pump variants certified) is Vellgoo's only Most Efficient set of that size, and Vellgoo's certified records pair its DryTank names with TAURUS models (DryTank 3000 = TAURUS-RCS25, DryTank 3600 = TAURUS-RCS32). The 140 pints is the store's 95°F/95% RH figure, not the certified one.",
+    "seller": "Vellgoo",
+    "source": "https://vellgoo.com/products/6-000-sq-ft-energy-star-dehumidifier-for-basement",
+    "url": "https://vellgoo.com/products/6-000-sq-ft-energy-star-dehumidifier-for-basement"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4481295, retrieved 2026-11-01; buy link https://vellgoo.com/products/6-000-sq-ft-energy-star-dehumidifier-for-basement per https://vellgoo.com/products/6-000-sq-ft-energy-star-dehumidifier-for-basement (2026-11-04)",
    "specs": {
     "capacity": 45.0,
-    "cost5": 403.0,
-    "ief": 2.24
+    "cost100": 3.84,
+    "cost5": 394.0,
+    "ief": 2.24,
+    "vs_fit": 9.9
    }
   },
   {
-   "brand": "ZAFRO",
-   "id": "zafro-d026w-50pt3m",
-   "name": "ZAFRO D026W-50Pt3M",
-   "rank": 2,
-   "score": 98.4,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4623714, retrieved 2026-11-01",
+   "brand": "Bufanli",
+   "id": "bufanli-ol22-d076ffn3b1-fe",
+   "name": "Bufanli OL22-D076FFN3B1/FE",
+   "rank": 6,
+   "score": 96.0,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (Bufanli, sold by Dehumidifier US, in stock at $208.99 when read 2026-11-04) gives Model OL22-D076FFN3B1/FE and UPC 772610634189 in its item details, a certified UPC. It is marketed as a Smart WiFi unit, while the certified record says not connected-capable.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0H8L791J4",
+    "url": "https://www.amazon.com/dp/B0H8L791J4"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4680474, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H8L791J4 per https://www.amazon.com/dp/B0H8L791J4 (2026-11-04)",
    "specs": {
-    "capacity": 49.86,
-    "cost5": 458.0,
-    "ief": 2.2
-   }
-  },
-  {
-   "brand": "MegaLight",
-   "id": "megalight-pd-hpc750-wt",
-   "name": "MegaLight PD-HPC750-WT",
-   "rank": 3,
-   "score": 98.3,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4586106, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 49.43,
-    "cost5": 429.0,
-    "ief": 2.2
-   }
-  },
-  {
-   "brand": "Waykar",
-   "id": "waykar-cth150b",
-   "name": "Waykar CTH150B",
-   "rank": 4,
-   "score": 98.3,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4005790, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 49.43,
-    "cost5": 428.0,
-    "ief": 2.2
+    "capacity": 22.0,
+    "cost100": 4.36,
+    "cost5": 219.0,
+    "ief": 1.97,
+    "vs_fit": 9.2
    }
   },
   {
    "brand": "Aeocky",
    "id": "aeocky-leo-pro-rcs50-y-n4-3-b-25",
    "name": "Aeocky LEO PRO-RCS50(Y)-N4-3(B)-25",
-   "rank": 5,
-   "score": 97.8,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4576900, retrieved 2026-11-01",
+   "rank": 7,
+   "score": 95.4,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Aeocky's store sells this certified set as the Leo-003 variant ($499.99, available when read 2026-11-04); Leo-003 is a model number certified for this product. Certified at 44.94 pints a day; the store markets a larger number.",
+    "seller": "Aeocky",
+    "source": "https://aeocky.com/products/leo-series-energy-most-efficient-dehumidifier-with-pump-for-basement",
+    "url": "https://aeocky.com/products/leo-series-energy-most-efficient-dehumidifier-with-pump-for-basement"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4576900, retrieved 2026-11-01; buy link https://aeocky.com/products/leo-series-energy-most-efficient-dehumidifier-with-pump-for-basement per https://aeocky.com/products/leo-series-energy-most-efficient-dehumidifier-with-pump-for-basement (2026-11-04)",
    "specs": {
     "capacity": 44.94,
-    "cost5": 398.0,
-    "ief": 2.21
+    "cost100": 3.89,
+    "cost5": 399.0,
+    "ief": 2.21,
+    "vs_fit": 8.4
    }
   },
   {
    "brand": "Aeocky",
    "id": "aeocky-rhea-pro-rcs50-y-n4-3-25",
    "name": "Aeocky RHEA PRO-RCS50(Y)-N4-3-25",
-   "rank": 6,
-   "score": 97.7,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4481294, retrieved 2026-11-01",
+   "rank": 8,
+   "score": 95.4,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Aeocky's store sells this certified set as the Rhea-003 variant ($499.99, available when read 2026-11-04); Rhea-003 is a model number certified for this product. Certified at 44.34 pints a day; the store markets a larger number.",
+    "seller": "Aeocky",
+    "source": "https://aeocky.com/products/rhea-series-energy-efficient-whole-house-dehumidifier-for-home",
+    "url": "https://aeocky.com/products/rhea-series-energy-efficient-whole-house-dehumidifier-for-home"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4481294, retrieved 2026-11-01; buy link https://aeocky.com/products/rhea-series-energy-efficient-whole-house-dehumidifier-for-home per https://aeocky.com/products/rhea-series-energy-efficient-whole-house-dehumidifier-for-home (2026-11-04)",
    "specs": {
     "capacity": 44.34,
-    "cost5": 392.0,
-    "ief": 2.21
+    "cost100": 3.89,
+    "cost5": 393.0,
+    "ief": 2.21,
+    "vs_fit": 8.4
    }
   },
   {
-   "brand": "AERIC",
-   "id": "aeric-aerd501p",
-   "name": "AERIC AERD501P",
-   "rank": 7,
-   "score": 94.3,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4005876, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 49.32,
-    "cost5": 456.0,
-    "ief": 2.1
-   }
-  },
-  {
-   "brand": "Arecovas",
-   "id": "arecovas-ar-df005",
-   "name": "Arecovas AR-DF005",
-   "rank": 8,
-   "score": 92.8,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4586595, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 32.0,
-    "cost5": 307.0,
-    "ief": 2.15
-   }
-  },
-  {
-   "brand": "Deciuu",
-   "id": "deciuu-libra-rcs32-y-n4-3",
-   "name": "Deciuu LIBRA-RCS32(Y)-N4-3",
+   "brand": "ALORAIR",
+   "buy_link": "https://thedryair.com/products/alorair-70-ppd-crawl-spaces-dehumidifier-size-for-1-000-sq-ft-with-drain-hose-helios-d35",
+   "id": "alorair-helios-d35",
+   "name": "ALORAIR Helios D35",
    "rank": 9,
-   "score": 92.0,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4015854, retrieved 2026-11-01",
+   "score": 95.1,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "AlorAir's page quotes a higher pints-per-day figure than the ENERGY STAR certified capacity shown here.",
+    "seller": "AlorAir",
+    "source": "https://www.alorair.com/product/alorair-helios-d35",
+    "url": "https://www.alorair.com/product/alorair-helios-d35"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4529039, retrieved 2026-11-01; buy link https://thedryair.com/products/alorair-70-ppd-crawl-spaces-dehumidifier-size-for-1-000-sq-ft-with-drain-hose-helios-d35 (checked 2026-11-03)",
    "specs": {
-    "capacity": 32.0,
-    "cost5": 303.0,
-    "ief": 2.13
+    "capacity": 24.0,
+    "cost100": 4.41,
+    "cost5": 241.0,
+    "ief": 1.95,
+    "vs_fit": 8.1
    }
   },
   {
-   "brand": "GARVEE",
-   "id": "garvee-sayram-rcs32-y-n4-3",
-   "name": "GARVEE SAYRAM-RCS32(Y)-N4-3",
+   "brand": "Nypeak",
+   "id": "nypeak-d076a",
+   "name": "Nypeak D076A",
    "rank": 10,
-   "score": 90.6,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4614594, retrieved 2026-11-01",
+   "score": 95.0,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (NYpeak, sold by NYpeak, in stock at $219.99 when read 2026-11-04) gives Model D076A and UPC 739067320003 in its item details, a certified UPC of this set (the set is also certified under the HUMILABS name). It is marketed as a Smart WiFi unit, while the certified record says not connected-capable.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0HGBKK38V",
+    "url": "https://www.amazon.com/dp/B0HGBKK38V"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4612895, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0HGBKK38V per https://www.amazon.com/dp/B0HGBKK38V (2026-11-04)",
    "specs": {
-    "capacity": 33.13,
-    "cost5": 311.0,
-    "ief": 2.09
-   }
-  },
-  {
-   "brand": "Aeocky",
-   "id": "aeocky-leo-rcs32-y-n4-3",
-   "name": "Aeocky LEO-RCS32(Y)-N4-3",
-   "rank": 11,
-   "score": 90.4,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4481293, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 32.0,
-    "cost5": 305.0,
-    "ief": 2.09
-   }
-  },
-  {
-   "brand": "Aeocky",
-   "id": "aeocky-rhea-rcs32-y-n4-3",
-   "name": "Aeocky RHEA-RCS32(Y)-N4-3",
-   "rank": 12,
-   "score": 90.4,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3994316, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 32.0,
-    "cost5": 308.0,
-    "ief": 2.09
-   }
-  },
-  {
-   "brand": "Vellgoo",
-   "id": "vellgoo-taurus-rcs32-y-n4-3",
-   "name": "Vellgoo TAURUS-RCS32(Y)-N4-3",
-   "rank": 13,
-   "score": 90.4,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 3629581, retrieved 2026-11-01",
-   "specs": {
-    "capacity": 32.0,
-    "cost5": 304.0,
-    "ief": 2.09
+    "capacity": 22.0,
+    "cost100": 4.41,
+    "cost5": 221.0,
+    "ief": 1.95,
+    "vs_fit": 8.1
    }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "method": "We took the portable ENERGY STAR dehumidifiers with the highest certified Integrated Energy Factor (IEF). The score is 90% IEF and 10% capacity; yearly energy use is not scored separately because it follows from capacity and IEF. The five-year electricity cost is shown for each (certified yearly energy use x current EIA U.S. average residential price x 5). Every model tied with the last one on the selection criterion is listed, so the cut never picks among equals.",
- "name": "The most energy-efficient dehumidifiers, ranked by certified efficiency",
+ "method": "We fitted two straight lines of certified IEF on certified capacity, one for portable spec sets up to 25 pints a day and one above (ENERGY STAR's efficiency classes up to 25 and from 25.01 to 50 pints a day, with IEF floors of 1.70 and 2.01 L/kWh), over every portable ENERGY STAR dehumidifier spec set certified at 12 pints a day or more (few certified sets and a unit-typo listing below that), then took the models furthest above their own class's line. The 25-pint step decides much of the order: from 25.01 pints the floor is 2.01, so a unit just above 25 pints that sits on that floor scores below its class line and can rank below a smaller unit with a lower IEF, even though it removes more water at a higher IEF; to compare across the two classes, use the cost per 100 pints column, which does not depend on the class. The score is that distance alone; raw IEF and capacity are shown, not scored. The five-year electricity cost is shown for each (yearly energy computed from certified capacity and IEF at DOE's 1,095 dehumidifying hours a year x current EIA U.S. average residential price x 5; we do not use the listed yearly figure because for some listings it does not match their own capacity and IEF).",
+ "name": "The most energy-efficient portable dehumidifiers against their ENERGY STAR class",
  "next_refresh": "2026-12-01",
  "publisher": "ByTheRank",
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
-  "best": 2.24,
-  "cut": 2.09,
-  "label": "Integrated Energy Factor",
-  "listed": 13,
-  "listings": 547,
+  "best": 13.7,
+  "cut": 8.1,
+  "excluded": [
+   {
+    "filter": "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day >= 12",
+    "n": 37,
+    "why": "below 12 pints a day (about the 5th percentile of all certified portable sets, 10.2, before this filter) the certified sets are few and include a unit-typo listing (Ludatido PD10C2-25 lists 1.91 pints, the same number as its IEF; its 264 kWh a year implies about 23), so they are left out of the class fits and the ranking"
+   }
+  ],
+  "label": "IEF vs its class line",
+  "listed": 10,
+  "listings": 510,
   "merge": "listings with identical certified values on all 11 reported fields",
-  "pool": 161,
+  "pool": 151,
+  "pool_unit": "distinct certified spec sets",
+  "recerts_collapsed": 5,
+  "recerts_kept_apart": 2,
   "tied_beyond_cut": 0,
-  "unit": "L/kWh"
+  "unit": "%"
  },
  "sources": [
   "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z",
-  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+  "https://www.energystar.gov/products/dehumidifiers/key_efficiency_criteria"
  ],
  "updated": "2026-11-01",
  "url": "https://bytherank.com/most-efficient-dehumidifiers/",
  "why_first": {
   "criteria": [
    {
-    "difference": 1.6,
-    "first_points": 90.0,
-    "first_value": 2.24,
-    "key": "ief",
-    "label": "Integrated Energy Factor",
-    "second_points": 88.4,
-    "second_value": 2.2,
-    "unit": "L/kWh",
-    "weight_pct": 90.0
-   },
-   {
-    "difference": -1.0,
-    "first_points": 9.0,
-    "first_value": 45.0,
-    "key": "capacity",
-    "label": "Certified capacity",
-    "second_points": 10.0,
-    "second_value": 49.86,
-    "unit": "pints/day",
-    "weight_pct": 10.0
+    "difference": 0.5,
+    "first_points": 100.0,
+    "first_value": 13.7,
+    "key": "vs_fit",
+    "label": "IEF vs same-class models",
+    "second_points": 99.5,
+    "second_value": 13.2,
+    "spread_points": 5.0,
+    "unit": "%",
+    "weight_pct": 100.0
    },
    {
     "difference": 0.0,
     "first_points": 0.0,
-    "first_value": 403.0,
+    "first_value": 2.05,
+    "key": "ief",
+    "label": "Integrated Energy Factor",
+    "second_points": 0.0,
+    "second_value": 2.04,
+    "spread_points": 0.0,
+    "unit": "L/kWh",
+    "weight_pct": 0.0
+   },
+   {
+    "difference": 0.0,
+    "first_points": 0.0,
+    "first_value": 24.5,
+    "key": "capacity",
+    "label": "Certified capacity",
+    "second_points": 0.0,
+    "second_value": 25.0,
+    "spread_points": 0.0,
+    "unit": "pints/day",
+    "weight_pct": 0.0
+   },
+   {
+    "difference": 0.0,
+    "first_points": 0.0,
+    "first_value": 234.0,
     "key": "cost5",
     "label": "5-year electricity cost",
     "second_points": 0.0,
-    "second_value": 458.0,
+    "second_value": 240.0,
+    "spread_points": 0.0,
+    "unit": "USD",
+    "weight_pct": 0.0
+   },
+   {
+    "difference": 0.0,
+    "first_points": 0.0,
+    "first_value": 4.19,
+    "key": "cost100",
+    "label": "Electricity cost per 100 pints removed",
+    "second_points": 0.0,
+    "second_value": 4.21,
+    "spread_points": 0.0,
     "unit": "USD",
     "weight_pct": 0.0
    }
   ],
   "deciding": {
-   "computed": false,
-   "first_value": 2.24,
-   "key": "ief",
-   "label": "Integrated Energy Factor",
+   "computed": true,
+   "first_value": 13.7,
+   "key": "vs_fit",
+   "label": "IEF vs same-class models",
    "retrieved": "2026-11-01",
-   "second_value": 2.2,
+   "second_value": 13.2,
    "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z"
   },
-  "first": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
-  "first_score": 99.0,
+  "first": "Avylo ADC018",
+  "first_score": 100.0,
   "flip": {
    "key": "capacity",
    "label": "Certified capacity",
-   "needed_pct": 15.5,
-   "now_pct": 10.0
+   "name": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
+   "needed_pct": 6.8,
+   "now_pct": 0.0
   },
   "headline_leader": null,
-  "margin": 0.6,
-  "second": "ZAFRO D026W-50Pt3M",
-  "second_score": 98.4,
+  "margin": 0.5,
+  "second": "Sweetcrispy AS-CSJ72XK-5WT-OL",
+  "second_score": 99.5,
   "ties": [
    {
     "names": [
-     "MegaLight PD-HPC750-WT",
-     "Waykar CTH150B"
+     "Aeocky LEO PRO-RCS50(Y)-N4-3(B)-25",
+     "Aeocky RHEA PRO-RCS50(Y)-N4-3-25"
     ],
-    "rank": "=3",
-    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
-    "score": 98.3
-   },
-   {
-    "names": [
-     "Aeocky LEO-RCS32(Y)-N4-3",
-     "Aeocky RHEA-RCS32(Y)-N4-3",
-     "Vellgoo TAURUS-RCS32(Y)-N4-3"
-    ],
-    "rank": "=11",
-    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
-    "score": 90.4
+    "rank": "=7",
+    "rule": "equal scores share a rank; the scores differ only after the first decimal (95.368, 95.365 unrounded), and within the rank products are listed by that unrounded score",
+    "score": 95.4
    }
   ]
  }

@@ -3,8 +3,8 @@
   "decile": 391.0,
   "higher_better": true,
   "label": "Smoke CADR",
-  "median": 151.0,
-  "pool": 36,
+  "median": 150.0,
+  "pool": 35,
   "top_beats_pct": 97,
   "top_name": "Soleusair GA1-W",
   "top_value": 523.0,
@@ -16,7 +16,7 @@
    "key": "smoke_cadr",
    "label": "Smoke CADR",
    "unit": "cfm",
-   "weight": 0.7
+   "weight": 0.8
   },
   {
    "direction": "lower",
@@ -24,7 +24,7 @@
    "key": "cost5",
    "label": "5-year electricity cost",
    "unit": "USD",
-   "weight": 0.3
+   "weight": 0.2
   }
  ],
  "filters": [
@@ -36,184 +36,421 @@
  ],
  "items": [
   {
+   "best_for": "fast cleaning you can schedule from a phone",
+   "best_for_key": "smoke_cadr",
    "brand": "Soleusair",
    "id": "soleusair-ga1-w",
    "name": "Soleusair GA1-W",
    "rank": 1,
-   "score": 82.6,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4046703, retrieved 2026-11-01",
+   "score": 85.7,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Amazon's listing (sold by Soleus Air International, in stock at $499.99 when read 2026-11-04) shows GA1-W in its item details. The listing markets 4,145 sq ft; the ENERGY STAR record certifies 811 sq ft.",
+    "seller": "Amazon (Soleus Air International)",
+    "source": "https://www.amazon.com/dp/B0HJ1JCHGT",
+    "url": "https://www.amazon.com/dp/B0HJ1JCHGT"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4046703, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0HJ1JCHGT per https://www.amazon.com/dp/B0HJ1JCHGT (2026-11-04)",
    "specs": {
     "cost5": 420.0,
     "smoke_cadr": 523.0
    }
   },
   {
-   "brand": "Coway",
-   "id": "coway-airmega-450s",
-   "name": "Coway Airmega 450S",
-   "rank": 2,
-   "score": 73.9,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4005914, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 362.0,
-    "smoke_cadr": 443.0
-   }
-  },
-  {
-   "brand": "LEVOIT",
-   "id": "levoit-lap-c511s-wus",
-   "name": "LEVOIT LAP-C511S-WUS",
-   "rank": 3,
-   "score": 70.3,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4682774, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 176.0,
-    "smoke_cadr": 301.0
-   }
-  },
-  {
-   "brand": "IQAir",
-   "id": "iqair-atem-e",
-   "name": "IQAir ATEM E",
-   "rank": 4,
-   "score": 69.1,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4016351, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 268.0,
-    "smoke_cadr": 369.0
-   }
-  },
-  {
-   "brand": "HealthWay",
-   "id": "healthway-max500",
-   "name": "HealthWay MAX500",
-   "rank": 5,
-   "score": 68.8,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4701214, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 390.0,
-    "smoke_cadr": 413.0
-   }
-  },
-  {
+   "best_for": "fast cleaning you can schedule from a phone",
+   "best_for_key": "smoke_cadr",
    "brand": "LEVOIT",
    "id": "levoit-lap-c601s-wus",
    "name": "LEVOIT LAP-C601S-WUS",
-   "rank": 6,
-   "score": 67.4,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020853, retrieved 2026-11-01",
+   "rank": 2,
+   "score": 66.6,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Levoit sells it as the Core 600S-P (Model LAP-C601S-WUS).",
+    "seller": "Levoit",
+    "source": "https://levoit.com/products/core-600s-p-smart-air-purifier",
+    "url": "https://levoit.com/products/core-600s-p-smart-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020853, retrieved 2026-11-01; buy link https://levoit.com/products/core-600s-p-smart-air-purifier per https://levoit.com/products/core-600s-p-smart-air-purifier (2026-11-03)",
    "specs": {
     "cost5": 351.0,
     "smoke_cadr": 391.0
    }
   },
   {
-   "brand": "Midea",
-   "id": "purecode-par001-kj600g-rx600a-energy-star-4439585",
-   "name": "PURECODE PAR001 [KJ600G-RX600A] [ENERGY STAR #4439585]",
-   "rank": 7,
-   "score": 66.0,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439585, retrieved 2026-11-01",
+   "best_for": "fast cleaning you can schedule from a phone",
+   "best_for_key": "smoke_cadr",
+   "brand": "LEVOIT",
+   "id": "levoit-lap-c511s-wus",
+   "name": "LEVOIT LAP-C511S-WUS",
+   "rank": 3,
+   "score": 59.7,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Levoit sells it as the Eleva 500X (Model LAP-C511S-WUS).",
+    "seller": "Levoit",
+    "source": "https://levoit.com/products/eleva-500x-smart-air-purifier",
+    "url": "https://levoit.com/products/eleva-500x-smart-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4682774, retrieved 2026-11-01; buy link https://levoit.com/products/eleva-500x-smart-air-purifier per https://levoit.com/products/eleva-500x-smart-air-purifier (2026-11-03)",
    "specs": {
-    "cost5": 310.0,
-    "smoke_cadr": 366.0
-   }
-  },
-  {
-   "brand": "Midea",
-   "id": "purecode-par001-kj600g-rx600a-energy-star-4687034",
-   "name": "PURECODE PAR001 [KJ600G-RX600A] [ENERGY STAR #4687034]",
-   "rank": 8,
-   "score": 66.0,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4687034, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 310.0,
-    "smoke_cadr": 366.0
-   }
-  },
-  {
-   "brand": "Midea",
-   "id": "midea-caf-z85us-w",
-   "name": "Midea CAF-Z85US (W)",
-   "rank": 9,
-   "score": 64.2,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439569, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 235.0,
-    "smoke_cadr": 312.0
+    "cost5": 176.0,
+    "smoke_cadr": 301.0
    }
   },
   {
    "brand": "Dreo",
    "id": "dreo-dr-hap003s",
    "name": "Dreo DR-HAP003S",
-   "rank": 10,
-   "score": 60.0,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4577082, retrieved 2026-11-01",
+   "rank": 4,
+   "score": 54.3,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Best Buy lists it as the Macro Max S (model DR-HAP003S).",
+    "seller": "Best Buy",
+    "source": "https://www.bestbuy.com/product/dreo-423-sq-ft-smart-air-purifier-hepa-filter-marco-max-s-for-tabletop-auto-mode-wi-fi-voice-control-in-silver/J3GW9RC27X",
+    "url": "https://www.bestbuy.com/product/dreo-423-sq-ft-smart-air-purifier-hepa-filter-marco-max-s-for-tabletop-auto-mode-wi-fi-voice-control-in-silver/J3GW9RC27X"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4577082, retrieved 2026-11-01; buy link https://www.bestbuy.com/product/dreo-423-sq-ft-smart-air-purifier-hepa-filter-marco-max-s-for-tabletop-auto-mode-wi-fi-voice-control-in-silver/J3GW9RC27X per https://www.bestbuy.com/product/dreo-423-sq-ft-smart-air-purifier-hepa-filter-marco-max-s-for-tabletop-auto-mode-wi-fi-voice-control-in-silver/J3GW9RC27X (2026-11-03)",
    "specs": {
     "cost5": 256.0,
     "smoke_cadr": 294.0
    }
   },
   {
-   "brand": "CleanForce",
-   "id": "cleanforce-cp-rainbow",
-   "name": "CleanForce CP-Rainbow",
-   "rank": 11,
-   "score": 56.5,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4528833, retrieved 2026-11-01",
+   "best_for": "app scheduling at a running cost below this page's average",
+   "best_for_key": "cost5",
+   "brand": "Dreame",
+   "id": "dreame-cvf20b",
+   "name": "Dreame PM NEO (certified as DREAME CVF20B)",
+   "rank": 5,
+   "score": 52.0,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "brand": "Dreame",
+    "name": "PM NEO",
+    "note": "The Amazon listing (Dreame Smart Air Purifier PM NEO, shipped and sold by Amazon.com, in stock at $459.99 when read 2026-11-04) gives Brand dreame, Model CVF20B, Model Name PM NEO and UPC 810142565011 in its item details, the certified UPC. The listing markets a CADR of 177 CFM; ENERGY STAR certifies the figure shown here.",
+    "source": "https://www.amazon.com/dp/B0H5CB2RRF",
+    "url": "https://www.amazon.com/dp/B0H5CB2RRF"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4614554, retrieved 2026-11-01; sold as Dreame PM NEO per https://www.amazon.com/dp/B0H5CB2RRF (2026-11-04)",
    "specs": {
-    "cost5": 281.0,
-    "smoke_cadr": 282.0
+    "cost5": 135.0,
+    "smoke_cadr": 224.0
+   }
+  },
+  {
+   "brand": "Winix",
+   "id": "winix-at40",
+   "name": "Winix AT40",
+   "rank": 6,
+   "score": 50.2,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "In stock at Sylvane at $249.99 when read 2026-11-04 (it was backordered the day before).",
+    "seller": "Sylvane",
+    "source": "https://www.sylvane.com/products/winix-at40-all-in-one-4-stage-true-hepa-wi-fi-large-room-air-purifier",
+    "url": "https://www.sylvane.com/products/winix-at40-all-in-one-4-stage-true-hepa-wi-fi-large-room-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4618154, retrieved 2026-11-01; buy link https://www.sylvane.com/products/winix-at40-all-in-one-4-stage-true-hepa-wi-fi-large-room-air-purifier per https://www.sylvane.com/products/winix-at40-all-in-one-4-stage-true-hepa-wi-fi-large-room-air-purifier (2026-11-04)",
+   "specs": {
+    "cost5": 247.0,
+    "smoke_cadr": 265.0
+   }
+  },
+  {
+   "brand": "Frigidaire",
+   "id": "frigidaire-fhap2040a1",
+   "name": "Frigidaire FHAP2040A1",
+   "rank": 7,
+   "score": 49.1,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "seller": "AJ Madison",
+    "source": "https://www.ajmadison.com/cgi-bin/ajmadison/FHAP2040A1.html",
+    "url": "https://www.ajmadison.com/cgi-bin/ajmadison/FHAP2040A1.html"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4510048, retrieved 2026-11-01; buy link https://www.ajmadison.com/cgi-bin/ajmadison/FHAP2040A1.html per https://www.ajmadison.com/cgi-bin/ajmadison/FHAP2040A1.html (2026-11-03)",
+   "specs": {
+    "cost5": 193.0,
+    "smoke_cadr": 240.0
+   }
+  },
+  {
+   "best_for": "app scheduling at a running cost below this page's average",
+   "best_for_key": "cost5",
+   "brand": "LEVOIT",
+   "id": "levoit-lap-c311s-wusr",
+   "name": "LEVOIT LAP-C311S-WUSR",
+   "rank": 8,
+   "score": 46.8,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "In stock at Best Buy at $99.99 (comparable value $129.99) with Add to Cart when read 2026-11-04: Levoit Eleva 320 Smart Air Purifier, Model LAP-C311S-WUSR, SKU 6686782.",
+    "seller": "Best Buy",
+    "source": "https://www.bestbuy.com/product/levoit-eleva-320-air-purifier-for-rooms-up-to-1313-sq-ft-white/J3GW8HQSXP",
+    "url": "https://www.bestbuy.com/product/levoit-eleva-320-air-purifier-for-rooms-up-to-1313-sq-ft-white/J3GW8HQSXP"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4639114, retrieved 2026-11-01; buy link https://www.bestbuy.com/product/levoit-eleva-320-air-purifier-for-rooms-up-to-1313-sq-ft-white/J3GW8HQSXP per https://www.bestbuy.com/product/levoit-eleva-320-air-purifier-for-rooms-up-to-1313-sq-ft-white/J3GW8HQSXP (2026-11-04)",
+   "specs": {
+    "cost5": 120.0,
+    "smoke_cadr": 175.0
+   }
+  },
+  {
+   "brand": "LEVOIT",
+   "id": "levoit-core-400s",
+   "name": "LEVOIT Core 400S",
+   "rank": 9,
+   "score": 46.5,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "In stock at Levoit's own store at $189.99 when read 2026-11-04, sold as the Core 400S-P: its barcode (810043373685) is this set's certified UPC. Amazon's Core 400S page (B0B93SJ2XT) reads 'Currently unavailable', and the marketed room size differs from the certified 358 sq ft.",
+    "seller": "Levoit",
+    "source": "https://levoit.com/products/core-400s-p-smart-air-purifier",
+    "url": "https://levoit.com/products/core-400s-p-smart-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4027325, retrieved 2026-11-01; buy link https://levoit.com/products/core-400s-p-smart-air-purifier per https://levoit.com/products/core-400s-p-smart-air-purifier (2026-11-04)",
+   "specs": {
+    "cost5": 215.0,
+    "smoke_cadr": 231.0
+   }
+  },
+  {
+   "best_for": "app scheduling at a running cost below this page's average",
+   "best_for_key": "cost5",
+   "brand": "Alen",
+   "id": "alen-breathesmart-35i",
+   "name": "Alen BreatheSmart 35i",
+   "rank": 10,
+   "score": 42.4,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "seller": "Alen",
+    "source": "https://alen.com/products/alen-breathesmart-35i-air-purifier",
+    "url": "https://alen.com/products/alen-breathesmart-35i-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481445, retrieved 2026-11-01; buy link https://alen.com/products/alen-breathesmart-35i-air-purifier per https://alen.com/products/alen-breathesmart-35i-air-purifier (2026-11-03)",
+   "specs": {
+    "cost5": 123.0,
+    "smoke_cadr": 150.0
+   }
+  },
+  {
+   "brand": "Dreo",
+   "id": "dreo-dr-hap009",
+   "name": "Dreo DR-HAP009S (certified as Dreo DR-HAP009)",
+   "rank": 11,
+   "score": 40.5,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "brand": "Dreo",
+    "name": "DR-HAP009S",
+    "note": "Dreo sells this certified set as the Air Purifier 539S (DR-HAP009S, with Wi-Fi) and markets the 539 (DR-HAP009) without Wi-Fi, though its certification lists Wi-Fi. The link goes to the 539S.",
+    "source": "https://www.dreo.com/products/air-purifier-539s",
+    "url": "https://www.dreo.com/products/air-purifier-539s"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586495, retrieved 2026-11-01; sold as Dreo DR-HAP009S per https://www.dreo.com/products/air-purifier-539s (2026-11-03)",
+   "specs": {
+    "cost5": 147.0,
+    "smoke_cadr": 158.0
    }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "method": "We kept zero-ozone ENERGY STAR air purifiers certified as connected-capable (network control) and compared those with the highest smoke CADR, weighing smoke CADR and the five-year electricity cost (certified yearly energy use x current EIA U.S. average residential price x 5). Every model tied with the last one on the selection criterion is listed, so the cut never picks among equals.",
+ "method": "We kept zero-ozone ENERGY STAR air purifiers certified as connected-capable (network control) and compared those with the highest smoke CADR, weighing smoke CADR and the five-year electricity cost (certified yearly energy use x current EIA U.S. average residential price x 5). Smoke CADR carries 80% of the score and five-year cost 20%, as on the small-rooms page.",
  "name": "Best smart Wi-Fi air purifiers, ranked by certified data",
  "next_refresh": "2026-12-01",
  "publisher": "ByTheRank",
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 523.0,
-  "cut": 282.0,
+  "cut": 150.0,
+  "excluded": [
+   {
+    "examples": [
+     {
+      "name": "Winix Tower XQ",
+      "select": 461.0,
+      "value": "1 ppb ozone"
+     },
+     {
+      "name": "Blueair 3613111100",
+      "select": 443.0,
+      "value": "2 ppb ozone"
+     },
+     {
+      "name": "LEVOIT LAP-C601S-WUSR",
+      "select": 394.0,
+      "value": "2 ppb ozone"
+     }
+    ],
+    "filter": "ozone_emissions_ppb == 0",
+    "n": 23,
+    "side": "highest",
+    "why": "conservative choice: only units that report 0 ppb ozone in certification; UL's zero-ozone test (UL 2998) cannot quantify low readings, so this also drops units whose small non-zero reports are not reliably different from 0"
+   }
+  ],
   "label": "Smoke CADR",
   "listed": 11,
   "listings": 53,
   "merge": "listings with identical certified values on all 23 reported fields",
-  "pool": 36,
+  "not_in_stock": 2,
+  "pool": 35,
+  "pool_unit": "distinct certified spec sets",
+  "recerts_collapsed": 3,
   "tied_beyond_cut": 0,
-  "unit": "cfm"
+  "unit": "cfm",
+  "unranked": 7
  },
  "sources": [
   "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
-  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+  "https://www.ul.com/services/zero-ozone-emissions-validation"
+ ],
+ "unranked": [
+  {
+   "as_of": "2026-11-03",
+   "ids": [
+    "Airmega 450S",
+    "AP-2524C",
+    "AP-2524C_BG",
+    "AP-2524C_WT"
+   ],
+   "name": "Coway Airmega 450S",
+   "note": "No listing we could confirm as of 2026-11-03. Coway's store sells the Airmega 450 (AP-2524B), not the Wi-Fi 450S; its own search for 450S finds no product. Searched: Airmega 450S, AP-2524C, AP-2524C_WT, AP-2524C_BG, 826439000882, 826439000899.",
+   "specs": {
+    "cost5": 362.0,
+    "smoke_cadr": 443.0
+   },
+   "value": 443.0
+  },
+  {
+   "aliases": [
+    "Intellipure MAX500"
+   ],
+   "as_of": "2026-11-04",
+   "ids": [
+    "MAX500"
+   ],
+   "listing_state": "not_in_stock",
+   "name": "HealthWay MAX500",
+   "note": "No in-stock listing we could confirm as of 2026-11-04. HealthWay's own page for the ZeroAir Max 500 (healthway.com/products/zeroair-max-500) shows a logged-out visitor only a customer-login prompt, with no product, price or cart, so a reader cannot open a listing. Its product feed shows SKU ZAMAX500 at $1,600.00, which a reader never sees.",
+   "specs": {
+    "cost5": 390.0,
+    "smoke_cadr": 413.0
+   },
+   "value": 413.0
+  },
+  {
+   "as_of": "2026-11-03",
+   "ids": [
+    "ATEM E"
+   ],
+   "name": "IQAir ATEM E",
+   "note": "No listing we could confirm as of 2026-11-03. IQAir's Atem Earth page gives no model number or CADR that matches this certification. Searched: ATEM E.",
+   "specs": {
+    "cost5": 268.0,
+    "smoke_cadr": 369.0
+   },
+   "value": 369.0
+  },
+  {
+   "aliases": [
+    "PURECODE PAR001",
+    "Sharp KJ600F-LM1-SH"
+   ],
+   "as_of": "2026-11-03",
+   "ids": [
+    "KJ600F-LM1-SH",
+    "KJ600G-RX600A",
+    "PAR001",
+    "SAP5682SAW"
+   ],
+   "name": "Midea KJ600G-RX600A",
+   "note": "No listing we could confirm as of 2026-11-03. Searched: KJ600G-RX600A, KJ600F-LM1-SH, PAR001, SAP5682SAW.",
+   "specs": {
+    "cost5": 310.0,
+    "smoke_cadr": 366.0
+   },
+   "value": 366.0
+  },
+  {
+   "aliases": [
+    "Toshiba CAF-Z85US (W)"
+   ],
+   "as_of": "2026-11-04",
+   "ids": [
+    "CAF-Z85US"
+   ],
+   "name": "Midea CAF-Z85US (W)",
+   "note": "No in-stock listing we could confirm as of 2026-11-04. Reviews show this model number under the Toshiba brand; Target lists the Toshiba H13 3-Speed Smart True HEPA Air Purifier (483 sq ft, white) at $225.99, out of stock (read 2026-11-04), and an Amazon search for CAF-Z85US finds none. Searched: W, CAF-Z85US (W), CAF-Z85US.",
+   "specs": {
+    "cost5": 235.0,
+    "smoke_cadr": 312.0
+   },
+   "value": 312.0
+  },
+  {
+   "as_of": "2026-11-03",
+   "ids": [
+    "CP-Rainbow"
+   ],
+   "name": "CleanForce CP-Rainbow",
+   "note": "No listing we could confirm as of 2026-11-03. Searched: CP-Rainbow.",
+   "specs": {
+    "cost5": 281.0,
+    "smoke_cadr": 282.0
+   },
+   "value": 282.0
+  },
+  {
+   "aliases": [
+    "Dreo Home DR-HAP005AS"
+   ],
+   "as_of": "2026-11-03",
+   "ids": [
+    "DR-HAP005AS",
+    "DR-HAP005S",
+    "DWAP05AS",
+    "DWAP05S"
+   ],
+   "name": "Dreo DR-HAP005AS",
+   "note": "No retail listing that identifies this set found as of 2026-11-03. Stores list a DR-HAP005S, a certified id shared by sets with different smoke CADR, and no store page shows which set it is. Searched: DR-HAP005AS, DR-HAP005S, DWAP05AS, DWAP05S.",
+   "specs": {
+    "cost5": 133.0,
+    "smoke_cadr": 152.0
+   },
+   "value": 152.0
+  }
  ],
  "updated": "2026-11-01",
  "url": "https://bytherank.com/best-smart-air-purifiers/",
  "why_first": {
   "criteria": [
    {
-    "difference": 10.7,
-    "first_points": 70.0,
+    "difference": 20.2,
+    "first_points": 80.0,
     "first_value": 523.0,
     "key": "smoke_cadr",
     "label": "Smoke CADR",
-    "second_points": 59.3,
-    "second_value": 443.0,
+    "second_points": 59.8,
+    "second_value": 391.0,
+    "spread_points": 57.1,
     "unit": "cfm",
-    "weight_pct": 70.0
+    "weight_pct": 80.0
    },
    {
-    "difference": -2.0,
-    "first_points": 12.6,
+    "difference": -1.1,
+    "first_points": 5.7,
     "first_value": 420.0,
     "key": "cost5",
     "label": "5-year electricity cost",
-    "second_points": 14.6,
-    "second_value": 362.0,
+    "second_points": 6.8,
+    "second_value": 351.0,
+    "spread_points": 14.3,
     "unit": "USD",
-    "weight_pct": 30.0
+    "weight_pct": 20.0
    }
   ],
   "deciding": {
@@ -222,31 +459,22 @@
    "key": "smoke_cadr",
    "label": "Smoke CADR",
    "retrieved": "2026-11-01",
-   "second_value": 443.0,
+   "second_value": 391.0,
    "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6"
   },
   "first": "Soleusair GA1-W",
-  "first_score": 82.6,
+  "first_score": 85.7,
   "flip": {
    "key": "cost5",
    "label": "5-year electricity cost",
-   "needed_pct": 69.5,
-   "now_pct": 30.0
+   "name": "LEVOIT LAP-C311S-WUSR",
+   "needed_pct": 48.2,
+   "now_pct": 20.0
   },
   "headline_leader": null,
-  "margin": 8.7,
-  "second": "Coway Airmega 450S",
-  "second_score": 73.9,
-  "ties": [
-   {
-    "names": [
-     "PURECODE PAR001 [KJ600G-RX600A] [ENERGY STAR #4439585]",
-     "PURECODE PAR001 [KJ600G-RX600A] [ENERGY STAR #4687034]"
-    ],
-    "rank": "=7",
-    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
-    "score": 66.0
-   }
-  ]
+  "margin": 19.1,
+  "second": "LEVOIT LAP-C601S-WUS",
+  "second_score": 66.6,
+  "ties": []
  }
 }

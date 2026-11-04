@@ -13,9 +13,80 @@
   "refrigerant_type",
   "whole_home_dehumidifier_case_volume_ft3"
  ],
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "license_name": "CC BY 4.0",
+ "license_note": "our counts and tables: CC BY 4.0; the underlying certified values: U.S. government work (public domain)",
+ "next_refresh": "2026-12-01",
  "retrieved": "2026-11-01",
  "sets": [
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "CONCETTA": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "DUMOS": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "Dr. Prepare": [
+     "DDH20LF"
+    ],
+    "Gianna": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "HUMILABS": [
+     "OL20-D068Q"
+    ],
+    "IULULU": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "JIOABL": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "KMFurnila": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "Kinetheme": [
+     "KT1415DH50WT"
+    ],
+    "MANASTIN": [
+     "OL16-D068FFN2B1/FE",
+     "T-DH26-1415-50WT"
+    ],
+    "NEWBULIG": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "Nepsam": [
+     "NS1415DH50WT"
+    ],
+    "OLIXIS": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "Patiosunny": [
+     "PS1415DH50WT"
+    ],
+    "SMUG": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "SUMELL": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "Sweetcrispy": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "TEHANLD": [
+     "TH1415DH50WT"
+    ],
+    "UrbanSync": [
+     "US1415DH50WT"
+    ],
+    "ZUNMOS": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ],
+    "edx": [
+     "AS-CSJ72XK-4D5WT-OL"
+    ]
+   },
    "brand_roots": [
     "CONCETTA",
     "DR",
@@ -100,6 +171,18 @@
     "4675019",
     "4675020"
    ],
+   "model_numbers": [
+    "AS-CSJ72XK-4D5WT-OL",
+    "DDH20LF",
+    "KT1415DH50WT",
+    "NS1415DH50WT",
+    "OL16-D068FFN2B1/FE",
+    "OL20-D068Q",
+    "PS1415DH50WT",
+    "T-DH26-1415-50WT",
+    "TH1415DH50WT",
+    "US1415DH50WT"
+   ],
    "models": 10,
    "partners": [
     "FOCUS FURNITURE INTERNATIONAL INC",
@@ -109,6 +192,63 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "CONCETTA": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "DUMOS": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "Dr. Prepare": [
+     "DDH12LA"
+    ],
+    "Gianna": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "IULULU": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "JIOABL": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "KEGIAN": [
+     "KE-HY9DE003",
+     "KE-HY9DE003-W"
+    ],
+    "KMFurnila": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "Mountman": [
+     "MM-HY9DE003",
+     "MM-HY9DE003-W"
+    ],
+    "NEWBULIG": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "OLIXIS": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "SMUG": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "SUMELL": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "Sweetcrispy": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "Uthfy": [
+     "HY9DE003",
+     "HY9DE003-W"
+    ],
+    "ZUNMOS": [
+     "AS-CSJ72XK-2WT-OL"
+    ],
+    "edx": [
+     "AS-CSJ72XK-2WT-OL"
+    ]
+   },
    "brand_roots": [
     "CONCETTA",
     "DR",
@@ -183,6 +323,16 @@
     "4714838",
     "4714839"
    ],
+   "model_numbers": [
+    "AS-CSJ72XK-2WT-OL",
+    "DDH12LA",
+    "HY9DE003",
+    "HY9DE003-W",
+    "KE-HY9DE003",
+    "KE-HY9DE003-W",
+    "MM-HY9DE003",
+    "MM-HY9DE003-W"
+   ],
    "models": 8,
    "partners": [
     "Ningbo Heyu Trade Co., Ltd",
@@ -191,8 +341,92 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Fehom": [
+     "YDZ-80",
+     "YDY-80",
+     "YDG-80",
+     "YDW-80",
+     "YDA-80"
+    ],
+    "KESNOS": [
+     "YDZ-80",
+     "YDY-80",
+     "YDG-80",
+     "YDW-80",
+     "YDA-80"
+    ],
+    "Shinco": [
+     "YDZ-24P/S6",
+     "YDA-24P/S6",
+     "YDZ1-24P/6",
+     "SDZ1-80P",
+     "UDZ1-80P",
+     "YDN-24P/6",
+     "YDN1-24P/S6",
+     "YDL-24P/6",
+     "YDZ-25P/S6",
+     "YDA-25P/S6",
+     "YDZ1-25P/6",
+     "YDN-25P/6",
+     "YDN1-25P/S6",
+     "YDL-25P/6"
+    ],
+    "UHOME": [
+     "YDZ-24P/S6",
+     "YDA-24P/S6",
+     "YDZ1-24P/6",
+     "SDZ1-80P",
+     "UDZ1-80P",
+     "YDN-24P/6",
+     "YDN1-24P/S6",
+     "YDL-24P/6",
+     "YDZ-25P/S6",
+     "YDA-25P/S6",
+     "YDZ1-25P/6",
+     "YDN-25P/6",
+     "YDN1-25P/S6",
+     "YDL-25P/6"
+    ],
+    "Waykar": [
+     "YDZ-80",
+     "YDY-80",
+     "YDG-80",
+     "YDW-80",
+     "YDA-80"
+    ],
+    "YAUFEY": [
+     "YDZ-80",
+     "YDY-80",
+     "YDG-80",
+     "YDW-80",
+     "YDA-80"
+    ],
+    "Yoau": [
+     "YDZ-24P/S6",
+     "YDA-24P/S6",
+     "YDZ1-24P/6",
+     "SDZ1-80P",
+     "UDZ1-80P",
+     "YDN-24P/6",
+     "YDN1-24P/S6",
+     "YDL-24P/6",
+     "YDZ-25P/S6",
+     "YDA-25P/S6",
+     "YDZ1-25P/6",
+     "YDN-25P/6",
+     "YDN1-25P/S6",
+     "YDL-25P/6"
+    ]
+   },
    "brand_roots": [
+    "FEHOM",
+    "KESNOS",
+    "SHINCO",
+    "UHOME",
     "WAYKAR",
+    "YAUFEY",
     "YOAU"
    ],
    "brands": [
@@ -235,6 +469,27 @@
     "4510156",
     "4510157"
    ],
+   "model_numbers": [
+    "SDZ1-80P",
+    "UDZ1-80P",
+    "YDA-24P/S6",
+    "YDA-25P/S6",
+    "YDA-80",
+    "YDG-80",
+    "YDL-24P/6",
+    "YDL-25P/6",
+    "YDN-24P/6",
+    "YDN-25P/6",
+    "YDN1-24P/S6",
+    "YDN1-25P/S6",
+    "YDW-80",
+    "YDY-80",
+    "YDZ-24P/S6",
+    "YDZ-25P/S6",
+    "YDZ-80",
+    "YDZ1-24P/6",
+    "YDZ1-25P/6"
+   ],
    "models": 19,
    "partners": [
     "HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",
@@ -242,6 +497,31 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Hisense": [
+     "DH5026KP1G",
+     "DH5026K1W",
+     "DHPA5026",
+     "DHMA5026",
+     "DH5023KXP",
+     "OSD5026",
+     "OSD5026P",
+     "AZHD50",
+     "ADH50K26",
+     "ADH50KP26"
+    ],
+    "Noma": [
+     "043-8849-2",
+     "043-0755-2"
+    ],
+    "RONA": [
+     "DH5026RPB"
+    ],
+    "fridgemaster": [
+     "FMDH50PJX"
+    ]
+   },
    "brand_roots": [
     "FRIDGEMASTER",
     "HISENSE",
@@ -284,14 +564,95 @@
     "4519596",
     "4519597"
    ],
+   "model_numbers": [
+    "043-0755-2",
+    "043-8849-2",
+    "ADH50K26",
+    "ADH50KP26",
+    "AZHD50",
+    "DH5023KXP",
+    "DH5026K1W",
+    "DH5026KP1G",
+    "DH5026RPB",
+    "DHMA5026",
+    "DHPA5026",
+    "FMDH50PJX",
+    "OSD5026",
+    "OSD5026P"
+   ],
    "models": 14,
    "partners": [
     "Canadian Tire",
     "Hisense (Guangdong) Air Conditioning Co. Ltd",
     "RONA Inc."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-35504e00c1": [
+     "annual energy consumption kWh per year: this 526, that 520",
+     "connected capable: this No, that Yes",
+     "refrigerant charge oz: this 4.8, that 6"
+    ],
+    "cs-8629243a41": [
+     "connected capable: this No, that Yes",
+     "connected features: this not reported, that Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+     "connects using: this not reported, that Wi-Fi"
+    ],
+    "cs-bf2ac2cd51": [
+     "annual energy consumption kWh per year: this 526, that 520",
+     "connected capable: this No, that Yes",
+     "connects using: this not reported, that Wi-Fi",
+     "refrigerant charge oz: this 4.8, that 6"
+    ],
+    "cs-c745ebc7b6": [
+     "annual energy consumption kWh per year: this 526, that 519",
+     "refrigerant charge oz: this 4.8, that 6"
+    ],
+    "cs-d52152f26c": [
+     "annual energy consumption kWh per year: this 526, that 525",
+     "refrigerant charge oz: this 4.8, that 5.3"
+    ],
+    "cs-e85171a761": [
+     "annual energy consumption kWh per year: this 526, that 512",
+     "refrigerant charge oz: this 4.8, that 6"
+    ],
+    "cs-f07f711b27": [
+     "annual energy consumption kWh per year: this 526, that 520",
+     "refrigerant charge oz: this 4.8, that 6"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "BLACK+DECKER": [
+     "BDM22WCDA"
+    ],
+    "Danby": [
+     "DDR022BSWDB"
+    ],
+    "For living": [
+     "143-0082-4"
+    ],
+    "Midea": [
+     "MDUDA-22AEN8-BA7N",
+     "MDUDA-22AEN8-BA7",
+     "MAD22S1AWWT",
+     "MAD22S1BWWT",
+     "MAD22S1CWWT",
+     "MDA22C4BWWCM"
+    ],
+    "OMNI MAX": [
+     "ODA22M1WGAHW"
+    ],
+    "PELONIS": [
+     "PAD22C1DWT",
+     "PAD22C1DWTS"
+    ],
+    "Vissani": [
+     "VADA22A4HWT",
+     "VADA22A5HWT"
+    ]
+   },
    "brand_roots": [
     "BLACKDECKER",
     "DANBY",
@@ -340,6 +701,22 @@
     "4518589",
     "4570006"
    ],
+   "model_numbers": [
+    "143-0082-4",
+    "BDM22WCDA",
+    "DDR022BSWDB",
+    "MAD22S1AWWT",
+    "MAD22S1BWWT",
+    "MAD22S1CWWT",
+    "MDA22C4BWWCM",
+    "MDUDA-22AEN8-BA7",
+    "MDUDA-22AEN8-BA7N",
+    "ODA22M1WGAHW",
+    "PAD22C1DWT",
+    "PAD22C1DWTS",
+    "VADA22A4HWT",
+    "VADA22A5HWT"
+   ],
    "models": 14,
    "partners": [
     "Canadian Tire",
@@ -348,9 +725,35 @@
     "Home Hardware Stores Limited",
     "The Home Depot",
     "W Appliance Company, LLC"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-150a7eb223": [
+     "refrigerant charge oz: this 3.5, that 3.4"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Airecoler": [
+     "Atlas T70",
+     "Atlas TP70",
+     "Stellar S10",
+     "Stellar SP10",
+     "Stellar S10H",
+     "Stellar SP10H"
+    ],
+    "MOISWELL": [
+     "Defender ME-7",
+     "Defender ME-7S",
+     "Defender S60",
+     "Defender SP60",
+     "Defender M7R",
+     "Defender MS7R",
+     "Defender S60R",
+     "Defender SP60R"
+    ]
+   },
    "brand_roots": [
     "AIRECOLER",
     "MOISWELL"
@@ -389,6 +792,22 @@
     "4576728",
     "4576729"
    ],
+   "model_numbers": [
+    "Atlas T70",
+    "Atlas TP70",
+    "Defender M7R",
+    "Defender ME-7",
+    "Defender ME-7S",
+    "Defender MS7R",
+    "Defender S60",
+    "Defender S60R",
+    "Defender SP60",
+    "Defender SP60R",
+    "Stellar S10",
+    "Stellar S10H",
+    "Stellar SP10",
+    "Stellar SP10H"
+   ],
    "models": 14,
    "partners": [
     "INOFIASLEEP INC.",
@@ -396,6 +815,92 @@
    ]
   },
   {
+   "also_certified_as": [
+    "AFD1.5DPM",
+    "AFK1.5DPM",
+    "AFR1.5DAFK1.5D",
+    "AFR1.5DPM",
+    "AFW1.5D",
+    "AFW1.5DPM",
+    "AFY1.5 D",
+    "AFY1.5DPM",
+    "AHP1.5D",
+    "AHP1.5DPM",
+    "AHR1.5DPM",
+    "AHT1.5D",
+    "AHT1.5DPM",
+    "AKE1.5DPM",
+    "AKF1.5D",
+    "AKF1.5DPM",
+    "AKO1.5D",
+    "AKO1.5DPM",
+    "AKS1.5D",
+    "AKS1.5DPM",
+    "AYC1.5D",
+    "AYC1.5DPM",
+    "AYD1.5DPM",
+    "AYG1.5D",
+    "AYG1.5DPM",
+    "AYP1.5D",
+    "AYP1.5DPM",
+    "AYZ1.5D",
+    "AYZ1.5DPM"
+   ],
+   "brand_models": {
+    "Fehom": [
+     "AHR1.5D",
+     "AHP1.5D",
+     "AHP1.5DPM",
+     "AHR1.5DPM",
+     "AHT1.5D",
+     "AHT1.5DPM"
+    ],
+    "KESNOS": [
+     "AKE1.5D",
+     "AKE1.5DPM",
+     "AKF1.5D",
+     "AKF1.5DPM",
+     "AKO1.5D",
+     "AKO1.5DPM",
+     "AKS1.5D",
+     "AKS1.5DPM"
+    ],
+    "PRIKOD": [
+     "DH-70SPI",
+     "DH-70SPII",
+     "DH-70SPIII",
+     "DH-70SPIV",
+     "DH-70SPV",
+     "DH-70SI",
+     "DH-70SII",
+     "DH-70SIII",
+     "DH-70SIV",
+     "DH-70SV"
+    ],
+    "Waykar": [
+     "AFD1.5D",
+     "AFD1.5DPM",
+     "AFK1.5DPM",
+     "AFR1.5DAFK1.5D",
+     "AFR1.5DPM",
+     "AFW1.5D",
+     "AFW1.5DPM",
+     "AFY1.5 D",
+     "AFY1.5DPM"
+    ],
+    "YAUFEY": [
+     "AYD1.5D",
+     "AYC1.5D",
+     "AYC1.5DPM",
+     "AYD1.5DPM",
+     "AYG1.5D",
+     "AYG1.5DPM",
+     "AYP1.5D",
+     "AYP1.5DPM",
+     "AYZ1.5D",
+     "AYZ1.5DPM"
+    ]
+   },
    "brand_roots": [
     "FEHOM",
     "KESNOS",
@@ -440,6 +945,22 @@
     "4662674",
     "4662694"
    ],
+   "model_numbers": [
+    "AFD1.5D",
+    "AHR1.5D",
+    "AKE1.5D",
+    "AYD1.5D",
+    "DH-70SI",
+    "DH-70SII",
+    "DH-70SIII",
+    "DH-70SIV",
+    "DH-70SPI",
+    "DH-70SPII",
+    "DH-70SPIII",
+    "DH-70SPIV",
+    "DH-70SPV",
+    "DH-70SV"
+   ],
    "models": 14,
    "partners": [
     "Shenzhen Huizhetonghao Consulting Management Co., Ltd",
@@ -447,6 +968,41 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Amazon Basics": [
+     "B0GR2TS1X4",
+     "B0GR2TN8YX"
+    ],
+    "Brothers": [
+     "301090"
+    ],
+    "Coolworks": [
+     "TDUDP-50AEN8-BB0"
+    ],
+    "Danby": [
+     "DDR050BL3BDB"
+    ],
+    "Keystone": [
+     "KSTAD506PG",
+     "KSTAD504G"
+    ],
+    "Midea": [
+     "MDUDP-50AEN8-BB0",
+     "MAD50C1AWS-A",
+     "MAD50P1AWS-A"
+    ],
+    "PELONIS": [
+     "PAD50P1ABLS"
+    ],
+    "Perfect aire": [
+     "4PFD50",
+     "4PFDP50"
+    ],
+    "Seasons": [
+     "SD50CP1"
+    ]
+   },
    "brand_roots": [
     "AMAZON",
     "BROTHERS",
@@ -499,6 +1055,22 @@
     "4586610",
     "4586611"
    ],
+   "model_numbers": [
+    "301090",
+    "4PFD50",
+    "4PFDP50",
+    "B0GR2TN8YX",
+    "B0GR2TS1X4",
+    "DDR050BL3BDB",
+    "KSTAD504G",
+    "KSTAD506PG",
+    "MAD50C1AWS-A",
+    "MAD50P1AWS-A",
+    "MDUDP-50AEN8-BB0",
+    "PAD50P1ABLS",
+    "SD50CP1",
+    "TDUDP-50AEN8-BB0"
+   ],
    "models": 14,
    "partners": [
     "Almo Corporation",
@@ -509,9 +1081,56 @@
     "HD Supply Facilities Maintenance",
     "Hometech Smart Technology Ltd.",
     "Perfect Aire, LLC"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-fd4e221053": [
+     "annual energy consumption kWh per year: this 525, that 518"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "CONCETTA": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "DUMOS": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "Gianna": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "IULULU": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "JIOABL": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "KMFurnila": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "NEWBULIG": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "OLIXIS": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "SMUG": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "SUMELL": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "Sweetcrispy": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "ZUNMOS": [
+     "AS-CSJ72XK-5WT-OL"
+    ],
+    "edx": [
+     "AS-CSJ72XK-5WT-OL"
+    ]
+   },
    "brand_roots": [
     "CONCETTA",
     "DUMOS",
@@ -571,12 +1190,48 @@
     "4576714",
     "4576715"
    ],
+   "model_numbers": [
+    "AS-CSJ72XK-5WT-OL"
+   ],
    "models": 1,
    "partners": [
     "Zhejiang Hengjian Home Furnishing Co.,Ltd"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Comfort Aire": [
+     "BHD-22B"
+    ],
+    "Coolworks": [
+     "TDUDP-22AEN8-BA7"
+    ],
+    "Danby": [
+     "DDR020BJ2WDB"
+    ],
+    "Keystone": [
+     "KSTAD224F"
+    ],
+    "Midea": [
+     "MDUDP-22AEN8-BA7",
+     "MAD22C3WMT",
+     "MAD22S1WWT",
+     "MAD22C1AWS"
+    ],
+    "OMNI MAX": [
+     "OD22MTWBA1RCM"
+    ],
+    "Perfect aire": [
+     "3PFD22"
+    ],
+    "Seasons": [
+     "SD22CA1"
+    ],
+    "Senville": [
+     "SENDH-22AEN1X"
+    ]
+   },
    "brand_roots": [
     "COMFORT",
     "COOLWORKS",
@@ -627,6 +1282,20 @@
     "4513859",
     "4515577"
    ],
+   "model_numbers": [
+    "3PFD22",
+    "BHD-22B",
+    "DDR020BJ2WDB",
+    "KSTAD224F",
+    "MAD22C1AWS",
+    "MAD22C3WMT",
+    "MAD22S1WWT",
+    "MDUDP-22AEN8-BA7",
+    "OD22MTWBA1RCM",
+    "SD22CA1",
+    "SENDH-22AEN1X",
+    "TDUDP-22AEN8-BA7"
+   ],
    "models": 12,
    "partners": [
     "Almo Corporation",
@@ -641,6 +1310,37 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "BLACK+DECKER": [
+     "BDM36WCDA"
+    ],
+    "Comfort Aire": [
+     "BHD-35C"
+    ],
+    "For living": [
+     "FDA35CBWCM"
+    ],
+    "Insignia": [
+     "NS-DH35WH7-C",
+     "NS-DH35WH7"
+    ],
+    "Midea": [
+     "MDUDA-35AEN8-BB0F",
+     "MAD35S1BWWT",
+     "MAD35S1CWWT"
+    ],
+    "OMNI MAX": [
+     "ODA35M3WGAHW"
+    ],
+    "PELONIS": [
+     "PAD35C1DWTS"
+    ],
+    "Vissani": [
+     "VAD35S1AWTS",
+     "VAD35S1BWTS"
+    ]
+   },
    "brand_roots": [
     "BLACKDECKER",
     "COMFORT",
@@ -689,6 +1389,20 @@
     "4517374",
     "4618014"
    ],
+   "model_numbers": [
+    "BDM36WCDA",
+    "BHD-35C",
+    "FDA35CBWCM",
+    "MAD35S1BWWT",
+    "MAD35S1CWWT",
+    "MDUDA-35AEN8-BB0F",
+    "NS-DH35WH7",
+    "NS-DH35WH7-C",
+    "ODA35M3WGAHW",
+    "PAD35C1DWTS",
+    "VAD35S1AWTS",
+    "VAD35S1BWTS"
+   ],
    "models": 12,
    "partners": [
     "Best Buy Purchasing, LLC",
@@ -701,7 +1415,54 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Shinco": [
+     "YDZ-50P/S6P",
+     "YDZ-50P/S6",
+     "YDA-50P/S6P",
+     "YDA-50P/S6",
+     "YDZ1-50P/6P",
+     "SDZ1-150P",
+     "SDZ1-150P/P",
+     "UDZ1-150P",
+     "UDZ1-150P/P",
+     "YDZ1-50P/6",
+     "YDN-50P/6P",
+     "YDN-50P/6"
+    ],
+    "UHOME": [
+     "YDZ-50P/S6P",
+     "YDZ-50P/S6",
+     "YDA-50P/S6P",
+     "YDA-50P/S6",
+     "YDZ1-50P/6P",
+     "SDZ1-150P",
+     "SDZ1-150P/P",
+     "UDZ1-150P",
+     "UDZ1-150P/P",
+     "YDZ1-50P/6",
+     "YDN-50P/6P",
+     "YDN-50P/6"
+    ],
+    "Yoau": [
+     "YDZ-50P/S6P",
+     "YDZ-50P/S6",
+     "YDA-50P/S6P",
+     "YDA-50P/S6",
+     "YDZ1-50P/6P",
+     "SDZ1-150P",
+     "SDZ1-150P/P",
+     "UDZ1-150P",
+     "UDZ1-150P/P",
+     "YDZ1-50P/6",
+     "YDN-50P/6P",
+     "YDN-50P/6"
+    ]
+   },
    "brand_roots": [
+    "SHINCO",
+    "UHOME",
     "YOAU"
    ],
    "brands": [
@@ -736,12 +1497,50 @@
     "4497603",
     "4497604"
    ],
+   "model_numbers": [
+    "SDZ1-150P",
+    "SDZ1-150P/P",
+    "UDZ1-150P",
+    "UDZ1-150P/P",
+    "YDA-50P/S6",
+    "YDA-50P/S6P",
+    "YDN-50P/6",
+    "YDN-50P/6P",
+    "YDZ-50P/S6",
+    "YDZ-50P/S6P",
+    "YDZ1-50P/6",
+    "YDZ1-50P/6P"
+   ],
    "models": 12,
    "partners": [
     "HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-e3e1fab85e": [
+     "annual energy consumption kWh per year: this 475, that 522"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Aeroid": [
+     "TDP070-G200",
+     "TDP070-G100",
+     "TDP070-W200",
+     "TDP070-W100"
+    ],
+    "Airzentti": [
+     "ACDOSOP-PG100",
+     "ACDOSOP-PG200",
+     "ACDOSOP-NG100",
+     "ACDOSOP-NG200",
+     "ACD070P-PG100",
+     "ACD070P-PG200",
+     "ACD070P-NG100",
+     "ACD070P-NG200"
+    ]
+   },
    "brand_roots": [
     "AEROID",
     "AIRZENTTI"
@@ -778,12 +1577,52 @@
     "4687494",
     "4687514"
    ],
+   "model_numbers": [
+    "ACD070P-NG100",
+    "ACD070P-NG200",
+    "ACD070P-PG100",
+    "ACD070P-PG200",
+    "ACDOSOP-NG100",
+    "ACDOSOP-NG200",
+    "ACDOSOP-PG100",
+    "ACDOSOP-PG200",
+    "TDP070-G100",
+    "TDP070-G200",
+    "TDP070-W100",
+    "TDP070-W200"
+   ],
    "models": 12,
    "partners": [
     "Fong Chow International (HK) Company Limited"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "BLACK+DECKER": [
+     "BDM50WCDA"
+    ],
+    "For living": [
+     "FADA50R5BCWT"
+    ],
+    "Insignia": [
+     "NS-DH50WH7-C",
+     "NS-DH50WH7"
+    ],
+    "Midea": [
+     "MDUDA-50AEN8-BB0F",
+     "MDA50C4AWWCM"
+    ],
+    "OMNI MAX": [
+     "ODA50M3WGAHW"
+    ],
+    "Vissani": [
+     "VAD50S1AWTS",
+     "VAD50S1BWTS",
+     "VAD50PS1BWTS",
+     "VADA50A5HWT"
+    ]
+   },
    "brand_roots": [
     "BLACKDECKER",
     "FOR",
@@ -827,6 +1666,19 @@
     "4518590",
     "4570008"
    ],
+   "model_numbers": [
+    "BDM50WCDA",
+    "FADA50R5BCWT",
+    "MDA50C4AWWCM",
+    "MDUDA-50AEN8-BB0F",
+    "NS-DH50WH7",
+    "NS-DH50WH7-C",
+    "ODA50M3WGAHW",
+    "VAD50PS1BWTS",
+    "VAD50S1AWTS",
+    "VAD50S1BWTS",
+    "VADA50A5HWT"
+   ],
    "models": 11,
    "partners": [
     "Best Buy Purchasing, LLC",
@@ -835,9 +1687,60 @@
     "Home Hardware Stores Limited",
     "The Home Depot",
     "W Appliance Company, LLC"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-24e3abda2d": [
+     "annual energy consumption kWh per year: this 512, that 526",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-35504e00c1": [
+     "annual energy consumption kWh per year: this 512, that 520",
+     "connected capable: this No, that Yes"
+    ],
+    "cs-8629243a41": [
+     "annual energy consumption kWh per year: this 512, that 526",
+     "connected capable: this No, that Yes",
+     "connected features: this not reported, that Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+     "connects using: this not reported, that Wi-Fi",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-bf2ac2cd51": [
+     "annual energy consumption kWh per year: this 512, that 520",
+     "connected capable: this No, that Yes",
+     "connects using: this not reported, that Wi-Fi"
+    ],
+    "cs-c745ebc7b6": [
+     "annual energy consumption kWh per year: this 512, that 519"
+    ],
+    "cs-d52152f26c": [
+     "annual energy consumption kWh per year: this 512, that 525",
+     "refrigerant charge oz: this 6, that 5.3"
+    ],
+    "cs-f07f711b27": [
+     "annual energy consumption kWh per year: this 512, that 520"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "AVAHUM": [
+     "AM160",
+     "AM160P"
+    ],
+    "Airzentti": [
+     "ACD155P-PG100",
+     "ACD155P-PG100(B)"
+    ],
+    "MOISWELL": [
+     "Defender MP145",
+     "Defender M145",
+     "Defender MP70",
+     "Defender M70",
+     "Defender HP150",
+     "Defender H150"
+    ]
+   },
    "brand_roots": [
     "AIRZENTTI",
     "AVAHUM",
@@ -874,6 +1777,17 @@
     "4520480",
     "4520481"
    ],
+   "model_numbers": [
+    "ACD155P-PG100",
+    "AM160",
+    "AM160P",
+    "Defender H150",
+    "Defender HP150",
+    "Defender M145",
+    "Defender M70",
+    "Defender MP145",
+    "Defender MP70"
+   ],
    "models": 10,
    "partners": [
     "Fong Chow International (HK) Company Limited",
@@ -882,6 +1796,23 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Honeywell": [
+     "TPFIT50AWK",
+     "TPFIT50APWK",
+     "TPFIT50PWK",
+     "TPFIT50WK"
+    ],
+    "TCL": [
+     "H50D44W",
+     "W50D9P3-B",
+     "H50D46W",
+     "W50D9P3",
+     "T50DC3SP",
+     "T50DC3S"
+    ]
+   },
    "brand_roots": [
     "HONEYWELL",
     "TCL"
@@ -916,15 +1847,87 @@
     "4572937",
     "4572938"
    ],
+   "model_numbers": [
+    "H50D44W",
+    "H50D46W",
+    "T50DC3S",
+    "T50DC3SP",
+    "TPFIT50APWK",
+    "TPFIT50AWK",
+    "TPFIT50PWK",
+    "TPFIT50WK",
+    "W50D9P3",
+    "W50D9P3-B"
+   ],
    "models": 10,
    "partners": [
     "JMA North America, LLC",
     "TCL Delonghi Home Appliances (Zhongshan) Co Ltd"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-8c8a0b1320": [
+     "connected capable: this Yes, that No",
+     "connects using: this Wi-Fi, that not reported"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Fehom": [
+     "YDZ-150",
+     "YDZ-150PM",
+     "YDY-150",
+     "YDY-150PM",
+     "YDG-150",
+     "YDG-150PM",
+     "YDW-150",
+     "YDW-150PM",
+     "YDA-150",
+     "YDA-150PM"
+    ],
+    "KESNOS": [
+     "YDZ-150",
+     "YDZ-150PM",
+     "YDY-150",
+     "YDY-150PM",
+     "YDG-150",
+     "YDG-150PM",
+     "YDW-150",
+     "YDW-150PM",
+     "YDA-150",
+     "YDA-150PM"
+    ],
+    "YAUFEY": [
+     "YDZ-150",
+     "YDZ-150PM",
+     "YDY-150",
+     "YDY-150PM",
+     "YDG-150",
+     "YDG-150PM",
+     "YDW-150",
+     "YDW-150PM",
+     "YDA-150",
+     "YDA-150PM"
+    ],
+    "waykar": [
+     "YDZ-150",
+     "YDZ-150PM",
+     "YDY-150",
+     "YDY-150PM",
+     "YDG-150",
+     "YDG-150PM",
+     "YDW-150",
+     "YDW-150PM",
+     "YDA-150",
+     "YDA-150PM"
+    ]
+   },
    "brand_roots": [
-    "WAYKAR"
+    "FEHOM",
+    "KESNOS",
+    "WAYKAR",
+    "YAUFEY"
    ],
    "brands": [
     "Waykar; KESNOS; YAUFEY; Fehom",
@@ -956,12 +1959,50 @@
     "4510166",
     "4510167"
    ],
+   "model_numbers": [
+    "YDA-150",
+    "YDA-150PM",
+    "YDG-150",
+    "YDG-150PM",
+    "YDW-150",
+    "YDW-150PM",
+    "YDY-150",
+    "YDY-150PM",
+    "YDZ-150",
+    "YDZ-150PM"
+   ],
    "models": 10,
    "partners": [
     "Waykar"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-c857bef928": [
+     "annual energy consumption kWh per year: this 522, that 475"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Fehom": [
+     "JD026L-150",
+     "JD026L-150PM"
+    ],
+    "GRIDR": [
+     "D026B-50Pt3M-P"
+    ],
+    "KESNOS": [
+     "JD026N-150"
+    ],
+    "Waykar": [
+     "JD026CE-150",
+     "JD026CE-150PM"
+    ],
+    "YAUFEY": [
+     "JD026R-150PM",
+     "JD026R-150"
+    ]
+   },
    "brand_roots": [
     "FEHOM",
     "GRIDR",
@@ -1000,12 +2041,39 @@
     "4439126",
     "4439127"
    ],
+   "model_numbers": [
+    "D026B-50Pt3M-P",
+    "JD026CE-150",
+    "JD026CE-150PM",
+    "JD026L-150",
+    "JD026L-150PM",
+    "JD026N-150",
+    "JD026R-150",
+    "JD026R-150PM"
+   ],
    "models": 8,
    "partners": [
     "JHS INC"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Hisense": [
+     "DH3526K1W",
+     "HD3526",
+     "DHMA3526",
+     "DH3523KX",
+     "OSD3526",
+     "ADH35K26"
+    ],
+    "Noma": [
+     "043-8818-6"
+    ],
+    "fridgemaster": [
+     "FMDH35KX"
+    ]
+   },
    "brand_roots": [
     "FRIDGEMASTER",
     "HISENSE",
@@ -1040,13 +2108,49 @@
     "4514574",
     "4519598"
    ],
+   "model_numbers": [
+    "043-8818-6",
+    "ADH35K26",
+    "DH3523KX",
+    "DH3526K1W",
+    "DHMA3526",
+    "FMDH35KX",
+    "HD3526",
+    "OSD3526"
+   ],
    "models": 8,
    "partners": [
     "Canadian Tire",
     "Hisense (Guangdong) Air Conditioning Co. Ltd"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-9ec31c3dbc": [
+     "connected capable: this No, that Yes",
+     "connected features: this not reported, that Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+     "connects using: this not reported, that Wi-Fi"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "BLACK+DECKER": [
+     "BDM50PWCDA"
+    ],
+    "Frigidaire": [
+     "FHDP5033Y1",
+     "FHDD5033Y1"
+    ],
+    "Midea": [
+     "MDUDA-50AEN8-BB0BF",
+     "MAD50PS1BWBL",
+     "MAD50PS1CWBL",
+     "MAD50PS1AWT-S"
+    ],
+    "Vissani": [
+     "VAD50PS1AWTS"
+    ]
+   },
    "brand_roots": [
     "BLACKDECKER",
     "FRIGIDAIRE",
@@ -1083,15 +2187,82 @@
     "4517373",
     "4591181"
    ],
+   "model_numbers": [
+    "BDM50PWCDA",
+    "FHDD5033Y1",
+    "FHDP5033Y1",
+    "MAD50PS1AWT-S",
+    "MAD50PS1BWBL",
+    "MAD50PS1CWBL",
+    "MDUDA-50AEN8-BB0BF",
+    "VAD50PS1AWTS"
+   ],
    "models": 8,
    "partners": [
     "Electrolux Consumer Products, Inc.",
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
     "The Home Depot",
     "W Appliance Company, LLC"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-24e3abda2d": [
+     "annual energy consumption kWh per year: this 520, that 526",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-35504e00c1": [
+     "connected capable: this No, that Yes"
+    ],
+    "cs-8629243a41": [
+     "annual energy consumption kWh per year: this 520, that 526",
+     "connected capable: this No, that Yes",
+     "connected features: this not reported, that Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+     "connects using: this not reported, that Wi-Fi",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-bf2ac2cd51": [
+     "connected capable: this No, that Yes",
+     "connects using: this not reported, that Wi-Fi"
+    ],
+    "cs-c745ebc7b6": [
+     "annual energy consumption kWh per year: this 520, that 519"
+    ],
+    "cs-d52152f26c": [
+     "annual energy consumption kWh per year: this 520, that 525",
+     "refrigerant charge oz: this 6, that 5.3"
+    ],
+    "cs-e85171a761": [
+     "annual energy consumption kWh per year: this 520, that 512"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "WTE80P-025P"
+   ],
+   "brand_models": {
+    "Fehom": [
+     "JD025L-80"
+    ],
+    "Folanzy": [
+     "WTE80P-025T"
+    ],
+    "JHS": [
+     "D025B-25Pt3"
+    ],
+    "KESNOS": [
+     "JD025N-80"
+    ],
+    "SAHAUHY": [
+     "WTE80A-025T",
+     "WTE80P-025P"
+    ],
+    "Waykar": [
+     "JD025CE-80"
+    ],
+    "YAUFEY": [
+     "JD025Q-80"
+    ]
+   },
    "brand_roots": [
     "FEHOM",
     "FOLANZY",
@@ -1133,12 +2304,48 @@
     "4005590",
     "4005592"
    ],
+   "model_numbers": [
+    "D025B-25Pt3",
+    "JD025CE-80",
+    "JD025L-80",
+    "JD025N-80",
+    "JD025Q-80",
+    "WTE80A-025T",
+    "WTE80P-025T"
+   ],
    "models": 7,
    "partners": [
     "JHS INC"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-799daad973": [
+     "annual energy consumption kWh per year: this 299, that 886"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Fehom": [
+     "JD025L-120"
+    ],
+    "Folanzy": [
+     "WTE120P-035T"
+    ],
+    "KESNOS": [
+     "JD025N-120"
+    ],
+    "SAHAUHY": [
+     "WTE120A-035T",
+     "WTE120P-035P"
+    ],
+    "Waykar": [
+     "JD025CE-120"
+    ],
+    "YAUFEY": [
+     "JD025Q-120"
+    ]
+   },
    "brand_roots": [
     "FEHOM",
     "FOLANZY",
@@ -1178,15 +2385,74 @@
     "4439123",
     "4439125"
    ],
+   "model_numbers": [
+    "JD025CE-120",
+    "JD025L-120",
+    "JD025N-120",
+    "JD025Q-120",
+    "WTE120A-035T",
+    "WTE120P-035P",
+    "WTE120P-035T"
+   ],
    "models": 7,
    "partners": [
     "JHS INC"
    ]
   },
   {
+   "also_certified_as": [
+    "SDL-30P",
+    "YDL-12P/3",
+    "YDZ3-12P/3",
+    "YDZ7-12P/3"
+   ],
+   "brand_models": {
+    "Fehom": [
+     "YDY-32A",
+     "YDY-32B",
+     "YDZ-32A",
+     "YDZ-32B",
+     "YDA-32A",
+     "YDA-32B"
+    ],
+    "KESNOS": [
+     "YDY-32A",
+     "YDY-32B",
+     "YDZ-32A",
+     "YDZ-32B",
+     "YDA-32A",
+     "YDA-32B"
+    ],
+    "Shinco": [
+     "YDZ-12P/3",
+     "SDL-30P",
+     "YDL-12P/3",
+     "YDZ3-12P/3",
+     "YDZ7-12P/3"
+    ],
+    "YAUFEY": [
+     "YDY-32A",
+     "YDY-32B",
+     "YDZ-32A",
+     "YDZ-32B",
+     "YDA-32A",
+     "YDA-32B"
+    ],
+    "waykar": [
+     "YDY-32A",
+     "YDY-32B",
+     "YDZ-32A",
+     "YDZ-32B",
+     "YDA-32A",
+     "YDA-32B"
+    ]
+   },
    "brand_roots": [
+    "FEHOM",
+    "KESNOS",
     "SHINCO",
-    "WAYKAR"
+    "WAYKAR",
+    "YAUFEY"
    ],
    "brands": [
     "Shinco",
@@ -1215,6 +2481,15 @@
     "4518223",
     "4518224"
    ],
+   "model_numbers": [
+    "YDA-32A",
+    "YDA-32B",
+    "YDY-32A",
+    "YDY-32B",
+    "YDZ-12P/3",
+    "YDZ-32A",
+    "YDZ-32B"
+   ],
    "models": 7,
    "partners": [
     "HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",
@@ -1222,7 +2497,39 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Shinco": [
+     "YDZ-35P/S6",
+     "YDA-35P/S6",
+     "YDZ1-35P/6",
+     "SDZ1-120P",
+     "UDZ1-120P",
+     "YDN-35P/6",
+     "YDN1-35P/S6"
+    ],
+    "UHOME": [
+     "YDZ-35P/S6",
+     "YDA-35P/S6",
+     "YDZ1-35P/6",
+     "SDZ1-120P",
+     "UDZ1-120P",
+     "YDN-35P/6",
+     "YDN1-35P/S6"
+    ],
+    "Yoau": [
+     "YDZ-35P/S6",
+     "YDA-35P/S6",
+     "YDZ1-35P/6",
+     "SDZ1-120P",
+     "UDZ1-120P",
+     "YDN-35P/6",
+     "YDN1-35P/S6"
+    ]
+   },
    "brand_roots": [
+    "SHINCO",
+    "UHOME",
     "YOAU"
    ],
    "brands": [
@@ -1251,12 +2558,38 @@
     "4497624",
     "4497625"
    ],
+   "model_numbers": [
+    "SDZ1-120P",
+    "UDZ1-120P",
+    "YDA-35P/S6",
+    "YDN-35P/6",
+    "YDN1-35P/S6",
+    "YDZ-35P/S6",
+    "YDZ1-35P/6"
+   ],
    "models": 7,
    "partners": [
     "HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-e1579282a9": [
+     "annual energy consumption kWh per year: this 340, that 382"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDMB-50AEN8-BB0BF",
+     "MAD50PE1QWT-S",
+     "MAD50PS1BQGR",
+     "MAD50PE1QWT-B",
+     "MAD50S1QWT-A",
+     "MAD50PW1QWT-A",
+     "MAD50W1QWT-A"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -1286,12 +2619,45 @@
     "4698494",
     "4698514"
    ],
+   "model_numbers": [
+    "MAD50PE1QWT-B",
+    "MAD50PE1QWT-S",
+    "MAD50PS1BQGR",
+    "MAD50PW1QWT-A",
+    "MAD50S1QWT-A",
+    "MAD50W1QWT-A",
+    "MDUDMB-50AEN8-BB0BF"
+   ],
    "models": 7,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-1f041d7110": [
+     "refrigerant charge oz: this 7.1, that 4.6"
+    ],
+    "cs-e86b0c0e3b": [
+     "annual energy consumption kWh per year: this 515, that 504",
+     "refrigerant charge oz: this 7.1, that 6.4"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Honeywell": [
+     "TPFIT32WK",
+     "TPFIT32AWK"
+    ],
+    "TCL": [
+     "H32D44W",
+     "W32D93",
+     "T32DC3S"
+    ],
+    "hOmeLabs": [
+     "HME0089"
+    ]
+   },
    "brand_roots": [
     "HOMELABS",
     "HONEYWELL",
@@ -1324,14 +2690,45 @@
     "4572941",
     "4572942"
    ],
+   "model_numbers": [
+    "H32D44W",
+    "HME0089",
+    "T32DC3S",
+    "TPFIT32AWK",
+    "TPFIT32WK",
+    "W32D93"
+   ],
    "models": 6,
    "partners": [
     "Aterian Group, Inc.",
     "JMA North America, LLC",
     "TCL Delonghi Home Appliances (Zhongshan) Co Ltd"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-415e7020ba": [
+     "connected capable: this Yes, that No",
+     "connects using: this Wi-Fi, that not reported"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Newair": [
+     "NDH035WH00"
+    ],
+    "TCL": [
+     "T32DC9R"
+    ],
+    "Waykar": [
+     "CTH120B",
+     "CTH120D",
+     "CTH120A"
+    ],
+    "Whirlpool": [
+     "WHAD321AW"
+    ]
+   },
    "brand_roots": [
     "NEWAIR",
     "TCL",
@@ -1366,15 +2763,42 @@
     "4591190",
     "4615054"
    ],
+   "model_numbers": [
+    "CTH120A",
+    "CTH120B",
+    "CTH120D",
+    "NDH035WH00",
+    "T32DC9R",
+    "WHAD321AW"
+   ],
    "models": 6,
    "partners": [
     "Almo Corporation",
     "NewAir, LLC",
     "TCL Delonghi Home Appliances (Zhongshan) Co Ltd",
     "Waykar"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-2eba05c0e7": [
+     "connected capable: this No, that Yes",
+     "connects using: this not reported, that Wi-Fi"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Airecoler": [
+     "Sailing S155",
+     "Sailing P155",
+     "Sailing P155A",
+     "Sailing S155A"
+    ],
+    "MOISWELL": [
+     "Aegis H150",
+     "Aegis HP150"
+    ]
+   },
    "brand_roots": [
     "AIRECOLER",
     "MOISWELL"
@@ -1405,13 +2829,43 @@
     "4622194",
     "4653214"
    ],
+   "model_numbers": [
+    "Aegis H150",
+    "Aegis HP150",
+    "Sailing P155",
+    "Sailing P155A",
+    "Sailing S155",
+    "Sailing S155A"
+   ],
    "models": 6,
    "partners": [
     "INOFIASLEEP INC.",
     "SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-dcc97bc1ca": [
+     "refrigerant charge oz: this 10.4, that 5.5"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "AUX": [
+     "ADT50V1"
+    ],
+    "GARVEE": [
+     "G-AD50PT"
+    ],
+    "Quilo": [
+     "QLDAD50WK",
+     "QLDAD50PWK"
+    ],
+    "Waykar": [
+     "CHWA150A",
+     "CHWA150PA"
+    ]
+   },
    "brand_roots": [
     "AUX",
     "GARVEE",
@@ -1446,15 +2900,44 @@
     "4512773",
     "4520709"
    ],
+   "model_numbers": [
+    "ADT50V1",
+    "CHWA150A",
+    "CHWA150PA",
+    "G-AD50PT",
+    "QLDAD50PWK",
+    "QLDAD50WK"
+   ],
    "models": 6,
    "partners": [
     "AUX CLOUD COMMERCE(USA) INC",
     "Garvee Innovation Inc.",
     "JMA North America, LLC",
     "Waykar"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-1f041d7110": [
+     "annual energy consumption kWh per year: this 504, that 515",
+     "refrigerant charge oz: this 6.4, that 4.6"
+    ],
+    "cs-c02e9567fc": [
+     "annual energy consumption kWh per year: this 504, that 515",
+     "refrigerant charge oz: this 6.4, that 7.1"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "MOISWELL": [
+     "Admiral W160",
+     "Admiral WP160",
+     "Director W160",
+     "Director WP160",
+     "Marshal WD160",
+     "Marshal WP160"
+    ]
+   },
    "brand_roots": [
     "MOISWELL"
    ],
@@ -1483,12 +2966,34 @@
     "4616394",
     "4616414"
    ],
+   "model_numbers": [
+    "Admiral W160",
+    "Admiral WP160",
+    "Director W160",
+    "Director WP160",
+    "Marshal WD160",
+    "Marshal WP160"
+   ],
    "models": 6,
    "partners": [
     "SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "DuraComfort": [
+     "DH50PB",
+     "DH50PH"
+    ],
+    "Newair": [
+     "NDH050WH00"
+    ],
+    "Waykar": [
+     "CTH150PA",
+     "CTH150A"
+    ]
+   },
    "brand_roots": [
     "DURACOMFORT",
     "NEWAIR",
@@ -1520,14 +3025,43 @@
     "4591188",
     "4591189"
    ],
+   "model_numbers": [
+    "CTH150A",
+    "CTH150PA",
+    "DH50PB",
+    "DH50PH",
+    "NDH050WH00"
+   ],
    "models": 5,
    "partners": [
     "NewAir, LLC",
     "Shenzhen TCL Dura Electronic Technology Co., Ltd.",
     "Waykar"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-10afb8d744": [
+     "connected capable: this No, that Yes",
+     "connects using: this not reported, that Wi-Fi"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "MegaLight": [
+     "PD-MPC720-WT"
+    ],
+    "TCL": [
+     "T25DC9R"
+    ],
+    "Waykar": [
+     "CTH80B",
+     "CTH80D"
+    ],
+    "Whirlpool": [
+     "WHAD251AW"
+    ]
+   },
    "brand_roots": [
     "MEGALIGHT",
     "TCL",
@@ -1561,6 +3095,13 @@
     "4591182",
     "4615074"
    ],
+   "model_numbers": [
+    "CTH80B",
+    "CTH80D",
+    "PD-MPC720-WT",
+    "T25DC9R",
+    "WHAD251AW"
+   ],
    "models": 5,
    "partners": [
     "Almo Corporation",
@@ -1570,6 +3111,16 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDMB-35AEN8-BB0F",
+     "MAD35S1QGR-A",
+     "MAD35S1QWT-A",
+     "MC35MSKBA3RCM",
+     "MAD35W1QWT-A"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -1597,12 +3148,37 @@
     "4518591",
     "4698474"
    ],
+   "model_numbers": [
+    "MAD35S1QGR-A",
+    "MAD35S1QWT-A",
+    "MAD35W1QWT-A",
+    "MC35MSKBA3RCM",
+    "MDUDMB-35AEN8-BB0F"
+   ],
    "models": 5,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "DOGHLY": [
+     "FDD20-5272V1R5-E"
+    ],
+    "DOLLARDASH": [
+     "FDD20-5272V1R5-E"
+    ],
+    "ERIVESS": [
+     "FDD20-5272V1R5-E"
+    ],
+    "STOPSAD": [
+     "FDD20-5272V1R5-E"
+    ],
+    "WINFIRE": [
+     "FDD20-5272V1R5-E"
+    ]
+   },
    "brand_roots": [
     "DOGHLY",
     "DOLLARDASH",
@@ -1638,14 +3214,57 @@
     "4612314",
     "4612334"
    ],
+   "model_numbers": [
+    "FDD20-5272V1R5-E"
+   ],
    "models": 1,
    "partners": [
     "Ningbo Yituo Enterprise Management Co., LTD"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-6707f15121": [
+     "annual energy consumption kWh per year: this 198, that 182",
+     "refrigerant charge oz: this 2.8, that 2.1"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Fehom": [
+     "YDZ-120",
+     "YDY-120",
+     "YDG-120",
+     "YDW-120",
+     "YDA-120"
+    ],
+    "KESNOS": [
+     "YDZ-120",
+     "YDY-120",
+     "YDG-120",
+     "YDW-120",
+     "YDA-120"
+    ],
+    "Waykar": [
+     "YDZ-120",
+     "YDY-120",
+     "YDG-120",
+     "YDW-120",
+     "YDA-120"
+    ],
+    "YAUFEY": [
+     "YDZ-120",
+     "YDY-120",
+     "YDG-120",
+     "YDW-120",
+     "YDA-120"
+    ]
+   },
    "brand_roots": [
-    "WAYKAR"
+    "FEHOM",
+    "KESNOS",
+    "WAYKAR",
+    "YAUFEY"
    ],
    "brands": [
     "Waykar; KESNOS; YAUFEY; Fehom"
@@ -1671,12 +3290,52 @@
     "4510171",
     "4510172"
    ],
+   "model_numbers": [
+    "YDA-120",
+    "YDG-120",
+    "YDW-120",
+    "YDY-120",
+    "YDZ-120"
+   ],
    "models": 5,
    "partners": [
     "Waykar"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-a0681d3f4e": [
+     "annual energy consumption kWh per year: this 382, that 340"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "DryTank 3000",
+    "LEO-Lite",
+    "LEO-Slim",
+    "VGE013A1BS",
+    "VGE023A2BS",
+    "VGE033A3BS"
+   ],
+   "brand_models": {
+    "Aeocky": [
+     "LEO-RCS25(Y)-N4-3",
+     "LEO-Lite",
+     "LEO-Slim"
+    ],
+    "Deciuu": [
+     "LIBRA-RCS25(Y)-N4-3"
+    ],
+    "Vellgoo": [
+     "TAURUS-RCS25(Y)-N4-3",
+     "DryTank 3000",
+     "VGE013A1BS",
+     "VGE023A2BS",
+     "VGE033A3BS"
+    ],
+    "boglvr": [
+     "LIBRA-RCS25(Y)-N4-3"
+    ]
+   },
    "brand_roots": [
     "AEOCKY",
     "BOGLVR",
@@ -1709,6 +3368,11 @@
     "4008612",
     "4497482"
    ],
+   "model_numbers": [
+    "LEO-RCS25(Y)-N4-3",
+    "LIBRA-RCS25(Y)-N4-3",
+    "TAURUS-RCS25(Y)-N4-3"
+   ],
    "models": 4,
    "partners": [
     "Guangdong Invitop Technology Co., Ltd.",
@@ -1716,6 +3380,17 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "DuraComfort": [
+     "DH50PWM",
+     "DH50PWB"
+    ],
+    "Gasbye": [
+     "DryPrime-50-B",
+     "DryPrime-50-W"
+    ]
+   },
    "brand_roots": [
     "DURACOMFORT",
     "GASBYE"
@@ -1744,6 +3419,12 @@
     "4520705",
     "4520706"
    ],
+   "model_numbers": [
+    "DH50PWB",
+    "DH50PWM",
+    "DryPrime-50-B",
+    "DryPrime-50-W"
+   ],
    "models": 4,
    "partners": [
     "Shenzhen Dianzilai Technology Limited",
@@ -1751,6 +3432,25 @@
    ]
   },
   {
+   "also_certified_as": [
+    "ES10811US-WH",
+    "FDD20-527BZWV1R5-E",
+    "FDD20-527CZV1R5-E"
+   ],
+   "brand_models": {
+    "COSTWAY": [
+     "ES10810US-WH",
+     "ES10811US-WH"
+    ],
+    "Humsure": [
+     "FDD20-5270ZV1R5-E",
+     "FDD20-527CZV1R5-E"
+    ],
+    "Ludatido": [
+     "FDD20-527BZV1R5-E",
+     "FDD20-527BZWV1R5-E"
+    ]
+   },
    "brand_roots": [
     "COSTWAY",
     "HUMSURE",
@@ -1781,14 +3481,36 @@
     "4682254",
     "4710974"
    ],
+   "model_numbers": [
+    "ES10810US-WH",
+    "FDD20-5270ZV1R5-E",
+    "FDD20-527BZV1R5-E"
+   ],
    "models": 3,
    "partners": [
     "Goplus Corp.",
     "Ningbo Heallux International Trading Co.. Ltd.",
     "Ningbo Xiaochai Electrical Appliances Co., Ltd"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-89f7c6bfe3": [
+     "annual energy consumption kWh per year: this 199, that 195",
+     "refrigerant type: this not reported, that R290"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "AeroNova": [
+     "DH-YS018US25-A00",
+     "ADC018"
+    ],
+    "Avylo": [
+     "DH-YS018US25-A00",
+     "ADC018"
+    ]
+   },
    "brand_roots": [
     "AERONOVA",
     "AVYLO"
@@ -1817,12 +3539,25 @@
     "4572923",
     "4572924"
    ],
+   "model_numbers": [
+    "ADC018",
+    "DH-YS018US25-A00"
+   ],
    "models": 2,
    "partners": [
     "Airova Inc"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Waykar": [
+     "CTH150PB",
+     "CTH150B",
+     "CTH150D",
+     "CTH150PD"
+    ]
+   },
    "brand_roots": [
     "WAYKAR"
    ],
@@ -1849,12 +3584,38 @@
     "4591186",
     "4591187"
    ],
+   "model_numbers": [
+    "CTH150B",
+    "CTH150D",
+    "CTH150PB",
+    "CTH150PD"
+   ],
    "models": 4,
    "partners": [
     "Waykar"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-528c6df171": [
+     "annual energy consumption kWh per year: this 471, that 472"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Coolworks": [
+     "TDUDPA-35AEN8-BB0"
+    ],
+    "Midea": [
+     "MDUDPA-35AEN8-BB0"
+    ],
+    "Perfect aire": [
+     "4PFD35"
+    ],
+    "Seasons": [
+     "SD35CB1"
+    ]
+   },
    "brand_roots": [
     "COOLWORKS",
     "MIDEA",
@@ -1887,6 +3648,12 @@
     "4511185",
     "4515579"
    ],
+   "model_numbers": [
+    "4PFD35",
+    "MDUDPA-35AEN8-BB0",
+    "SD35CB1",
+    "TDUDPA-35AEN8-BB0"
+   ],
    "models": 4,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
@@ -1896,6 +3663,17 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Hisense": [
+     "LDH5026KP1W",
+     "AZHDTL50P",
+     "ALDH50KP26"
+    ],
+    "Mora": [
+     "MNDH50TP"
+    ]
+   },
    "brand_roots": [
     "HISENSE",
     "MORA"
@@ -1924,12 +3702,34 @@
     "4514461",
     "4519595"
    ],
+   "model_numbers": [
+    "ALDH50KP26",
+    "AZHDTL50P",
+    "LDH5026KP1W",
+    "MNDH50TP"
+   ],
    "models": 4,
    "partners": [
     "Hisense (Guangdong) Air Conditioning Co. Ltd"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-156eb86662": [
+     "connected capable: this No, that Yes",
+     "connected features: this not reported, that Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+     "connects using: this not reported, that Wi-Fi"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Waykar": [
+     "PD160B",
+     "PD160B-A",
+     "PD160B-B",
+     "PD160B-G"
+    ]
+   },
    "brand_roots": [
     "WAYKAR"
    ],
@@ -1956,12 +3756,38 @@
     "4511317",
     "4511318"
    ],
+   "model_numbers": [
+    "PD160B",
+    "PD160B-A",
+    "PD160B-B",
+    "PD160B-G"
+   ],
    "models": 4,
    "partners": [
     "Waykar"
    ]
   },
   {
+   "also_certified_as": [
+    "CTH30A-B",
+    "CTH30B-B",
+    "CTH30C",
+    "CTH30C-B"
+   ],
+   "brand_models": {
+    "KESNOS": [
+     "CTH30B",
+     "CTH30E",
+     "CTH30B-B"
+    ],
+    "Waykar": [
+     "CTH30A",
+     "CTH30C",
+     "CTH30D",
+     "CTH30A-B",
+     "CTH30C-B"
+    ]
+   },
    "brand_roots": [
     "KESNOS",
     "WAYKAR"
@@ -1990,12 +3816,31 @@
     "4429399",
     "4429400"
    ],
+   "model_numbers": [
+    "CTH30A",
+    "CTH30B",
+    "CTH30D",
+    "CTH30E"
+   ],
    "models": 4,
    "partners": [
     "Waykar"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Amazon Basics": [
+     "B0GR2L3R49"
+    ],
+    "Keystone": [
+     "KSTAD354G"
+    ],
+    "Midea": [
+     "MDUDP-35AEN8-BB0",
+     "MAD35C1AWS-A"
+    ]
+   },
    "brand_roots": [
     "AMAZON",
     "KEYSTONE",
@@ -2026,6 +3871,12 @@
     "4513858",
     "4586609"
    ],
+   "model_numbers": [
+    "B0GR2L3R49",
+    "KSTAD354G",
+    "MAD35C1AWS-A",
+    "MDUDP-35AEN8-BB0"
+   ],
    "models": 4,
    "partners": [
     "Almo Corporation",
@@ -2034,6 +3885,17 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Airecoler": [
+     "Sailing S120A",
+     "Sailing P120A"
+    ],
+    "MOISWELL": [
+     "Aegis H110",
+     "Aegis HP110"
+    ]
+   },
    "brand_roots": [
     "AIRECOLER",
     "MOISWELL"
@@ -2062,6 +3924,12 @@
     "4676594",
     "4676614"
    ],
+   "model_numbers": [
+    "Aegis H110",
+    "Aegis HP110",
+    "Sailing P120A",
+    "Sailing S120A"
+   ],
    "models": 4,
    "partners": [
     "INOFIASLEEP INC.",
@@ -2069,6 +3937,15 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Waykar": [
+     "PD160B-PRO",
+     "PD160B-PRO-A",
+     "PD160B-PRO-B",
+     "PD160B-PRO-G"
+    ]
+   },
    "brand_roots": [
     "WAYKAR"
    ],
@@ -2095,12 +3972,29 @@
     "4511321",
     "4511322"
    ],
+   "model_numbers": [
+    "PD160B-PRO",
+    "PD160B-PRO-A",
+    "PD160B-PRO-B",
+    "PD160B-PRO-G"
+   ],
    "models": 4,
    "partners": [
     "Waykar"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "TCL": [
+     "T50DC9SPB",
+     "T50DC9R"
+    ],
+    "Whirlpool": [
+     "WHHD501PAW",
+     "WHHD501AW"
+    ]
+   },
    "brand_roots": [
     "TCL",
     "WHIRLPOOL"
@@ -2129,13 +4023,39 @@
     "4614854",
     "4614874"
    ],
+   "model_numbers": [
+    "T50DC9R",
+    "T50DC9SPB",
+    "WHHD501AW",
+    "WHHD501PAW"
+   ],
    "models": 4,
    "partners": [
     "Almo Corporation",
     "TCL Delonghi Home Appliances (Zhongshan) Co Ltd"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-abd47e744f": [
+     "refrigerant charge oz: this 5.5, that 10.4"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "ECZWXZ or CPHCPH": [
+     "OL22-D076FFN3B1/FE"
+    ],
+    "HUMILABS": [
+     "OL22-D076K"
+    ],
+    "Nypeak": [
+     "D076A"
+    ],
+    "UIDYGGD or FYHXZYB": [
+     "OL22-D076FFN3B1/FE"
+    ]
+   },
    "brand_roots": [
     "ECZWXZ",
     "HUMILABS",
@@ -2168,6 +4088,11 @@
     "4612895",
     "4639176"
    ],
+   "model_numbers": [
+    "D076A",
+    "OL22-D076FFN3B1/FE",
+    "OL22-D076K"
+   ],
    "models": 3,
    "partners": [
     "Humilabs LLC",
@@ -2176,6 +4101,16 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Honeywell": [
+     "TPFIT25AWK",
+     "TPFIT25WK"
+    ],
+    "hOmeLabs": [
+     "HME0088"
+    ]
+   },
    "brand_roots": [
     "HOMELABS",
     "HONEYWELL"
@@ -2203,13 +4138,43 @@
     "4572939",
     "4572940"
    ],
+   "model_numbers": [
+    "HME0088",
+    "TPFIT25AWK",
+    "TPFIT25WK"
+   ],
    "models": 3,
    "partners": [
     "Aterian Group, Inc.",
     "JMA North America, LLC"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-486182b03a": [
+     "connected capable: this Yes, that No",
+     "connects using: this Wi-Fi, that not reported"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "Airwerx 65XS",
+    "Guardian SNS65S",
+    "Sentinel HDI65S"
+   ],
+   "brand_models": {
+    "ABESTORM": [
+     "Guardian SN55S",
+     "Guardian SNS65S"
+    ],
+    "ALORAIR": [
+     "Sentinel HD55S",
+     "Sentinel HDI65S"
+    ],
+    "BASEAIRE": [
+     "AirWerx 55S",
+     "Airwerx 65XS"
+    ]
+   },
    "brand_roots": [
     "ABESTORM",
     "ALORAIR",
@@ -2239,12 +4204,27 @@
     "4005598",
     "4005599"
    ],
+   "model_numbers": [
+    "AirWerx 55S",
+    "Guardian SN55S",
+    "Sentinel HD55S"
+   ],
    "models": 3,
    "partners": [
     "AlorAir Solutions Inc."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Hisense": [
+     "HD5026TLP",
+     "TLDH5026PW"
+    ],
+    "Vissani": [
+     "VDHTL50P"
+    ]
+   },
    "brand_roots": [
     "HISENSE",
     "VISSANI"
@@ -2272,13 +4252,35 @@
     "4514463",
     "4519350"
    ],
+   "model_numbers": [
+    "HD5026TLP",
+    "TLDH5026PW",
+    "VDHTL50P"
+   ],
    "models": 3,
    "partners": [
     "Hisense (Guangdong) Air Conditioning Co. Ltd",
     "The Home Depot"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-6ea68927ac": [
+     "connected capable: this Yes, that No",
+     "connected features: this Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation, that not reported",
+     "connects using: this Wi-Fi, that not reported"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "DuraComfort": [
+     "DH25L",
+     "DH25F"
+    ],
+    "Waykar": [
+     "CTH80A"
+    ]
+   },
    "brand_roots": [
     "DURACOMFORT",
     "WAYKAR"
@@ -2306,13 +4308,36 @@
     "4587254",
     "4591185"
    ],
+   "model_numbers": [
+    "CTH80A",
+    "DH25F",
+    "DH25L"
+   ],
    "models": 3,
    "partners": [
     "Shenzhen TCL Dura Electronic Technology Co., Ltd.",
     "Waykar"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-03662c7d71": [
+     "connected capable: this No, that Yes",
+     "connects using: this not reported, that Wi-Fi"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "AUX": [
+     "ADT35V1"
+    ],
+    "GARVEE": [
+     "G-AD35PT"
+    ],
+    "Waykar": [
+     "CHWA120A"
+    ]
+   },
    "brand_roots": [
     "AUX",
     "GARVEE",
@@ -2342,6 +4367,11 @@
     "4480891",
     "4520708"
    ],
+   "model_numbers": [
+    "ADT35V1",
+    "CHWA120A",
+    "G-AD35PT"
+   ],
    "models": 3,
    "partners": [
     "AUX CLOUD COMMERCE(USA) INC",
@@ -2350,6 +4380,14 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "TCL": [
+     "H25D44W",
+     "W25D93",
+     "T25DC3S"
+    ]
+   },
    "brand_roots": [
     "TCL"
    ],
@@ -2375,12 +4413,27 @@
     "3994432",
     "4515174"
    ],
+   "model_numbers": [
+    "H25D44W",
+    "T25DC3S",
+    "W25D93"
+   ],
    "models": 3,
    "partners": [
     "TCL Delonghi Home Appliances (Zhongshan) Co Ltd"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDA-25AEN8-BB0F"
+    ],
+    "Vissani": [
+     "VAD25S1AWTS",
+     "VAD25S1BWTS"
+    ]
+   },
    "brand_roots": [
     "MIDEA",
     "VISSANI"
@@ -2408,6 +4461,11 @@
     "4497027",
     "4509995"
    ],
+   "model_numbers": [
+    "MDUDA-25AEN8-BB0F",
+    "VAD25S1AWTS",
+    "VAD25S1BWTS"
+   ],
    "models": 3,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",
@@ -2415,6 +4473,14 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDMA-20AEN8-BA7",
+     "MAD20S1QWT",
+     "MC20MSWBA3RCM"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -2440,12 +4506,25 @@
     "4512369",
     "4515258"
    ],
+   "model_numbers": [
+    "MAD20S1QWT",
+    "MC20MSWBA3RCM",
+    "MDUDMA-20AEN8-BA7"
+   ],
    "models": 3,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Hisense": [
+     "DH2526K1W",
+     "OSD2526",
+     "ADH25K26"
+    ]
+   },
    "brand_roots": [
     "HISENSE"
    ],
@@ -2471,12 +4550,24 @@
     "4514573",
     "4519599"
    ],
+   "model_numbers": [
+    "ADH25K26",
+    "DH2526K1W",
+    "OSD2526"
+   ],
    "models": 3,
    "partners": [
     "Hisense (Guangdong) Air Conditioning Co. Ltd"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Amana": [
+     "AMND501PBW",
+     "AMND501BW"
+    ]
+   },
    "brand_roots": [
     "AMANA"
    ],
@@ -2501,12 +4592,23 @@
     "4690834",
     "4690854"
    ],
+   "model_numbers": [
+    "AMND501BW",
+    "AMND501PBW"
+   ],
    "models": 2,
    "partners": [
     "Almo Corporation"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Waykar": [
+     "CHWA80B",
+     "CHWA80A"
+    ]
+   },
    "brand_roots": [
     "WAYKAR"
    ],
@@ -2531,12 +4633,25 @@
     "4479621",
     "4479622"
    ],
+   "model_numbers": [
+    "CHWA80A",
+    "CHWA80B"
+   ],
    "models": 2,
    "partners": [
     "Waykar"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDP-40AEN8-BB0"
+    ],
+    "PELONIS": [
+     "PAD40C1AWTS"
+    ]
+   },
    "brand_roots": [
     "MIDEA",
     "PELONIS"
@@ -2563,12 +4678,23 @@
     "4437379",
     "4511240"
    ],
+   "model_numbers": [
+    "MDUDP-40AEN8-BB0",
+    "PAD40C1AWTS"
+   ],
    "models": 2,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "DuraComfort": [
+     "DH50PL",
+     "DH50PV"
+    ]
+   },
    "brand_roots": [
     "DURACOMFORT"
    ],
@@ -2593,12 +4719,31 @@
     "4573308",
     "4573310"
    ],
+   "model_numbers": [
+    "DH50PL",
+    "DH50PV"
+   ],
    "models": 2,
    "partners": [
     "Shenzhen TCL Dura Electronic Technology Co., Ltd."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-824e01e0b7": [
+     "annual energy consumption kWh per year: this 508, that 499",
+     "refrigerant charge oz: this 5.5, that 6.4"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "CARRIER CORPORATION": [
+     "DEHXXCDA1100"
+    ],
+    "Healthy Climate": [
+     "HCWHD#-100"
+    ]
+   },
    "brand_roots": [
     "CARRIER",
     "HEALTHY"
@@ -2625,13 +4770,28 @@
     "4594954",
     "4594974"
    ],
+   "model_numbers": [
+    "DEHXXCDA1100",
+    "HCWHD#-100"
+   ],
    "models": 2,
    "partners": [
     "Bryant Heating and Cooling Systems (Carrier Corporation)",
     "Lennox Industries"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-8f663c631c": [
+     "annual energy consumption kWh per year: this 2391, that 821"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Honeywell Home": [
+     "DHM120R4000/U"
+    ]
+   },
    "brand_roots": [
     "HONEYWELL"
    ],
@@ -2656,12 +4816,24 @@
     "4576905",
     "4576919"
    ],
+   "model_numbers": [
+    "DHM120R4000/U"
+   ],
    "models": 1,
    "partners": [
     "Resideo Technologies, Inc"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "CARRIER CORPORATION": [
+     "DEHXXCDA1080"
+    ],
+    "Healthy Climate": [
+     "HCWHD#-080"
+    ]
+   },
    "brand_roots": [
     "CARRIER",
     "HEALTHY"
@@ -2688,13 +4860,31 @@
     "4594914",
     "4594934"
    ],
+   "model_numbers": [
+    "DEHXXCDA1080",
+    "HCWHD#-080"
+   ],
    "models": 2,
    "partners": [
     "Bryant Heating and Cooling Systems (Carrier Corporation)",
     "Lennox Industries"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-dc3cc4e198": [
+     "annual energy consumption kWh per year: this 1023, that 632"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "BEHOME": [
+     "PD21MB-20"
+    ],
+    "HBN": [
+     "PD21MB-20"
+    ]
+   },
    "brand_roots": [
     "BEHOME",
     "HBN"
@@ -2721,12 +4911,28 @@
     "4689234",
     "4689254"
    ],
+   "model_numbers": [
+    "PD21MB-20"
+   ],
    "models": 1,
    "partners": [
     "BNLINK Inc"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-b9e04fadca": [
+     "annual energy consumption kWh per year: this 182, that 198",
+     "refrigerant charge oz: this 2.1, that 2.8"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Waykar": [
+     "CHWA150B",
+     "CHWA150PB"
+    ]
+   },
    "brand_roots": [
     "WAYKAR"
    ],
@@ -2751,12 +4957,31 @@
     "4479625",
     "4479628"
    ],
+   "model_numbers": [
+    "CHWA150B",
+    "CHWA150PB"
+   ],
    "models": 2,
    "partners": [
     "Waykar"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-1595e3f385": [
+     "annual energy consumption kWh per year: this 499, that 508",
+     "refrigerant charge oz: this 6.4, that 5.5"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Hisense": [
+     "DH5025KXW"
+    ],
+    "Noma iQ": [
+     "043-8820-8"
+    ]
+   },
    "brand_roots": [
     "HISENSE",
     "NOMA"
@@ -2783,13 +5008,89 @@
     "4510322",
     "4514018"
    ],
+   "model_numbers": [
+    "043-8820-8",
+    "DH5025KXW"
+   ],
    "models": 2,
    "partners": [
     "Canadian Tire",
     "Hisense (Guangdong) Air Conditioning Co. Ltd"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-24e3abda2d": [
+     "connected capable: this Yes, that No",
+     "connected features: this Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation, that not reported",
+     "connects using: this Wi-Fi, that not reported"
+    ],
+    "cs-35504e00c1": [
+     "annual energy consumption kWh per year: this 526, that 520",
+     "connected features: this Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation, that not reported",
+     "connects using: this Wi-Fi, that not reported",
+     "refrigerant charge oz: this 4.8, that 6"
+    ],
+    "cs-bf2ac2cd51": [
+     "annual energy consumption kWh per year: this 526, that 520",
+     "connected features: this Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation, that not reported",
+     "refrigerant charge oz: this 4.8, that 6"
+    ],
+    "cs-c745ebc7b6": [
+     "annual energy consumption kWh per year: this 526, that 519",
+     "connected capable: this Yes, that No",
+     "connected features: this Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation, that not reported",
+     "connects using: this Wi-Fi, that not reported",
+     "refrigerant charge oz: this 4.8, that 6"
+    ],
+    "cs-d52152f26c": [
+     "annual energy consumption kWh per year: this 526, that 525",
+     "connected capable: this Yes, that No",
+     "connected features: this Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation, that not reported",
+     "connects using: this Wi-Fi, that not reported",
+     "refrigerant charge oz: this 4.8, that 5.3"
+    ],
+    "cs-e85171a761": [
+     "annual energy consumption kWh per year: this 526, that 512",
+     "connected capable: this Yes, that No",
+     "connected features: this Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation, that not reported",
+     "connects using: this Wi-Fi, that not reported",
+     "refrigerant charge oz: this 4.8, that 6"
+    ],
+    "cs-f07f711b27": [
+     "annual energy consumption kWh per year: this 526, that 520",
+     "connected capable: this Yes, that No",
+     "connected features: this Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation, that not reported",
+     "connects using: this Wi-Fi, that not reported",
+     "refrigerant charge oz: this 4.8, that 6"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "DryTank 3600",
+    "VGE013B1BS",
+    "VGE023B2BS",
+    "VGE033B3BS",
+    "VGE053B4BS",
+    "VGEP13B1BS",
+    "VGEP23B2BS",
+    "VGEP33B3BS",
+    "VGEP53B4BS"
+   ],
+   "brand_models": {
+    "Vellgoo": [
+     "TAURUS-RCS32(Y)-N4-3(B)",
+     "TAURUS-RCS32(Y)-N4-3",
+     "VGEP13B1BS",
+     "VGEP23B2BS",
+     "VGEP33B3BS",
+     "VGEP53B4BS",
+     "DryTank 3600",
+     "VGE013B1BS",
+     "VGE023B2BS",
+     "VGE033B3BS",
+     "VGE053B4BS"
+    ]
+   },
    "brand_roots": [
     "VELLGOO"
    ],
@@ -2814,12 +5115,32 @@
     "3629580",
     "3629581"
    ],
+   "model_numbers": [
+    "TAURUS-RCS32(Y)-N4-3"
+   ],
    "models": 2,
    "partners": [
     "Guangdong Invitop Technology Co., Ltd."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-08084e71c9": [
+     "annual energy consumption kWh per year: this 335, that 336"
+    ],
+    "cs-faa935f9e8": [
+     "annual energy consumption kWh per year: this 335, that 339"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Hisense": [
+     "DH3523MEW"
+    ],
+    "Noma iQ": [
+     "043-8847-6"
+    ]
+   },
    "brand_roots": [
     "HISENSE",
     "NOMA"
@@ -2846,13 +5167,33 @@
     "4510320",
     "4512364"
    ],
+   "model_numbers": [
+    "043-8847-6",
+    "DH3523MEW"
+   ],
    "models": 2,
    "partners": [
     "Canadian Tire",
     "Hisense (Guangdong) Air Conditioning Co. Ltd"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-805ba5910e": [
+     "connected capable: this Yes, that No",
+     "connected features: this Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation, that not reported",
+     "connects using: this Wi-Fi, that not reported"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "ALORAIR": [
+     "Sentinel Pro35X"
+    ],
+    "ARGENDON": [
+     "Sandidry Pro35C"
+    ]
+   },
    "brand_roots": [
     "ALORAIR",
     "ARGENDON"
@@ -2879,12 +5220,25 @@
     "3998546",
     "3998547"
    ],
+   "model_numbers": [
+    "Sandidry Pro35C",
+    "Sentinel Pro35X"
+   ],
    "models": 2,
    "partners": [
     "AlorAir Solutions Inc."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Dreo": [
+     "DR-HDH004S"
+    ],
+    "Dreo Home": [
+     "DR-HDH004S"
+    ]
+   },
    "brand_roots": [
     "DREO"
    ],
@@ -2910,12 +5264,24 @@
     "4577018",
     "4577019"
    ],
+   "model_numbers": [
+    "DR-HDH004S"
+   ],
    "models": 1,
    "partners": [
     "Hesung Innovation Corp"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "AUX": [
+     "ADT22V1"
+    ],
+    "GARVEE": [
+     "G-AD22PT"
+    ]
+   },
    "brand_roots": [
     "AUX",
     "GARVEE"
@@ -2942,6 +5308,10 @@
     "4480890",
     "4520707"
    ],
+   "model_numbers": [
+    "ADT22V1",
+    "G-AD22PT"
+   ],
    "models": 2,
    "partners": [
     "AUX CLOUD COMMERCE(USA) INC",
@@ -2949,6 +5319,20 @@
    ]
   },
   {
+   "also_certified_as": [
+    "TDW80C",
+    "TDW80D"
+   ],
+   "brand_models": {
+    "Easykey": [
+     "AQUA-RCS25 (Y)-N4-3-25"
+    ],
+    "Waykar": [
+     "TDW80A",
+     "TDW80C",
+     "TDW80D"
+    ]
+   },
    "brand_roots": [
     "EASYKEY",
     "WAYKAR"
@@ -2975,12 +5359,40 @@
     "4614154",
     "4711214"
    ],
+   "model_numbers": [
+    "AQUA-RCS25 (Y)-N4-3-25",
+    "TDW80A"
+   ],
    "models": 2,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [
+    "DryTank 3000",
+    "LEO-001",
+    "LEO-1000",
+    "LEO-RCS25(Y)-N4-3-25",
+    "VGE013A1BS",
+    "VGE023A2BS",
+    "VGE033A3BS"
+   ],
+   "brand_models": {
+    "Aeocky": [
+     "LEO-RCS25(Y)-N4-3(B)-25",
+     "LEO-001",
+     "LEO-1000",
+     "LEO-RCS25(Y)-N4-3-25"
+    ],
+    "Vellgoo": [
+     "TAURUS-RCS25(Y)-N4-3-25",
+     "DryTank 3000",
+     "VGE013A1BS",
+     "VGE023A2BS",
+     "VGE033A3BS"
+    ]
+   },
    "brand_roots": [
     "AEOCKY",
     "VELLGOO"
@@ -3007,12 +5419,23 @@
     "3994317",
     "3998085"
    ],
+   "model_numbers": [
+    "LEO-RCS25(Y)-N4-3(B)-25",
+    "TAURUS-RCS25(Y)-N4-3-25"
+   ],
    "models": 2,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "AERIC": [
+     "AERD501PF",
+     "AERD501P"
+    ]
+   },
    "brand_roots": [
     "AERIC"
    ],
@@ -3037,12 +5460,25 @@
     "4005873",
     "4005876"
    ],
+   "model_numbers": [
+    "AERD501P",
+    "AERD501PF"
+   ],
    "models": 2,
    "partners": [
     "AERIC LLC"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "DGVAM": [
+     "V2"
+    ],
+    "MIONJO": [
+     "V2"
+    ]
+   },
    "brand_roots": [
     "DGVAM",
     "MIONJO"
@@ -3069,12 +5505,26 @@
     "4693554",
     "4708694"
    ],
+   "model_numbers": [
+    "V2"
+   ],
    "models": 1,
    "partners": [
     "Guangzhou Rongxin Investment Partnership Enterprise"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-ee78c1c995": [
+     "refrigerant type: this R290, that not reported"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Honeywell Home": [
+     "DHM065R4000/U"
+    ]
+   },
    "brand_roots": [
     "HONEYWELL"
    ],
@@ -3099,12 +5549,24 @@
     "4576903",
     "4576917"
    ],
+   "model_numbers": [
+    "DHM065R4000/U"
+   ],
    "models": 1,
    "partners": [
     "Resideo Technologies, Inc"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "KNKA": [
+     "PD30MA-20"
+    ],
+    "KNKA PRO": [
+     "PD30MA-20"
+    ]
+   },
    "brand_roots": [
     "KNKA"
    ],
@@ -3130,12 +5592,24 @@
     "4622034",
     "4657054"
    ],
+   "model_numbers": [
+    "PD30MA-20"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai BoFan Technology Co., Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Hisense": [
+     "DH2523KX"
+    ],
+    "RONA": [
+     "DH2526RPB"
+    ]
+   },
    "brand_roots": [
     "HISENSE",
     "RONA"
@@ -3162,6 +5636,10 @@
     "4016309",
     "4512361"
    ],
+   "model_numbers": [
+    "DH2523KX",
+    "DH2526RPB"
+   ],
    "models": 2,
    "partners": [
     "Hisense (Guangdong) Air Conditioning Co. Ltd",
@@ -3169,6 +5647,12 @@
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Honeywell Home": [
+     "DHM090R4000"
+    ]
+   },
    "brand_roots": [
     "HONEYWELL"
    ],
@@ -3193,12 +5677,24 @@
     "4576904",
     "4576918"
    ],
+   "model_numbers": [
+    "DHM090R4000"
+   ],
    "models": 1,
    "partners": [
     "Resideo Technologies, Inc"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Dreo": [
+     "DR-HDH003S"
+    ],
+    "Dreo Home": [
+     "DR-HDH003S"
+    ]
+   },
    "brand_roots": [
     "DREO"
    ],
@@ -3224,12 +5720,26 @@
     "4577080",
     "4577081"
    ],
+   "model_numbers": [
+    "DR-HDH003S"
+   ],
    "models": 1,
    "partners": [
     "Hesung Innovation Corp"
    ]
   },
   {
+   "also_certified_as": [
+    "DT351BKR0",
+    "DT351BYR0"
+   ],
+   "brand_models": {
+    "LG": [
+     "DT351BWR0",
+     "DT351BKR0",
+     "DT351BYR0"
+    ]
+   },
    "brand_roots": [
     "LG"
    ],
@@ -3253,12 +5763,32 @@
    "listings": [
     "4613614"
    ],
+   "model_numbers": [
+    "DT351BWR0"
+   ],
    "models": 1,
    "partners": [
     "LG Electronics, Inc."
    ]
   },
   {
+   "also_certified_as": [
+    "LEO-002",
+    "LEO-2000",
+    "LEO-Lite-2",
+    "LEO-RCS32(Y)-N4-3",
+    "LEO-Slim-2"
+   ],
+   "brand_models": {
+    "Aeocky": [
+     "LEO-RCS32(Y)-N4-3(B)",
+     "LEO-002",
+     "LEO-2000",
+     "LEO-Lite-2",
+     "LEO-RCS32(Y)-N4-3",
+     "LEO-Slim-2"
+    ]
+   },
    "brand_roots": [
     "AEOCKY"
    ],
@@ -3282,12 +5812,29 @@
    "listings": [
     "4481293"
    ],
+   "model_numbers": [
+    "LEO-RCS32(Y)-N4-3(B)"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-9024a12eea": [
+     "annual energy consumption kWh per year: this 336, that 335"
+    ],
+    "cs-faa935f9e8": [
+     "annual energy consumption kWh per year: this 336, that 339"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDT-22AEN8-BA7F"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -3311,12 +5858,21 @@
    "listings": [
     "4718354"
    ],
+   "model_numbers": [
+    "MDUDT-22AEN8-BA7F"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "upstreman": [
+     "UPDEH-80A"
+    ]
+   },
    "brand_roots": [
     "UPSTREMAN"
    ],
@@ -3340,12 +5896,21 @@
    "listings": [
     "4615094"
    ],
+   "model_numbers": [
+    "UPDEH-80A"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Healthy Climate": [
+     "HCWHD#-130"
+    ]
+   },
    "brand_roots": [
     "HEALTHY"
    ],
@@ -3369,12 +5934,26 @@
    "listings": [
     "4594994"
    ],
+   "model_numbers": [
+    "HCWHD#-130"
+   ],
    "models": 1,
    "partners": [
     "Lennox Industries"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-cd977340c7": [
+     "annual energy consumption kWh per year: this 2808, that 926"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDT-50AEN8-BB0F"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -3398,12 +5977,26 @@
    "listings": [
     "4711314"
    ],
+   "model_numbers": [
+    "MDUDT-50AEN8-BB0F"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-d17b2b8c08": [
+     "annual energy consumption kWh per year: this 523, that 530"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Frigidaire": [
+     "FHDD2233Y1"
+    ]
+   },
    "brand_roots": [
     "FRIGIDAIRE"
    ],
@@ -3427,12 +6020,26 @@
    "listings": [
     "4497023"
    ],
+   "model_numbers": [
+    "FHDD2233Y1"
+   ],
    "models": 1,
    "partners": [
     "Electrolux Consumer Products, Inc."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-3afc1097d9": [
+     "refrigerant charge oz: this 3.4, that 3.5"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Ukoke": [
+     "UDH0125"
+    ]
+   },
    "brand_roots": [
     "UKOKE"
    ],
@@ -3456,12 +6063,27 @@
    "listings": [
     "4478493"
    ],
+   "model_numbers": [
+    "UDH0125"
+   ],
    "models": 1,
    "partners": [
     "For Generation Inc"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-18f12b7d9e": [
+     "annual energy consumption kWh per year: this 105, that 110",
+     "refrigerant charge oz: this 1.8, that 1.9"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "HUMILABS": [
+     "OL12-D023F"
+    ]
+   },
    "brand_roots": [
     "HUMILABS"
    ],
@@ -3485,12 +6107,27 @@
    "listings": [
     "4639174"
    ],
+   "model_numbers": [
+    "OL12-D023F"
+   ],
    "models": 1,
    "partners": [
     "Humilabs LLC"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-17ea428d91": [
+     "annual energy consumption kWh per year: this 110, that 105",
+     "refrigerant charge oz: this 1.9, that 1.8"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Wellsle": [
+     "YDL12P"
+    ]
+   },
    "brand_roots": [
     "WELLSLE"
    ],
@@ -3514,12 +6151,26 @@
    "listings": [
     "4021638"
    ],
+   "model_numbers": [
+    "YDL12P"
+   ],
    "models": 1,
    "partners": [
     "Chuangxiang Huiju\uff08Shenzhen\uff09Technology Co.\uff0cLtd"
    ]
   },
   {
+   "also_certified_as": [
+    "GF20-20RW",
+    "GF20B-20RW"
+   ],
+   "brand_models": {
+    "AirCyan": [
+     "GF20C-20RW",
+     "GF20-20RW",
+     "GF20B-20RW"
+    ]
+   },
    "brand_roots": [
     "AIRCYAN"
    ],
@@ -3543,12 +6194,26 @@
    "listings": [
     "4512556"
    ],
+   "model_numbers": [
+    "GF20C-20RW"
+   ],
    "models": 1,
    "partners": [
     "Changzhou Honghai Intelligent Technology Co., Ltd."
    ]
   },
   {
+   "also_certified_as": [
+    "RHEA-001",
+    "RHEA-1000"
+   ],
+   "brand_models": {
+    "Aeocky": [
+     "RHEA-RCS25(Y)-N4-3-25",
+     "RHEA-001",
+     "RHEA-1000"
+    ]
+   },
    "brand_roots": [
     "AEOCKY"
    ],
@@ -3572,12 +6237,21 @@
    "listings": [
     "3994318"
    ],
+   "model_numbers": [
+    "RHEA-RCS25(Y)-N4-3-25"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "COSTWAY": [
+     "ES10328US-WH"
+    ]
+   },
    "brand_roots": [
     "COSTWAY"
    ],
@@ -3601,12 +6275,26 @@
    "listings": [
     "4622014"
    ],
+   "model_numbers": [
+    "ES10328US-WH"
+   ],
    "models": 1,
    "partners": [
     "Goplus Corp."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-6f1c2e2ebd": [
+     "annual energy consumption kWh per year: this 191, that 193"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MAD50PS1QWT-A"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -3630,12 +6318,30 @@
    "listings": [
     "4512371"
    ],
+   "model_numbers": [
+    "MAD50PS1QWT-A"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-c02e9567fc": [
+     "refrigerant charge oz: this 4.6, that 7.1"
+    ],
+    "cs-e86b0c0e3b": [
+     "annual energy consumption kWh per year: this 515, that 504",
+     "refrigerant charge oz: this 4.6, that 6.4"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "ANDTE": [
+     "PD80K"
+    ]
+   },
    "brand_roots": [
     "ANDTE"
    ],
@@ -3659,12 +6365,30 @@
    "listings": [
     "4612214"
    ],
+   "model_numbers": [
+    "PD80K"
+   ],
    "models": 1,
    "partners": [
     "Shenzhen Zhengjiu Technology Co., Ltd."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-8314a4e232": [
+     "annual energy consumption kWh per year: this 265, that 274"
+    ],
+    "cs-fa68d18846": [
+     "annual energy consumption kWh per year: this 265, that 276",
+     "refrigerant charge oz: this 4.4, that 4.2"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDMB-50AEN8-BB0F"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -3688,12 +6412,21 @@
    "listings": [
     "4439456"
    ],
+   "model_numbers": [
+    "MDUDMB-50AEN8-BB0F"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "GARVEE": [
+     "SAYRAM-RCS25(Y)-N4-3-25"
+    ]
+   },
    "brand_roots": [
     "GARVEE"
    ],
@@ -3717,12 +6450,21 @@
    "listings": [
     "4614574"
    ],
+   "model_numbers": [
+    "SAYRAM-RCS25(Y)-N4-3-25"
+   ],
    "models": 1,
    "partners": [
     "Garvee Innovation Inc."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Glowells": [
+     "PD12A"
+    ]
+   },
    "brand_roots": [
     "GLOWELLS"
    ],
@@ -3746,12 +6488,21 @@
    "listings": [
     "4439179"
    ],
+   "model_numbers": [
+    "PD12A"
+   ],
    "models": 1,
    "partners": [
     "Ningbo Hongming Waterproof Insulation Technology Co., Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MAD50PS1BWT-C"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -3775,12 +6526,58 @@
    "listings": [
     "4511299"
    ],
+   "model_numbers": [
+    "MAD50PS1BWT-C"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-24e3abda2d": [
+     "annual energy consumption kWh per year: this 520, that 526",
+     "connected capable: this Yes, that No",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-8629243a41": [
+     "annual energy consumption kWh per year: this 520, that 526",
+     "connected features: this not reported, that Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+     "connects using: this not reported, that Wi-Fi",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-bf2ac2cd51": [
+     "connects using: this not reported, that Wi-Fi"
+    ],
+    "cs-c745ebc7b6": [
+     "annual energy consumption kWh per year: this 520, that 519",
+     "connected capable: this Yes, that No"
+    ],
+    "cs-d52152f26c": [
+     "annual energy consumption kWh per year: this 520, that 525",
+     "connected capable: this Yes, that No",
+     "refrigerant charge oz: this 6, that 5.3"
+    ],
+    "cs-e85171a761": [
+     "annual energy consumption kWh per year: this 520, that 512",
+     "connected capable: this Yes, that No"
+    ],
+    "cs-f07f711b27": [
+     "connected capable: this Yes, that No"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "RHEA-003",
+    "RHEA-3000"
+   ],
+   "brand_models": {
+    "Aeocky": [
+     "RHEA PRO-RCS50(Y)-N4-3-25",
+     "RHEA-003",
+     "RHEA-3000"
+    ]
+   },
    "brand_roots": [
     "AEOCKY"
    ],
@@ -3804,12 +6601,24 @@
    "listings": [
     "4481294"
    ],
+   "model_numbers": [
+    "RHEA PRO-RCS50(Y)-N4-3-25"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [
+    "ADSE25B**#"
+   ],
+   "brand_models": {
+    "GE": [
+     "ADSE25W**#",
+     "ADSE25B**#"
+    ]
+   },
    "brand_roots": [
     "GE"
    ],
@@ -3833,12 +6642,24 @@
    "listings": [
     "4515188"
    ],
+   "model_numbers": [
+    "ADSE25W**#"
+   ],
    "models": 1,
    "partners": [
     "GE Appliances, a Haier Company"
    ]
   },
   {
+   "also_certified_as": [
+    "Ultra V100"
+   ],
+   "brand_models": {
+    "Santa Fe": [
+     "4047100",
+     "Ultra V100"
+    ]
+   },
    "brand_roots": [
     "SANTA"
    ],
@@ -3862,12 +6683,21 @@
    "listings": [
     "4510404"
    ],
+   "model_numbers": [
+    "4047100"
+   ],
    "models": 1,
    "partners": [
     "Research Products Corporation"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Wellsle": [
+     "PD21MA"
+    ]
+   },
    "brand_roots": [
     "WELLSLE"
    ],
@@ -3891,12 +6721,26 @@
    "listings": [
     "4437438"
    ],
+   "model_numbers": [
+    "PD21MA"
+   ],
    "models": 1,
    "partners": [
     "Chuangxiang Huiju\uff08Shenzhen\uff09Technology Co.\uff0cLtd"
    ]
   },
   {
+   "also_certified_as": [
+    "DT251BKR0",
+    "DT251BYR0"
+   ],
+   "brand_models": {
+    "LG": [
+     "DT251BWR0",
+     "DT251BKR0",
+     "DT251BYR0"
+    ]
+   },
    "brand_roots": [
     "LG"
    ],
@@ -3920,12 +6764,21 @@
    "listings": [
     "4586593"
    ],
+   "model_numbers": [
+    "DT251BWR0"
+   ],
    "models": 1,
    "partners": [
     "LG Electronics, Inc."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Bosch": [
+     "Dry 2000"
+    ]
+   },
    "brand_roots": [
     "BOSCH"
    ],
@@ -3949,12 +6802,28 @@
    "listings": [
     "4515093"
    ],
+   "model_numbers": [
+    "Dry 2000"
+   ],
    "models": 1,
    "partners": [
     "Bosch Thermotechnology Corporation"
    ]
   },
   {
+   "also_certified_as": [
+    "DryPrime-35-B",
+    "DryPrime-35-W",
+    "DryPrime-35-WP"
+   ],
+   "brand_models": {
+    "Gasbye": [
+     "DryPrime-35-BP",
+     "DryPrime-35-B",
+     "DryPrime-35-W",
+     "DryPrime-35-WP"
+    ]
+   },
    "brand_roots": [
     "GASBYE"
    ],
@@ -3978,12 +6847,30 @@
    "listings": [
     "4005672"
    ],
+   "model_numbers": [
+    "DryPrime-35-BP"
+   ],
    "models": 1,
    "partners": [
     "Shenzhen Dianzilai Technology Limited"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-622f7b674c": [
+     "connected capable: this No, that Yes",
+     "connects using: this not reported, that Wi-Fi"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "TAURUS PRO-RCS50(Y)-N4-3"
+   ],
+   "brand_models": {
+    "Greenlite": [
+     "GL-DEH50R32",
+     "TAURUS PRO-RCS50(Y)-N4-3"
+    ]
+   },
    "brand_roots": [
     "GREENLITE"
    ],
@@ -4007,12 +6894,21 @@
    "listings": [
     "4614174"
    ],
+   "model_numbers": [
+    "GL-DEH50R32"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "MegaLight": [
+     "PD-HPC750-WT"
+    ]
+   },
    "brand_roots": [
     "MEGALIGHT"
    ],
@@ -4036,12 +6932,26 @@
    "listings": [
     "4586106"
    ],
+   "model_numbers": [
+    "PD-HPC750-WT"
+   ],
    "models": 1,
    "partners": [
     "Megalight Inc."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-5b077f8498": [
+     "annual energy consumption kWh per year: this 472, that 471"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Frigidaire": [
+     "FHDD5034Y1"
+    ]
+   },
    "brand_roots": [
     "FRIGIDAIRE"
    ],
@@ -4065,12 +6975,21 @@
    "listings": [
     "4481105"
    ],
+   "model_numbers": [
+    "FHDD5034Y1"
+   ],
    "models": 1,
    "partners": [
     "Electrolux Consumer Products, Inc."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Friedrich": [
+     "D35C1A"
+    ]
+   },
    "brand_roots": [
     "FRIEDRICH"
    ],
@@ -4094,12 +7013,27 @@
    "listings": [
     "4479456"
    ],
+   "model_numbers": [
+    "D35C1A"
+   ],
    "models": 1,
    "partners": [
     "Friedrich Air Conditioning Company"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-504ed5982d": [
+     "connected capable: this Yes, that No",
+     "connects using: this Wi-Fi, that not reported"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "ALORAIR": [
+     "Helios D35"
+    ]
+   },
    "brand_roots": [
     "ALORAIR"
    ],
@@ -4123,12 +7057,21 @@
    "listings": [
     "4529039"
    ],
+   "model_numbers": [
+    "Helios D35"
+   ],
    "models": 1,
    "partners": [
     "AlorAir Solutions Inc."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "COSTWAY": [
+     "ES10429US-WH"
+    ]
+   },
    "brand_roots": [
     "COSTWAY"
    ],
@@ -4152,12 +7095,21 @@
    "listings": [
     "3798625"
    ],
+   "model_numbers": [
+    "ES10429US-WH"
+   ],
    "models": 1,
    "partners": [
     "Goplus Corp."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Glowells": [
+     "PD120A"
+    ]
+   },
    "brand_roots": [
     "GLOWELLS"
    ],
@@ -4181,12 +7133,26 @@
    "listings": [
     "4618374"
    ],
+   "model_numbers": [
+    "PD120A"
+   ],
    "models": 1,
    "partners": [
     "Ningbo Hongming Waterproof Insulation Technology Co., Ltd."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-e16e549ca4": [
+     "annual energy consumption kWh per year: this 379, that 362"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Arecovas": [
+     "AR-DF001"
+    ]
+   },
    "brand_roots": [
     "ARECOVAS"
    ],
@@ -4210,12 +7176,21 @@
    "listings": [
     "4431338"
    ],
+   "model_numbers": [
+    "AR-DF001"
+   ],
    "models": 1,
    "partners": [
     "Shenzhen Jinchannel Innovation Technology Co. Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "pauvoern": [
+     "ZY24P-01A"
+    ]
+   },
    "brand_roots": [
     "PAUVOERN"
    ],
@@ -4239,12 +7214,21 @@
    "listings": [
     "3892712"
    ],
+   "model_numbers": [
+    "ZY24P-01A"
+   ],
    "models": 1,
    "partners": [
     "Ningbo Dilamu Electric Appliance Co., Ltd"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "ANDTE": [
+     "PD50K"
+    ]
+   },
    "brand_roots": [
     "ANDTE"
    ],
@@ -4268,12 +7252,33 @@
    "listings": [
     "4612234"
    ],
+   "model_numbers": [
+    "PD50K"
+   ],
    "models": 1,
    "partners": [
     "Shenzhen Zhengjiu Technology Co., Ltd."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-1d619657da": [
+     "annual energy consumption kWh per year: this 193, that 191"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "ADSE50B**#",
+    "ADSE50P**#",
+    "ADSE50W**#"
+   ],
+   "brand_models": {
+    "GE": [
+     "ADSE50X**#",
+     "ADSE50B**#",
+     "ADSE50P**#",
+     "ADSE50W**#"
+    ]
+   },
    "brand_roots": [
     "GE"
    ],
@@ -4297,12 +7302,50 @@
    "listings": [
     "4515187"
    ],
+   "model_numbers": [
+    "ADSE50X**#"
+   ],
    "models": 1,
    "partners": [
     "GE Appliances, a Haier Company"
    ]
   },
   {
+   "also_certified_as": [
+    "HUMMIGO-001",
+    "HUMMIGO-001-W",
+    "HUMMIGO-1000",
+    "HUMMIGO-1000-W",
+    "HUMMIGO-A01",
+    "HUMMIGO-A01-W",
+    "HUMMIGO-A100",
+    "HUMMIGO-A100-W",
+    "HUMMIGO-B01",
+    "HUMMIGO-B100",
+    "POD-003",
+    "POD-003-W",
+    "POD-3000",
+    "POD-3000-W"
+   ],
+   "brand_models": {
+    "Aeocky": [
+     "CS25YA8N7F3(HUMMIGO-25US)",
+     "HUMMIGO-001",
+     "HUMMIGO-001-W",
+     "HUMMIGO-1000",
+     "HUMMIGO-1000-W",
+     "HUMMIGO-A01",
+     "HUMMIGO-A01-W",
+     "HUMMIGO-A100",
+     "HUMMIGO-A100-W",
+     "HUMMIGO-B01",
+     "HUMMIGO-B100",
+     "POD-003",
+     "POD-003-W",
+     "POD-3000",
+     "POD-3000-W"
+    ]
+   },
    "brand_roots": [
     "AEOCKY"
    ],
@@ -4326,12 +7369,21 @@
    "listings": [
     "4711194"
    ],
+   "model_numbers": [
+    "CS25YA8N7F3(HUMMIGO-25US)"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "DEVERSE": [
+     "D025H-25Pt3"
+    ]
+   },
    "brand_roots": [
     "DEVERSE"
    ],
@@ -4355,12 +7407,29 @@
    "listings": [
     "4478525"
    ],
+   "model_numbers": [
+    "D025H-25Pt3"
+   ],
    "models": 1,
    "partners": [
     "JHS INC"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-1dd1226659": [
+     "annual energy consumption kWh per year: this 886, that 299"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "EE250005"
+   ],
+   "brand_models": {
+    "Arecovas": [
+     "AR-DF005",
+     "EE250005"
+    ]
+   },
    "brand_roots": [
     "ARECOVAS"
    ],
@@ -4384,12 +7453,26 @@
    "listings": [
     "4586595"
    ],
+   "model_numbers": [
+    "AR-DF005"
+   ],
    "models": 1,
    "partners": [
     "Shenzhen Jinchannel Innovation Technology Co. Ltd."
    ]
   },
   {
+   "also_certified_as": [
+    "LDH-H251S-WCA",
+    "LDH-H251S-XXXX"
+   ],
+   "brand_models": {
+    "LEVOIT": [
+     "LDH-H251S-WUS",
+     "LDH-H251S-WCA",
+     "LDH-H251S-XXXX"
+    ]
+   },
    "brand_roots": [
     "LEVOIT"
    ],
@@ -4413,12 +7496,21 @@
    "listings": [
     "4682794"
    ],
+   "model_numbers": [
+    "LDH-H251S-WUS"
+   ],
    "models": 1,
    "partners": [
     "Vesync (US) Corporation"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Arecovas": [
+     "AR-DF002"
+    ]
+   },
    "brand_roots": [
     "ARECOVAS"
    ],
@@ -4442,12 +7534,41 @@
    "listings": [
     "4586643"
    ],
+   "model_numbers": [
+    "AR-DF002"
+   ],
    "models": 1,
    "partners": [
     "Shenzhen Jinchannel Innovation Technology Co. Ltd."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-212f2a2003": [
+     "annual energy consumption kWh per year: this 274, that 265"
+    ],
+    "cs-fa68d18846": [
+     "annual energy consumption kWh per year: this 274, that 276",
+     "refrigerant charge oz: this 4.4, that 4.2"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "DEPR32P10",
+    "DEPR32P20",
+    "DER32M01",
+    "DER32M02",
+    "LIBRA-RCS25(Y)-N4-3-25"
+   ],
+   "brand_models": {
+    "Deciuu": [
+     "LIBRA-RCS25(Y)-N4-3(B)-25",
+     "DEPR32P10",
+     "DEPR32P20",
+     "DER32M01",
+     "DER32M02",
+     "LIBRA-RCS25(Y)-N4-3-25"
+    ]
+   },
    "brand_roots": [
     "DECIUU"
    ],
@@ -4471,12 +7592,21 @@
    "listings": [
     "4655854"
    ],
+   "model_numbers": [
+    "LIBRA-RCS25(Y)-N4-3(B)-25"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Bosch": [
+     "Dry 4000"
+    ]
+   },
    "brand_roots": [
     "BOSCH"
    ],
@@ -4500,12 +7630,21 @@
    "listings": [
     "4515094"
    ],
+   "model_numbers": [
+    "Dry 4000"
+   ],
    "models": 1,
    "partners": [
     "Bosch Thermotechnology Corporation"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Jack&Rose": [
+     "DH02"
+    ]
+   },
    "brand_roots": [
     "JACKROSE"
    ],
@@ -4529,12 +7668,21 @@
    "listings": [
     "4478531"
    ],
+   "model_numbers": [
+    "DH02"
+   ],
    "models": 1,
    "partners": [
     "huizhoushiqingfengdianzishangwuyouxiangongsi"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "GARVEE": [
+     "SAYRAM-RCS32(Y)-N4-3"
+    ]
+   },
    "brand_roots": [
     "GARVEE"
    ],
@@ -4558,12 +7706,21 @@
    "listings": [
     "4614594"
    ],
+   "model_numbers": [
+    "SAYRAM-RCS32(Y)-N4-3"
+   ],
    "models": 1,
    "partners": [
     "Garvee Innovation Inc."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "TABYIK": [
+     "D025F-25Pt3M-P"
+    ]
+   },
    "brand_roots": [
     "TABYIK"
    ],
@@ -4587,12 +7744,21 @@
    "listings": [
     "4012669"
    ],
+   "model_numbers": [
+    "D025F-25Pt3M-P"
+   ],
    "models": 1,
    "partners": [
     "JHS INC"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "KeepGlad": [
+     "FDD20-5270ZV1R5-E"
+    ]
+   },
    "brand_roots": [
     "KEEPGLAD"
    ],
@@ -4616,12 +7782,27 @@
    "listings": [
     "4515878"
    ],
+   "model_numbers": [
+    "FDD20-5270ZV1R5-E"
+   ],
    "models": 1,
    "partners": [
     "Quanzhou Yat Global International Trade Co., Ltd"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-382b6bcf66": [
+     "annual energy consumption kWh per year: this 195, that 199",
+     "refrigerant type: this R290, that not reported"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "DREAME": [
+     "CVF39A"
+    ]
+   },
    "brand_roots": [
     "DREAME"
    ],
@@ -4645,12 +7826,21 @@
    "listings": [
     "4614614"
    ],
+   "model_numbers": [
+    "CVF39A"
+   ],
    "models": 1,
    "partners": [
     "Dreame Trading (Tianjin) Co. Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Wellsle": [
+     "YDL24P"
+    ]
+   },
    "brand_roots": [
     "WELLSLE"
    ],
@@ -4674,12 +7864,30 @@
    "listings": [
     "4021635"
    ],
+   "model_numbers": [
+    "YDL24P"
+   ],
    "models": 1,
    "partners": [
     "Chuangxiang Huiju\uff08Shenzhen\uff09Technology Co.\uff0cLtd"
    ]
   },
   {
+   "also_certified_as": [
+    "E100C",
+    "E100H",
+    "E100V",
+    "E100V has vent"
+   ],
+   "brand_models": {
+    "Aprilaire": [
+     "E100",
+     "E100C",
+     "E100H",
+     "E100V",
+     "E100V has vent"
+    ]
+   },
    "brand_roots": [
     "APRILAIRE"
    ],
@@ -4703,12 +7911,31 @@
    "listings": [
     "4510067"
    ],
+   "model_numbers": [
+    "E100"
+   ],
    "models": 1,
    "partners": [
     "Research Products Corporation"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-3eb4d632d9": [
+     "annual energy consumption kWh per year: this 821, that 2391"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "DER32S01-50",
+    "DER32S02-50"
+   ],
+   "brand_models": {
+    "Deciuu": [
+     "LIBRA-RCS32(Y)-N4-3",
+     "DER32S01-50",
+     "DER32S02-50"
+    ]
+   },
    "brand_roots": [
     "DECIUU"
    ],
@@ -4732,12 +7959,21 @@
    "listings": [
     "4015854"
    ],
+   "model_numbers": [
+    "LIBRA-RCS32(Y)-N4-3"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Waykar": [
+     "CHWA120B"
+    ]
+   },
    "brand_roots": [
     "WAYKAR"
    ],
@@ -4761,12 +7997,32 @@
    "listings": [
     "4479623"
    ],
+   "model_numbers": [
+    "CHWA120B"
+   ],
    "models": 1,
    "partners": [
     "Waykar"
    ]
   },
   {
+   "also_certified_as": [
+    "LEO PRO-RCS50(Y)-N4-3-25",
+    "LEO-003",
+    "LEO-3000",
+    "LEO-Lite-3",
+    "LEO-Slim-3"
+   ],
+   "brand_models": {
+    "Aeocky": [
+     "LEO PRO-RCS50(Y)-N4-3(B)-25",
+     "LEO PRO-RCS50(Y)-N4-3-25",
+     "LEO-003",
+     "LEO-3000",
+     "LEO-Lite-3",
+     "LEO-Slim-3"
+    ]
+   },
    "brand_roots": [
     "AEOCKY"
    ],
@@ -4790,12 +8046,21 @@
    "listings": [
     "4576900"
    ],
+   "model_numbers": [
+    "LEO PRO-RCS50(Y)-N4-3(B)-25"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "boglvr": [
+     "D025A-25Pt3"
+    ]
+   },
    "brand_roots": [
     "BOGLVR"
    ],
@@ -4819,12 +8084,21 @@
    "listings": [
     "4572855"
    ],
+   "model_numbers": [
+    "D025A-25Pt3"
+   ],
    "models": 1,
    "partners": [
     "JHS INC"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "AVAHUM": [
+     "AM150P"
+    ]
+   },
    "brand_roots": [
     "AVAHUM"
    ],
@@ -4848,12 +8122,21 @@
    "listings": [
     "4618354"
    ],
+   "model_numbers": [
+    "AM150P"
+   ],
    "models": 1,
    "partners": [
     "Shenzhen Baili Technology Co., Ltd"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Ludatido": [
+     "PD10C2-25"
+    ]
+   },
    "brand_roots": [
     "LUDATIDO"
    ],
@@ -4877,12 +8160,21 @@
    "listings": [
     "4529253"
    ],
+   "model_numbers": [
+    "PD10C2-25"
+   ],
    "models": 1,
    "partners": [
     "Ningbo Xiaochai Electrical Appliances Co., Ltd"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "INNOVATIVE": [
+     "IW-25-6"
+    ]
+   },
    "brand_roots": [
     "INNOVATIVE"
    ],
@@ -4906,12 +8198,21 @@
    "listings": [
     "4709354"
    ],
+   "model_numbers": [
+    "IW-25-6"
+   ],
    "models": 1,
    "partners": [
     "Innovative Dehumidifier Systems Division of Maradyne Corporation"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "OGACFO": [
+     "YOLFHM079WH"
+    ]
+   },
    "brand_roots": [
     "OGACFO"
    ],
@@ -4935,12 +8236,21 @@
    "listings": [
     "4005670"
    ],
+   "model_numbers": [
+    "YOLFHM079WH"
+   ],
    "models": 1,
    "partners": [
     "NINGBO UNION GRAND IMP. &EXP. CO.,LTD."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "MIONJO": [
+     "V3"
+    ]
+   },
    "brand_roots": [
     "MIONJO"
    ],
@@ -4964,12 +8274,21 @@
    "listings": [
     "4613694"
    ],
+   "model_numbers": [
+    "V3"
+   ],
    "models": 1,
    "partners": [
     "Guangzhou Rongxin Investment Partnership Enterprise"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "ZAFRO": [
+     "D026W-50Pt3M"
+    ]
+   },
    "brand_roots": [
     "ZAFRO"
    ],
@@ -4993,12 +8312,21 @@
    "listings": [
     "4623714"
    ],
+   "model_numbers": [
+    "D026W-50Pt3M"
+   ],
    "models": 1,
    "partners": [
     "JHS INC"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Frigidaire": [
+     "FHDD3534Y1"
+    ]
+   },
    "brand_roots": [
     "FRIGIDAIRE"
    ],
@@ -5022,12 +8350,21 @@
    "listings": [
     "4481104"
    ],
+   "model_numbers": [
+    "FHDD3534Y1"
+   ],
    "models": 1,
    "partners": [
     "Electrolux Consumer Products, Inc."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Deye": [
+     "DYD-P30"
+    ]
+   },
    "brand_roots": [
     "DEYE"
    ],
@@ -5051,12 +8388,30 @@
    "listings": [
     "4661614"
    ],
+   "model_numbers": [
+    "DYD-P30"
+   ],
    "models": 1,
    "partners": [
     "Zhejiang Deye Electrical Appliances Co., Ltd."
    ]
   },
   {
+   "also_certified_as": [
+    "VGE013C1BS",
+    "VGE023C2BS",
+    "VGEP13C1BS",
+    "VGEP23C2BS"
+   ],
+   "brand_models": {
+    "Vellgoo": [
+     "TAURUS PRO-RCS50(Y)-N4-3-25",
+     "VGE013C1BS",
+     "VGE023C2BS",
+     "VGEP13C1BS",
+     "VGEP23C2BS"
+    ]
+   },
    "brand_roots": [
     "VELLGOO"
    ],
@@ -5080,12 +8435,24 @@
    "listings": [
     "4481295"
    ],
+   "model_numbers": [
+    "TAURUS PRO-RCS50(Y)-N4-3-25"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [
+    "EE250006"
+   ],
+   "brand_models": {
+    "Arecovas": [
+     "AR-DF006",
+     "EE250006"
+    ]
+   },
    "brand_roots": [
     "ARECOVAS"
    ],
@@ -5109,12 +8476,21 @@
    "listings": [
     "4586594"
    ],
+   "model_numbers": [
+    "AR-DF006"
+   ],
    "models": 1,
    "partners": [
     "Shenzhen Jinchannel Innovation Technology Co. Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MAD50S1OWWCM"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -5138,12 +8514,57 @@
    "listings": [
     "4518682"
    ],
+   "model_numbers": [
+    "MAD50S1OWWCM"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-24e3abda2d": [
+     "annual energy consumption kWh per year: this 520, that 526",
+     "connected capable: this Yes, that No",
+     "connects using: this Wi-Fi, that not reported",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-35504e00c1": [
+     "connects using: this Wi-Fi, that not reported"
+    ],
+    "cs-8629243a41": [
+     "annual energy consumption kWh per year: this 520, that 526",
+     "connected features: this not reported, that Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-c745ebc7b6": [
+     "annual energy consumption kWh per year: this 520, that 519",
+     "connected capable: this Yes, that No",
+     "connects using: this Wi-Fi, that not reported"
+    ],
+    "cs-d52152f26c": [
+     "annual energy consumption kWh per year: this 520, that 525",
+     "connected capable: this Yes, that No",
+     "connects using: this Wi-Fi, that not reported",
+     "refrigerant charge oz: this 6, that 5.3"
+    ],
+    "cs-e85171a761": [
+     "annual energy consumption kWh per year: this 520, that 512",
+     "connected capable: this Yes, that No",
+     "connects using: this Wi-Fi, that not reported"
+    ],
+    "cs-f07f711b27": [
+     "connected capable: this Yes, that No",
+     "connects using: this Wi-Fi, that not reported"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Deye": [
+     "DYD-A10"
+    ]
+   },
    "brand_roots": [
     "DEYE"
    ],
@@ -5167,12 +8588,21 @@
    "listings": [
     "4661634"
    ],
+   "model_numbers": [
+    "DYD-A10"
+   ],
    "models": 1,
    "partners": [
     "Zhejiang Deye Electrical Appliances Co., Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Vissani": [
+     "VADA50P5HWT"
+    ]
+   },
    "brand_roots": [
     "VISSANI"
    ],
@@ -5196,12 +8626,53 @@
    "listings": [
     "4570007"
    ],
+   "model_numbers": [
+    "VADA50P5HWT"
+   ],
    "models": 1,
    "partners": [
     "The Home Depot"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-24e3abda2d": [
+     "annual energy consumption kWh per year: this 519, that 526",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-35504e00c1": [
+     "annual energy consumption kWh per year: this 519, that 520",
+     "connected capable: this No, that Yes"
+    ],
+    "cs-8629243a41": [
+     "annual energy consumption kWh per year: this 519, that 526",
+     "connected capable: this No, that Yes",
+     "connected features: this not reported, that Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+     "connects using: this not reported, that Wi-Fi",
+     "refrigerant charge oz: this 6, that 4.8"
+    ],
+    "cs-bf2ac2cd51": [
+     "annual energy consumption kWh per year: this 519, that 520",
+     "connected capable: this No, that Yes",
+     "connects using: this not reported, that Wi-Fi"
+    ],
+    "cs-d52152f26c": [
+     "annual energy consumption kWh per year: this 519, that 525",
+     "refrigerant charge oz: this 6, that 5.3"
+    ],
+    "cs-e85171a761": [
+     "annual energy consumption kWh per year: this 519, that 512"
+    ],
+    "cs-f07f711b27": [
+     "annual energy consumption kWh per year: this 519, that 520"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Glowells": [
+     "PD12A"
+    ]
+   },
    "brand_roots": [
     "GLOWELLS"
    ],
@@ -5225,12 +8696,21 @@
    "listings": [
     "4675294"
    ],
+   "model_numbers": [
+    "PD12A"
+   ],
    "models": 1,
    "partners": [
     "Ningbo Hongming Waterproof Insulation Technology Co., Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Bufanli": [
+     "OL22-D076FFN3B1/FE"
+    ]
+   },
    "brand_roots": [
     "BUFANLI"
    ],
@@ -5254,12 +8734,21 @@
    "listings": [
     "4680474"
    ],
+   "model_numbers": [
+    "OL22-D076FFN3B1/FE"
+   ],
    "models": 1,
    "partners": [
     "Shanghai Shengchen Hangyu International Trade Co., LTD"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Frigidaire": [
+     "FHDD2234W1"
+    ]
+   },
    "brand_roots": [
     "FRIGIDAIRE"
    ],
@@ -5283,12 +8772,26 @@
    "listings": [
     "3845105"
    ],
+   "model_numbers": [
+    "FHDD2234W1"
+   ],
    "models": 1,
    "partners": [
     "Electrolux Consumer Products, Inc."
    ]
   },
   {
+   "also_certified_as": [
+    "E130C",
+    "E130H"
+   ],
+   "brand_models": {
+    "Aprilaire": [
+     "E130",
+     "E130C",
+     "E130H"
+    ]
+   },
    "brand_roots": [
     "APRILAIRE"
    ],
@@ -5312,12 +8815,31 @@
    "listings": [
     "4510068"
    ],
+   "model_numbers": [
+    "E130"
+   ],
    "models": 1,
    "partners": [
     "Research Products Corporation"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-0c41b0e00b": [
+     "annual energy consumption kWh per year: this 926, that 2808"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "TDW80E",
+    "TDW80F"
+   ],
+   "brand_models": {
+    "Waykar": [
+     "TDW80B",
+     "TDW80E",
+     "TDW80F"
+    ]
+   },
    "brand_roots": [
     "WAYKAR"
    ],
@@ -5341,12 +8863,21 @@
    "listings": [
     "4711234"
    ],
+   "model_numbers": [
+    "TDW80B"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDT-50AEN8-BB0BF"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -5370,12 +8901,29 @@
    "listings": [
     "4711294"
    ],
+   "model_numbers": [
+    "MDUDT-50AEN8-BB0BF"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-0e57a6ac68": [
+     "annual energy consumption kWh per year: this 530, that 523"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "Ultra V125"
+   ],
+   "brand_models": {
+    "Santa Fe": [
+     "4047200",
+     "Ultra V125"
+    ]
+   },
    "brand_roots": [
     "SANTA"
    ],
@@ -5399,12 +8947,28 @@
    "listings": [
     "4510405"
    ],
+   "model_numbers": [
+    "4047200"
+   ],
    "models": 1,
    "partners": [
     "Research Products Corporation"
    ]
   },
   {
+   "also_certified_as": [
+    "DEPR32S10-50",
+    "DEPR32S20-50",
+    "LIBRA-RCS32(Y)-N4-3"
+   ],
+   "brand_models": {
+    "Deciuu": [
+     "LIBRA-RCS32(Y)-N4-3(B)",
+     "DEPR32S10-50",
+     "DEPR32S20-50",
+     "LIBRA-RCS32(Y)-N4-3"
+    ]
+   },
    "brand_roots": [
     "DECIUU"
    ],
@@ -5428,12 +8992,21 @@
    "listings": [
     "3994319"
    ],
+   "model_numbers": [
+    "LIBRA-RCS32(Y)-N4-3(B)"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "ASAHWO": [
+     "PD22SA"
+    ]
+   },
    "brand_roots": [
     "ASAHWO"
    ],
@@ -5457,12 +9030,21 @@
    "listings": [
     "4437437"
    ],
+   "model_numbers": [
+    "PD22SA"
+   ],
    "models": 1,
    "partners": [
     "Guangzhou Nengfaliang Technology Co., Ltd"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MAD50PE1AWT-B"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -5486,12 +9068,57 @@
    "listings": [
     "4718314"
    ],
+   "model_numbers": [
+    "MAD50PE1AWT-B"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-24e3abda2d": [
+     "annual energy consumption kWh per year: this 525, that 526",
+     "refrigerant charge oz: this 5.3, that 4.8"
+    ],
+    "cs-35504e00c1": [
+     "annual energy consumption kWh per year: this 525, that 520",
+     "connected capable: this No, that Yes",
+     "refrigerant charge oz: this 5.3, that 6"
+    ],
+    "cs-8629243a41": [
+     "annual energy consumption kWh per year: this 525, that 526",
+     "connected capable: this No, that Yes",
+     "connected features: this not reported, that Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",
+     "connects using: this not reported, that Wi-Fi",
+     "refrigerant charge oz: this 5.3, that 4.8"
+    ],
+    "cs-bf2ac2cd51": [
+     "annual energy consumption kWh per year: this 525, that 520",
+     "connected capable: this No, that Yes",
+     "connects using: this not reported, that Wi-Fi",
+     "refrigerant charge oz: this 5.3, that 6"
+    ],
+    "cs-c745ebc7b6": [
+     "annual energy consumption kWh per year: this 525, that 519",
+     "refrigerant charge oz: this 5.3, that 6"
+    ],
+    "cs-e85171a761": [
+     "annual energy consumption kWh per year: this 525, that 512",
+     "refrigerant charge oz: this 5.3, that 6"
+    ],
+    "cs-f07f711b27": [
+     "annual energy consumption kWh per year: this 525, that 520",
+     "refrigerant charge oz: this 5.3, that 6"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Multistar": [
+     "MDHP5079US"
+    ]
+   },
    "brand_roots": [
     "MULTISTAR"
    ],
@@ -5515,12 +9142,30 @@
    "listings": [
     "4512643"
    ],
+   "model_numbers": [
+    "MDHP5079US"
+   ],
    "models": 1,
    "partners": [
     "Export 220Volt Inc."
    ]
   },
   {
+   "also_certified_as": [
+    "DT501BKV0",
+    "DT501BWR0",
+    "DT501BWV0",
+    "DT501BYR0"
+   ],
+   "brand_models": {
+    "LG": [
+     "DT501BKR0",
+     "DT501BKV0",
+     "DT501BWR0",
+     "DT501BWV0",
+     "DT501BYR0"
+    ]
+   },
    "brand_roots": [
     "LG"
    ],
@@ -5544,12 +9189,24 @@
    "listings": [
     "4572921"
    ],
+   "model_numbers": [
+    "DT501BKR0"
+   ],
    "models": 1,
    "partners": [
     "LG Electronics, Inc."
    ]
   },
   {
+   "also_certified_as": [
+    "E080H"
+   ],
+   "brand_models": {
+    "Aprilaire": [
+     "E080",
+     "E080H"
+    ]
+   },
    "brand_roots": [
     "APRILAIRE"
    ],
@@ -5573,12 +9230,26 @@
    "listings": [
     "4510066"
    ],
+   "model_numbers": [
+    "E080"
+   ],
    "models": 1,
    "partners": [
     "Research Products Corporation"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-5f8caa4985": [
+     "annual energy consumption kWh per year: this 632, that 1023"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDT-35AEN8-BB0F"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -5602,12 +9273,26 @@
    "listings": [
     "4717514"
    ],
+   "model_numbers": [
+    "MDUDT-35AEN8-BB0F"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-63b4e5b3c0": [
+     "annual energy consumption kWh per year: this 362, that 379"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDA-25AEN8-BB0F-J"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -5631,12 +9316,21 @@
    "listings": [
     "4717574"
    ],
+   "model_numbers": [
+    "MDUDA-25AEN8-BB0F-J"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "DGUAM": [
+     "V2"
+    ]
+   },
    "brand_roots": [
     "DGUAM"
    ],
@@ -5660,12 +9354,29 @@
    "listings": [
     "4528748"
    ],
+   "model_numbers": [
+    "V2"
+   ],
    "models": 1,
    "partners": [
     "Guangzhou Rongxin Investment Partnership Enterprise"
-   ]
+   ],
+   "same_shown_values": {
+    "cs-d5f277d201": [
+     "refrigerant type: this not reported, that R290"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "Ultra V155"
+   ],
+   "brand_models": {
+    "Santa Fe": [
+     "4047300",
+     "Ultra V155"
+    ]
+   },
    "brand_roots": [
     "SANTA"
    ],
@@ -5689,12 +9400,24 @@
    "listings": [
     "4429193"
    ],
+   "model_numbers": [
+    "4047300"
+   ],
    "models": 1,
    "partners": [
     "Research Products Corporation"
    ]
   },
   {
+   "also_certified_as": [
+    "Ultra V205"
+   ],
+   "brand_models": {
+    "Santa Fe": [
+     "4046180",
+     "Ultra V205"
+    ]
+   },
    "brand_roots": [
     "SANTA"
    ],
@@ -5718,12 +9441,21 @@
    "listings": [
     "4006002"
    ],
+   "model_numbers": [
+    "4046180"
+   ],
    "models": 1,
    "partners": [
     "Research Products Corporation"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Glowells": [
+     "PD82A"
+    ]
+   },
    "brand_roots": [
     "GLOWELLS"
    ],
@@ -5747,12 +9479,36 @@
    "listings": [
     "4586642"
    ],
+   "model_numbers": [
+    "PD82A"
+   ],
    "models": 1,
    "partners": [
     "Ningbo Hongming Waterproof Insulation Technology Co., Ltd."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-212f2a2003": [
+     "annual energy consumption kWh per year: this 276, that 265",
+     "refrigerant charge oz: this 4.2, that 4.4"
+    ],
+    "cs-8314a4e232": [
+     "annual energy consumption kWh per year: this 276, that 274",
+     "refrigerant charge oz: this 4.2, that 4.4"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "RHEA-002",
+    "RHEA-2000"
+   ],
+   "brand_models": {
+    "Aeocky": [
+     "RHEA-RCS32(Y)-N4-3",
+     "RHEA-002",
+     "RHEA-2000"
+    ]
+   },
    "brand_roots": [
     "AEOCKY"
    ],
@@ -5776,12 +9532,32 @@
    "listings": [
     "3994316"
    ],
+   "model_numbers": [
+    "RHEA-RCS32(Y)-N4-3"
+   ],
    "models": 1,
    "partners": [
     "Zhuhai Invitop Technology Co.,Ltd."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-08084e71c9": [
+     "annual energy consumption kWh per year: this 339, that 336"
+    ],
+    "cs-9024a12eea": [
+     "annual energy consumption kWh per year: this 339, that 335"
+    ]
+   }
   },
   {
+   "also_certified_as": [
+    "ADSE35B**#"
+   ],
+   "brand_models": {
+    "GE": [
+     "ADSE35W**#",
+     "ADSE35B**#"
+    ]
+   },
    "brand_roots": [
     "GE"
    ],
@@ -5805,12 +9581,21 @@
    "listings": [
     "4515189"
    ],
+   "model_numbers": [
+    "ADSE35W**#"
+   ],
    "models": 1,
    "partners": [
     "GE Appliances, a Haier Company"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDP-50AEN8-BB0B"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -5834,12 +9619,26 @@
    "listings": [
     "4437380"
    ],
+   "model_numbers": [
+    "MDUDP-50AEN8-BB0B"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
-   ]
+   ],
+   "same_shown_values": {
+    "cs-e65b6475f6": [
+     "annual energy consumption kWh per year: this 518, that 525"
+    ]
+   }
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "BLACK+DECKER": [
+     "BDT08TW"
+    ]
+   },
    "brand_roots": [
     "BLACKDECKER"
    ],
@@ -5863,12 +9662,21 @@
    "listings": [
     "4046701"
    ],
+   "model_numbers": [
+    "BDT08TW"
+   ],
    "models": 1,
    "partners": [
     "W Appliance Company, LLC"
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDA-40AEN8-BB0"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -5892,12 +9700,21 @@
    "listings": [
     "4717534"
    ],
+   "model_numbers": [
+    "MDUDA-40AEN8-BB0"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
    ]
   },
   {
+   "also_certified_as": [],
+   "brand_models": {
+    "Midea": [
+     "MDUDA-35AEN8-BB0F-J"
+    ]
+   },
    "brand_roots": [
     "MIDEA"
    ],
@@ -5921,10 +9738,20 @@
    "listings": [
     "4717554"
    ],
+   "model_numbers": [
+    "MDUDA-35AEN8-BB0F-J"
+   ],
    "models": 1,
    "partners": [
     "GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD."
    ]
   }
- ]
+ ],
+ "shown_columns": [
+  "dehumidifier_type",
+  "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day",
+  "dehumidifier_efficiency_integrated_energy_factor_l_kwh_"
+ ],
+ "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z",
+ "source_license": "U.S. government work (public domain)"
 }

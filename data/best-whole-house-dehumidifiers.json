@@ -27,76 +27,135 @@
   },
   {
    "direction": "lower",
-   "formula": "certified kWh per year x EIA U.S. average residential price x 5",
+   "formula": "certified capacity (pints/day) x 0.473 L per pint / certified IEF (L/kWh) x 1,095 / 24 (DOE's annual dehumidification hours, 10 CFR 430 subpart B appendix X1) x EIA U.S. average residential price x 5",
    "key": "cost5",
    "label": "5-year electricity cost",
+   "unit": "USD",
+   "weight": 0
+  },
+  {
+   "direction": "lower",
+   "formula": "100 pints x 0.473 L per pint / certified IEF (L/kWh) x EIA U.S. average residential price (no operating hours: it depends only on IEF and the rate)",
+   "key": "cost100",
+   "label": "Electricity cost per 100 pints removed",
    "unit": "USD",
    "weight": 0
   }
  ],
  "items": [
   {
+   "best_for": "large or very humid homes",
+   "best_for_key": "capacity",
    "brand": "Santa Fe",
    "id": "santa-fe-ultra-v205-4046180",
    "name": "Santa Fe Ultra V205 (4046180)",
    "rank": 1,
    "score": 97.6,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4006002, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Sold through HVAC distributors and online supply stores and usually installed by a contractor, so ask for the installed price. The maker rates it at 205 pints a day; ENERGY STAR certifies 172.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Santa-Fe-4046180-Ultra-V205-Whole-House-High-Capacity-Ventilating-Dehumidifier",
+    "url": "https://www.supplyhouse.com/Santa-Fe-4046180-Ultra-V205-Whole-House-High-Capacity-Ventilating-Dehumidifier"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4006002, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Santa-Fe-4046180-Ultra-V205-Whole-House-High-Capacity-Ventilating-Dehumidifier per https://www.supplyhouse.com/Santa-Fe-4046180-Ultra-V205-Whole-House-High-Capacity-Ventilating-Dehumidifier (2026-11-03)",
    "specs": {
     "capacity": 172.13,
-    "cost5": 1079.0,
+    "cost100": 2.75,
+    "cost5": 1081.0,
     "ief": 3.12
    }
   },
   {
+   "best_for": "more water per kWh than this page's average",
+   "best_for_key": "ief",
    "brand": "Santa Fe",
    "id": "santa-fe-ultra-v155-4047300",
    "name": "Santa Fe Ultra V155 (4047300)",
    "rank": 2,
    "score": 88.3,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4429193, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Sold through HVAC distributors and online supply stores and usually installed by a contractor, so ask for the installed price. The maker rates it at 155 pints a day; ENERGY STAR certifies a lower figure.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Santa-Fe-4047300-Ultra-V155-Whole-House-High-Capacity-Ventilating-Dehumidifier",
+    "url": "https://www.supplyhouse.com/Santa-Fe-4047300-Ultra-V155-Whole-House-High-Capacity-Ventilating-Dehumidifier"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4429193, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Santa-Fe-4047300-Ultra-V155-Whole-House-High-Capacity-Ventilating-Dehumidifier per https://www.supplyhouse.com/Santa-Fe-4047300-Ultra-V155-Whole-House-High-Capacity-Ventilating-Dehumidifier (2026-11-03)",
    "specs": {
     "capacity": 127.51,
-    "cost5": 765.0,
+    "cost100": 2.64,
+    "cost5": 767.0,
     "ief": 3.26
    }
   },
   {
+   "best_for": "more water per kWh than this page's average",
+   "best_for_key": "ief",
    "brand": "Santa Fe",
    "id": "santa-fe-ultra-v125-4047200",
    "name": "Santa Fe Ultra V125 (4047200)",
    "rank": 3,
    "score": 71.2,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510405, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Sold through HVAC distributors and online supply stores and usually installed by a contractor, so ask for the installed price.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Santa-Fe-4047200-V125-A2L-Whole-House-Ventilating-Dehumidifier",
+    "url": "https://www.supplyhouse.com/Santa-Fe-4047200-V125-A2L-Whole-House-Ventilating-Dehumidifier"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510405, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Santa-Fe-4047200-V125-A2L-Whole-House-Ventilating-Dehumidifier per https://www.supplyhouse.com/Santa-Fe-4047200-V125-A2L-Whole-House-Ventilating-Dehumidifier (2026-11-03)",
    "specs": {
     "capacity": 102.69,
-    "cost5": 513.0,
+    "cost100": 3.27,
+    "cost5": 765.0,
     "ief": 2.63
    }
   },
   {
+   "best_for": "large or very humid homes",
+   "best_for_key": "capacity",
    "brand": "Aprilaire",
    "id": "aprilaire-e130",
    "name": "Aprilaire E130",
    "rank": 4,
    "score": 67.1,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510068, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Sold through HVAC distributors and online supply stores and usually installed by a contractor, so ask for the installed price.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Aprilaire-E130-Dehumidifier-with-Automatic-Digital-Control-130-Pints-Per-Day",
+    "url": "https://www.supplyhouse.com/Aprilaire-E130-Dehumidifier-with-Automatic-Digital-Control-130-Pints-Per-Day"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510068, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Aprilaire-E130-Dehumidifier-with-Automatic-Digital-Control-130-Pints-Per-Day per https://www.supplyhouse.com/Aprilaire-E130-Dehumidifier-with-Automatic-Digital-Control-130-Pints-Per-Day (2026-11-03)",
    "specs": {
     "capacity": 105.0,
-    "cost5": 841.0,
+    "cost100": 3.66,
+    "cost5": 876.0,
     "ief": 2.35
    }
   },
   {
+   "best_for": "large or very humid homes",
+   "best_for_key": "capacity",
    "brand": "Healthy Climate",
    "id": "healthy-climate-hcwhd-130",
-   "name": "Healthy Climate HCWHD#-130",
+   "name": "Healthy Climate HCWHD5-130 (certified as Healthy Climate HCWHD-130)",
    "rank": 5,
    "score": 67.1,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594994, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "brand": "Healthy Climate",
+    "name": "HCWHD5-130",
+    "note": "FilterSolution lists the Lennox Healthy Climate HCWHD5-130 (catalog 28B21, R-32) at $3,244.00, in stock, with Add to Cart. ENERGY STAR certifies HCWHD#-130, where # marks the refrigerant and pallet quantity; HCWHD5 is Lennox's R-32 (low-GWP) generation, the refrigerant the certified record lists.",
+    "source": "https://www.filtersolution.com/genuine-lennox-28b21-healthy-climate-hcwhd5-130-whole-home-dehumidifier-130-pint.aspx",
+    "url": "https://www.filtersolution.com/genuine-lennox-28b21-healthy-climate-hcwhd5-130-whole-home-dehumidifier-130-pint.aspx"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594994, retrieved 2026-11-01; sold as Healthy Climate HCWHD5-130 per https://www.filtersolution.com/genuine-lennox-28b21-healthy-climate-hcwhd5-130-whole-home-dehumidifier-130-pint.aspx (2026-11-04)",
    "specs": {
     "capacity": 105.0,
-    "cost5": 2550.0,
+    "cost100": 3.66,
+    "cost5": 876.0,
     "ief": 2.35
    }
   },
@@ -106,10 +165,18 @@
    "name": "Santa Fe Ultra V100 (4047100)",
    "rank": 6,
    "score": 63.7,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510404, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Sold through HVAC distributors and online supply stores and usually installed by a contractor, so ask for the installed price.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Santa-Fe-4047100-Ultra-V100-A2L-Whole-House-High-Efficiency-Ventilating-Dehumidifier",
+    "url": "https://www.supplyhouse.com/Santa-Fe-4047100-Ultra-V100-A2L-Whole-House-High-Efficiency-Ventilating-Dehumidifier"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510404, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Santa-Fe-4047100-Ultra-V100-A2L-Whole-House-High-Efficiency-Ventilating-Dehumidifier per https://www.supplyhouse.com/Santa-Fe-4047100-Ultra-V100-A2L-Whole-House-High-Efficiency-Ventilating-Dehumidifier (2026-11-03)",
    "specs": {
     "capacity": 85.62,
-    "cost5": 380.0,
+    "cost100": 3.51,
+    "cost5": 685.0,
     "ief": 2.45
    }
   },
@@ -119,10 +186,18 @@
    "name": "Honeywell Home DHM120R4000/U",
    "rank": 7,
    "score": 62.1,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4576905, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Sold through HVAC distributors and online supply stores and usually installed by a contractor, so ask for the installed price.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Honeywell-Home-DHM120R4000-A120D-120-Pint-Whole-House-Dehumidifier",
+    "url": "https://www.supplyhouse.com/Honeywell-Home-DHM120R4000-A120D-120-Pint-Whole-House-Dehumidifier"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4576905, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Honeywell-Home-DHM120R4000-A120D-120-Pint-Whole-House-Dehumidifier per https://www.supplyhouse.com/Honeywell-Home-DHM120R4000-A120D-120-Pint-Whole-House-Dehumidifier (2026-11-03)",
    "specs": {
     "capacity": 94.33,
-    "cost5": 505.0,
+    "cost100": 3.87,
+    "cost5": 833.0,
     "ief": 2.22
    }
   },
@@ -132,23 +207,40 @@
    "name": "Aprilaire E100",
    "rank": 8,
    "score": 61.9,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510067, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Sold through HVAC distributors and online supply stores and usually installed by a contractor, so ask for the installed price.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Aprilaire-E100-Model-E100-Whole-House-Dehumidifier-100-Pints-Per-Day",
+    "url": "https://www.supplyhouse.com/Aprilaire-E100-Model-E100-Whole-House-Dehumidifier-100-Pints-Per-Day"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510067, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Aprilaire-E100-Model-E100-Whole-House-Dehumidifier-100-Pints-Per-Day per https://www.supplyhouse.com/Aprilaire-E100-Model-E100-Whole-House-Dehumidifier-100-Pints-Per-Day (2026-11-03)",
    "specs": {
     "capacity": 85.0,
-    "cost5": 745.0,
+    "cost100": 3.66,
+    "cost5": 709.0,
     "ief": 2.35
    }
   },
   {
-   "brand": "CARRIER CORPORATION",
+   "brand": "Healthy Climate",
    "id": "healthy-climate-hcwhd-100",
-   "name": "Healthy Climate HCWHD#-100",
+   "name": "Healthy Climate HCWHD5-100 (certified as Healthy Climate HCWHD-100)",
    "rank": 9,
    "score": 61.9,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594974, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "brand": "Healthy Climate",
+    "name": "HCWHD5-100",
+    "note": "FilterSolution lists the Lennox Healthy Climate HCWHD5-100 (catalog 28B22, R-32) at $2,319.00, in stock, with Add to Cart. ENERGY STAR certifies HCWHD#-100, where # marks the refrigerant and pallet quantity; HCWHD5 is Lennox's R-32 (low-GWP) generation, the refrigerant the certified record lists.",
+    "source": "https://www.filtersolution.com/genuine-lennox-28b22-healthy-climate-hcwhd5-100-whole-home-dehumidifier-100-pint.aspx",
+    "url": "https://www.filtersolution.com/genuine-lennox-28b22-healthy-climate-hcwhd5-100-whole-home-dehumidifier-100-pint.aspx"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594954, retrieved 2026-11-01; sold as Healthy Climate HCWHD5-100 per https://www.filtersolution.com/genuine-lennox-28b22-healthy-climate-hcwhd5-100-whole-home-dehumidifier-100-pint.aspx (2026-11-04)",
    "specs": {
     "capacity": 85.0,
-    "cost5": 2171.0,
+    "cost100": 3.66,
+    "cost5": 709.0,
     "ief": 2.35
    }
   },
@@ -158,23 +250,40 @@
    "name": "Aprilaire E080",
    "rank": 10,
    "score": 56.6,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510066, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Sold through HVAC distributors and online supply stores and usually installed by a contractor, so ask for the installed price.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Aprilaire-E080-Model-E080-Dehumidifier-80-Pint-Per-Day",
+    "url": "https://www.supplyhouse.com/Aprilaire-E080-Model-E080-Dehumidifier-80-Pint-Per-Day"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4510066, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Aprilaire-E080-Model-E080-Dehumidifier-80-Pint-Per-Day per https://www.supplyhouse.com/Aprilaire-E080-Model-E080-Dehumidifier-80-Pint-Per-Day (2026-11-03)",
    "specs": {
     "capacity": 65.0,
-    "cost5": 574.0,
+    "cost100": 3.66,
+    "cost5": 542.0,
     "ief": 2.35
    }
   },
   {
-   "brand": "CARRIER CORPORATION",
+   "brand": "Healthy Climate",
    "id": "healthy-climate-hcwhd-080",
-   "name": "Healthy Climate HCWHD#-080",
+   "name": "Healthy Climate HCWHD5-080 (certified as Healthy Climate HCWHD-080)",
    "rank": 11,
    "score": 56.6,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594934, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "brand": "Healthy Climate",
+    "name": "HCWHD5-080",
+    "note": "FilterSolution lists the Lennox Healthy Climate HCWHD5-080 (catalog 28B23, R-32) at $1,995.00, in stock, with Add to Cart. ENERGY STAR certifies HCWHD#-080, where # marks the refrigerant and pallet quantity; HCWHD5 is Lennox's R-32 (low-GWP) generation, the refrigerant the certified record lists.",
+    "source": "https://www.filtersolution.com/genuine-lennox-28b23-healthy-climate-hcwhd5-080-whole-home-dehumidifier-80-pint.aspx",
+    "url": "https://www.filtersolution.com/genuine-lennox-28b23-healthy-climate-hcwhd5-080-whole-home-dehumidifier-80-pint.aspx"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4594914, retrieved 2026-11-01; sold as Healthy Climate HCWHD5-080 per https://www.filtersolution.com/genuine-lennox-28b23-healthy-climate-hcwhd5-080-whole-home-dehumidifier-80-pint.aspx (2026-11-04)",
    "specs": {
     "capacity": 65.0,
-    "cost5": 929.0,
+    "cost100": 3.66,
+    "cost5": 542.0,
     "ief": 2.35
    }
   },
@@ -184,28 +293,79 @@
    "name": "MOISWELL Admiral W160",
    "rank": 12,
    "score": 55.0,
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4616314, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "MOISWELL's store sells the Marshal WD160 (a certified model number of this set, $999.00, available when read 2026-11-04); it markets 160 pints and ENERGY STAR certifies 65 pints a day.",
+    "seller": "MOISWELL",
+    "source": "https://moiswell.com/products/160-pint-whole-home-dehumidifier-with-fresh-air-remote-control-moiswell-marshal-wd160",
+    "url": "https://moiswell.com/products/160-pint-whole-home-dehumidifier-with-fresh-air-remote-control-moiswell-marshal-wd160"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4616314, retrieved 2026-11-01; buy link https://moiswell.com/products/160-pint-whole-home-dehumidifier-with-fresh-air-remote-control-moiswell-marshal-wd160 per https://moiswell.com/products/160-pint-whole-home-dehumidifier-with-fresh-air-remote-control-moiswell-marshal-wd160 (2026-11-04)",
    "specs": {
     "capacity": 65.0,
-    "cost5": 570.0,
+    "cost100": 3.82,
+    "cost5": 566.0,
     "ief": 2.25
+   }
+  },
+  {
+   "brand": "Honeywell Home",
+   "id": "honeywell-home-dhm090r4000",
+   "name": "Honeywell Home DHM090R4000",
+   "rank": 13,
+   "score": 54.2,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Sold as the A90D whole-home dehumidifier; the maker's pints-per-day rating is higher than the ENERGY STAR certified capacity shown here.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Honeywell-Home-DHM090R4000-A90D-90-pint-Whole-House-Dehumidifier",
+    "url": "https://www.supplyhouse.com/Honeywell-Home-DHM090R4000-A90D-90-pint-Whole-House-Dehumidifier"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4576904, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Honeywell-Home-DHM090R4000-A90D-90-pint-Whole-House-Dehumidifier per https://www.supplyhouse.com/Honeywell-Home-DHM090R4000-A90D-90-pint-Whole-House-Dehumidifier (2026-11-03)",
+   "specs": {
+    "capacity": 64.17,
+    "cost100": 3.87,
+    "cost5": 567.0,
+    "ief": 2.22
+   }
+  },
+  {
+   "brand": "Honeywell Home",
+   "id": "honeywell-home-dhm065r4000-u",
+   "name": "Honeywell Home DHM065R4000/U",
+   "rank": 14,
+   "score": 51.2,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Sold as the A65D whole-home dehumidifier; the maker's pints-per-day rating is higher than the ENERGY STAR certified capacity shown here.",
+    "seller": "SupplyHouse",
+    "source": "https://www.supplyhouse.com/Honeywell-Home-DHM065R4000-A65D-65-pint-Whole-House-Dehumidifier-DHM065R4000",
+    "url": "https://www.supplyhouse.com/Honeywell-Home-DHM065R4000-A65D-65-pint-Whole-House-Dehumidifier-DHM065R4000"
+   },
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4576903, retrieved 2026-11-01; buy link https://www.supplyhouse.com/Honeywell-Home-DHM065R4000-A65D-65-pint-Whole-House-Dehumidifier-DHM065R4000 per https://www.supplyhouse.com/Honeywell-Home-DHM065R4000-A65D-65-pint-Whole-House-Dehumidifier-DHM065R4000 (2026-11-04)",
+   "specs": {
+    "capacity": 52.09,
+    "cost100": 3.85,
+    "cost5": 458.0,
+    "ief": 2.23
    }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "method": "We compared the ENERGY STAR whole-home (ducted) dehumidifiers with the highest certified capacity, scoring capacity and IEF. The five-year electricity cost is shown for each (certified yearly energy use x current EIA U.S. average residential price x 5). Every model tied with the last one on the selection criterion is listed, so the cut never picks among equals.",
+ "method": "We compared the ENERGY STAR whole-home (ducted) dehumidifiers with the highest certified capacity, scoring capacity and IEF. The five-year electricity cost is shown for each (yearly energy computed from certified capacity and IEF at DOE's 1,095 dehumidifying hours a year x current EIA U.S. average residential price x 5; we do not use the listed yearly figure because for some listings it does not match their own capacity and IEF).",
  "name": "Best whole-house dehumidifiers, ranked by certified data",
  "next_refresh": "2026-12-01",
  "publisher": "ByTheRank",
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 172.13,
-  "cut": 65.0,
+  "cut": 52.09,
   "label": "Certified capacity",
-  "listed": 12,
+  "listed": 14,
   "listings": 24,
   "merge": "listings with identical certified values on all 11 reported fields",
   "pool": 14,
+  "pool_unit": "distinct certified spec sets",
   "tied_beyond_cut": 0,
   "unit": "pints/day"
  },
@@ -225,6 +385,7 @@
     "label": "Certified capacity",
     "second_points": 33.3,
     "second_value": 127.51,
+    "spread_points": 31.4,
     "unit": "pints/day",
     "weight_pct": 45.0
    },
@@ -236,17 +397,31 @@
     "label": "Integrated Energy Factor",
     "second_points": 55.0,
     "second_value": 3.26,
+    "spread_points": 17.5,
     "unit": "L/kWh",
     "weight_pct": 55.0
    },
    {
     "difference": 0.0,
     "first_points": 0.0,
-    "first_value": 1079.0,
+    "first_value": 1081.0,
     "key": "cost5",
     "label": "5-year electricity cost",
     "second_points": 0.0,
-    "second_value": 765.0,
+    "second_value": 767.0,
+    "spread_points": 0.0,
+    "unit": "USD",
+    "weight_pct": 0.0
+   },
+   {
+    "difference": 0.0,
+    "first_points": 0.0,
+    "first_value": 2.75,
+    "key": "cost100",
+    "label": "Electricity cost per 100 pints removed",
+    "second_points": 0.0,
+    "second_value": 2.64,
+    "spread_points": 0.0,
     "unit": "USD",
     "weight_pct": 0.0
    }
@@ -265,6 +440,7 @@
   "flip": {
    "key": "ief",
    "label": "Integrated Energy Factor",
+   "name": "Santa Fe Ultra V155 (4047300)",
    "needed_pct": 85.8,
    "now_pct": 55.0
   },
@@ -276,28 +452,28 @@
    {
     "names": [
      "Aprilaire E130",
-     "Healthy Climate HCWHD#-130"
+     "Healthy Climate HCWHD5-130 (certified as Healthy Climate HCWHD-130)"
     ],
     "rank": "=4",
-    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no difference on any column shown; the certified yearly energy differs, see the cards)",
     "score": 67.1
    },
    {
     "names": [
      "Aprilaire E100",
-     "Healthy Climate HCWHD#-100"
+     "Healthy Climate HCWHD5-100 (certified as Healthy Climate HCWHD-100)"
     ],
     "rank": "=8",
-    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no difference on any column shown; the certified yearly energy differs, see the cards)",
     "score": 61.9
    },
    {
     "names": [
      "Aprilaire E080",
-     "Healthy Climate HCWHD#-080"
+     "Healthy Climate HCWHD5-080 (certified as Healthy Climate HCWHD-080)"
     ],
     "rank": "=10",
-    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
+    "rule": "equal scores share a rank; within it products are listed alphabetically (no difference on any column shown; the certified yearly energy differs, see the cards)",
     "score": 56.6
    }
   ]

@@ -1,0 +1,10 @@
+Room (sq ft),Ceiling (ft),Target air changes/hour,Rated (maximum-speed) smoke CADR needed (cfm),Spec sets reaching it with 1 unit,Spec sets reaching it with up to 2 units,Spec sets reaching it with up to 3 units
+150,8,5,100,131,155,163
+250,8,5,167,82,138,152
+350,8,5,234,65,117,142
+500,8,5,334,31,82,124
+250,9,5,188,78,133,152
+500,9,5,375,18,78,114
+750,9,5,563,1,49,78
+960,9,5,720,0,26,64
+1000,8,5,667,0,31,70

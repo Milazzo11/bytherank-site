@@ -1,10 +1,10 @@
 {
  "analysis": {
-  "decile": 370.0,
+  "decile": 376.0,
   "higher_better": true,
   "label": "Smoke CADR",
-  "median": 151.5,
-  "pool": 126,
+  "median": 150.5,
+  "pool": 124,
   "top_beats_pct": 99,
   "top_name": "Coway Airmega ProX",
   "top_value": 577.0,
@@ -16,7 +16,7 @@
    "key": "smoke_cadr",
    "label": "Smoke CADR",
    "unit": "cfm",
-   "weight": 0.7
+   "weight": 0.85
   },
   {
    "direction": "lower",
@@ -24,7 +24,7 @@
    "key": "cost5",
    "label": "5-year electricity cost",
    "unit": "USD",
-   "weight": 0.3
+   "weight": 0.15
   }
  ],
  "filters": [
@@ -36,48 +36,61 @@
  ],
  "items": [
   {
+   "best_for": "wildfire smoke and heavy indoor smoke",
+   "best_for_key": "smoke_cadr",
    "brand": "Coway",
    "id": "coway-airmega-prox",
    "name": "Coway Airmega ProX",
    "rank": 1,
-   "score": 91.0,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4015877, retrieved 2026-11-01",
+   "score": 95.5,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "seller": "Coway",
+    "source": "https://cowaymega.com/collections/airmega-extra-large/products/airmega-prox",
+    "url": "https://cowaymega.com/collections/airmega-extra-large/products/airmega-prox"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4015877, retrieved 2026-11-01; buy link https://cowaymega.com/collections/airmega-extra-large/products/airmega-prox per https://cowaymega.com/collections/airmega-extra-large/products/airmega-prox (2026-11-03)",
    "specs": {
     "cost5": 304.0,
     "smoke_cadr": 577.0
    }
   },
   {
+   "best_for": "wildfire smoke and heavy indoor smoke",
+   "best_for_key": "smoke_cadr",
    "brand": "CUCKOO",
    "id": "cuckoo-cac-f3010fw",
    "name": "CUCKOO CAC-F3010FW",
    "rank": 2,
-   "score": 84.3,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4517930, retrieved 2026-11-01",
+   "score": 90.0,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "seller": "CUCKOO America",
+    "source": "https://cuckooamerica.com/products/cac-f3010fw",
+    "url": "https://cuckooamerica.com/products/cac-f3010fw"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4517930, retrieved 2026-11-01; buy link https://cuckooamerica.com/products/cac-f3010fw per https://cuckooamerica.com/products/cac-f3010fw (2026-11-03)",
    "specs": {
     "cost5": 369.0,
     "smoke_cadr": 552.0
    }
   },
   {
-   "brand": "Coway",
-   "id": "coway-ap-3018b",
-   "name": "Coway AP-3018B",
-   "rank": 3,
-   "score": 80.1,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481456, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 213.0,
-    "smoke_cadr": 413.0
-   }
-  },
-  {
+   "best_for": "wildfire smoke and heavy indoor smoke",
+   "best_for_key": "smoke_cadr",
    "brand": "Soleusair",
    "id": "soleusair-ga1-w",
    "name": "Soleusair GA1-W",
-   "rank": 4,
-   "score": 78.7,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4046703, retrieved 2026-11-01",
+   "rank": 3,
+   "score": 84.7,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Amazon's listing (sold by Soleus Air International, in stock at $499.99 when read 2026-11-04) shows GA1-W in its item details. The listing markets 4,145 sq ft; the ENERGY STAR record certifies 811 sq ft.",
+    "seller": "Amazon (Soleus Air International)",
+    "source": "https://www.amazon.com/dp/B0HJ1JCHGT",
+    "url": "https://www.amazon.com/dp/B0HJ1JCHGT"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4046703, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0HJ1JCHGT per https://www.amazon.com/dp/B0HJ1JCHGT (2026-11-04)",
    "specs": {
     "cost5": 420.0,
     "smoke_cadr": 523.0
@@ -87,9 +100,16 @@
    "brand": "Fellowes",
    "id": "fellowes-aeramax-sv",
    "name": "Fellowes Aeramax SV",
-   "rank": 5,
-   "score": 77.2,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4587264, retrieved 2026-11-01",
+   "rank": 4,
+   "score": 83.5,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Staples lists it as the Fellowes AeraMax SV (9794501).",
+    "seller": "Staples",
+    "source": "https://www.staples.com/product_24551132",
+    "url": "https://www.staples.com/product_24551132"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4587264, retrieved 2026-11-01; buy link https://www.staples.com/product_24551132 per https://www.staples.com/product_24551132 (2026-11-03)",
    "specs": {
     "cost5": 445.0,
     "smoke_cadr": 518.0
@@ -99,12 +119,39 @@
    "brand": "CUCKOO",
    "id": "cuckoo-cac-ah2810fnw",
    "name": "CUCKOO CAC-AH2810FNW",
-   "rank": 6,
-   "score": 73.4,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4528788, retrieved 2026-11-01",
+   "rank": 5,
+   "score": 76.1,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "seller": "CUCKOO America",
+    "source": "https://cuckooamerica.com/products/cac-ah2810fnw",
+    "url": "https://cuckooamerica.com/products/cac-ah2810fnw"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4528788, retrieved 2026-11-01; buy link https://cuckooamerica.com/products/cac-ah2810fnw per https://cuckooamerica.com/products/cac-ah2810fnw (2026-11-03)",
    "specs": {
     "cost5": 352.0,
     "smoke_cadr": 455.0
+   }
+  },
+  {
+   "best_for": "running through a long smoke season for less",
+   "best_for_key": "cost5",
+   "brand": "Coway",
+   "id": "coway-ap-3018b",
+   "name": "Coway AP-3018B",
+   "rank": 6,
+   "score": 75.8,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Coway USA sells it as the Ultra Air Purifier (Model AP-3018B), as a one-time purchase or a rental, and asks for your ZIP code to confirm your service area first (read 2026-11-04).",
+    "seller": "Coway USA",
+    "source": "https://coway-usa.com/Ultra-Air",
+    "url": "https://coway-usa.com/products/ultra-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481456, retrieved 2026-11-01; buy link https://coway-usa.com/products/ultra-air-purifier per https://coway-usa.com/Ultra-Air (2026-11-04)",
+   "specs": {
+    "cost5": 213.0,
+    "smoke_cadr": 413.0
    }
   },
   {
@@ -112,114 +159,237 @@
    "id": "coway-airmega-450",
    "name": "Coway Airmega 450",
    "rank": 7,
-   "score": 71.8,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4005917, retrieved 2026-11-01",
+   "score": 74.3,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "seller": "Coway",
+    "source": "https://cowaymega.com/products/airmega-450",
+    "url": "https://cowaymega.com/products/airmega-450"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4005917, retrieved 2026-11-01; buy link https://cowaymega.com/products/airmega-450 per https://cowaymega.com/products/airmega-450 (2026-11-03)",
    "specs": {
     "cost5": 353.0,
     "smoke_cadr": 443.0
    }
   },
   {
-   "brand": "Coway",
-   "id": "coway-airmega-450s",
-   "name": "Coway Airmega 450S",
-   "rank": 8,
-   "score": 71.4,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4005914, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 362.0,
-    "smoke_cadr": 443.0
-   }
-  },
-  {
-   "brand": "HealthWay",
-   "id": "healthway-max500",
-   "name": "HealthWay MAX500",
-   "rank": 9,
-   "score": 66.5,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4701214, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 390.0,
-    "smoke_cadr": 413.0
-   }
-  },
-  {
    "brand": "LEVOIT",
    "id": "levoit-lap-c601s-wus",
    "name": "LEVOIT LAP-C601S-WUS",
-   "rank": 10,
-   "score": 65.6,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020853, retrieved 2026-11-01",
+   "rank": 8,
+   "score": 66.7,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Levoit sells it as the Core 600S-P (Model LAP-C601S-WUS).",
+    "seller": "Levoit",
+    "source": "https://levoit.com/products/core-600s-p-smart-air-purifier",
+    "url": "https://levoit.com/products/core-600s-p-smart-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4020853, retrieved 2026-11-01; buy link https://levoit.com/products/core-600s-p-smart-air-purifier per https://levoit.com/products/core-600s-p-smart-air-purifier (2026-11-03)",
    "specs": {
     "cost5": 351.0,
     "smoke_cadr": 391.0
    }
+  },
+  {
+   "best_for": "running through a long smoke season for less",
+   "best_for_key": "cost5",
+   "brand": "AIRMEGA",
+   "id": "airmega-ap-2425h",
+   "name": "AIRMEGA AP-2425H",
+   "rank": 9,
+   "score": 65.3,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Coway USA sells the AP-2425H for a one-time $1,499 or on a monthly rental, and asks for your ZIP code to confirm your service area first.",
+    "seller": "Coway USA",
+    "source": "https://coway-usa.com/products/square-fit-air-purifier-ap-2425h",
+    "url": "https://coway-usa.com/products/square-fit-air-purifier-ap-2425h"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4570177, retrieved 2026-11-01; buy link https://coway-usa.com/products/square-fit-air-purifier-ap-2425h per https://coway-usa.com/products/square-fit-air-purifier-ap-2425h (2026-11-03)",
+   "specs": {
+    "cost5": 332.0,
+    "smoke_cadr": 378.0
+   }
+  },
+  {
+   "best_for": "running through a long smoke season for less",
+   "best_for_key": "cost5",
+   "brand": "AIRMEGA",
+   "id": "airmega-400-ap-2015f",
+   "name": "Airmega 400 (AP-2015F)",
+   "rank": 10,
+   "score": 65.0,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Coway's page sells it as the Airmega 400 (its Non-Wifi option), the model name in this certification; it does not print AP-2015F.",
+    "seller": "Coway",
+    "source": "https://cowaymega.com/products/airmega-400",
+    "url": "https://cowaymega.com/products/airmega-400"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4512744, retrieved 2026-11-01; buy link https://cowaymega.com/products/airmega-400 per https://cowaymega.com/products/airmega-400 (2026-11-03)",
+   "specs": {
+    "cost5": 332.0,
+    "smoke_cadr": 376.0
+   }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "method": "We compared the 10 zero-ozone ENERGY STAR certified air purifiers with the highest certified smoke CADR. Smoke CADR carries most of the weight; the rest goes to the five-year electricity cost, computed from the certified yearly energy use and the current EIA U.S. average residential price. Rated room size is left out of the score because ENERGY STAR derives it from smoke CADR.",
- "name": "Best air purifiers for smoke, ranked by certified smoke CADR",
+ "method": "We compared the zero-ozone ENERGY STAR certified air purifiers with the highest certified smoke CADR. Smoke CADR carries 85% of the weight and the five-year electricity cost 15% (cost is scored against the page's cheapest unit, so a larger share would let a slow but cheap unit lead), computed from the certified yearly energy use and the current EIA U.S. average residential price. Rated room size is left out of the score because ENERGY STAR derives it from smoke CADR.",
+ "name": "Best air purifiers for smoke, ranked mainly by certified smoke CADR",
  "next_refresh": "2026-12-01",
  "publisher": "ByTheRank",
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 577.0,
-  "cut": 391.0,
+  "cut": 376.0,
+  "excluded": [
+   {
+    "examples": [
+     {
+      "name": "Winix Tower XQ",
+      "select": 461.0,
+      "value": "1 ppb ozone"
+     },
+     {
+      "name": "Blueair 4312111000",
+      "select": 455.0,
+      "value": "3 ppb ozone"
+     },
+     {
+      "name": "Blueair 3613111100",
+      "select": 443.0,
+      "value": "2 ppb ozone"
+     }
+    ],
+    "filter": "ozone_emissions_ppb == 0",
+    "n": 43,
+    "side": "highest",
+    "why": "conservative choice: only units that report 0 ppb ozone in certification; UL's zero-ozone test (UL 2998) cannot quantify low readings, so this also drops units whose small non-zero reports are not reliably different from 0"
+   },
+   {
+    "filter": "certified yearly energy far from what its own smoke CADR and CADR per watt imply",
+    "n": 1,
+    "why": "yearly energy, smoke CADR and CADR per watt are linked on almost every record of this list; where they disagree this much the record contradicts itself, so neither its running cost nor its efficiency can be trusted. The one dropped here is the CleanAirKits Luggable Ultra (5-fan) (certified as Rainbow Luggable Ultra, record 4518200), whose smoke CADR is below this list's cut anyway"
+   }
+  ],
   "label": "Smoke CADR",
   "listed": 10,
-  "listings": 204,
+  "listings": 203,
   "merge": "listings with identical certified values on all 23 reported fields",
-  "pool": 126,
+  "not_in_stock": 2,
+  "pool": 124,
+  "pool_unit": "distinct certified spec sets",
+  "recerts_collapsed": 5,
+  "recerts_kept_apart": 6,
   "tied_beyond_cut": 0,
-  "unit": "cfm"
+  "unit": "cfm",
+  "unranked": 3
  },
  "sources": [
   "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
-  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+  "https://www.ul.com/services/zero-ozone-emissions-validation"
+ ],
+ "unranked": [
+  {
+   "as_of": "2026-11-03",
+   "ids": [
+    "Airmega 450S",
+    "AP-2524C",
+    "AP-2524C_BG",
+    "AP-2524C_WT"
+   ],
+   "name": "Coway Airmega 450S",
+   "note": "No listing we could confirm as of 2026-11-03. Coway's store sells the Airmega 450 (AP-2524B), not the Wi-Fi 450S; its own search for 450S finds no product. Searched: Airmega 450S, AP-2524C, AP-2524C_WT, AP-2524C_BG, 826439000882, 826439000899.",
+   "specs": {
+    "cost5": 362.0,
+    "smoke_cadr": 443.0
+   },
+   "value": 443.0
+  },
+  {
+   "aliases": [
+    "Intellipure MAX500"
+   ],
+   "as_of": "2026-11-04",
+   "ids": [
+    "MAX500"
+   ],
+   "listing_state": "not_in_stock",
+   "name": "HealthWay MAX500",
+   "note": "No in-stock listing we could confirm as of 2026-11-04. HealthWay's own page for the ZeroAir Max 500 (healthway.com/products/zeroair-max-500) shows a logged-out visitor only a customer-login prompt, with no product, price or cart, so a reader cannot open a listing. Its product feed shows SKU ZAMAX500 at $1,600.00, which a reader never sees.",
+   "specs": {
+    "cost5": 390.0,
+    "smoke_cadr": 413.0
+   },
+   "value": 413.0
+  },
+  {
+   "as_of": "2026-11-03",
+   "ids": [
+    "CAC-D2020FW"
+   ],
+   "name": "CUCKOO CAC-D2020FW",
+   "note": "No in-stock listing we could confirm as of 2026-11-03. CUCKOO America shows the CAC-D2020FW sold out and QVC's page is gone. Searched: CAC-D2020FW, 8809591517148.",
+   "specs": {
+    "cost5": 287.0,
+    "smoke_cadr": 382.0
+   },
+   "value": 382.0
+  }
  ],
  "updated": "2026-11-01",
  "url": "https://bytherank.com/best-air-purifiers-for-smoke/",
  "why_first": {
   "criteria": [
    {
-    "difference": 3.0,
-    "first_points": 70.0,
+    "difference": 3.7,
+    "first_points": 85.0,
     "first_value": 577.0,
     "key": "smoke_cadr",
     "label": "Smoke CADR",
-    "second_points": 67.0,
+    "second_points": 81.3,
     "second_value": 552.0,
+    "spread_points": 29.6,
     "unit": "cfm",
-    "weight_pct": 70.0
+    "weight_pct": 85.0
    },
    {
-    "difference": 3.7,
-    "first_points": 21.0,
+    "difference": 1.8,
+    "first_points": 10.5,
     "first_value": 304.0,
     "key": "cost5",
     "label": "5-year electricity cost",
-    "second_points": 17.3,
+    "second_points": 8.7,
     "second_value": 369.0,
+    "spread_points": 7.8,
     "unit": "USD",
-    "weight_pct": 30.0
+    "weight_pct": 15.0
    }
   ],
   "deciding": {
-   "computed": true,
-   "first_value": 304.0,
-   "key": "cost5",
-   "label": "5-year electricity cost",
+   "computed": false,
+   "first_value": 577.0,
+   "key": "smoke_cadr",
+   "label": "Smoke CADR",
    "retrieved": "2026-11-01",
-   "second_value": 369.0,
+   "second_value": 552.0,
    "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6"
   },
   "first": "Coway Airmega ProX",
-  "first_score": 91.0,
-  "flip": null,
+  "first_score": 95.5,
+  "flip": {
+   "key": "cost5",
+   "label": "5-year electricity cost",
+   "name": "Coway AP-3018B",
+   "needed_pct": 48.8,
+   "now_pct": 15.0
+  },
   "headline_leader": null,
-  "margin": 6.7,
+  "margin": 5.5,
   "second": "CUCKOO CAC-F3010FW",
-  "second_score": 84.3,
+  "second_score": 90.0,
   "ties": []
  }
 }

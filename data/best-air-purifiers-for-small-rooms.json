@@ -5,9 +5,9 @@
   "label": "Smoke CADR",
   "median": 110.0,
   "pool": 68,
-  "top_beats_pct": 94,
-  "top_name": "Bosch Air 4000",
-  "top_value": 156.0,
+  "top_beats_pct": 98,
+  "top_name": "LEVOIT Eleva 300X",
+  "top_value": 161.0,
   "unit": "cfm"
  },
  "criteria": [
@@ -16,7 +16,7 @@
    "key": "smoke_cadr",
    "label": "Smoke CADR",
    "unit": "cfm",
-   "weight": 0.55
+   "weight": 0.8
   },
   {
    "direction": "lower",
@@ -24,7 +24,14 @@
    "key": "cost5",
    "label": "5-year electricity cost",
    "unit": "USD",
-   "weight": 0.45
+   "weight": 0.2
+  },
+  {
+   "direction": "higher",
+   "key": "room",
+   "label": "Rated room size",
+   "unit": "sq ft",
+   "weight": 0
   }
  ],
  "filters": [
@@ -41,170 +48,221 @@
  ],
  "items": [
   {
-   "brand": "Bosch",
-   "id": "bosch-air-4000",
-   "name": "Bosch Air 4000",
-   "rank": 1,
-   "score": 98.3,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4471345, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 113.0,
-    "smoke_cadr": 156.0
-   }
-  },
-  {
-   "brand": "Greenlite",
-   "id": "greenlite-g-pure1-22w",
-   "name": "Greenlite G-Pure1-22W",
-   "rank": 2,
-   "score": 97.4,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4672534, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 117.0,
-    "smoke_cadr": 158.0
-   }
-  },
-  {
-   "brand": "Midea",
-   "id": "midea-kj250g-z43",
-   "name": "Midea KJ250G-Z43",
-   "rank": 3,
-   "score": 96.2,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439574, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 114.0,
-    "smoke_cadr": 151.0
-   }
-  },
-  {
-   "brand": "CUCKOO",
-   "id": "midea-793k18a",
-   "name": "Midea 793K18A",
-   "rank": 4,
-   "score": 95.5,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439566, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 114.0,
-    "smoke_cadr": 149.0
-   }
-  },
-  {
+   "best_for": "a bedroom or office that needs fast cleaning",
+   "best_for_key": "smoke_cadr",
    "brand": "LEVOIT",
    "id": "levoit-lap-c341s-wusz",
-   "name": "LEVOIT LAP-C341S-WUSZ",
-   "rank": 5,
-   "score": 93.5,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4614674, retrieved 2026-11-01",
+   "name": "LEVOIT Eleva 300X (certified as LEVOIT LAP-C341S-WUSZ)",
+   "rank": 1,
+   "score": 93.9,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "brand": "LEVOIT",
+    "listing_source": "https://levoit.com/pages/eleva-300x",
+    "name": "Eleva 300X",
+    "source": "https://levoit.com/cdn/shop/files/6100000131_LAP-C341S-WUSZ_Air_Purifier_manual_US_A4-260630_1.pdf",
+    "url": "https://levoit.com/pages/eleva-300x"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4614674, retrieved 2026-11-01; sold as LEVOIT Eleva 300X per https://levoit.com/cdn/shop/files/6100000131_LAP-C341S-WUSZ_Air_Purifier_manual_US_A4-260630_1.pdf (2026-11-03); buy link https://levoit.com/pages/eleva-300x per https://levoit.com/pages/eleva-300x (2026-11-03)",
    "specs": {
     "cost5": 132.0,
+    "room": 250.0,
     "smoke_cadr": 161.0
    }
   },
   {
-   "brand": "CLOROX",
-   "id": "clorox-type-ap32-11030",
-   "name": "CLOROX TYPE AP32 (11030)",
-   "rank": 6,
-   "score": 92.9,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439467, retrieved 2026-11-01",
+   "best_for": "a bedroom or office that needs fast cleaning",
+   "best_for_key": "smoke_cadr",
+   "brand": "Bosch",
+   "id": "bosch-air-4000",
+   "name": "Bosch Air 4000",
+   "rank": 2,
+   "score": 93.8,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Bosch's own page has no price or cart; its Where to Buy section links this Amazon listing.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0D6HYBZYW",
+    "url": "https://www.amazon.com/dp/B0D6HYBZYW"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4471345, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0D6HYBZYW per https://www.amazon.com/dp/B0D6HYBZYW (2026-11-04)",
    "specs": {
-    "cost5": 120.0,
-    "smoke_cadr": 148.0
+    "cost5": 113.0,
+    "room": 242.0,
+    "smoke_cadr": 156.0
    }
   },
   {
+   "best_for": "a bedroom or office that needs fast cleaning",
+   "best_for_key": "smoke_cadr",
+   "brand": "Dreo",
+   "id": "dreo-dr-hap009",
+   "name": "Dreo DR-HAP009S (certified as Dreo DR-HAP009)",
+   "rank": 3,
+   "score": 91.0,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "brand": "Dreo",
+    "name": "DR-HAP009S",
+    "note": "Dreo sells this certified set as the Air Purifier 539S (DR-HAP009S, with Wi-Fi) and markets the 539 (DR-HAP009) without Wi-Fi, though its certification lists Wi-Fi. The link goes to the 539S.",
+    "source": "https://www.dreo.com/products/air-purifier-539s",
+    "url": "https://www.dreo.com/products/air-purifier-539s"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586495, retrieved 2026-11-01; sold as Dreo DR-HAP009S per https://www.dreo.com/products/air-purifier-539s (2026-11-03)",
+   "specs": {
+    "cost5": 147.0,
+    "room": 245.0,
+    "smoke_cadr": 158.0
+   }
+  },
+  {
+   "best_for": "a bedroom or office that needs fast cleaning",
+   "best_for_key": "smoke_cadr",
+   "brand": "Senville",
+   "id": "senville-senap-250g-z41",
+   "name": "Senville Flow 500 (certified as Senville SENAP-250G-Z41)",
+   "rank": 4,
+   "score": 90.1,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "brand": "Senville",
+    "name": "Flow 500",
+    "note": "The store lists SKU SENAP-250G-Z41, the certified model number. Its page prints 'CADR 250 CFM' and 'up to 1000 Sq. Ft.'; ENERGY STAR certifies 149 cfm of smoke CADR and 231 sq ft (250 m3/h would be 147 cfm). cuckooamerica.com has no page for the CUCKOO CAC-AB0610FI in the same certified set.",
+    "source": "https://senville.com/senville-air-purifier-for-home-flow-500-series/",
+    "url": "https://senville.com/senville-air-purifier-for-home-flow-500-series/"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439568, retrieved 2026-11-01; sold as Senville Flow 500 per https://senville.com/senville-air-purifier-for-home-flow-500-series/ (2026-11-03)",
+   "specs": {
+    "cost5": 114.0,
+    "room": 231.0,
+    "smoke_cadr": 149.0
+   }
+  },
+  {
+   "best_for": "a bedroom or office that needs fast cleaning",
+   "best_for_key": "smoke_cadr",
    "brand": "Alen",
    "id": "alen-breathesmart-35i",
    "name": "Alen BreatheSmart 35i",
-   "rank": 7,
-   "score": 92.6,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481445, retrieved 2026-11-01",
+   "rank": 5,
+   "score": 89.4,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "seller": "Alen",
+    "source": "https://alen.com/products/alen-breathesmart-35i-air-purifier",
+    "url": "https://alen.com/products/alen-breathesmart-35i-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4481445, retrieved 2026-11-01; buy link https://alen.com/products/alen-breathesmart-35i-air-purifier per https://alen.com/products/alen-breathesmart-35i-air-purifier (2026-11-03)",
    "specs": {
     "cost5": 123.0,
+    "room": 233.0,
     "smoke_cadr": 150.0
    }
   },
   {
-   "brand": "Dreo",
-   "id": "dreo-dr-hap005as",
-   "name": "Dreo DR-HAP005AS",
+   "best_for": "running overnight for less than this page's average",
+   "best_for_key": "cost5",
+   "brand": "CLOROX",
+   "id": "clorox-type-ap32-11030",
+   "name": "CLOROX TYPE AP32 (11030)",
+   "rank": 6,
+   "score": 88.8,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Target lists it as the Clorox Medium Room True HEPA Air Purifier (11030).",
+    "seller": "Target",
+    "source": "https://www.target.com/p/clorox-medium-room-true-hepa-filter-air-purifier-11030-white/-/A-86975401",
+    "url": "https://www.target.com/p/clorox-medium-room-true-hepa-filter-air-purifier-11030-white/-/A-86975401"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4439467, retrieved 2026-11-01; buy link https://www.target.com/p/clorox-medium-room-true-hepa-filter-air-purifier-11030-white/-/A-86975401 per https://www.target.com/p/clorox-medium-room-true-hepa-filter-air-purifier-11030-white/-/A-86975401 (2026-11-03)",
+   "specs": {
+    "cost5": 120.0,
+    "room": 229.0,
+    "smoke_cadr": 148.0
+   }
+  },
+  {
+   "best_for": "running overnight for less than this page's average",
+   "best_for_key": "cost5",
+   "brand": "AROEVE",
+   "id": "aroeve-dh-jh021us-a00",
+   "name": "AROEVE DH-JH021US-A00",
+   "rank": 7,
+   "score": 88.6,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "In stock on Amazon at $99.99 when read 2026-11-04 (sold by GEECOOL INC, ships from Amazon). The listing is titled AROEVE Air Purifier, 145 CFM, ENERGY STAR, 22W, model MK21, and MK21 is a model number certified for this product (DH-JH021US-A00, DH-JH21, MK21); the page also gives the certified UPC. AROEVE's own store page prints no model number and sends its Buy button to Amazon. The listing prints 22 W; the certified record implies about 17 W.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0GXTVPR67",
+    "url": "https://www.amazon.com/dp/B0GXTVPR67"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4611114, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GXTVPR67 per https://www.amazon.com/dp/B0GXTVPR67 (2026-11-04)",
+   "specs": {
+    "cost5": 92.0,
+    "room": 214.0,
+    "smoke_cadr": 138.0
+   }
+  },
+  {
+   "brand": "MaxLite",
+   "id": "longstar-ep-kjts01-140-25w",
+   "name": "MaxLite AP215SF4B (certified as Longstar EP-KJTS01-140-25W)",
    "rank": 8,
-   "score": 90.2,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4670514, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 133.0,
-    "smoke_cadr": 152.0
-   }
-  },
-  {
-   "brand": "Honeywell",
-   "id": "honeywell-hpa4200b",
-   "name": "Honeywell HPA4200B",
-   "rank": 9,
-   "score": 90.2,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4518201, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 124.0,
-    "smoke_cadr": 144.0
-   }
-  },
-  {
-   "brand": "Longstar",
-   "id": "maxlite-ap215sf4b",
-   "name": "MaxLite AP215SF4B",
-   "rank": 10,
-   "score": 89.4,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4654774, retrieved 2026-11-01",
+   "score": 87.6,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "brand": "MaxLite",
+    "name": "AP215SF4B",
+    "note": "The Amazon listing (MaxLite Gen4 Tabletop Air Purifier, shipped and sold by AltruWatt, in stock at $110.39 when read 2026-11-04) gives Brand Maxlite, Model AP215SF4B and UPC 767627090677 in its item details, the certified UPC of the MaxLite member of this set.",
+    "source": "https://www.amazon.com/dp/B0HHFYZTLL",
+    "url": "https://www.amazon.com/dp/B0HHFYZTLL"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4654774, retrieved 2026-11-01; sold as MaxLite AP215SF4B per https://www.amazon.com/dp/B0HHFYZTLL (2026-11-04)",
    "specs": {
     "cost5": 131.0,
+    "room": 229.0,
     "smoke_cadr": 148.0
+   }
+  },
+  {
+   "best_for": "running overnight for less than this page's average",
+   "best_for_key": "cost5",
+   "brand": "WOZOYO",
+   "id": "wozoyo-200004-2",
+   "name": "WOZOYO 200004-2",
+   "rank": 9,
+   "score": 85.9,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (Pure Air PA4 Wozoyo Smart WiFi Air Purifier, ships from Amazon, sold by Secure Connection, in stock at $107.99 when read 2026-11-04) gives Brand Wozoyo, Part Number 200004-2 and UPC 810198590265 in its item details, the certified UPC.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0GX9CD1DZ",
+    "url": "https://www.amazon.com/dp/B0GX9CD1DZ"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586108, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GX9CD1DZ per https://www.amazon.com/dp/B0GX9CD1DZ (2026-11-04)",
+   "specs": {
+    "cost5": 120.0,
+    "room": 220.0,
+    "smoke_cadr": 142.0
    }
   },
   {
    "brand": "Dreo",
    "id": "dreo-dr-hap007s",
    "name": "Dreo DR-HAP007S",
-   "rank": 11,
-   "score": 88.9,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4528733, retrieved 2026-11-01",
+   "rank": 10,
+   "score": 85.5,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Best Buy lists it under model DR-HAP007S.",
+    "seller": "Best Buy",
+    "source": "https://www.bestbuy.com/product/dreo-smart-air-purifier-with-h13-hepa-filter-99-97-143-cfm-cadr-15db-operation-auto-mode-up-to-1066-sq-ft-white/J3GW9RCCV3",
+    "url": "https://www.bestbuy.com/product/dreo-smart-air-purifier-with-h13-hepa-filter-99-97-143-cfm-cadr-15db-operation-auto-mode-up-to-1066-sq-ft-white/J3GW9RCCV3"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4528733, retrieved 2026-11-01; buy link https://www.bestbuy.com/product/dreo-smart-air-purifier-with-h13-hepa-filter-99-97-143-cfm-cadr-15db-operation-auto-mode-up-to-1066-sq-ft-white/J3GW9RCCV3 per https://www.bestbuy.com/product/dreo-smart-air-purifier-with-h13-hepa-filter-99-97-143-cfm-cadr-15db-operation-auto-mode-up-to-1066-sq-ft-white/J3GW9RCCV3 (2026-11-03)",
    "specs": {
     "cost5": 127.0,
-    "smoke_cadr": 143.0
-   }
-  },
-  {
-   "brand": "Dreo",
-   "id": "dreo-dr-hap009",
-   "name": "Dreo DR-HAP009",
-   "rank": 12,
-   "score": 88.6,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586495, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 147.0,
-    "smoke_cadr": 158.0
-   }
-  },
-  {
-   "brand": "WOOZOO",
-   "id": "woozoo-apf-20",
-   "name": "WOOZOO APF-20",
-   "rank": 13,
-   "score": 87.9,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4515996, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 136.0,
-    "smoke_cadr": 148.0
-   }
-  },
-  {
-   "brand": "Dreo",
-   "id": "dreo-dr-hap007as",
-   "name": "Dreo DR-HAP007AS",
-   "rank": 14,
-   "score": 85.7,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4577020, retrieved 2026-11-01",
-   "specs": {
-    "cost5": 138.0,
+    "room": 222.0,
     "smoke_cadr": 143.0
    }
   },
@@ -212,102 +270,390 @@
    "brand": "Dreo",
    "id": "dreo-dr-hap009as",
    "name": "Dreo DR-HAP009AS",
-   "rank": 15,
+   "rank": 11,
    "score": 84.8,
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586614, retrieved 2026-11-01",
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Dreo sells this certified set as the Air Purifier 539AS (its page names model DR-HAP009AS), in stock at $119.99 (read 2026-11-04).",
+    "seller": "Dreo",
+    "source": "https://www.dreo.com/products/air-purifier-539as",
+    "url": "https://www.dreo.com/products/air-purifier-539as"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586614, retrieved 2026-11-01; buy link https://www.dreo.com/products/air-purifier-539as per https://www.dreo.com/products/air-purifier-539as (2026-11-04)",
    "specs": {
     "cost5": 144.0,
+    "room": 225.0,
     "smoke_cadr": 145.0
+   }
+  },
+  {
+   "best_for": "running overnight for less than this page's average",
+   "best_for_key": "cost5",
+   "brand": "Atmosphere MINI",
+   "id": "atmosphere-mini-124746",
+   "name": "Atmosphere MINI 124746",
+   "rank": 12,
+   "score": 84.1,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "Amway's U.S. store lists item 124746, the certified model number, in stock at $1,069.00 when read 2026-11-04.",
+    "seller": "Amway",
+    "source": "https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746",
+    "url": "https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4572752, retrieved 2026-11-01; buy link https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746 per https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746 (2026-11-04)",
+   "specs": {
+    "cost5": 111.0,
+    "room": 211.0,
+    "smoke_cadr": 136.0
+   }
+  },
+  {
+   "brand": "GoveeLife",
+   "id": "goveelife-h7128",
+   "name": "GoveeLife H7128",
+   "rank": 13,
+   "score": 83.7,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Govee sells it as the Smart Air Purifier 2 Pro; H7128 is the version without the dust sensor.",
+    "seller": "Govee",
+    "source": "https://us.govee.com/products/goveelife-smart-air-purifier-2-pro",
+    "url": "https://us.govee.com/products/goveelife-smart-air-purifier-2-pro"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4437344, retrieved 2026-11-01; buy link https://us.govee.com/products/goveelife-smart-air-purifier-2-pro per https://us.govee.com/products/goveelife-smart-air-purifier-2-pro (2026-11-03)",
+   "specs": {
+    "cost5": 140.0,
+    "room": 220.0,
+    "smoke_cadr": 142.0
+   }
+  },
+  {
+   "best_for": "running overnight for less than this page's average",
+   "best_for_key": "cost5",
+   "brand": "Windmill",
+   "id": "windmill-sap2v1",
+   "name": "Windmill SAP2V1",
+   "rank": 14,
+   "score": 79.9,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Windmill sells SAP2V1 as the Navy color of The Windmill Air Purifier; the other colors carry other model numbers.",
+    "seller": "Windmill",
+    "source": "https://windmillair.com/products/the-windmill-air-purifier",
+    "url": "https://windmillair.com/products/the-windmill-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4529359, retrieved 2026-11-01; buy link https://windmillair.com/products/the-windmill-air-purifier per https://windmillair.com/products/the-windmill-air-purifier (2026-11-03)",
+   "specs": {
+    "cost5": 120.0,
+    "room": 202.0,
+    "smoke_cadr": 130.0
+   }
+  },
+  {
+   "brand": "Dreo",
+   "id": "dreo-dr-hap010s",
+   "name": "Dreo DR-HAP010S",
+   "rank": 15,
+   "score": 78.2,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (DREO Smart Air Purifier, shipped and sold by Amazon.com, in stock at $129.99 when read 2026-11-04) gives Model DR-HAP010S Silver and UPC 850084149627 in its item details, a certified UPC. Dreo's own page for the Air Purifier 530S (DR-HAP010S) showed it sold out the same day.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0H5R53XC7",
+    "url": "https://www.amazon.com/dp/B0H5R53XC7"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4587204, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H5R53XC7 per https://www.amazon.com/dp/B0H5R53XC7 (2026-11-04)",
+   "specs": {
+    "cost5": 134.0,
+    "room": 202.0,
+    "smoke_cadr": 130.0
    }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "method": "We kept zero-ozone ENERGY STAR air purifiers certified for rooms of 250 sq ft or less and compared those with the highest smoke CADR, weighing smoke CADR and the five-year electricity cost (certified yearly energy use x current EIA U.S. average residential price x 5). Every model tied with the last one on the selection criterion is listed, so the cut never picks among equals.",
+ "method": "We kept zero-ozone ENERGY STAR air purifiers certified for rooms of 250 sq ft or less and compared those with the highest smoke CADR, weighing smoke CADR 80% and the five-year electricity cost 20% (cost is scored against the page's cheapest unit; a heavier cost weight would put the cheapest-to-run unit first even when it cleans far slower) (certified yearly energy use x current EIA U.S. average residential price x 5).",
  "name": "Best air purifiers for small rooms (up to 250 sq ft), ranked by certified data",
  "next_refresh": "2026-12-01",
  "publisher": "ByTheRank",
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 161.0,
-  "cut": 143.0,
+  "cut": 130.0,
+  "excluded": [
+   {
+    "examples": [
+     {
+      "name": "Blueair 4512311000",
+      "select": 161.0,
+      "value": "1 ppb ozone"
+     },
+     {
+      "name": "Blueair 3132111100",
+      "select": 153.0,
+      "value": "3 ppb ozone"
+     },
+     {
+      "name": "Blueair 3232111101",
+      "select": 147.0,
+      "value": "1 ppb ozone"
+     }
+    ],
+    "filter": "ozone_emissions_ppb == 0",
+    "n": 18,
+    "side": "highest",
+    "why": "conservative choice: only units that report 0 ppb ozone in certification; UL's zero-ozone test (UL 2998) cannot quantify low readings, so this also drops units whose small non-zero reports are not reliably different from 0"
+   }
+  ],
   "label": "Smoke CADR",
   "listed": 15,
   "listings": 106,
   "merge": "listings with identical certified values on all 23 reported fields",
+  "not_in_stock": 1,
   "pool": 68,
+  "pool_unit": "distinct certified spec sets",
+  "recerts_collapsed": 2,
+  "recerts_kept_apart": 2,
   "tied_beyond_cut": 0,
-  "unit": "cfm"
+  "unit": "cfm",
+  "unranked": 10
  },
  "sources": [
   "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
-  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+  "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+  "https://www.ul.com/services/zero-ozone-emissions-validation"
+ ],
+ "unranked": [
+  {
+   "as_of": "2026-11-03",
+   "ids": [
+    "G-Pure1-22W"
+   ],
+   "name": "Greenlite G-Pure1-22W",
+   "note": "No listing we could confirm as of 2026-11-03. Utility-rebate marketplaces list a Greenlite G-Pure 22W, but none names the certified G-Pure1-22W. Searched: G-Pure1-22W.",
+   "specs": {
+    "cost5": 117.0,
+    "room": 245.0,
+    "smoke_cadr": 158.0
+   },
+   "value": 158.0
+  },
+  {
+   "aliases": [
+    "Dreo Home DR-HAP005AS"
+   ],
+   "as_of": "2026-11-03",
+   "ids": [
+    "DR-HAP005AS",
+    "DR-HAP005S",
+    "DWAP05AS",
+    "DWAP05S"
+   ],
+   "name": "Dreo DR-HAP005AS",
+   "note": "No retail listing that identifies this set found as of 2026-11-03. Stores list a DR-HAP005S, a certified id shared by sets with different smoke CADR, and no store page shows which set it is. Searched: DR-HAP005AS, DR-HAP005S, DWAP05AS, DWAP05S.",
+   "specs": {
+    "cost5": 133.0,
+    "room": 236.0,
+    "smoke_cadr": 152.0
+   },
+   "value": 152.0
+  },
+  {
+   "aliases": [
+    "PELONIS KJ250G-Z43",
+    "PURE CODE APU-Z43WUS"
+   ],
+   "as_of": "2026-11-03",
+   "ids": [
+    "APU-Z43WUS",
+    "KJ250G-Z43"
+   ],
+   "name": "Midea KJ250G-Z43",
+   "note": "No listing we could confirm as of 2026-11-03. Midea's KJ250G-Z43 page found is Australian (sold out); no U.S. store page found. Searched: KJ250G-Z43, APU-Z43WUS.",
+   "specs": {
+    "cost5": 114.0,
+    "room": 234.0,
+    "smoke_cadr": 151.0
+   },
+   "value": 151.0
+  },
+  {
+   "as_of": "2026-11-04",
+   "ids": [
+    "APF-20"
+   ],
+   "listing_state": "not_in_stock",
+   "name": "WOOZOO APF-20",
+   "note": "No in-stock listing we could confirm as of 2026-11-04. IRIS USA, the WOOZOO maker, lists it at irisusainc.com (variant 'Medium', barcode 762016-503158 = the certified UPC), sold out with no price (read 2026-11-04).",
+   "specs": {
+    "cost5": 136.0,
+    "room": 229.0,
+    "smoke_cadr": 148.0
+   },
+   "value": 148.0
+  },
+  {
+   "as_of": "2026-11-04",
+   "ids": [
+    "HPA4200B",
+    "HPA4200BC",
+    "HPA4200W",
+    "HPA4200WC"
+   ],
+   "name": "Honeywell HPA4200B",
+   "note": "No listing we could confirm as of 2026-11-04. Amazon sells the HPA4300B and HPA4300W, a different model number. A corporate-sales catalog (Premco) shows SKU HPA4200B at $129.99 with a request-info form and no cart. Searched: HPA4200B, HPA4200BC, HPA4200WC, HPA4200W, 00328785015126.",
+   "specs": {
+    "cost5": 124.0,
+    "room": 223.0,
+    "smoke_cadr": 144.0
+   },
+   "value": 144.0
+  },
+  {
+   "aliases": [
+    "Dreo Home DR-HAP007AS"
+   ],
+   "as_of": "2026-11-04",
+   "ids": [
+    "DR-HAP007AS",
+    "DWAP07AS"
+   ],
+   "name": "Dreo DR-HAP007AS",
+   "note": "No new-unit listing we could confirm as of 2026-11-04. Best Buy and Lowe's list the DR-HAP007S, not this model number. Amazon's listing under this model is refurbished (reseller B2B RENEW, $99.00, 90-day warranty, read 2026-11-04) and its UPC is not the certified one. Searched: DR-HAP007AS, DWAP07AS.",
+   "specs": {
+    "cost5": 138.0,
+    "room": 222.0,
+    "smoke_cadr": 143.0
+   },
+   "value": 143.0
+  },
+  {
+   "aliases": [
+    "MaxLite AP215SF3B"
+   ],
+   "as_of": "2026-11-03",
+   "ids": [
+    "AP2025",
+    "AP215SF3B"
+   ],
+   "name": "LEEDARSON AP2025",
+   "note": "No listing we could confirm as of 2026-11-03. Searched: AP2025, AP215SF3B.",
+   "specs": {
+    "cost5": 134.0,
+    "room": 219.0,
+    "smoke_cadr": 141.0
+   },
+   "value": 141.0
+  },
+  {
+   "as_of": "2026-11-04",
+   "ids": [
+    "LunaPure-EJH001",
+    "LuanPure EJH100",
+    "LunaUltra-EJH001",
+    "LunaUltra-EJH100"
+   ],
+   "name": "Aeocky LunaPure-EJH001",
+   "note": "No listing we could confirm as of 2026-11-04. Aeocky's store sells a Luna large-room purifier ($199.99) that prints no model number and a CADR of 515 m3/h (about 303 cfm), far above this set's certified 137 cfm smoke CADR, so it is not matched. Searched: LunaPure-EJH001, LuanPure EJH100, LunaUltra-EJH001, LunaUltra-EJH100.",
+   "specs": {
+    "cost5": 99.0,
+    "room": 212.0,
+    "smoke_cadr": 137.0
+   },
+   "value": 137.0
+  },
+  {
+   "as_of": "2026-11-03",
+   "ids": [
+    "CVM10B"
+   ],
+   "name": "DREAME CVM10B",
+   "note": "No listing we could confirm as of 2026-11-03. Searched: CVM10B.",
+   "specs": {
+    "cost5": 116.0,
+    "room": 212.0,
+    "smoke_cadr": 137.0
+   },
+   "value": 137.0
+  },
+  {
+   "as_of": "2026-11-03",
+   "ids": [
+    "AP-HCE99-WT"
+   ],
+   "name": "MegaLight AP-HCE99-WT",
+   "note": "No listing we could confirm as of 2026-11-03. Searched: AP-HCE99-WT.",
+   "specs": {
+    "cost5": 81.0,
+    "room": 211.0,
+    "smoke_cadr": 136.0
+   },
+   "value": 136.0
+  }
  ],
  "updated": "2026-11-01",
  "url": "https://bytherank.com/best-air-purifiers-for-small-rooms/",
  "why_first": {
   "criteria": [
    {
-    "difference": -0.7,
-    "first_points": 53.3,
-    "first_value": 156.0,
+    "difference": 2.5,
+    "first_points": 80.0,
+    "first_value": 161.0,
     "key": "smoke_cadr",
     "label": "Smoke CADR",
-    "second_points": 54.0,
-    "second_value": 158.0,
+    "second_points": 77.5,
+    "second_value": 156.0,
+    "spread_points": 15.4,
     "unit": "cfm",
-    "weight_pct": 55.0
+    "weight_pct": 80.0
    },
    {
-    "difference": 1.5,
-    "first_points": 45.0,
-    "first_value": 113.0,
+    "difference": -2.4,
+    "first_points": 13.9,
+    "first_value": 132.0,
     "key": "cost5",
     "label": "5-year electricity cost",
-    "second_points": 43.5,
-    "second_value": 117.0,
+    "second_points": 16.3,
+    "second_value": 113.0,
+    "spread_points": 7.5,
     "unit": "USD",
-    "weight_pct": 45.0
+    "weight_pct": 20.0
+   },
+   {
+    "difference": 0.0,
+    "first_points": 0.0,
+    "first_value": 250.0,
+    "key": "room",
+    "label": "Rated room size",
+    "second_points": 0.0,
+    "second_value": 242.0,
+    "spread_points": 0.0,
+    "unit": "sq ft",
+    "weight_pct": 0.0
    }
   ],
   "deciding": {
-   "computed": true,
-   "first_value": 113.0,
-   "key": "cost5",
-   "label": "5-year electricity cost",
+   "computed": false,
+   "first_value": 161.0,
+   "key": "smoke_cadr",
+   "label": "Smoke CADR",
    "retrieved": "2026-11-01",
-   "second_value": 117.0,
+   "second_value": 156.0,
    "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6"
   },
-  "first": "Bosch Air 4000",
-  "first_score": 98.3,
+  "first": "LEVOIT Eleva 300X",
+  "first_score": 93.9,
   "flip": {
-   "key": "smoke_cadr",
-   "label": "Smoke CADR",
-   "needed_pct": 73.3,
-   "now_pct": 55.0
+   "key": "cost5",
+   "label": "5-year electricity cost",
+   "name": "Bosch Air 4000",
+   "needed_pct": 20.8,
+   "now_pct": 20.0
   },
-  "headline_leader": {
-   "first_value": 156.0,
-   "key": "smoke_cadr",
-   "label": "Smoke CADR",
-   "name": "LEVOIT LAP-C341S-WUSZ",
-   "needed_pct": 82.3,
-   "now_pct": 55.0,
-   "value": 161.0
-  },
-  "margin": 0.9,
-  "second": "Greenlite G-Pure1-22W",
-  "second_score": 97.4,
-  "ties": [
-   {
-    "names": [
-     "Dreo DR-HAP005AS",
-     "Honeywell HPA4200B"
-    ],
-    "rank": "=8",
-    "rule": "equal scores share a rank; within it products are listed alphabetically (no measured difference)",
-    "score": 90.2
-   }
-  ]
+  "headline_leader": null,
+  "margin": 0.1,
+  "second": "Bosch Air 4000",
+  "second_score": 93.8,
+  "ties": []
  }
 }

@@ -1,572 +1,572 @@
-pd_id,spec_set
-3629580,cs-9024a12eea
-3629581,cs-9024a12eea
-3798625,cs-6300770eb6
-3845105,cs-ca185e8813
-3892712,cs-6dc4d1ec44
-3892972,cs-03662c7d71
-3892973,cs-2eba05c0e7
-3994316,cs-faa935f9e8
-3994317,cs-d2cc54389d
-3994318,cs-1c955f587e
-3994319,cs-d446508f55
-3994427,cs-10afb8d744
-3994428,cs-10afb8d744
-3994429,cs-10afb8d744
-3994430,cs-10afb8d744
-3994431,cs-8217cdfc45
-3994432,cs-8217cdfc45
-3994433,cs-2eba05c0e7
-3994434,cs-2eba05c0e7
-3998085,cs-d2cc54389d
-3998546,cs-a5740fe98b
-3998547,cs-a5740fe98b
-4000203,cs-8c8a0b1320
-4000204,cs-415e7020ba
-4005581,cs-1dd1226659
-4005582,cs-1dd1226659
-4005583,cs-1dd1226659
-4005584,cs-1dd1226659
-4005588,cs-1dd1226659
-4005590,cs-1dd1226659
-4005592,cs-1dd1226659
-4005597,cs-1212c70291
-4005598,cs-1212c70291
-4005599,cs-1212c70291
-4005670,cs-a8f0ae162f
-4005672,cs-504ed5982d
-4005789,cs-5b077f8498
-4005790,cs-5b077f8498
-4005791,cs-415e7020ba
-4005792,cs-9b800c060b
-4005873,cs-d3c7d4ef47
-4005876,cs-d3c7d4ef47
-4006002,cs-f430ac9792
-4008610,cs-34c813ec53
-4008611,cs-34c813ec53
-4008612,cs-34c813ec53
-4012669,cs-8993a20bcf
-4012673,cs-1e57e8c4cc
-4015854,cs-9359851854
-4016309,cs-eeea745db3
-4021635,cs-8f54bd6a5f
-4021638,cs-1934a045fb
-4046701,cs-fd5d8b0bef
-4429193,cs-eefb9d69cc
-4429397,cs-82da7974ae
-4429398,cs-82da7974ae
-4429399,cs-82da7974ae
-4429400,cs-82da7974ae
-4431338,cs-66c222a283
-4437363,cs-89750b063e
-4437364,cs-8504d8a136
-4437365,cs-f07f711b27
-4437366,cs-e85171a761
-4437378,cs-849e033b79
-4437379,cs-131cf74c12
-4437380,cs-fd4e221053
-4437381,cs-e65b6475f6
-4437382,cs-6c831ecc3c
-4437437,cs-d4a7d09bc9
-4437438,cs-468efbe59e
-4439114,cs-49eef00771
-4439115,cs-49eef00771
-4439116,cs-49eef00771
-4439117,cs-49eef00771
-4439118,cs-49eef00771
-4439119,cs-1e57e8c4cc
-4439120,cs-1e57e8c4cc
-4439121,cs-1e57e8c4cc
-4439122,cs-1e57e8c4cc
-4439123,cs-49eef00771
-4439124,cs-1e57e8c4cc
-4439125,cs-49eef00771
-4439126,cs-1e57e8c4cc
-4439127,cs-1e57e8c4cc
-4439179,cs-33989f8c2c
-4439454,cs-ab6afec8d1
-4439455,cs-c02e9567fc
-4439456,cs-28f2d3a31c
-4465040,cs-8c8a0b1320
-4478486,cs-22bead9cc3
-4478487,cs-92698e0eb7
-4478488,cs-3afc1097d9
-4478489,cs-3afc1097d9
-4478493,cs-17ea428d91
-4478525,cs-799daad973
-4478531,cs-85056a0146
-4479456,cs-622f7b674c
-4479621,cs-0d9dc75dfd
-4479622,cs-0d9dc75dfd
-4479623,cs-936821b53d
-4479624,cs-72299ff139
-4479625,cs-824e01e0b7
-4479626,cs-e86b0c0e3b
-4479627,cs-e86b0c0e3b
-4479628,cs-824e01e0b7
-4480889,cs-e86b0c0e3b
-4480890,cs-aa32a104cf
-4480891,cs-72299ff139
-4481027,cs-e85171a761
-4481028,cs-e85171a761
-4481029,cs-8504d8a136
-4481030,cs-8504d8a136
-4481104,cs-b49fed9e9f
-4481105,cs-601cf69873
-4481293,cs-08084e71c9
-4481294,cs-39255197a5
-4481295,cs-bb7455516d
-4481341,cs-e3329bd564
-4481342,cs-e3329bd564
-4481343,cs-e3329bd564
-4481344,cs-e3329bd564
-4497023,cs-150a7eb223
-4497024,cs-f07f711b27
-4497025,cs-f07f711b27
-4497027,cs-89750b063e
-4497028,cs-8504d8a136
-4497029,cs-f07f711b27
-4497030,cs-e85171a761
-4497031,cs-24e3abda2d
-4497032,cs-24e3abda2d
-4497345,cs-e65b6475f6
-4497346,cs-e65b6475f6
-4497347,cs-6c831ecc3c
-4497482,cs-34c813ec53
-4497592,cs-c857bef928
-4497593,cs-c857bef928
-4497594,cs-c857bef928
-4497595,cs-c857bef928
-4497596,cs-c857bef928
-4497597,cs-c857bef928
-4497599,cs-c857bef928
-4497600,cs-c857bef928
-4497601,cs-c857bef928
-4497602,cs-c857bef928
-4497603,cs-c857bef928
-4497604,cs-c857bef928
-4497605,cs-621d4e3d66
-4497606,cs-621d4e3d66
-4497607,cs-621d4e3d66
-4497608,cs-621d4e3d66
-4497609,cs-621d4e3d66
-4497610,cs-621d4e3d66
-4497611,cs-621d4e3d66
-4497612,cs-621d4e3d66
-4497613,cs-621d4e3d66
-4497614,cs-621d4e3d66
-4497615,cs-621d4e3d66
-4497616,cs-621d4e3d66
-4497617,cs-621d4e3d66
-4497618,cs-621d4e3d66
-4497619,cs-a0681d3f4e
-4497620,cs-a0681d3f4e
-4497621,cs-a0681d3f4e
-4497622,cs-a0681d3f4e
-4497623,cs-a0681d3f4e
-4497624,cs-a0681d3f4e
-4497625,cs-a0681d3f4e
-4499031,cs-e953331c29
-4499032,cs-dcc97bc1ca
-4499033,cs-dcc97bc1ca
-4499034,cs-415e7020ba
-4499035,cs-9b800c060b
-4509976,cs-c02e9567fc
-4509977,cs-c02e9567fc
-4509978,cs-3afc1097d9
-4509992,cs-e85171a761
-4509993,cs-e85171a761
-4509994,cs-8504d8a136
-4509995,cs-89750b063e
-4509997,cs-22bead9cc3
-4510066,cs-dc3cc4e198
-4510067,cs-8f663c631c
-4510068,cs-cd977340c7
-4510112,cs-3afc1097d9
-4510113,cs-22bead9cc3
-4510114,cs-e65b6475f6
-4510153,cs-621d4e3d66
-4510154,cs-621d4e3d66
-4510155,cs-621d4e3d66
-4510156,cs-621d4e3d66
-4510157,cs-621d4e3d66
-4510158,cs-e3e1fab85e
-4510159,cs-e3e1fab85e
-4510160,cs-e3e1fab85e
-4510161,cs-e3e1fab85e
-4510162,cs-e3e1fab85e
-4510163,cs-e3e1fab85e
-4510164,cs-e3e1fab85e
-4510165,cs-e3e1fab85e
-4510166,cs-e3e1fab85e
-4510167,cs-e3e1fab85e
-4510168,cs-e1579282a9
-4510169,cs-e1579282a9
-4510170,cs-e1579282a9
-4510171,cs-e1579282a9
-4510172,cs-e1579282a9
-4510198,cs-805ba5910e
-4510199,cs-805ba5910e
-4510200,cs-805ba5910e
-4510201,cs-24e3abda2d
-4510202,cs-24e3abda2d
-4510203,cs-24e3abda2d
-4510204,cs-22bead9cc3
-4510219,cs-3afc1097d9
-4510299,cs-22bead9cc3
-4510308,cs-3afc1097d9
-4510309,cs-22bead9cc3
-4510310,cs-22bead9cc3
-4510320,cs-9ec31c3dbc
-4510321,cs-805ba5910e
-4510322,cs-8629243a41
-4510323,cs-24e3abda2d
-4510324,cs-24e3abda2d
-4510404,cs-45bd108495
-4510405,cs-d3a6543072
-4511185,cs-6c831ecc3c
-4511186,cs-e65b6475f6
-4511187,cs-ab6afec8d1
-4511188,cs-3afc1097d9
-4511189,cs-22bead9cc3
-4511204,cs-22bead9cc3
-4511237,cs-c02e9567fc
-4511238,cs-3afc1097d9
-4511239,cs-8504d8a136
-4511240,cs-131cf74c12
-4511241,cs-e65b6475f6
-4511252,cs-eccf89b5e6
-4511299,cs-35504e00c1
-4511301,cs-24e3abda2d
-4511313,cs-02188938f8
-4511314,cs-02188938f8
-4511315,cs-79e55a40e7
-4511316,cs-79e55a40e7
-4511317,cs-79e55a40e7
-4511318,cs-79e55a40e7
-4511319,cs-d88d7b7deb
-4511320,cs-d88d7b7deb
-4511321,cs-d88d7b7deb
-4511322,cs-d88d7b7deb
-4512359,cs-805ba5910e
-4512360,cs-805ba5910e
-4512361,cs-eeea745db3
-4512364,cs-9ec31c3dbc
-4512369,cs-92698e0eb7
-4512370,cs-ab6afec8d1
-4512371,cs-1f041d7110
-4512372,cs-c02e9567fc
-4512373,cs-22bead9cc3
-4512374,cs-849e033b79
-4512375,cs-e65b6475f6
-4512376,cs-e65b6475f6
-4512556,cs-1aa5866bd4
-4512615,cs-8504d8a136
-4512616,cs-e85171a761
-4512643,cs-d7bc2c41fa
-4512657,cs-e65b6475f6
-4512763,cs-e85171a761
-4512764,cs-f07f711b27
-4512765,cs-8504d8a136
-4512766,cs-3afc1097d9
-4512772,cs-e86b0c0e3b
-4512773,cs-e86b0c0e3b
-4513856,cs-e65b6475f6
-4513857,cs-e65b6475f6
-4513858,cs-849e033b79
-4513859,cs-22bead9cc3
-4514014,cs-f07f711b27
-4514015,cs-8504d8a136
-4514016,cs-3afc1097d9
-4514017,cs-24e3abda2d
-4514018,cs-8629243a41
-4514180,cs-57dca00912
-4514459,cs-6ea68927ac
-4514460,cs-6ea68927ac
-4514461,cs-6ea68927ac
-4514462,cs-156eb86662
-4514463,cs-156eb86662
-4514573,cs-e953331c29
-4514574,cs-805ba5910e
-4514575,cs-24e3abda2d
-4514576,cs-24e3abda2d
-4514577,cs-24e3abda2d
-4515093,cs-4eb7418a40
-4515094,cs-83cf82e90b
-4515174,cs-8217cdfc45
-4515175,cs-2eba05c0e7
-4515177,cs-10afb8d744
-4515178,cs-10afb8d744
-4515187,cs-77cdb91d4f
-4515188,cs-39344fdd15
-4515189,cs-fbf8f3d84c
-4515258,cs-92698e0eb7
-4515577,cs-22bead9cc3
-4515578,cs-e65b6475f6
-4515579,cs-6c831ecc3c
-4515878,cs-89f7c6bfe3
-4515937,cs-e85171a761
-4515938,cs-8504d8a136
-4515939,cs-3afc1097d9
-4517373,cs-f07f711b27
-4517374,cs-8504d8a136
-4517375,cs-3afc1097d9
-4518218,cs-57dca00912
-4518219,cs-57dca00912
-4518220,cs-57dca00912
-4518221,cs-57dca00912
-4518223,cs-57dca00912
-4518224,cs-57dca00912
-4518589,cs-3afc1097d9
-4518590,cs-e85171a761
-4518591,cs-ab6afec8d1
-4518682,cs-bf2ac2cd51
-4519350,cs-156eb86662
-4519595,cs-6ea68927ac
-4519596,cs-24e3abda2d
-4519597,cs-24e3abda2d
-4519598,cs-805ba5910e
-4519599,cs-e953331c29
-4520244,cs-02188938f8
-4520245,cs-02188938f8
-4520357,cs-3603da9af2
-4520358,cs-3603da9af2
-4520359,cs-8c8a0b1320
-4520476,cs-02188938f8
-4520477,cs-02188938f8
-4520478,cs-02188938f8
-4520479,cs-02188938f8
-4520480,cs-02188938f8
-4520481,cs-02188938f8
-4520705,cs-3603da9af2
-4520706,cs-3603da9af2
-4520707,cs-aa32a104cf
-4520708,cs-72299ff139
-4520709,cs-e86b0c0e3b
-4528748,cs-ee78c1c995
-4529039,cs-627036cb71
-4529253,cs-a3b29662c4
-4570006,cs-3afc1097d9
-4570007,cs-c745ebc7b6
-4570008,cs-e85171a761
-4570161,cs-900475ffaf
-4570162,cs-900475ffaf
-4570163,cs-900475ffaf
-4570164,cs-900475ffaf
-4570165,cs-900475ffaf
-4570166,cs-900475ffaf
-4570167,cs-900475ffaf
-4570168,cs-900475ffaf
-4572757,cs-382b6bcf66
-4572839,cs-511c845f9c
-4572840,cs-511c845f9c
-4572855,cs-9e3c99619e
-4572921,cs-d95afd58e0
-4572923,cs-511c845f9c
-4572924,cs-511c845f9c
-4572929,cs-9b800c060b
-4572935,cs-10afb8d744
-4572936,cs-10afb8d744
-4572937,cs-10afb8d744
-4572938,cs-10afb8d744
-4572939,cs-03662c7d71
-4572940,cs-03662c7d71
-4572941,cs-2eba05c0e7
-4572942,cs-2eba05c0e7
-4573308,cs-1595e3f385
-4573310,cs-1595e3f385
-4576678,cs-a8b021843f
-4576679,cs-a8b021843f
-4576680,cs-a8b021843f
-4576681,cs-a8b021843f
-4576682,cs-a8b021843f
-4576683,cs-a8b021843f
-4576684,cs-a8b021843f
-4576685,cs-a8b021843f
-4576686,cs-a8b021843f
-4576687,cs-a8b021843f
-4576688,cs-a8b021843f
-4576689,cs-a8b021843f
-4576690,cs-6599a7de19
-4576691,cs-6599a7de19
-4576692,cs-6599a7de19
-4576693,cs-6599a7de19
-4576694,cs-6599a7de19
-4576695,cs-6599a7de19
-4576696,cs-6599a7de19
-4576697,cs-6599a7de19
-4576698,cs-6599a7de19
-4576699,cs-6599a7de19
-4576700,cs-6599a7de19
-4576701,cs-6599a7de19
-4576702,cs-6599a7de19
-4576703,cs-ee5d97870b
-4576704,cs-ee5d97870b
-4576705,cs-ee5d97870b
-4576706,cs-ee5d97870b
-4576707,cs-ee5d97870b
-4576708,cs-ee5d97870b
-4576709,cs-ee5d97870b
-4576710,cs-ee5d97870b
-4576711,cs-ee5d97870b
-4576712,cs-ee5d97870b
-4576713,cs-ee5d97870b
-4576714,cs-ee5d97870b
-4576715,cs-ee5d97870b
-4576724,cs-900475ffaf
-4576725,cs-900475ffaf
-4576726,cs-900475ffaf
-4576727,cs-900475ffaf
-4576728,cs-900475ffaf
-4576729,cs-900475ffaf
-4576893,cs-382b6bcf66
-4576900,cs-9574fe84eb
-4576903,cs-e158f8ca71
-4576904,cs-fb4e399e49
-4576905,cs-506b3692ea
-4576917,cs-e158f8ca71
-4576918,cs-fb4e399e49
-4576919,cs-506b3692ea
-4576920,cs-a8b021843f
-4577018,cs-a6579a8b64
-4577019,cs-a6579a8b64
-4577080,cs-fca1bfc4e7
-4577081,cs-fca1bfc4e7
-4586106,cs-528c6df171
-4586593,cs-47954a4a9b
-4586594,cs-bd8099a6ea
-4586595,cs-7ab12aa7e9
-4586609,cs-849e033b79
-4586610,cs-e65b6475f6
-4586611,cs-e65b6475f6
-4586642,cs-fa68d18846
-4586643,cs-8314a4e232
-4587253,cs-486182b03a
-4587254,cs-486182b03a
-4591181,cs-f07f711b27
-4591182,cs-9b800c060b
-4591184,cs-415e7020ba
-4591185,cs-486182b03a
-4591186,cs-5b077f8498
-4591187,cs-5b077f8498
-4591188,cs-8c8a0b1320
-4591189,cs-8c8a0b1320
-4591190,cs-415e7020ba
-4594914,cs-5f8caa4985
-4594934,cs-5f8caa4985
-4594954,cs-3eb4d632d9
-4594974,cs-3eb4d632d9
-4594994,cs-0c41b0e00b
-4611874,cs-6599a7de19
-4611894,cs-a8b021843f
-4612214,cs-212f2a2003
-4612234,cs-6f1c2e2ebd
-4612254,cs-b9e04fadca
-4612274,cs-b9e04fadca
-4612294,cs-b9e04fadca
-4612314,cs-b9e04fadca
-4612334,cs-b9e04fadca
-4612894,cs-eccf89b5e6
-4612895,cs-eccf89b5e6
-4613614,cs-01dc7dab16
-4613694,cs-aba7a46286
-4614154,cs-c490942672
-4614174,cs-50bb987fe9
-4614574,cs-32d363b1b2
-4614594,cs-855556628c
-4614614,cs-8ba7b33766
-4614854,cs-dcc97bc1ca
-4614874,cs-dcc97bc1ca
-4615054,cs-415e7020ba
-4615074,cs-9b800c060b
-4615094,cs-09a32d591c
-4616314,cs-eb406862c9
-4616334,cs-eb406862c9
-4616354,cs-eb406862c9
-4616374,cs-eb406862c9
-4616394,cs-eb406862c9
-4616414,cs-eb406862c9
-4618014,cs-8504d8a136
-4618354,cs-9ecebb63b9
-4618374,cs-63b4e5b3c0
-4621974,cs-abd47e744f
-4621994,cs-abd47e744f
-4622014,cs-1d619657da
-4622034,cs-e6a9ce3a92
-4622154,cs-abd47e744f
-4622174,cs-abd47e744f
-4622194,cs-abd47e744f
-4623714,cs-b37274deb0
-4639174,cs-18f12b7d9e
-4639175,cs-6599a7de19
-4639176,cs-eccf89b5e6
-4653214,cs-abd47e744f
-4654994,cs-edcec00b70
-4655014,cs-edcec00b70
-4655034,cs-edcec00b70
-4655054,cs-edcec00b70
-4655854,cs-83549e95cf
-4657054,cs-e6a9ce3a92
-4661614,cs-b6895cbef8
-4661634,cs-c55dfeb4eb
-4662514,cs-e3329bd564
-4662534,cs-e3329bd564
-4662554,cs-e3329bd564
-4662574,cs-e3329bd564
-4662594,cs-e3329bd564
-4662614,cs-e3329bd564
-4662634,cs-e3329bd564
-4662654,cs-e3329bd564
-4662674,cs-e3329bd564
-4662694,cs-e3329bd564
-4675014,cs-6599a7de19
-4675015,cs-6599a7de19
-4675016,cs-6599a7de19
-4675017,cs-6599a7de19
-4675018,cs-6599a7de19
-4675019,cs-6599a7de19
-4675020,cs-6599a7de19
-4675294,cs-c76a93c839
-4676554,cs-aaaa7c35f8
-4676574,cs-aaaa7c35f8
-4676594,cs-aaaa7c35f8
-4676614,cs-aaaa7c35f8
-4680474,cs-c7ce77c91e
-4682254,cs-382b6bcf66
-4682794,cs-7d9dddfe4e
-4687374,cs-edcec00b70
-4687394,cs-edcec00b70
-4687414,cs-edcec00b70
-4687434,cs-edcec00b70
-4687454,cs-edcec00b70
-4687474,cs-edcec00b70
-4687494,cs-edcec00b70
-4687514,cs-edcec00b70
-4689234,cs-6707f15121
-4689254,cs-6707f15121
-4690834,cs-0c31c92c53
-4690854,cs-0c31c92c53
-4693554,cs-d5f277d201
-4698474,cs-ab6afec8d1
-4698494,cs-c02e9567fc
-4698514,cs-c02e9567fc
-4708694,cs-d5f277d201
-4709354,cs-a5d515e0ba
-4710974,cs-382b6bcf66
-4711194,cs-78687d9002
-4711214,cs-c490942672
-4711234,cs-cfac480a1a
-4711294,cs-d17b2b8c08
-4711314,cs-0e57a6ac68
-4714834,cs-a8b021843f
-4714835,cs-a8b021843f
-4714836,cs-a8b021843f
-4714837,cs-a8b021843f
-4714838,cs-a8b021843f
-4714839,cs-a8b021843f
-4717514,cs-e16e549ca4
-4717534,cs-febbc4ec17
-4717554,cs-ffb8840c84
-4717574,cs-e48cde9d35
-4718314,cs-d52152f26c
-4718354,cs-08d544d6a2
+pd_id,spec_set,brand_name,energy_star_partner,model_number,model_name,additional_model_information,annual_energy_consumption_kwh_yr,connected_capable,connected_features,connects_using,dehumidifier_efficiency_integrated_energy_factor_l_kwh_,dehumidifier_type,dehumidifier_water_removal_capacity_per_appendix_x1_pints_day,meets_most_efficient_criteria,refrigerant_charge_oz,refrigerant_type,whole_home_dehumidifier_case_volume_ft3,source,retrieved,license
+3629580,cs-9024a12eea,Vellgoo,"Guangdong Invitop Technology Co., Ltd.",TAURUS-RCS32(Y)-N4-3(B),TAURUS-RCS32(Y)-N4-3(B),"TAURUS-RCS32(Y)-N4-3(B),TAURUS-RCS32(Y)-N4-3(B); VGEP13B1BS,VGEP13B1BS; VGEP23B2BS,VGEP23B2BS; VGEP33B3BS,VGEP33B3BS; VGEP53B4BS,VGEP53B4BS",335,No,,,2.09,Portable Dehumidifier,32.00,No,5.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3629581,cs-9024a12eea,Vellgoo,"Guangdong Invitop Technology Co., Ltd.",TAURUS-RCS32(Y)-N4-3,TAURUS-RCS32(Y)-N4-3,"DryTank 3600,DryTank 3600; TAURUS-RCS32(Y)-N4-3,TAURUS-RCS32(Y)-N4-3; VGE013B1BS,VGE013B1BS; VGE023B2BS,VGE023B2BS; VGE033B3BS,VGE033B3BS; VGE053B4BS,VGE053B4BS",335,No,,,2.09,Portable Dehumidifier,32.00,No,5.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3798625,cs-6300770eb6,COSTWAY,Goplus Corp.,ES10429US-WH,ES10429US-WH,,779,No,,,1.70,Portable Dehumidifier,22.66,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3845105,cs-ca185e8813,Frigidaire,"Electrolux Consumer Products, Inc.",FHDD2234W1,FHDD2234W1,,283,No,,,1.70,Portable Dehumidifier,22.57,No,3.9,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3892712,cs-6dc4d1ec44,pauvoern,"Ningbo Dilamu Electric Appliance Co., Ltd",ZY24P-01A,ZY24P-01A,,297,Yes,Remote Operation,Wi-Fi,1.73,Portable Dehumidifier,23.89,No,2.5,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3892972,cs-03662c7d71,hOmeLabs,"Aterian Group, Inc.",HME0088,Dehumidifiers,,291,Yes,,Wi-Fi,1.75,Portable Dehumidifier,24.48,No,3.7,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3892973,cs-2eba05c0e7,hOmeLabs,"Aterian Group, Inc.",HME0089,Dehumidifiers,,343,Yes,,Wi-Fi,2.01,Portable Dehumidifier,32.46,No,3.9,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994316,cs-faa935f9e8,Aeocky,"Zhuhai Invitop Technology Co.,Ltd.",RHEA-RCS32(Y)-N4-3,RHEA-RCS32(Y)-N4-3,"RHEA-002,RHEA-002; RHEA-2000,RHEA-2000; RHEA-RCS32(Y)-N4-3,RHEA-RCS32(Y)-N4-3",339,No,,,2.09,Portable Dehumidifier,32.00,No,5.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994317,cs-d2cc54389d,Vellgoo,"Zhuhai Invitop Technology Co.,Ltd.",TAURUS-RCS25(Y)-N4-3-25,TAURUS-RCS25(Y)-N4-3-25,"DryTank 3000,DryTank 3000; TAURUS-RCS25(Y)-N4-3-25,TAURUS-RCS25(Y)-N4-3-25; VGE013A1BS,VGE013A1BS; VGE023A2BS,VGE023A2BS; VGE033A3BS,VGE033A3BS",286,No,,,1.87,Portable Dehumidifier,24.50,Yes,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994318,cs-1c955f587e,Aeocky,"Zhuhai Invitop Technology Co.,Ltd.",RHEA-RCS25(Y)-N4-3-25,RHEA-RCS25(Y)-N4-3-25,"RHEA-001,RHEA-001; RHEA-1000,RHEA-1000; RHEA-RCS25(Y)-N4-3-25,RHEA-RCS25(Y)-N4-3-25",285,No,,,1.86,Portable Dehumidifier,24.50,Yes,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994319,cs-d446508f55,Deciuu,"Zhuhai Invitop Technology Co.,Ltd.",LIBRA-RCS32(Y)-N4-3(B),LIBRA-RCS32(Y)-N4-3(B),"DEPR32S10-50,DEPR32S10-50; DEPR32S20-50,DEPR32S20-50; LIBRA-RCS32(Y)-N4-3(B),LIBRA-RCS32(Y)-N4-3(B)",333,No,,,2.07,Portable Dehumidifier,32.00,No,5.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994427,cs-10afb8d744,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,H50D44W,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994428,cs-10afb8d744,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,W50D9P3-B,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994429,cs-10afb8d744,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,H50D46W,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994430,cs-10afb8d744,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,W50D9P3,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994431,cs-8217cdfc45,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,H25D44W,Dehumidifiers,,291,Yes,,Wi-Fi,1.70,Portable Dehumidifier,24.48,No,3.7,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994432,cs-8217cdfc45,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,W25D93,Dehumidifiers,,291,Yes,,Wi-Fi,1.70,Portable Dehumidifier,24.48,No,3.7,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994433,cs-2eba05c0e7,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,H32D44W,Dehumidifiers,,343,Yes,,Wi-Fi,2.01,Portable Dehumidifier,32.46,No,3.9,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3994434,cs-2eba05c0e7,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,W32D93,Dehumidifiers,,343,Yes,,Wi-Fi,2.01,Portable Dehumidifier,32.46,No,3.9,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3998085,cs-d2cc54389d,Aeocky,"Zhuhai Invitop Technology Co.,Ltd.",LEO-RCS25(Y)-N4-3(B)-25,LEO-RCS25(Y)-N4-3(B)-25,"LEO-001,LEO-001; LEO-1000,LEO-1000; LEO-RCS25(Y)-N4-3-25,LEO-RCS25(Y)-N4-3-25; LEO-RCS25(Y)-N4-3(B)-25,LEO-RCS25(Y)-N4-3(B)-25",286,No,,,1.87,Portable Dehumidifier,24.50,Yes,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3998546,cs-a5740fe98b,ALORAIR,AlorAir Solutions Inc.,Sentinel Pro35X,Sentinel Pro35X,,242,No,,,1.90,Portable Dehumidifier,21.27,Yes,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+3998547,cs-a5740fe98b,ARGENDON,AlorAir Solutions Inc.,Sandidry Pro35C,Sandidry Pro35C,,242,No,,,1.90,Portable Dehumidifier,21.27,Yes,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4000203,cs-8c8a0b1320,Newair,"NewAir, LLC",NDH050WH00,Dehumidifiers,,516,No,,,2.01,Portable Dehumidifier,49.66,No,5.5,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4000204,cs-415e7020ba,Newair,"NewAir, LLC",NDH035WH00,Dehumidifiers,,343,No,,,2.01,Portable Dehumidifier,32.46,No,3.9,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005581,cs-1dd1226659,JHS,JHS INC,D025B-25Pt3,D025B-25Pt3,,299,No,,,1.70,Portable Dehumidifier,24.93,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005582,cs-1dd1226659,Waykar,JHS INC,JD025CE-80,JD025CE-80,,299,No,,,1.70,Portable Dehumidifier,24.93,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005583,cs-1dd1226659,Fehom,JHS INC,JD025L-80,JD025L-80,,299,No,,,1.70,Portable Dehumidifier,24.93,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005584,cs-1dd1226659,KESNOS,JHS INC,JD025N-80,JD025N-80,,299,No,,,1.70,Portable Dehumidifier,24.93,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005588,cs-1dd1226659,YAUFEY,JHS INC,JD025Q-80,JD025Q-80,,299,No,,,1.70,Portable Dehumidifier,24.93,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005590,cs-1dd1226659,SAHAUHY,JHS INC,WTE80A-025T,WTE80A-025T,WTE80P-025P,299,No,,,1.70,Portable Dehumidifier,24.93,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005592,cs-1dd1226659,Folanzy,JHS INC,WTE80P-025T,WTE80P-025T,,299,No,,,1.70,Portable Dehumidifier,24.93,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005597,cs-1212c70291,ALORAIR,AlorAir Solutions Inc.,Sentinel HD55S,Sentinel HD55S,Sentinel HDI65S,379,No,,,2.08,Portable Dehumidifier,36.33,No,7.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005598,cs-1212c70291,BASEAIRE,AlorAir Solutions Inc.,AirWerx 55S,AirWerx 55S,Airwerx 65XS,379,No,,,2.08,Portable Dehumidifier,36.33,No,7.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005599,cs-1212c70291,ABESTORM,AlorAir Solutions Inc.,Guardian SN55S,Guardian SN55S,Guardian SNS65S,379,No,,,2.08,Portable Dehumidifier,36.33,No,7.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005670,cs-a8f0ae162f,OGACFO,"NINGBO UNION GRAND IMP. &EXP. CO.,LTD.",YOLFHM079WH,YOLFHM079WH,,194,Yes,,Wi-Fi,1.76,Portable Dehumidifier,15.84,No,2.1,R290/60g,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005672,cs-504ed5982d,Gasbye,Shenzhen Dianzilai Technology Limited,DryPrime-35-BP,DryPrime-35-BP,DryPrime-35-B; DryPrime-35-W; DryPrime-35-WP,378,No,,,2.01,Portable Dehumidifier,36.53,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005789,cs-5b077f8498,Waykar,Waykar,CTH150PB,Dehumidifiers,,471,No,,,2.20,Portable Dehumidifier,49.43,Yes,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005790,cs-5b077f8498,Waykar,Waykar,CTH150B,Dehumidifiers,,471,No,,,2.20,Portable Dehumidifier,49.43,Yes,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005791,cs-415e7020ba,Waykar,Waykar,CTH120B,Dehumidifiers,,343,No,,,2.01,Portable Dehumidifier,32.46,No,3.9,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005792,cs-9b800c060b,Waykar,Waykar,CTH80B,Dehumidifiers,,283,No,,,1.85,Portable Dehumidifier,24.84,Yes,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005873,cs-d3c7d4ef47,AERIC,AERIC LLC,AERD501PF,Dehumidifiers,,502,No,,,2.10,Portable Dehumidifier,49.32,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4005876,cs-d3c7d4ef47,AERIC,AERIC LLC,AERD501P,Dehumidifiers,,502,No,,,2.10,Portable Dehumidifier,49.32,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4006002,cs-f430ac9792,Santa Fe,Research Products Corporation,4046180,Ultra V205,,1188,No,,,3.12,Whole-home Dehumidifier,172.13,Yes,48.0,R-454B,6.4,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4008610,cs-34c813ec53,Aeocky,"Guangdong Invitop Technology Co., Ltd.",LEO-RCS25(Y)-N4-3,LEO-RCS25(Y)-N4-3,"LEO-Lite,LEO-Lite; LEO-RCS25(Y)-N4-3,LEO-RCS25(Y)-N4-3; LEO-Slim,LEO-Slim",287,No,,,1.75,Portable Dehumidifier,22.50,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4008611,cs-34c813ec53,Vellgoo,"Guangdong Invitop Technology Co., Ltd.",TAURUS-RCS25(Y)-N4-3,TAURUS-RCS25(Y)-N4-3,"DryTank 3000,DryTank 3000; TAURUS-RCS25(Y)-N4-3,TAURUS-RCS25(Y)-N4-3; VGE013A1BS,VGE013A1BS; VGE023A2BS,VGE023A2BS; VGE033A3BS,VGE033A3BS",287,No,,,1.75,Portable Dehumidifier,22.50,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4008612,cs-34c813ec53,Deciuu,"Guangdong Invitop Technology Co., Ltd.",LIBRA-RCS25(Y)-N4-3,LIBRA-RCS25(Y)-N4-3,,287,No,,,1.75,Portable Dehumidifier,22.50,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4012669,cs-8993a20bcf,TABYIK,JHS INC,D025F-25Pt3M-P,D025F-25Pt3M-P,,277,No,,,1.85,Portable Dehumidifier,24.75,Yes,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4012673,cs-1e57e8c4cc,GRIDR,JHS INC,D026B-50Pt3M-P,D026B-50Pt3M-P,,507,No,,,2.01,Portable Dehumidifier,49.47,No,5.3,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4015854,cs-9359851854,Deciuu,"Zhuhai Invitop Technology Co.,Ltd.",LIBRA-RCS32(Y)-N4-3,LIBRA-RCS32(Y)-N4-3,"DER32S01-50,DER32S01-50; DER32S02-50,DER32S02-50; LIBRA-RCS32(Y)-N4-3,LIBRA-RCS32(Y)-N4-3",334,No,,,2.13,Portable Dehumidifier,32.00,No,5.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4016309,cs-eeea745db3,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DH2523KX,Dehumidifiers,,315,No,,,1.70,Portable Dehumidifier,24.82,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4021635,cs-8f54bd6a5f,Wellsle,Chuangxiang Huiju（Shenzhen）Technology Co.，Ltd,YDL24P,YDL24P,,791,No,,,2.01,Portable Dehumidifier,25.00,Yes,3.9,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4021638,cs-1934a045fb,Wellsle,Chuangxiang Huiju（Shenzhen）Technology Co.，Ltd,YDL12P,YDL12P,,413,No,,,1.85,Portable Dehumidifier,12.00,Yes,2.1,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4046701,cs-fd5d8b0bef,BLACK+DECKER,"W Appliance Company, LLC",BDT08TW,BDT08TW,,117,No,,,1.73,Portable Dehumidifier,9.20,No,1.4,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4429193,cs-eefb9d69cc,Santa Fe,Research Products Corporation,4047300,Ultra V155,,842,No,,,3.26,Whole-home Dehumidifier,127.51,Yes,48.0,R-454B,5.6,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4429397,cs-82da7974ae,Waykar,Waykar,CTH30A,CTH30A,CTH30C,117,No,,,1.70,Portable Dehumidifier,9.20,No,1.4,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4429398,cs-82da7974ae,KESNOS,Waykar,CTH30B,CTH30B,,117,No,,,1.70,Portable Dehumidifier,9.20,No,1.4,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4429399,cs-82da7974ae,KESNOS,Waykar,CTH30E,CTH30E,CTH30B-B,117,No,,,1.70,Portable Dehumidifier,9.20,No,1.4,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4429400,cs-82da7974ae,Waykar,Waykar,CTH30D,CTH30D,CTH30A-B; CTH30C-B,117,No,,,1.70,Portable Dehumidifier,9.20,No,1.4,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4431338,cs-66c222a283,Arecovas,Shenzhen Jinchannel Innovation Technology Co. Ltd.,AR-DF001,AR-DF001,,193,No,,,1.79,Portable Dehumidifier,16.00,No,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437363,cs-89750b063e,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDA-25AEN8-BB0F,Dehumidifiers,,283,No,,,2.01,Portable Dehumidifier,26.87,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437364,cs-8504d8a136,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDA-35AEN8-BB0F,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437365,cs-f07f711b27,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDA-50AEN8-BB0BF,Dehumidifiers,"With compressor options: KSN65E22CBZX3, YZG-A066FY8D2T4",520,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437366,cs-e85171a761,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDA-50AEN8-BB0F,Dehumidifiers,"With compressor options: KSN65E22CBZX3, YZG-A066FY8D2T4",512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437378,cs-849e033b79,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDP-35AEN8-BB0,Dehumidifiers,,388,No,,,2.01,Portable Dehumidifier,36.71,No,5.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437379,cs-131cf74c12,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDP-40AEN8-BB0,Dehumidifiers,,430,No,,,2.01,Portable Dehumidifier,41.79,No,5.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437380,cs-fd4e221053,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDP-50AEN8-BB0B,Dehumidifiers,,518,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437381,cs-e65b6475f6,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDP-50AEN8-BB0,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437382,cs-6c831ecc3c,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDPA-35AEN8-BB0,Dehumidifiers,,382,No,,,2.01,Portable Dehumidifier,36.18,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437437,cs-d4a7d09bc9,ASAHWO,"Guangzhou Nengfaliang Technology Co., Ltd",PD22SA,PD22SA,,140,No,,,1.88,Portable Dehumidifier,12.22,Yes,1.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4437438,cs-468efbe59e,Wellsle,Chuangxiang Huiju（Shenzhen）Technology Co.，Ltd,PD21MA,PD21MA,,181,No,,,1.90,Portable Dehumidifier,16.00,Yes,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439114,cs-49eef00771,SAHAUHY,JHS INC,WTE120A-035T,WTE120A-035T,,375,No,,,2.01,Portable Dehumidifier,35.78,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439115,cs-49eef00771,SAHAUHY,JHS INC,WTE120P-035P,WTE120P-035P,,375,No,,,2.01,Portable Dehumidifier,35.78,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439116,cs-49eef00771,Folanzy,JHS INC,WTE120P-035T,WTE120P-035T,,375,No,,,2.01,Portable Dehumidifier,35.78,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439117,cs-49eef00771,Waykar,JHS INC,JD025CE-120,JD025CE-120,,375,No,,,2.01,Portable Dehumidifier,35.78,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439118,cs-49eef00771,Fehom,JHS INC,JD025L-120,JD025L-120,,375,No,,,2.01,Portable Dehumidifier,35.78,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439119,cs-1e57e8c4cc,Waykar,JHS INC,JD026CE-150,JD026CE-150,,507,No,,,2.01,Portable Dehumidifier,49.47,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439120,cs-1e57e8c4cc,Waykar,JHS INC,JD026CE-150PM,JD026CE-150PM,,507,No,,,2.01,Portable Dehumidifier,49.47,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439121,cs-1e57e8c4cc,Fehom,JHS INC,JD026L-150,JD026L-150,,507,No,,,2.01,Portable Dehumidifier,49.47,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439122,cs-1e57e8c4cc,Fehom,JHS INC,JD026L-150PM,JD026L-150PM,,507,No,,,2.01,Portable Dehumidifier,49.47,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439123,cs-49eef00771,KESNOS,JHS INC,JD025N-120,JD025N-120,,375,No,,,2.01,Portable Dehumidifier,35.78,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439124,cs-1e57e8c4cc,KESNOS,JHS INC,JD026N-150,JD026N-150,,507,No,,,2.01,Portable Dehumidifier,49.47,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439125,cs-49eef00771,YAUFEY,JHS INC,JD025Q-120,JD025Q-120,,375,No,,,2.01,Portable Dehumidifier,35.78,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439126,cs-1e57e8c4cc,YAUFEY,JHS INC,JD026R-150PM,JD026R-150PM,,507,No,,,2.01,Portable Dehumidifier,49.47,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439127,cs-1e57e8c4cc,YAUFEY,JHS INC,JD026R-150,JD026R-150,,507,No,,,2.01,Portable Dehumidifier,49.47,No,5.3,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439179,cs-33989f8c2c,Glowells,"Ningbo Hongming Waterproof Insulation Technology Co., Ltd.",PD12A,PD12A,,192,No,,,1.81,Portable Dehumidifier,16.11,No,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439454,cs-ab6afec8d1,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDMB-35AEN8-BB0F,Dehumidifiers,,378,No,,,2.01,Portable Dehumidifier,35.82,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439455,cs-c02e9567fc,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDMB-50AEN8-BB0BF,Dehumidifiers,,515,No,,,2.01,Portable Dehumidifier,49.67,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4439456,cs-28f2d3a31c,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDMB-50AEN8-BB0F,Dehumidifiers,,515,No,,,2.08,Portable Dehumidifier,49.67,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4465040,cs-8c8a0b1320,DuraComfort,"Shenzhen TCL Dura Electronic Technology Co., Ltd.",DH50PB,Dehumidifiers,,516,No,,,2.01,Portable Dehumidifier,49.66,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4478486,cs-22bead9cc3,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDP-22AEN8-BA7,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4478487,cs-92698e0eb7,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDMA-20AEN8-BA7,Dehumidifiers,,249,No,,,1.70,Portable Dehumidifier,20.16,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4478488,cs-3afc1097d9,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDA-22AEN8-BA7N,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4478489,cs-3afc1097d9,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDA-22AEN8-BA7,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4478493,cs-17ea428d91,Ukoke,For Generation Inc,UDH0125,UDH0125,,105,No,,,1.92,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4478525,cs-799daad973,DEVERSE,JHS INC,D025H-25Pt3,D025H-25Pt3,,886,No,,,1.70,Portable Dehumidifier,24.93,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4478531,cs-85056a0146,Jack&Rose,huizhoushiqingfengdianzishangwuyouxiangongsi,DH02,DH02,,182,No,,,1.90,Portable Dehumidifier,16.10,Yes,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4479456,cs-622f7b674c,Friedrich,Friedrich Air Conditioning Company,D35C1A,D35C1A,,378,Yes,,Wi-Fi,2.01,Portable Dehumidifier,36.53,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4479621,cs-0d9dc75dfd,Waykar,Waykar,CHWA80B,CHWA80B,,260,No,,,1.90,Portable Dehumidifier,24.91,Yes,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4479622,cs-0d9dc75dfd,Waykar,Waykar,CHWA80A,CHWA80A,,260,No,,,1.90,Portable Dehumidifier,24.91,Yes,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4479623,cs-936821b53d,Waykar,Waykar,CHWA120B,CHWA120B,,360,No,,,2.01,Portable Dehumidifier,35.20,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4479624,cs-72299ff139,Waykar,Waykar,CHWA120A,CHWA120A,,369,No,,,2.01,Portable Dehumidifier,36.90,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4479625,cs-824e01e0b7,Waykar,Waykar,CHWA150B,CHWA150B,,499,No,,,2.01,Portable Dehumidifier,49.52,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4479626,cs-e86b0c0e3b,Waykar,Waykar,CHWA150A,CHWA150A,,504,No,,,2.01,Portable Dehumidifier,49.67,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4479627,cs-e86b0c0e3b,Waykar,Waykar,CHWA150PA,CHWA150PA,,504,No,,,2.01,Portable Dehumidifier,49.67,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4479628,cs-824e01e0b7,Waykar,Waykar,CHWA150PB,CHWA150PB,,499,No,,,2.01,Portable Dehumidifier,49.52,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4480889,cs-e86b0c0e3b,AUX,AUX CLOUD COMMERCE(USA) INC,ADT50V1,ADT50V1,,504,No,,,2.01,Portable Dehumidifier,49.67,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4480890,cs-aa32a104cf,AUX,AUX CLOUD COMMERCE(USA) INC,ADT22V1,ADT22V1,,268,No,,,1.70,Portable Dehumidifier,22.91,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4480891,cs-72299ff139,AUX,AUX CLOUD COMMERCE(USA) INC,ADT35V1,ADT35V1,,369,No,,,2.01,Portable Dehumidifier,36.90,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481027,cs-e85171a761,Insignia,"Best Buy Purchasing, LLC",NS-DH50WH7-C,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481028,cs-e85171a761,Insignia,"Best Buy Purchasing, LLC",NS-DH50WH7,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481029,cs-8504d8a136,Insignia,"Best Buy Purchasing, LLC",NS-DH35WH7-C,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481030,cs-8504d8a136,Insignia,"Best Buy Purchasing, LLC",NS-DH35WH7,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481104,cs-b49fed9e9f,Frigidaire,"Electrolux Consumer Products, Inc.",FHDD3534Y1,FHDD3534Y1,,379,No,,,2.01,Portable Dehumidifier,35.85,No,4.4,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481105,cs-601cf69873,Frigidaire,"Electrolux Consumer Products, Inc.",FHDD5034Y1,FHDD5034Y1,,521,No,,,2.01,Portable Dehumidifier,49.71,No,5.5,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481293,cs-08084e71c9,Aeocky,"Zhuhai Invitop Technology Co.,Ltd.",LEO-RCS32(Y)-N4-3(B),LEO-RCS32(Y)-N4-3(B),"LEO-002,LEO-002; LEO-2000,LEO-2000; LEO-Lite-2,LEO-Lite-2; LEO-RCS32(Y)-N4-3(B),LEO-RCS32(Y)-N4-3(B); LEO-RCS32(Y)-N4-3,LEO-RCS32(Y)-N4-3; LEO-Slim-2,LEO-Slim-2",336,No,,,2.09,Portable Dehumidifier,32.00,No,5.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481294,cs-39255197a5,Aeocky,"Zhuhai Invitop Technology Co.,Ltd.",RHEA PRO-RCS50(Y)-N4-3-25,RHEA PRO-RCS50(Y)-N4-3-25,"RHEA-003,RHEA-003; RHEA-3000,RHEA-3000; RHEA PRO-RCS50(Y)-N4-3-25,RHEA PRO-RCS50(Y)-N4-3-25; RHEA PRO-RCS50(Y)-N4-3(B)-25,RHEA PRO-RCS50(Y)-N4-3(B)-25",432,No,,,2.21,Portable Dehumidifier,44.34,Yes,5.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481295,cs-bb7455516d,Vellgoo,"Zhuhai Invitop Technology Co.,Ltd.",TAURUS PRO-RCS50(Y)-N4-3-25,TAURUS PRO-RCS50(Y)-N4-3-25,"TAURUS PRO-RCS50(Y)-N4-3-25,TAURUS PRO-RCS50(Y)-N4-3-25; TAURUS PRO-RCS50(Y)-N4-3(B)-25,TAURUS PRO-RCS50(Y)-N4-3(B)-25; VGE013C1BS,VGE013C1BS; VGE023C2BS,VGE023C2BS; VGEP13C1BS,VGEP13C1BS; VGEP23C2BS,VGEP23C2BS",444,No,,,2.24,Portable Dehumidifier,45.00,Yes,5.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481341,cs-e3329bd564,Waykar,Waykar,AFD1.5D,AFD1.5D,"AFD1.5DPM,AFD1.5DPM; AFK1.5DPM,AFK1.5DPM; AFR1.5DAFK1.5D,AFR1.5DAFK1.5D; AFR1.5DPM,AFR1.5DPM; AFW1.5D,AFW1.5D; AFW1.5DPM,AFW1.5DPM; AFY1.5 D,AFY1.5 D; AFY1.5DPM,AFY1.5DPM",290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481342,cs-e3329bd564,KESNOS,Waykar,AKE1.5D,AKE1.5D,"AKE1.5DPM,AKE1.5DPM; AKF1.5D,AKF1.5D; AKF1.5DPM,AKF1.5DPM; AKO1.5D,AKO1.5D; AKO1.5DPM,AKO1.5DPM; AKS1.5D,AKS1.5D; AKS1.5DPM,AKS1.5DPM",290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481343,cs-e3329bd564,YAUFEY,Waykar,AYD1.5D,AYD1.5D,"AYC1.5D,AYC1.5D; AYC1.5DPM,AYC1.5DPM; AYD1.5DPM,AYD1.5DPM; AYG1.5D,AYG1.5D; AYG1.5DPM,AYG1.5DPM; AYP1.5D,AYP1.5D; AYP1.5DPM,AYP1.5DPM; AYZ1.5D,AYZ1.5D; AYZ1.5DPM,AYZ1.5DPM",290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4481344,cs-e3329bd564,Fehom,Waykar,AHR1.5D,AHR1.5D,"AHP1.5D,AHP1.5D; AHP1.5DPM,AHP1.5DPM; AHR1.5DPM,AHR1.5DPM; AHT1.5D,AHT1.5D; AHT1.5DPM,AHT1.5DPM",290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497023,cs-150a7eb223,Frigidaire,"Electrolux Consumer Products, Inc.",FHDD2233Y1,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497024,cs-f07f711b27,Frigidaire,"Electrolux Consumer Products, Inc.",FHDP5033Y1,Dehumidifiers,,520,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497025,cs-f07f711b27,Frigidaire,"Electrolux Consumer Products, Inc.",FHDD5033Y1,Dehumidifiers,,520,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497027,cs-89750b063e,Vissani,The Home Depot,VAD25S1AWTS,Dehumidifiers,,283,No,,,2.01,Portable Dehumidifier,26.87,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497028,cs-8504d8a136,Vissani,The Home Depot,VAD35S1AWTS,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497029,cs-f07f711b27,Vissani,The Home Depot,VAD50PS1AWTS,Dehumidifiers,,520,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497030,cs-e85171a761,Vissani,The Home Depot,VAD50S1AWTS,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497031,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DH5026KP1G,Dehumidifiers,Brand Name: Hisense,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497032,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DH5026K1W,Dehumidifiers,Brand Name: Hisense,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497345,cs-e65b6475f6,Perfect aire,"Perfect Aire, LLC",4PFD50,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497346,cs-e65b6475f6,Perfect aire,"Perfect Aire, LLC",4PFDP50,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497347,cs-6c831ecc3c,Perfect aire,"Perfect Aire, LLC",4PFD35,Dehumidifiers,,382,No,,,2.01,Portable Dehumidifier,36.18,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497482,cs-34c813ec53,boglvr,"Zhuhai Invitop Technology Co.,Ltd.",LIBRA-RCS25(Y)-N4-3,LIBRA-RCS25(Y)-N4-3,,287,No,,,1.75,Portable Dehumidifier,22.50,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497592,cs-c857bef928,"Yoau, Shinco, UHOME","HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ-50P/S6P,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497593,cs-c857bef928,"Yoau, Shinco, UHOME","HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ-50P/S6,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497594,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDA-50P/S6P,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497595,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDA-50P/S6,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497596,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ1-50P/6P,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497597,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",SDZ1-150P,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497599,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",SDZ1-150P/P,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497600,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",UDZ1-150P,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497601,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",UDZ1-150P/P,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497602,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ1-50P/6,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497603,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDN-50P/6P,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497604,cs-c857bef928,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDN-50P/6,PORTABLE DEHUMIDIFIER,,475,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497605,cs-621d4e3d66,"Yoau, Shinco, UHOME","HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ-24P/S6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497606,cs-621d4e3d66,"Yoau, Shinco, UHOME","HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDA-24P/S6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497607,cs-621d4e3d66,"Yoau, Shinco, UHOME","HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ1-24P/6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497608,cs-621d4e3d66,"Yoau, Shinco, UHOME","HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",SDZ1-80P,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497609,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",UDZ1-80P,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497610,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDN-24P/6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497611,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDN1-24P/S6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497612,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDL-24P/6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497613,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ-25P/S6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497614,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDA-25P/S6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497615,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ1-25P/6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497616,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDN-25P/6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497617,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDN1-25P/S6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497618,cs-621d4e3d66,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDL-25P/6,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497619,cs-a0681d3f4e,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ-35P/S6,PORTABLE DEHUMIDIFIER,,340,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497620,cs-a0681d3f4e,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDA-35P/S6,PORTABLE DEHUMIDIFIER,,340,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497621,cs-a0681d3f4e,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ1-35P/6,PORTABLE DEHUMIDIFIER,,340,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497622,cs-a0681d3f4e,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",SDZ1-120P,PORTABLE DEHUMIDIFIER,,340,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497623,cs-a0681d3f4e,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",UDZ1-120P,PORTABLE DEHUMIDIFIER,,340,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497624,cs-a0681d3f4e,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDN-35P/6,PORTABLE DEHUMIDIFIER,,340,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4497625,cs-a0681d3f4e,Yoau; Shinco; UHOME,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDN1-35P/S6,PORTABLE DEHUMIDIFIER,,340,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4499031,cs-e953331c29,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DH2526K1W,Dehumidifiers,Brand: Hisense.,314,No,,,1.70,Portable Dehumidifier,24.89,No,3.3,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4499032,cs-dcc97bc1ca,Whirlpool,Almo Corporation,WHHD501PAW,Dehumidifiers,,530,No,,,2.01,Portable Dehumidifier,50.00,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4499033,cs-dcc97bc1ca,Whirlpool,Almo Corporation,WHHD501AW,Dehumidifiers,,530,No,,,2.01,Portable Dehumidifier,50.00,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4499034,cs-415e7020ba,Whirlpool,Almo Corporation,WHAD321AW,Dehumidifiers,,343,No,,,2.01,Portable Dehumidifier,32.46,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4499035,cs-9b800c060b,Whirlpool,Almo Corporation,WHAD251AW,Dehumidifiers,,283,No,,,1.85,Portable Dehumidifier,24.84,Yes,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4509976,cs-c02e9567fc,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PE1QWT-S,Dehumidifiers,,515,No,,,2.01,Portable Dehumidifier,49.67,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4509977,cs-c02e9567fc,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PS1BQGR,Dehumidifiers,,515,No,,,2.01,Portable Dehumidifier,49.67,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4509978,cs-3afc1097d9,PELONIS,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",PAD22C1DWT,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4509992,cs-e85171a761,Vissani,The Home Depot,VAD50S1BWTS,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4509993,cs-e85171a761,Vissani,The Home Depot,VAD50PS1BWTS,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4509994,cs-8504d8a136,Vissani,The Home Depot,VAD35S1BWTS,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4509995,cs-89750b063e,Vissani,The Home Depot,VAD25S1BWTS,Dehumidifiers,,283,No,,,2.01,Portable Dehumidifier,26.87,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4509997,cs-22bead9cc3,Senville,Senville Air Conditioners,SENDH-22AEN1X,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510066,cs-dc3cc4e198,Aprilaire,Research Products Corporation,E080,E080,"E080 configured for plug in; E080H,E080H,E080H configured for hard wired",632,No,,,2.35,Whole-home Dehumidifier,65.00,Yes,9.7,R32,3.3,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510067,cs-8f663c631c,Aprilaire,Research Products Corporation,E100,E100,"E100C,E100C,E100C has caster wheels; E100 configured for plug in; E100H,E100H,E100H configured for hard wired; E100V,E100V,E100V has vent",821,No,,,2.35,Whole-home Dehumidifier,85.00,Yes,13.5,R32,3.3,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510068,cs-cd977340c7,Aprilaire,Research Products Corporation,E130,E130,"E130C,E130C,E130C has caster wheels; E130 configured for plug in; E130H,E130H,E130H configured for hard wired",926,No,,,2.35,Whole-home Dehumidifier,105.00,Yes,18.0,R32,6.6,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510112,cs-3afc1097d9,Danby,Danby Products Inc.,DDR022BSWDB,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510113,cs-22bead9cc3,Danby,Danby Products Inc.,DDR020BJ2WDB,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510114,cs-e65b6475f6,Danby,Danby Products Inc.,DDR050BL3BDB,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510153,cs-621d4e3d66,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDZ-80,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510154,cs-621d4e3d66,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDY-80,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510155,cs-621d4e3d66,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDG-80,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510156,cs-621d4e3d66,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDW-80,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510157,cs-621d4e3d66,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDA-80,PORTABLE DEHUMIDIFIER,,282,No,,,1.76,Portable Dehumidifier,24.00,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510158,cs-e3e1fab85e,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDZ-150,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510159,cs-e3e1fab85e,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDZ-150PM,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510160,cs-e3e1fab85e,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDY-150,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510161,cs-e3e1fab85e,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDY-150PM,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510162,cs-e3e1fab85e,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDG-150,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510163,cs-e3e1fab85e,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDG-150PM,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510164,cs-e3e1fab85e,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDW-150,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510165,cs-e3e1fab85e,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDW-150PM,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510166,cs-e3e1fab85e,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDA-150,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510167,cs-e3e1fab85e,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDA-150PM,PORTABLE DEHUMIDIFIER,,522,No,,,2.02,Portable Dehumidifier,50.00,No,6.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510168,cs-e1579282a9,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDZ-120,PORTABLE DEHUMIDIFIER,,382,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510169,cs-e1579282a9,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDY-120,PORTABLE DEHUMIDIFIER,,382,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510170,cs-e1579282a9,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDG-120,PORTABLE DEHUMIDIFIER,,382,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510171,cs-e1579282a9,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDW-120,PORTABLE DEHUMIDIFIER,,382,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510172,cs-e1579282a9,Waykar; KESNOS; YAUFEY; Fehom,Waykar,YDA-120,PORTABLE DEHUMIDIFIER,,382,No,,,2.02,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510198,cs-805ba5910e,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DH3526K1W,Dehumidifiers,,363,No,,,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510199,cs-805ba5910e,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,HD3526,Dehumidifiers,,363,No,,,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510200,cs-805ba5910e,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DHMA3526,Dehumidifiers,,363,No,,,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510201,cs-24e3abda2d,fridgemaster,Hisense (Guangdong) Air Conditioning Co. Ltd,FMDH50PJX,Dehumidifiers,Brand Name: Fridgemaster,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510202,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DHPA5026,Dehumidifiers,Brand Name: Hisense,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510203,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DHMA5026,Dehumidifiers,Brand Name: Hisense,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510204,cs-22bead9cc3,Comfort Aire,Heat Controller Inc.,BHD-22B,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510219,cs-3afc1097d9,Vissani,The Home Depot,VADA22A4HWT,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510299,cs-22bead9cc3,Perfect aire,"Perfect Aire, LLC",3PFD22,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510308,cs-3afc1097d9,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD22S1AWWT,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510309,cs-22bead9cc3,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD22C3WMT,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510310,cs-22bead9cc3,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD22S1WWT,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510320,cs-9ec31c3dbc,Noma iQ,Canadian Tire,043-8847-6,Dehumidifiers,Brand: Noma IQ,363,Yes,"Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",Wi-Fi,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510321,cs-805ba5910e,Noma,Canadian Tire,043-8818-6,Dehumidifiers,Brand: Noma,363,No,,,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510322,cs-8629243a41,Noma iQ,Canadian Tire,043-8820-8,Dehumidifiers,Brand: Noma IQ.,526,Yes,"Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",Wi-Fi,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510323,cs-24e3abda2d,Noma,Canadian Tire,043-8849-2,Dehumidifiers,Brand: Noma.,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510324,cs-24e3abda2d,Noma,Canadian Tire,043-0755-2,Dehumidifiers,Brand: Noma.,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510404,cs-45bd108495,Santa Fe,Research Products Corporation,4047100,Ultra V100,,419,No,,,2.45,Whole-home Dehumidifier,85.62,Yes,24.0,R-454B,5.4,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4510405,cs-d3a6543072,Santa Fe,Research Products Corporation,4047200,Ultra V125,,565,No,,,2.63,Whole-home Dehumidifier,102.69,Yes,24.0,R-454B,5.4,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511185,cs-6c831ecc3c,Seasons,HD Supply Facilities Maintenance,SD35CB1,Dehumidifiers,,382,No,,,2.01,Portable Dehumidifier,36.18,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511186,cs-e65b6475f6,Seasons,HD Supply Facilities Maintenance,SD50CP1,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511187,cs-ab6afec8d1,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD35S1QGR-A,Dehumidifiers,,378,No,,,2.01,Portable Dehumidifier,35.82,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511188,cs-3afc1097d9,For living,Canadian Tire,143-0082-4,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511189,cs-22bead9cc3,Seasons,HD Supply Facilities Maintenance,SD22CA1,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511204,cs-22bead9cc3,OMNI MAX,Home Hardware Stores Limited,OD22MTWBA1RCM,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511237,cs-c02e9567fc,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PE1QWT-B,Dehumidifiers,,515,No,,,2.01,Portable Dehumidifier,49.67,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511238,cs-3afc1097d9,PELONIS,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",PAD22C1DWTS,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511239,cs-8504d8a136,PELONIS,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",PAD35C1DWTS,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511240,cs-131cf74c12,PELONIS,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",PAD40C1AWTS,Dehumidifiers,,430,No,,,2.01,Portable Dehumidifier,41.79,No,5.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511241,cs-e65b6475f6,PELONIS,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",PAD50P1ABLS,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511252,cs-eccf89b5e6,ECZWXZ or CPHCPH,"Shanghai Shengchen Hangyu International Trade Co., LTD",OL22-D076FFN3B1/FE,OL22-D076FFN3B1/FE,,267,No,,,1.95,Portable Dehumidifier,22.00,Yes,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511299,cs-35504e00c1,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PS1BWT-C,Dehumidifiers,,520,Yes,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511301,cs-24e3abda2d,RONA,RONA Inc.,DH5026RPB,Dehumidifiers,,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511313,cs-02188938f8,Airzentti,Fong Chow International (HK) Company Limited,ACD155P-PG100,ACD155P-PG100,,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511314,cs-02188938f8,Airzentti,Fong Chow International (HK) Company Limited,ACD155P-PG100(B),ACD155P-PG100(B),,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511315,cs-79e55a40e7,Waykar,Waykar,PD160B,PD160B,,122,No,,,1.73,Portable Dehumidifier,9.81,No,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511316,cs-79e55a40e7,Waykar,Waykar,PD160B-A,PD160B-A,,122,No,,,1.73,Portable Dehumidifier,9.81,No,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511317,cs-79e55a40e7,Waykar,Waykar,PD160B-B,PD160B-B,,122,No,,,1.73,Portable Dehumidifier,9.81,No,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511318,cs-79e55a40e7,Waykar,Waykar,PD160B-G,PD160B-G,,122,No,,,1.73,Portable Dehumidifier,9.81,No,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511319,cs-d88d7b7deb,Waykar,Waykar,PD160B-PRO,PD160B-PRO,,144,No,,,1.91,Portable Dehumidifier,10.16,Yes,1.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511320,cs-d88d7b7deb,Waykar,Waykar,PD160B-PRO-A,PD160B-PRO-A,,144,No,,,1.91,Portable Dehumidifier,10.16,Yes,1.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511321,cs-d88d7b7deb,Waykar,Waykar,PD160B-PRO-B,PD160B-PRO-B,,144,No,,,1.91,Portable Dehumidifier,10.16,Yes,1.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4511322,cs-d88d7b7deb,Waykar,Waykar,PD160B-PRO-G,PD160B-PRO-G,,144,No,,,1.91,Portable Dehumidifier,10.16,Yes,1.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512359,cs-805ba5910e,fridgemaster,Hisense (Guangdong) Air Conditioning Co. Ltd,FMDH35KX,Dehumidifiers,Brand: Fridgemaster,363,No,,,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512360,cs-805ba5910e,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DH3523KX,Dehumidifiers,Brand: Hisense,363,No,,,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512361,cs-eeea745db3,RONA,RONA Inc.,DH2526RPB,Dehumidifiers,,315,No,,,1.70,Portable Dehumidifier,24.82,No,3.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512364,cs-9ec31c3dbc,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DH3523MEW,Dehumidifiers,Brand: Hisense,363,Yes,"Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",Wi-Fi,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512369,cs-92698e0eb7,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD20S1QWT,Dehumidifiers,,249,No,,,1.70,Portable Dehumidifier,20.16,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512370,cs-ab6afec8d1,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD35S1QWT-A,Dehumidifiers,,378,No,,,2.01,Portable Dehumidifier,35.82,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512371,cs-1f041d7110,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PS1QWT-A,Dehumidifiers,,515,No,,,2.01,Portable Dehumidifier,49.67,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512372,cs-c02e9567fc,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50S1QWT-A,Dehumidifiers,,515,No,,,2.01,Portable Dehumidifier,49.67,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512373,cs-22bead9cc3,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD22C1AWS,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512374,cs-849e033b79,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD35C1AWS-A,Dehumidifiers,,388,No,,,2.01,Portable Dehumidifier,36.71,No,5.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512375,cs-e65b6475f6,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50C1AWS-A,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512376,cs-e65b6475f6,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50P1AWS-A,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512556,cs-1aa5866bd4,AirCyan,"Changzhou Honghai Intelligent Technology Co., Ltd.",GF20C-20RW,GF20C-20RW,GF20-20RW; GF20B-20RW,196,Yes,Remote Operation,Wi-Fi,1.79,Portable Dehumidifier,16.30,No,2.3,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512615,cs-8504d8a136,For living,Canadian Tire,FDA35CBWCM,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512616,cs-e85171a761,For living,Canadian Tire,FADA50R5BCWT,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512643,cs-d7bc2c41fa,Multistar,Export 220Volt Inc.,MDHP5079US*,Dehumidifiers,* represents W or B,500,No,,,2.01,Portable Dehumidifier,49.48,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512657,cs-e65b6475f6,Brothers,Chadwell Supply,301090,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512763,cs-e85171a761,BLACK+DECKER,"W Appliance Company, LLC",BDM50WCDA,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512764,cs-f07f711b27,BLACK+DECKER,"W Appliance Company, LLC",BDM50PWCDA,Dehumidifiers,,520,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512765,cs-8504d8a136,BLACK+DECKER,"W Appliance Company, LLC",BDM36WCDA,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512766,cs-3afc1097d9,BLACK+DECKER,"W Appliance Company, LLC",BDM22WCDA,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512772,cs-e86b0c0e3b,Quilo,"JMA North America, LLC",QLDAD50WK,QLDAD50WK,,504,No,,,2.01,Portable Dehumidifier,49.67,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4512773,cs-e86b0c0e3b,Quilo,"JMA North America, LLC",QLDAD50PWK,QLDAD50PWK,,504,No,,,2.01,Portable Dehumidifier,49.67,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4513856,cs-e65b6475f6,Keystone,Almo Corporation,KSTAD506PG,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4513857,cs-e65b6475f6,Keystone,Almo Corporation,KSTAD504G,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4513858,cs-849e033b79,Keystone,Almo Corporation,KSTAD354G,Dehumidifiers,,388,No,,,2.01,Portable Dehumidifier,36.71,No,5.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4513859,cs-22bead9cc3,Keystone,Almo Corporation,KSTAD224F,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514014,cs-f07f711b27,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PS1BWBL,Dehumidifiers,,520,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514015,cs-8504d8a136,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD35S1BWWT,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514016,cs-3afc1097d9,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD22S1BWWT,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514017,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DH5023KXP,Dehumidifiers,"with compressor options: WP065S140, KSN65E23CZDX31",526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514018,cs-8629243a41,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,DH5025KXW,Dehumidifiers,"with compressor options: WP065S140, KSN65E23CZDX31",526,Yes,"Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",Wi-Fi,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514180,cs-57dca00912,Shinco,"HONGKONG YOAU INTERNATIONAL TRADE CO.,LTD",YDZ-12P/3,PORTABLE DEHUMIDIFIER,SDL-30P; YDL-12P/3; YDZ3-12P/3; YDZ7-12P/3,137,No,,,1.89,Portable Dehumidifier,12.00,Yes,2.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514459,cs-6ea68927ac,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,LDH5026KP1W,Dehumidifiers,Brand: Hisense.,526,No,,,2.01,Portable Dehumidifier,49.89,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514460,cs-6ea68927ac,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,AZHDTL50P,Dehumidifiers,Brand: Hisense.,526,No,,,2.01,Portable Dehumidifier,49.89,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514461,cs-6ea68927ac,Mora,Hisense (Guangdong) Air Conditioning Co. Ltd,MNDH50TP,Dehumidifiers,Brand: Mora.,526,No,,,2.01,Portable Dehumidifier,49.89,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514462,cs-156eb86662,Vissani,The Home Depot,VDHTL50P,Dehumidifiers,Brand: Vissani.; Brand: Vissani.; Brand: Vissani.; Brand: Vissani.,526,Yes,"Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",Wi-Fi,2.01,Portable Dehumidifier,49.89,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514463,cs-156eb86662,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,HD5026TLP,Dehumidifiers,Brand: Hisense.,526,Yes,"Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",Wi-Fi,2.01,Portable Dehumidifier,49.89,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514573,cs-e953331c29,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,OSD2526,Dehumidifiers,,314,No,,,1.70,Portable Dehumidifier,24.89,No,3.3,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514574,cs-805ba5910e,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,OSD3526,Dehumidifiers,,363,No,,,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514575,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,OSD5026,Dehumidifiers,,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514576,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,OSD5026P,Dehumidifiers,,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4514577,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,AZHD50,Dehumidifiers,,526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515093,cs-4eb7418a40,Bosch,Bosch Thermotechnology Corporation,Dry 2000,Dry 2000,,276,No,,,1.70,Portable Dehumidifier,23.00,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515094,cs-83cf82e90b,Bosch,Bosch Thermotechnology Corporation,Dry 4000,Dry 4000,,365,No,,,2.01,Portable Dehumidifier,35.94,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515174,cs-8217cdfc45,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,T25DC3S,Dehumidifiers,,291,Yes,,Wi-Fi,1.70,Portable Dehumidifier,24.48,No,3.7,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515175,cs-2eba05c0e7,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,T32DC3S,Dehumidifiers,,343,Yes,,Wi-Fi,2.01,Portable Dehumidifier,32.46,No,3.9,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515177,cs-10afb8d744,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,T50DC3SP,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515178,cs-10afb8d744,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,T50DC3S,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,R32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515187,cs-77cdb91d4f,GE,"GE Appliances, a Haier Company",ADSE50X**#,ADSE50X**#,ADSE50B**#; ADSE50P**#; ADSE50W**#,519,No,,,2.01,Portable Dehumidifier,49.64,No,8.3,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515188,cs-39344fdd15,GE,"GE Appliances, a Haier Company",ADSE25W**#,ADSE25W**#,ADSE25B**#,305,No,,,1.70,Portable Dehumidifier,24.71,No,3.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515189,cs-fbf8f3d84c,GE,"GE Appliances, a Haier Company",ADSE35W**#,ADSE35W**#,ADSE35B**#,355,No,,,2.01,Portable Dehumidifier,35.34,No,6.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515258,cs-92698e0eb7,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MC20MSWBA3RCM,Dehumidifiers,,249,No,,,1.70,Portable Dehumidifier,20.16,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515577,cs-22bead9cc3,Coolworks,Hometech Smart Technology Ltd.,TDUDP-22AEN8-BA7,Dehumidifiers,,278,No,,,1.70,Portable Dehumidifier,22.31,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515578,cs-e65b6475f6,Coolworks,Hometech Smart Technology Ltd.,TDUDP-50AEN8-BB0,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515579,cs-6c831ecc3c,Coolworks,Hometech Smart Technology Ltd.,TDUDPA-35AEN8-BB0,Dehumidifiers,,382,No,,,2.01,Portable Dehumidifier,36.18,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515878,cs-89f7c6bfe3,KeepGlad,"Quanzhou Yat Global International Trade Co., Ltd",FDD20-5270ZV1R5-E,FDD20-5270ZV1R5-E,,195,No,,,1.78,Portable Dehumidifier,16.00,No,2.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515937,cs-e85171a761,OMNI MAX,Home Hardware Stores Limited,ODA50M3WGAHW,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515938,cs-8504d8a136,OMNI MAX,Home Hardware Stores Limited,ODA35M3WGAHW,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4515939,cs-3afc1097d9,OMNI MAX,Home Hardware Stores Limited,ODA22M1WGAHW,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4517373,cs-f07f711b27,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PS1CWBL,Dehumidifiers,,520,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4517374,cs-8504d8a136,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD35S1CWWT,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4517375,cs-3afc1097d9,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD22S1CWWT,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518218,cs-57dca00912,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDY-32A,PORTABLE DEHUMIDIFIER,,137,No,,,1.89,Portable Dehumidifier,12.00,Yes,2.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518219,cs-57dca00912,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDY-32B,PORTABLE DEHUMIDIFIER,,137,No,,,1.89,Portable Dehumidifier,12.00,Yes,2.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518220,cs-57dca00912,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDZ-32A,PORTABLE DEHUMIDIFIER,,137,No,,,1.89,Portable Dehumidifier,12.00,Yes,2.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518221,cs-57dca00912,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDZ-32B,PORTABLE DEHUMIDIFIER,,137,No,,,1.89,Portable Dehumidifier,12.00,Yes,2.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518223,cs-57dca00912,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDA-32A,PORTABLE DEHUMIDIFIER,,137,No,,,1.89,Portable Dehumidifier,12.00,Yes,2.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518224,cs-57dca00912,"waykar, KESNOS, YAUFEY, Fehom",Waykar,YDA-32B,PORTABLE DEHUMIDIFIER,,137,No,,,1.89,Portable Dehumidifier,12.00,Yes,2.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518589,cs-3afc1097d9,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDA22C4BWWCM,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518590,cs-e85171a761,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDA50C4AWWCM,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518591,cs-ab6afec8d1,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MC35MSKBA3RCM,Dehumidifiers,,378,No,,,2.01,Portable Dehumidifier,35.82,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4518682,cs-bf2ac2cd51,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50S1OWWCM,Dehumidifiers,,520,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4519350,cs-156eb86662,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,TLDH5026PW,Dehumidifiers,Brand: Hisense.,526,Yes,"Scheduling Operation,User Alerts and Messages,Connection to Smart Home Ecosystems (e.g.: Amazon Alexa, Google Home, Apple HomeKit),Remote Operation",Wi-Fi,2.01,Portable Dehumidifier,49.89,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4519595,cs-6ea68927ac,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,ALDH50KP26,Dehumidifiers,,526,No,,,2.01,Portable Dehumidifier,49.89,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4519596,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,ADH50K26,Dehumidifiers,"Compressor options: WP065S140, KSN65E23CZDX31",526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4519597,cs-24e3abda2d,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,ADH50KP26,Dehumidifiers,"Compressor options: WP065S140, KSN65E23CZDX31",526,No,,,2.01,Portable Dehumidifier,49.95,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4519598,cs-805ba5910e,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,ADH35K26,Dehumidifiers,,363,No,,,2.01,Portable Dehumidifier,35.32,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4519599,cs-e953331c29,Hisense,Hisense (Guangdong) Air Conditioning Co. Ltd,ADH25K26,Dehumidifiers,,314,No,,,1.70,Portable Dehumidifier,24.89,No,3.3,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520244,cs-02188938f8,AVAHUM,"Shenzhen Baili Technology Co., Ltd",AM160,AM160,,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520245,cs-02188938f8,AVAHUM,"Shenzhen Baili Technology Co., Ltd",AM160P,AM160P,,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520357,cs-3603da9af2,DuraComfort,"Shenzhen TCL Dura Electronic Technology Co., Ltd.",DH50PWM,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.70,No,6.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520358,cs-3603da9af2,DuraComfort,"Shenzhen TCL Dura Electronic Technology Co., Ltd.",DH50PWB,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.70,No,6.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520359,cs-8c8a0b1320,DuraComfort,"Shenzhen TCL Dura Electronic Technology Co., Ltd.",DH50PH,Dehumidifiers,,516,No,,,2.01,Portable Dehumidifier,49.66,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520476,cs-02188938f8,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender MP145,Defender MP145,,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520477,cs-02188938f8,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender M145,Defender M145,,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520478,cs-02188938f8,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender MP70,Defender MP70,,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520479,cs-02188938f8,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender M70,Defender M70,,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520480,cs-02188938f8,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender HP150,Defender HP150,,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520481,cs-02188938f8,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender H150,Defender H150,,530,No,,,2.02,Portable Dehumidifier,49.83,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520705,cs-3603da9af2,Gasbye,Shenzhen Dianzilai Technology Limited,DryPrime-50-B,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.70,No,6.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520706,cs-3603da9af2,Gasbye,Shenzhen Dianzilai Technology Limited,DryPrime-50-W,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.70,No,6.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520707,cs-aa32a104cf,GARVEE,Garvee Innovation Inc.,G-AD22PT,G-AD22PT,,268,No,,,1.70,Portable Dehumidifier,22.91,No,3.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520708,cs-72299ff139,GARVEE,Garvee Innovation Inc.,G-AD35PT,G-AD35PT,,369,No,,,2.01,Portable Dehumidifier,36.90,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4520709,cs-e86b0c0e3b,GARVEE,Garvee Innovation Inc.,G-AD50PT,G-AD50PT,,504,No,,,2.01,Portable Dehumidifier,49.67,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4528748,cs-ee78c1c995,DGUAM,Guangzhou Rongxin Investment Partnership Enterprise,V2,V2,,183,No,,,1.80,Portable Dehumidifier,15.29,No,2.8,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4529039,cs-627036cb71,ALORAIR,AlorAir Solutions Inc.,Helios D35,Helios D35,,274,No,,,1.95,Portable Dehumidifier,24.00,Yes,5.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4529253,cs-a3b29662c4,Ludatido,"Ningbo Xiaochai Electrical Appliances Co., Ltd",PD10C2-25,PD10C2-25,,264,No,,,1.91,Portable Dehumidifier,1.91,Yes,4.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570006,cs-3afc1097d9,Vissani,The Home Depot,VADA22A5HWT,Dehumidifiers,,276,No,,,1.70,Portable Dehumidifier,22.27,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570007,cs-c745ebc7b6,Vissani,The Home Depot,VADA50P5HWT,Dehumidifiers,,519,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570008,cs-e85171a761,Vissani,The Home Depot,VADA50A5HWT,Dehumidifiers,,512,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570161,cs-900475ffaf,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender ME-7,Defender ME-7,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570162,cs-900475ffaf,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender ME-7S,Defender ME-7S,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570163,cs-900475ffaf,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender S60,Defender S60,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570164,cs-900475ffaf,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender SP60,Defender SP60,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570165,cs-900475ffaf,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender M7R,Defender M7R,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570166,cs-900475ffaf,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender MS7R,Defender MS7R,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570167,cs-900475ffaf,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender S60R,Defender S60R,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4570168,cs-900475ffaf,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Defender SP60R,Defender SP60R,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572757,cs-382b6bcf66,Ludatido,"Ningbo Xiaochai Electrical Appliances Co., Ltd",FDD20-527BZV1R5-E,FDD20-527BZV1R5-E,FDD20-527BZWV1R5-E,199,No,,,1.78,Portable Dehumidifier,16.00,No,2.8,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572839,cs-511c845f9c,Avylo,Airova Inc,DH-YS018US25-A00,DH-YS018US25-A00,,257,No,,,2.05,Portable Dehumidifier,24.50,Yes,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572840,cs-511c845f9c,Avylo,Airova Inc,ADC018,ADC018,,257,No,,,2.05,Portable Dehumidifier,24.50,Yes,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572855,cs-9e3c99619e,boglvr,JHS INC,D025A-25Pt3,D025A-25Pt3,,303,No,,,1.70,Portable Dehumidifier,24.83,No,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572921,cs-d95afd58e0,LG,"LG Electronics, Inc.",DT501BKR0,DT501BKR0,"DT501BKR0,DT501BKR0; DT501BKV0,DT501BKV0; DT501BWR0,DT501BWR0; DT501BWV0,DT501BWV0; DT501BYR0,DT501BYR0",524,No,,,2.01,Portable Dehumidifier,49.81,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572923,cs-511c845f9c,AeroNova,Airova Inc,DH-YS018US25-A00,DH-YS018US25-A00,,257,No,,,2.05,Portable Dehumidifier,24.50,Yes,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572924,cs-511c845f9c,AeroNova,Airova Inc,ADC018,ADC018,,257,No,,,2.05,Portable Dehumidifier,24.50,Yes,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572929,cs-9b800c060b,MegaLight,Megalight Inc.,PD-MPC720-WT,Dehumidifiers,,283,No,,,1.85,Portable Dehumidifier,24.84,Yes,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572935,cs-10afb8d744,Honeywell,"JMA North America, LLC",TPFIT50AWK,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572936,cs-10afb8d744,Honeywell,"JMA North America, LLC",TPFIT50APWK,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572937,cs-10afb8d744,Honeywell,"JMA North America, LLC",TPFIT50PWK,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572938,cs-10afb8d744,Honeywell,"JMA North America, LLC",TPFIT50WK,Dehumidifiers,,516,Yes,,Wi-Fi,2.01,Portable Dehumidifier,49.66,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572939,cs-03662c7d71,Honeywell,"JMA North America, LLC",TPFIT25AWK,Dehumidifiers,,291,Yes,,Wi-Fi,1.75,Portable Dehumidifier,24.48,No,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572940,cs-03662c7d71,Honeywell,"JMA North America, LLC",TPFIT25WK,Dehumidifiers,,291,Yes,,Wi-Fi,1.75,Portable Dehumidifier,24.48,No,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572941,cs-2eba05c0e7,Honeywell,"JMA North America, LLC",TPFIT32WK,Dehumidifiers,,343,Yes,,Wi-Fi,2.01,Portable Dehumidifier,32.46,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4572942,cs-2eba05c0e7,Honeywell,"JMA North America, LLC",TPFIT32AWK,Dehumidifiers,,343,Yes,,Wi-Fi,2.01,Portable Dehumidifier,32.46,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4573308,cs-1595e3f385,DuraComfort,"Shenzhen TCL Dura Electronic Technology Co., Ltd.",DH50PL,Dehumidifiers,,508,No,,,2.01,Portable Dehumidifier,49.52,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4573310,cs-1595e3f385,DuraComfort,"Shenzhen TCL Dura Electronic Technology Co., Ltd.",DH50PV,Dehumidifiers,,508,No,,,2.01,Portable Dehumidifier,49.52,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576678,cs-a8b021843f,Sweetcrispy,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576679,cs-a8b021843f,OLIXIS,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576680,cs-a8b021843f,DUMOS,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576681,cs-a8b021843f,SMUG,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576682,cs-a8b021843f,Gianna,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576683,cs-a8b021843f,edx,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576684,cs-a8b021843f,CONCETTA,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576685,cs-a8b021843f,ZUNMOS,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576686,cs-a8b021843f,NEWBULIG,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576687,cs-a8b021843f,KMFurnila,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576688,cs-a8b021843f,IULULU,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576689,cs-a8b021843f,SUMELL,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576690,cs-6599a7de19,Sweetcrispy,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576691,cs-6599a7de19,OLIXIS,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576692,cs-6599a7de19,DUMOS,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576693,cs-6599a7de19,SMUG,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576694,cs-6599a7de19,Gianna,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576695,cs-6599a7de19,edx,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576696,cs-6599a7de19,CONCETTA,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576697,cs-6599a7de19,ZUNMOS,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576698,cs-6599a7de19,NEWBULIG,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576699,cs-6599a7de19,KMFurnila,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576700,cs-6599a7de19,IULULU,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576701,cs-6599a7de19,SUMELL,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576702,cs-6599a7de19,JIOABL,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-4D5WT-OL,AS-CSJ72XK-4D5WT-OL,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576703,cs-ee5d97870b,Sweetcrispy,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576704,cs-ee5d97870b,OLIXIS,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576705,cs-ee5d97870b,DUMOS,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576706,cs-ee5d97870b,SMUG,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576707,cs-ee5d97870b,Gianna,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576708,cs-ee5d97870b,edx,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576709,cs-ee5d97870b,CONCETTA,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576710,cs-ee5d97870b,ZUNMOS,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576711,cs-ee5d97870b,NEWBULIG,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576712,cs-ee5d97870b,KMFurnila,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576713,cs-ee5d97870b,IULULU,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576714,cs-ee5d97870b,SUMELL,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576715,cs-ee5d97870b,JIOABL,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-5WT-OL,AS-CSJ72XK-5WT-OL,,257,No,,,2.04,Portable Dehumidifier,25.00,Yes,4.1,R-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576724,cs-900475ffaf,Airecoler,INOFIASLEEP INC.,Atlas T70,Atlas T70,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576725,cs-900475ffaf,Airecoler,INOFIASLEEP INC.,Atlas TP70,Atlas TP70,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576726,cs-900475ffaf,Airecoler,INOFIASLEEP INC.,Stellar S10,Stellar S10,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576727,cs-900475ffaf,Airecoler,INOFIASLEEP INC.,Stellar SP10,Stellar SP10,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576728,cs-900475ffaf,Airecoler,INOFIASLEEP INC.,Stellar S10H,Stellar S10H,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576729,cs-900475ffaf,Airecoler,INOFIASLEEP INC.,Stellar SP10H,Stellar SP10H,,285,No,,,1.84,Portable Dehumidifier,24.43,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576893,cs-382b6bcf66,Ludatido,"Ningbo Xiaochai Electrical Appliances Co., Ltd",FDD20-527BZV1R5-E,FDD20-527BZV1R5-E,FDD20-527BZWV1R5-E,199,No,,,1.78,Portable Dehumidifier,16.00,No,2.8,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576900,cs-9574fe84eb,Aeocky,"Zhuhai Invitop Technology Co.,Ltd.",LEO PRO-RCS50(Y)-N4-3(B)-25,LEO PRO-RCS50(Y)-N4-3(B)-25,"LEO-003,LEO-003; LEO-3000,LEO-3000; LEO-Lite-3,LEO-Lite-3; LEO PRO-RCS50(Y)-N4-3-25,LEO PRO-RCS50(Y)-N4-3-25; LEO PRO-RCS50(Y)-N4-3(B)-25,LEO PRO-RCS50(Y)-N4-3(B)-25; LEO-Slim-3,LEO-Slim-3",438,No,,,2.21,Portable Dehumidifier,44.94,Yes,5.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576903,cs-e158f8ca71,Honeywell Home,"Resideo Technologies, Inc",DHM065R4000/U,DHM065R4000/U,,503,No,,,2.23,Whole-home Dehumidifier,52.09,No,12.4,HFC-32,2.0,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576904,cs-fb4e399e49,Honeywell Home,"Resideo Technologies, Inc",DHM090R4000,DHM090R4000,,556,No,,,2.22,Whole-home Dehumidifier,64.17,No,16.6,HFC-32,4.9,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576905,cs-506b3692ea,Honeywell Home,"Resideo Technologies, Inc",DHM120R4000/U,DHM120R4000/U,,556,No,,,2.22,Whole-home Dehumidifier,94.33,No,17.3,HFC-32,4.9,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576917,cs-e158f8ca71,Honeywell Home,"Resideo Technologies, Inc",DHM065R4000/U,DHM065R4000/U,,503,No,,,2.23,Whole-home Dehumidifier,52.09,No,12.4,HFC-32,2.0,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576918,cs-fb4e399e49,Honeywell Home,"Resideo Technologies, Inc",DHM090R4000,DHM090R4000,,556,No,,,2.22,Whole-home Dehumidifier,64.17,No,16.6,HFC-32,4.9,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576919,cs-506b3692ea,Honeywell Home,"Resideo Technologies, Inc",DHM120R4000/U,DHM120R4000/U,,556,No,,,2.22,Whole-home Dehumidifier,94.33,No,17.3,HFC-32,4.9,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4576920,cs-a8b021843f,JIOABL,"Zhejiang Hengjian Home Furnishing Co.,Ltd",AS-CSJ72XK-2WT-OL,AS-CSJ72XK-2WT-OL,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4577018,cs-a6579a8b64,Dreo,Hesung Innovation Corp,DR-HDH004S,DR-HDH004S,,335,Yes,,Wi-Fi,2.01,Portable Dehumidifier,31.71,No,4.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4577019,cs-a6579a8b64,Dreo Home,Hesung Innovation Corp,DR-HDH004S,DR-HDH004S,,335,Yes,,Wi-Fi,2.01,Portable Dehumidifier,31.71,No,4.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4577080,cs-fca1bfc4e7,Dreo,Hesung Innovation Corp,DR-HDH003S,DR-HDH003S,,271,Yes,,Wi-Fi,1.75,Portable Dehumidifier,22.09,No,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4577081,cs-fca1bfc4e7,Dreo Home,Hesung Innovation Corp,DR-HDH003S,DR-HDH003S,,271,Yes,,Wi-Fi,1.75,Portable Dehumidifier,22.09,No,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4586106,cs-528c6df171,MegaLight,Megalight Inc.,PD-HPC750-WT,Dehumidifiers,,472,No,,,2.20,Portable Dehumidifier,49.43,Yes,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4586593,cs-47954a4a9b,LG,"LG Electronics, Inc.",DT251BWR0,DT251BWR0,"DT251BKR0,DT251BKR0; DT251BWR0,DT251BWR0; DT251BYR0,DT251BYR0",308,No,,,1.71,Portable Dehumidifier,24.99,No,3.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4586594,cs-bd8099a6ea,Arecovas,Shenzhen Jinchannel Innovation Technology Co. Ltd.,AR-DF006,AR-DF006,"AR-DF006,AR-DF006; EE250006,EE250006",285,No,,,1.88,Portable Dehumidifier,24.50,Yes,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4586595,cs-7ab12aa7e9,Arecovas,Shenzhen Jinchannel Innovation Technology Co. Ltd.,AR-DF005,AR-DF005,"AR-DF005,AR-DF005; EE250005,EE250005",338,No,,,2.15,Portable Dehumidifier,32.00,No,5.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4586609,cs-849e033b79,Amazon Basics,Amazon.com Services LLC,B0GR2L3R49,Dehumidifiers,,388,No,,,2.01,Portable Dehumidifier,36.71,No,5.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4586610,cs-e65b6475f6,Amazon Basics,Amazon.com Services LLC,B0GR2TS1X4,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4586611,cs-e65b6475f6,Amazon Basics,Amazon.com Services LLC,B0GR2TN8YX,Dehumidifiers,,525,No,,,2.01,Portable Dehumidifier,49.74,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4586642,cs-fa68d18846,Glowells,"Ningbo Hongming Waterproof Insulation Technology Co., Ltd.",PD82A,PD82A,,276,No,,,1.75,Portable Dehumidifier,23.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4586643,cs-8314a4e232,Arecovas,Shenzhen Jinchannel Innovation Technology Co. Ltd.,AR-DF002,AR-DF002,,274,No,,,1.75,Portable Dehumidifier,23.00,No,4.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4587253,cs-486182b03a,DuraComfort,"Shenzhen TCL Dura Electronic Technology Co., Ltd.",DH25L,Dehumidifiers,,291,No,,,1.75,Portable Dehumidifier,24.48,No,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4587254,cs-486182b03a,DuraComfort,"Shenzhen TCL Dura Electronic Technology Co., Ltd.",DH25F,Dehumidifiers,,291,No,,,1.75,Portable Dehumidifier,24.48,No,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4591181,cs-f07f711b27,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PS1AWT-S,Dehumidifiers,,520,No,,,2.01,Portable Dehumidifier,49.95,No,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4591182,cs-9b800c060b,Waykar,Waykar,CTH80D,Dehumidifiers,,283,No,,,1.85,Portable Dehumidifier,24.84,Yes,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4591184,cs-415e7020ba,Waykar,Waykar,CTH120D,Dehumidifiers,,343,No,,,2.01,Portable Dehumidifier,32.46,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4591185,cs-486182b03a,Waykar,Waykar,CTH80A,Dehumidifiers,,291,No,,,1.75,Portable Dehumidifier,24.48,No,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4591186,cs-5b077f8498,Waykar,Waykar,CTH150D,Dehumidifiers,,471,No,,,2.20,Portable Dehumidifier,49.43,Yes,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4591187,cs-5b077f8498,Waykar,Waykar,CTH150PD,Dehumidifiers,,471,No,,,2.20,Portable Dehumidifier,49.43,Yes,6.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4591188,cs-8c8a0b1320,Waykar,Waykar,CTH150PA,Dehumidifiers,,516,No,,,2.01,Portable Dehumidifier,49.66,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4591189,cs-8c8a0b1320,Waykar,Waykar,CTH150A,Dehumidifiers,,516,No,,,2.01,Portable Dehumidifier,49.66,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4591190,cs-415e7020ba,Waykar,Waykar,CTH120A,Dehumidifiers,,343,No,,,2.01,Portable Dehumidifier,32.46,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4594914,cs-5f8caa4985,Healthy Climate,Lennox Industries,HCWHD#-080,HCWHD#-080,# - refrigerant and pallet quantities,1023,No,,,2.35,Whole-home Dehumidifier,65.00,Yes,9.7,R-32,3.3,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4594934,cs-5f8caa4985,CARRIER CORPORATION,Bryant Heating and Cooling Systems (Carrier Corporation),DEHXXCDA1080*,DEHXXCDA1080*,* - refrigerant and pallet quantities,1023,No,,,2.35,Whole-home Dehumidifier,65.00,Yes,9.7,R-32,3.3,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4594954,cs-3eb4d632d9,Healthy Climate,Lennox Industries,HCWHD#-100,HCWHD#-100,# - refrigerant and pallet quantities,2391,No,,,2.35,Whole-home Dehumidifier,85.00,Yes,13.5,R-32,3.3,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4594974,cs-3eb4d632d9,CARRIER CORPORATION,Bryant Heating and Cooling Systems (Carrier Corporation),DEHXXCDA1100*,DEHXXCDA1100*,* - refrigerant and pallet quantities,2391,No,,,2.35,Whole-home Dehumidifier,85.00,Yes,13.5,R-32,3.3,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4594994,cs-0c41b0e00b,Healthy Climate,Lennox Industries,HCWHD#-130,HCWHD#-130,# - refrigerant and pallet quantities,2808,No,,,2.35,Whole-home Dehumidifier,105.00,Yes,18.0,R-32,6.6,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4611874,cs-6599a7de19,Dr. Prepare,"RNG INTERNATIONAL, INC.",DDH20LF,DDH20LF,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4611894,cs-a8b021843f,Dr. Prepare,"RNG INTERNATIONAL, INC.",DDH12LA,DDH12LA,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4612214,cs-212f2a2003,ANDTE,"Shenzhen Zhengjiu Technology Co., Ltd.",PD80K,PD80K,,265,No,,,1.75,Portable Dehumidifier,23.00,No,4.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4612234,cs-6f1c2e2ebd,ANDTE,"Shenzhen Zhengjiu Technology Co., Ltd.",PD50K,PD50K,,193,No,,,1.75,Portable Dehumidifier,15.50,No,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4612254,cs-b9e04fadca,DOGHLY,"Ningbo Yituo Enterprise Management Co., LTD",FDD20-5272V1R5-E,FDD20-5272V1R5-E,,198,No,,,1.85,Portable Dehumidifier,16.00,Yes,2.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4612274,cs-b9e04fadca,DOLLARDASH,"Ningbo Yituo Enterprise Management Co., LTD",FDD20-5272V1R5-E,FDD20-5272V1R5-E,,198,No,,,1.85,Portable Dehumidifier,16.00,Yes,2.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4612294,cs-b9e04fadca,ERIVESS,"Ningbo Yituo Enterprise Management Co., LTD",FDD20-5272V1R5-E,FDD20-5272V1R5-E,,198,No,,,1.85,Portable Dehumidifier,16.00,Yes,2.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4612314,cs-b9e04fadca,STOPSAD,"Ningbo Yituo Enterprise Management Co., LTD",FDD20-5272V1R5-E,FDD20-5272V1R5-E,,198,No,,,1.85,Portable Dehumidifier,16.00,Yes,2.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4612334,cs-b9e04fadca,WINFIRE,"Ningbo Yituo Enterprise Management Co., LTD",FDD20-5272V1R5-E,FDD20-5272V1R5-E,,198,No,,,1.85,Portable Dehumidifier,16.00,Yes,2.8,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4612894,cs-eccf89b5e6,UIDYGGD or FYHXZYB,"Shanghai Shengchen Hangyu International Trade Co., LTD",OL22-D076FFN3B1/FE,OL22-D076FFN3B1/FE,,267,No,,,1.95,Portable Dehumidifier,22.00,Yes,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4612895,cs-eccf89b5e6,Nypeak,"Shanghai Lefuan Technology Co., Ltd",D076A,D076A,,267,No,,,1.95,Portable Dehumidifier,22.00,Yes,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4613614,cs-01dc7dab16,LG,"LG Electronics, Inc.",DT351BWR0,DT351BWR0,"DT351BKR0,DT351BKR0; DT351BWR0,DT351BWR0; DT351BYR0,DT351BYR0",374,No,,,2.01,Portable Dehumidifier,35.30,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4613694,cs-aba7a46286,MIONJO,Guangzhou Rongxin Investment Partnership Enterprise,V3,V3,,196,No,,,1.77,Portable Dehumidifier,16.13,No,2.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4614154,cs-c490942672,Easykey,"Zhuhai Invitop Technology Co.,Ltd.",AQUA-RCS25 (Y)-N4-3-25,AQUA-RCS25 (Y)-N4-3-25,,285,No,,,1.88,Portable Dehumidifier,24.79,Yes,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4614174,cs-50bb987fe9,Greenlite,"Zhuhai Invitop Technology Co.,Ltd.",GL-DEH50R32,GL-DEH50R32,"GL-DEH50R32,GL-DEH50R32; TAURUS PRO-RCS50(Y)-N4-3,TAURUS PRO-RCS50(Y)-N4-3",529,No,,,2.04,Portable Dehumidifier,49.95,No,5.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4614574,cs-32d363b1b2,GARVEE,Garvee Innovation Inc.,SAYRAM-RCS25(Y)-N4-3-25,SAYRAM-RCS25(Y)-N4-3-25,,288,No,,,1.85,Portable Dehumidifier,24.80,Yes,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4614594,cs-855556628c,GARVEE,Garvee Innovation Inc.,SAYRAM-RCS32(Y)-N4-3,SAYRAM-RCS32(Y)-N4-3,,342,No,,,2.09,Portable Dehumidifier,33.13,No,5.0,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4614614,cs-8ba7b33766,DREAME,Dreame Trading (Tianjin) Co. Ltd.,CVF39A,CVF39A,,295,No,,,1.70,Portable Dehumidifier,23.29,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4614854,cs-dcc97bc1ca,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,T50DC9SPB,Dehumidifiers,,530,No,,,2.01,Portable Dehumidifier,50.00,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4614874,cs-dcc97bc1ca,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,T50DC9R,Dehumidifiers,,530,No,,,2.01,Portable Dehumidifier,50.00,No,5.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4615054,cs-415e7020ba,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,T32DC9R,Dehumidifiers,,343,No,,,2.01,Portable Dehumidifier,32.46,No,3.9,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4615074,cs-9b800c060b,TCL,TCL Delonghi Home Appliances (Zhongshan) Co Ltd,T25DC9R,Dehumidifiers,,283,No,,,1.85,Portable Dehumidifier,24.84,Yes,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4615094,cs-09a32d591c,upstreman,"Zhuhai Invitop Technology Co.,Ltd.",UPDEH-80A,UPDEH-80A,,295,No,,,1.76,Portable Dehumidifier,24.01,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4616314,cs-eb406862c9,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Admiral W160,Admiral W160,,628,No,,,2.25,Whole-home Dehumidifier,65.00,No,10.6,HFC-32,4.4,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4616334,cs-eb406862c9,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Admiral WP160,Admiral WP160,,628,No,,,2.25,Whole-home Dehumidifier,65.00,No,10.6,HFC-32,4.4,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4616354,cs-eb406862c9,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Director W160,Director W160,,628,No,,,2.25,Whole-home Dehumidifier,65.00,No,10.6,HFC-32,4.4,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4616374,cs-eb406862c9,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Director WP160,Director WP160,,628,No,,,2.25,Whole-home Dehumidifier,65.00,No,10.6,HFC-32,4.4,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4616394,cs-eb406862c9,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Marshal WD160,Marshal WD160,,628,No,,,2.25,Whole-home Dehumidifier,65.00,No,10.6,HFC-32,4.4,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4616414,cs-eb406862c9,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Marshal WP160,Marshal WP160,,628,No,,,2.25,Whole-home Dehumidifier,65.00,No,10.6,HFC-32,4.4,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4618014,cs-8504d8a136,Comfort Aire,Heat Controller Inc.,BHD-35C,Dehumidifiers,,383,No,,,2.01,Portable Dehumidifier,36.39,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4618354,cs-9ecebb63b9,AVAHUM,"Shenzhen Baili Technology Co., Ltd",AM150P,AM150P,,511,No,,,2.01,Portable Dehumidifier,49.80,No,6.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4618374,cs-63b4e5b3c0,Glowells,"Ningbo Hongming Waterproof Insulation Technology Co., Ltd.",PD120A,PD120A,,379,No,,,2.01,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4621974,cs-abd47e744f,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Aegis H150,Aegis H150,,530,No,,,2.01,Portable Dehumidifier,50.00,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4621994,cs-abd47e744f,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Aegis HP150,Aegis HP150,,530,No,,,2.01,Portable Dehumidifier,50.00,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4622014,cs-1d619657da,COSTWAY,Goplus Corp.,ES10328US-WH,ES10328US-WH,,191,No,,,1.75,Portable Dehumidifier,15.50,No,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4622034,cs-e6a9ce3a92,KNKA,"Zhuhai BoFan Technology Co., Ltd.",PD30MA-20,PD30MA-20,,230,No,,,1.70,Portable Dehumidifier,18.50,No,1.9,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4622154,cs-abd47e744f,Airecoler,INOFIASLEEP INC.,Sailing S155,Sailing S155,,530,No,,,2.01,Portable Dehumidifier,50.00,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4622174,cs-abd47e744f,Airecoler,INOFIASLEEP INC.,Sailing P155,Sailing P155,,530,No,,,2.01,Portable Dehumidifier,50.00,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4622194,cs-abd47e744f,Airecoler,INOFIASLEEP INC.,Sailing P155A,Sailing P155A,,530,No,,,2.01,Portable Dehumidifier,50.00,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4623714,cs-b37274deb0,ZAFRO,JHS INC,D026W-50Pt3M,D026W-50Pt3M,,504,No,,,2.20,Portable Dehumidifier,49.86,Yes,5.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4639174,cs-18f12b7d9e,HUMILABS,Humilabs LLC,OL12-D023F,OL12-D023F,,110,No,,,1.92,Portable Dehumidifier,9.00,Yes,1.9,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4639175,cs-6599a7de19,HUMILABS,Humilabs LLC,OL20-D068Q,OL20-D068Q,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4639176,cs-eccf89b5e6,HUMILABS,Humilabs LLC,OL22-D076K,OL22-D076K,,267,No,,,1.95,Portable Dehumidifier,22.00,Yes,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4653214,cs-abd47e744f,Airecoler,INOFIASLEEP INC.,Sailing S155A,Sailing S155A,,530,No,,,2.01,Portable Dehumidifier,50.00,No,10.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4654994,cs-edcec00b70,Aeroid,Fong Chow International (HK) Company Limited,TDP070-G200,TDP070-G200,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4655014,cs-edcec00b70,Aeroid,Fong Chow International (HK) Company Limited,TDP070-G100,TDP070-G100,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4655034,cs-edcec00b70,Aeroid,Fong Chow International (HK) Company Limited,TDP070-W200,TDP070-W200,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4655054,cs-edcec00b70,Aeroid,Fong Chow International (HK) Company Limited,TDP070-W100,TDP070-W100,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4655854,cs-83549e95cf,Deciuu,"Zhuhai Invitop Technology Co.,Ltd.",LIBRA-RCS25(Y)-N4-3(B)-25,LIBRA-RCS25(Y)-N4-3(B)-25,"DEPR32P10,DEPR32P10; DEPR32P20,DEPR32P20; DER32M01,DER32M01; DER32M02,DER32M02; LIBRA-RCS25(Y)-N4-3-25,LIBRA-RCS25(Y)-N4-3-25; LIBRA-RCS25(Y)-N4-3(B)-25,LIBRA-RCS25(Y)-N4-3(B)-25",284,Yes,,Wi-Fi,1.88,Portable Dehumidifier,24.72,Yes,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4657054,cs-e6a9ce3a92,KNKA PRO,"Zhuhai BoFan Technology Co., Ltd.",PD30MA-20,PD30MA-20,,230,No,,,1.70,Portable Dehumidifier,18.50,No,1.9,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4661614,cs-b6895cbef8,Deye,"Zhejiang Deye Electrical Appliances Co., Ltd.",DYD-P30,DYD-P30,,256,No,,,2.03,Portable Dehumidifier,25.00,Yes,4.2,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4661634,cs-c55dfeb4eb,Deye,"Zhejiang Deye Electrical Appliances Co., Ltd.",DYD-A10,DYD-A10,,132,No,,,1.75,Portable Dehumidifier,10.50,No,1.8,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662514,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SPI,DH-70SPI,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662534,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SPII,DH-70SPII,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662554,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SPIII,DH-70SPIII,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662574,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SPIV,DH-70SPIV,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662594,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SPV,DH-70SPV,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662614,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SI,DH-70SI,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662634,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SII,DH-70SII,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662654,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SIII,DH-70SIII,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662674,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SIV,DH-70SIV,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4662694,cs-e3329bd564,PRIKOD,"Shenzhen Huizhetonghao Consulting Management Co., Ltd",DH-70SV,DH-70SV,,290,No,,,1.79,Portable Dehumidifier,24.00,No,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4675014,cs-6599a7de19,MANASTIN,FOCUS FURNITURE INTERNATIONAL INC,OL16-D068FFN2B1/FE,OL16-D068FFN2B1/FE,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4675015,cs-6599a7de19,MANASTIN,FOCUS FURNITURE INTERNATIONAL INC,T-DH26-1415-50WT,T-DH26-1415-50WT,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4675016,cs-6599a7de19,TEHANLD,FOCUS FURNITURE INTERNATIONAL INC,TH1415DH50WT,TH1415DH50WT,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4675017,cs-6599a7de19,Kinetheme,FOCUS FURNITURE INTERNATIONAL INC,KT1415DH50WT,KT1415DH50WT,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4675018,cs-6599a7de19,Patiosunny,FOCUS FURNITURE INTERNATIONAL INC,PS1415DH50WT,PS1415DH50WT,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4675019,cs-6599a7de19,UrbanSync,FOCUS FURNITURE INTERNATIONAL INC,US1415DH50WT,US1415DH50WT,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4675020,cs-6599a7de19,Nepsam,FOCUS FURNITURE INTERNATIONAL INC,NS1415DH50WT,NS1415DH50WT,,181,No,,,1.89,Portable Dehumidifier,16.00,Yes,2.5,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4675294,cs-c76a93c839,Glowells,"Ningbo Hongming Waterproof Insulation Technology Co., Ltd.",PD12A,PD12A,,225,No,,,1.75,Portable Dehumidifier,19.00,No,1.9,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4676554,cs-aaaa7c35f8,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Aegis H110,Aegis H110,,374,No,,,2.01,Portable Dehumidifier,38.00,No,5.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4676574,cs-aaaa7c35f8,MOISWELL,"SHENZHEN YINFENG INNOVATION TECHNOLOGY CO., LTD.",Aegis HP110,Aegis HP110,,374,No,,,2.01,Portable Dehumidifier,38.00,No,5.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4676594,cs-aaaa7c35f8,Airecoler,INOFIASLEEP INC.,Sailing S120A,Sailing S120A,,374,No,,,2.01,Portable Dehumidifier,38.00,No,5.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4676614,cs-aaaa7c35f8,Airecoler,INOFIASLEEP INC.,Sailing P120A,Sailing P120A,,374,No,,,2.01,Portable Dehumidifier,38.00,No,5.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4680474,cs-c7ce77c91e,Bufanli,"Shanghai Shengchen Hangyu International Trade Co., LTD",OL22-D076FFN3B1/FE,OL22-D076FFN3B1/FE,,267,No,,,1.97,Portable Dehumidifier,22.00,Yes,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4682254,cs-382b6bcf66,COSTWAY,Goplus Corp.,ES10810US-WH,ES10810US-WH,ES10811US-WH,199,No,,,1.78,Portable Dehumidifier,16.00,No,2.8,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4682794,cs-7d9dddfe4e,LEVOIT,Vesync (US) Corporation,LDH-H251S-WUS,LDH-H251S-WUS,LDH-H251S-WCA; LDH-H251S-XXXX,281,No,,,1.88,Portable Dehumidifier,24.54,Yes,3.5,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4687374,cs-edcec00b70,Airzentti,Fong Chow International (HK) Company Limited,ACDOSOP-PG100,ACDOSOP-PG100,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4687394,cs-edcec00b70,Airzentti,Fong Chow International (HK) Company Limited,ACDOSOP-PG200,ACDOSOP-PG200,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4687414,cs-edcec00b70,Airzentti,Fong Chow International (HK) Company Limited,ACDOSOP-NG100,ACDOSOP-NG100,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4687434,cs-edcec00b70,Airzentti,Fong Chow International (HK) Company Limited,ACDOSOP-NG200,ACDOSOP-NG200,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4687454,cs-edcec00b70,Airzentti,Fong Chow International (HK) Company Limited,ACD070P-PG100,ACD070P-PG100,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4687474,cs-edcec00b70,Airzentti,Fong Chow International (HK) Company Limited,ACD070P-PG200,ACD070P-PG200,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4687494,cs-edcec00b70,Airzentti,Fong Chow International (HK) Company Limited,ACD070P-NG100,ACD070P-NG100,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4687514,cs-edcec00b70,Airzentti,Fong Chow International (HK) Company Limited,ACD070P-NG200,ACD070P-NG200,,285,No,,,1.75,Portable Dehumidifier,24.00,No,4.2,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4689234,cs-6707f15121,HBN,BNLINK Inc,PD21MB-20,PD21MB-20,,182,No,,,1.85,Portable Dehumidifier,16.00,Yes,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4689254,cs-6707f15121,BEHOME,BNLINK Inc,PD21MB-20,PD21MB-20,,182,No,,,1.85,Portable Dehumidifier,16.00,Yes,2.1,R290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4690834,cs-0c31c92c53,Amana,Almo Corporation,AMND501PBW,Dehumidifiers,,520,No,,,2.01,Portable Dehumidifier,49.43,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4690854,cs-0c31c92c53,Amana,Almo Corporation,AMND501BW,Dehumidifiers,,520,No,,,2.01,Portable Dehumidifier,49.43,No,6.4,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4693554,cs-d5f277d201,DGVAM,Guangzhou Rongxin Investment Partnership Enterprise,V2,V2,"V1,V1; V2,V2; V3,V3; V4,V4; V5,V5",183,No,,,1.80,Portable Dehumidifier,15.29,No,2.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4698474,cs-ab6afec8d1,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD35W1QWT-A,Dehumidifiers,,378,No,,,2.01,Portable Dehumidifier,35.82,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4698494,cs-c02e9567fc,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PW1QWT-A,Dehumidifiers,,515,No,,,2.01,Portable Dehumidifier,49.67,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4698514,cs-c02e9567fc,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50W1QWT-A,Dehumidifiers,,515,No,,,2.01,Portable Dehumidifier,49.67,No,7.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4708694,cs-d5f277d201,MIONJO,Guangzhou Rongxin Investment Partnership Enterprise,V2,V2,"V1,V1; V2,V2; V3,V3; V4,V4; V5,V5",183,No,,,1.80,Portable Dehumidifier,15.29,No,2.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4709354,cs-a5d515e0ba,INNOVATIVE,Innovative Dehumidifier Systems Division of Maradyne Corporation,IW-25-6,IW-25-6,,272,No,,,1.90,Portable Dehumidifier,24.01,Yes,6.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4710974,cs-382b6bcf66,Humsure,Ningbo Heallux International Trading Co.. Ltd.,FDD20-5270ZV1R5-E,FDD20-5270ZV1R5-E,FDD20-527CZV1R5-E,199,No,,,1.78,Portable Dehumidifier,16.00,No,2.8,,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4711194,cs-78687d9002,Aeocky,"Zhuhai Invitop Technology Co.,Ltd.",CS25YA8N7F3(HUMMIGO-25US),CS25YA8N7F3(HUMMIGO-25US),"CS25YA8N7F3-02(HUMMIGO-25US-B),CS25YA8N7F3-02(HUMMIGO-25US-B); CS25YA8N7F3-12(HUMMIGO-25US-C),CS25YA8N7F3-12(HUMMIGO-25US-C); CS25YA8N7F3-13(HUMMIGO-25US-A),CS25YA8N7F3-13(HUMMIGO-25US-A); CS25YA8N7F3(HUMMIGO-25US),CS25YA8N7F3(HUMMIGO-25US); HUMMIGO-001,HUMMIGO-001; HUMMIGO-001-W,HUMMIGO-001-W; HUMMIGO-1000,HUMMIGO-1000; HUMMIGO-1000-W,HUMMIGO-1000-W; HUMMIGO-A01,HUMMIGO-A01; HUMMIGO-A01-W,HUMMIGO-A01-W; HUMMIGO-A100,HUMMIGO-A100; HUMMIGO-A100-W,HUMMIGO-A100-W; HUMMIGO-B01,HUMMIGO-B01; HUMMIGO-B100,HUMMIGO-B100; POD-003,POD-003; POD-003-W,POD-003-W; POD-3000,POD-3000; POD-3000-W,POD-3000-W",287,Yes,,Wi-Fi,1.85,Portable Dehumidifier,24.68,Yes,4.4,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4711214,cs-c490942672,Waykar,"Zhuhai Invitop Technology Co.,Ltd.",TDW80A,TDW80A,"TDW80A,TDW80A; TDW80C,TDW80C; TDW80D,TDW80D",285,No,,,1.88,Portable Dehumidifier,24.79,Yes,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4711234,cs-cfac480a1a,Waykar,"Zhuhai Invitop Technology Co.,Ltd.",TDW80B,TDW80B,"TDW80B,TDW80B; TDW80E,TDW80E; TDW80F,TDW80F",287,No,,,1.85,Portable Dehumidifier,24.66,Yes,4.1,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4711294,cs-d17b2b8c08,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDT-50AEN8-BB0BF,Dehumidifiers,,530,No,,,2.01,Portable Dehumidifier,49.96,No,5.3,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4711314,cs-0e57a6ac68,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDT-50AEN8-BB0F,Dehumidifiers,,523,No,,,2.01,Portable Dehumidifier,49.96,No,5.3,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4714834,cs-a8b021843f,Mountman,"Ningbo Heyu Trade Co., Ltd",MM-HY9DE003,MM-HY9DE003,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4714835,cs-a8b021843f,Mountman,"Ningbo Heyu Trade Co., Ltd",MM-HY9DE003-W,MM-HY9DE003-W,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4714836,cs-a8b021843f,Uthfy,"Ningbo Heyu Trade Co., Ltd",HY9DE003,HY9DE003,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4714837,cs-a8b021843f,Uthfy,"Ningbo Heyu Trade Co., Ltd",HY9DE003-W,HY9DE003-W,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4714838,cs-a8b021843f,KEGIAN,"Ningbo Heyu Trade Co., Ltd",KE-HY9DE003,KE-HY9DE003,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4714839,cs-a8b021843f,KEGIAN,"Ningbo Heyu Trade Co., Ltd",KE-HY9DE003-W,KE-HY9DE003-W,,105,No,,,1.93,Portable Dehumidifier,9.00,Yes,1.8,R-290,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4717514,cs-e16e549ca4,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDT-35AEN8-BB0F,Dehumidifiers,,362,No,,,2.01,Portable Dehumidifier,35.00,No,4.8,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4717534,cs-febbc4ec17,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDA-40AEN8-BB0,Dehumidifiers,,429,No,,,2.01,Portable Dehumidifier,40.76,No,5.3,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4717554,cs-ffb8840c84,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDA-35AEN8-BB0F-J,Dehumidifiers,,368,No,,,2.01,Portable Dehumidifier,35.50,No,4.6,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4717574,cs-e48cde9d35,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDA-25AEN8-BB0F-J,Dehumidifiers,,271,No,,,2.01,Portable Dehumidifier,26.30,No,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4718314,cs-d52152f26c,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MAD50PE1AWT-B,Dehumidifiers,with Compressor Model YZG-A066FY8D2T4,525,No,,,2.01,Portable Dehumidifier,49.95,No,5.3,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
+4718354,cs-08d544d6a2,Midea,"GD MIDEA AIR-CONDITIONING EQUIPMENT CO., LTD.",MDUDT-22AEN8-BA7F,Dehumidifiers,,284,No,,,1.70,Portable Dehumidifier,22.92,No,3.7,HFC-32,,https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Dehumidifiers/mgiu-hu4z,2026-11-01,https://creativecommons.org/licenses/by/4.0/
