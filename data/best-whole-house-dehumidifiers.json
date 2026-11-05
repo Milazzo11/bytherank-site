@@ -133,7 +133,8 @@
     "cost100": 3.66,
     "cost5": 876.0,
     "ief": 2.35
-   }
+   },
+   "tied": true
   },
   {
    "best_for": "large or very humid homes",
@@ -141,7 +142,7 @@
    "brand": "Healthy Climate",
    "id": "healthy-climate-hcwhd-130",
    "name": "Healthy Climate HCWHD5-130 (certified as Healthy Climate HCWHD-130)",
-   "rank": 5,
+   "rank": 4,
    "score": 67.1,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -157,7 +158,8 @@
     "cost100": 3.66,
     "cost5": 876.0,
     "ief": 2.35
-   }
+   },
+   "tied": true
   },
   {
    "brand": "Santa Fe",
@@ -220,13 +222,14 @@
     "cost100": 3.66,
     "cost5": 709.0,
     "ief": 2.35
-   }
+   },
+   "tied": true
   },
   {
    "brand": "Healthy Climate",
    "id": "healthy-climate-hcwhd-100",
    "name": "Healthy Climate HCWHD5-100 (certified as Healthy Climate HCWHD-100)",
-   "rank": 9,
+   "rank": 8,
    "score": 61.9,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -242,7 +245,8 @@
     "cost100": 3.66,
     "cost5": 709.0,
     "ief": 2.35
-   }
+   },
+   "tied": true
   },
   {
    "brand": "Aprilaire",
@@ -263,13 +267,14 @@
     "cost100": 3.66,
     "cost5": 542.0,
     "ief": 2.35
-   }
+   },
+   "tied": true
   },
   {
    "brand": "Healthy Climate",
    "id": "healthy-climate-hcwhd-080",
    "name": "Healthy Climate HCWHD5-080 (certified as Healthy Climate HCWHD-080)",
-   "rank": 11,
+   "rank": 10,
    "score": 56.6,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -285,7 +290,8 @@
     "cost100": 3.66,
     "cost5": 542.0,
     "ief": 2.35
-   }
+   },
+   "tied": true
   },
   {
    "brand": "MOISWELL",

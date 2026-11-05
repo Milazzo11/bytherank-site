@@ -116,8 +116,6 @@
    }
   },
   {
-   "best_for": "a bedroom or office that needs fast cleaning",
-   "best_for_key": "smoke_cadr",
    "brand": "Senville",
    "id": "senville-senap-250g-z41",
    "name": "Senville Flow 500 (certified as Senville SENAP-250G-Z41)",
@@ -160,8 +158,6 @@
    }
   },
   {
-   "best_for": "running overnight for less than this page's average",
-   "best_for_key": "cost5",
    "brand": "CLOROX",
    "id": "clorox-type-ap32-11030",
    "name": "CLOROX TYPE AP32 (11030)",
@@ -227,10 +223,30 @@
   {
    "best_for": "running overnight for less than this page's average",
    "best_for_key": "cost5",
+   "brand": "Aeocky",
+   "id": "aeocky-lunapure-ejh001",
+   "name": "Aeocky LunaPure-EJH001",
+   "rank": 9,
+   "score": 86.6,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (AEOCKY store, sold by Aeocky Direct, in stock at $159.99 when read 2026-11-04) gives Item model number LunaPure-EJH001, the certified model number. It is marketed with a 515 CADR for 4,200 sq ft (Aeocky's own store gives that 515 in m3/h, about 303 cfm); ENERGY STAR certifies 137 cfm smoke CADR and 212 sq ft.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0FXDNVDTT",
+    "url": "https://www.amazon.com/dp/B0FXDNVDTT"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4512776, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0FXDNVDTT per https://www.amazon.com/dp/B0FXDNVDTT (2026-11-04)",
+   "specs": {
+    "cost5": 99.0,
+    "room": 212.0,
+    "smoke_cadr": 137.0
+   }
+  },
+  {
    "brand": "WOZOYO",
    "id": "wozoyo-200004-2",
    "name": "WOZOYO 200004-2",
-   "rank": 9,
+   "rank": 10,
    "score": 85.9,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -250,7 +266,7 @@
    "brand": "Dreo",
    "id": "dreo-dr-hap007s",
    "name": "Dreo DR-HAP007S",
-   "rank": 10,
+   "rank": 11,
    "score": 85.5,
    "sold_as": {
     "as_of": "2026-11-03",
@@ -270,7 +286,7 @@
    "brand": "Dreo",
    "id": "dreo-dr-hap009as",
    "name": "Dreo DR-HAP009AS",
-   "rank": 11,
+   "rank": 12,
    "score": 84.8,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -292,7 +308,7 @@
    "brand": "Atmosphere MINI",
    "id": "atmosphere-mini-124746",
    "name": "Atmosphere MINI 124746",
-   "rank": 12,
+   "rank": 13,
    "score": 84.1,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -312,7 +328,7 @@
    "brand": "GoveeLife",
    "id": "goveelife-h7128",
    "name": "GoveeLife H7128",
-   "rank": 13,
+   "rank": 14,
    "score": 83.7,
    "sold_as": {
     "as_of": "2026-11-03",
@@ -327,48 +343,6 @@
     "room": 220.0,
     "smoke_cadr": 142.0
    }
-  },
-  {
-   "best_for": "running overnight for less than this page's average",
-   "best_for_key": "cost5",
-   "brand": "Windmill",
-   "id": "windmill-sap2v1",
-   "name": "Windmill SAP2V1",
-   "rank": 14,
-   "score": 79.9,
-   "sold_as": {
-    "as_of": "2026-11-03",
-    "note": "Windmill sells SAP2V1 as the Navy color of The Windmill Air Purifier; the other colors carry other model numbers.",
-    "seller": "Windmill",
-    "source": "https://windmillair.com/products/the-windmill-air-purifier",
-    "url": "https://windmillair.com/products/the-windmill-air-purifier"
-   },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4529359, retrieved 2026-11-01; buy link https://windmillair.com/products/the-windmill-air-purifier per https://windmillair.com/products/the-windmill-air-purifier (2026-11-03)",
-   "specs": {
-    "cost5": 120.0,
-    "room": 202.0,
-    "smoke_cadr": 130.0
-   }
-  },
-  {
-   "brand": "Dreo",
-   "id": "dreo-dr-hap010s",
-   "name": "Dreo DR-HAP010S",
-   "rank": 15,
-   "score": 78.2,
-   "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (DREO Smart Air Purifier, shipped and sold by Amazon.com, in stock at $129.99 when read 2026-11-04) gives Model DR-HAP010S Silver and UPC 850084149627 in its item details, a certified UPC. Dreo's own page for the Air Purifier 530S (DR-HAP010S) showed it sold out the same day.",
-    "seller": "Amazon",
-    "source": "https://www.amazon.com/dp/B0H5R53XC7",
-    "url": "https://www.amazon.com/dp/B0H5R53XC7"
-   },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4587204, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H5R53XC7 per https://www.amazon.com/dp/B0H5R53XC7 (2026-11-04)",
-   "specs": {
-    "cost5": 134.0,
-    "room": 202.0,
-    "smoke_cadr": 130.0
-   }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -379,7 +353,7 @@
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 161.0,
-  "cut": 130.0,
+  "cut": 136.0,
   "excluded": [
    {
     "examples": [
@@ -406,7 +380,7 @@
    }
   ],
   "label": "Smoke CADR",
-  "listed": 15,
+  "listed": 14,
   "listings": 106,
   "merge": "listings with identical certified values on all 23 reported fields",
   "not_in_stock": 1,
@@ -414,9 +388,18 @@
   "pool_unit": "distinct certified spec sets",
   "recerts_collapsed": 2,
   "recerts_kept_apart": 2,
+  "stopped_above_tie": {
+   "n": 2,
+   "names": [
+    "Dreo DR-HAP010S",
+    "Windmill SAP2V1"
+   ],
+   "place": 15,
+   "value": 130.0
+  },
   "tied_beyond_cut": 0,
   "unit": "cfm",
-  "unranked": 10
+  "unranked": 9
  },
  "sources": [
   "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
@@ -546,23 +529,6 @@
    "value": 141.0
   },
   {
-   "as_of": "2026-11-04",
-   "ids": [
-    "LunaPure-EJH001",
-    "LuanPure EJH100",
-    "LunaUltra-EJH001",
-    "LunaUltra-EJH100"
-   ],
-   "name": "Aeocky LunaPure-EJH001",
-   "note": "No listing we could confirm as of 2026-11-04. Aeocky's store sells a Luna large-room purifier ($199.99) that prints no model number and a CADR of 515 m3/h (about 303 cfm), far above this set's certified 137 cfm smoke CADR, so it is not matched. Searched: LunaPure-EJH001, LuanPure EJH100, LunaUltra-EJH001, LunaUltra-EJH100.",
-   "specs": {
-    "cost5": 99.0,
-    "room": 212.0,
-    "smoke_cadr": 137.0
-   },
-   "value": 137.0
-  },
-  {
    "as_of": "2026-11-03",
    "ids": [
     "CVM10B"
@@ -603,7 +569,7 @@
     "label": "Smoke CADR",
     "second_points": 77.5,
     "second_value": 156.0,
-    "spread_points": 15.4,
+    "spread_points": 12.4,
     "unit": "cfm",
     "weight_pct": 80.0
    },

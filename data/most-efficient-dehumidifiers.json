@@ -301,13 +301,14 @@
     "cost5": 399.0,
     "ief": 2.21,
     "vs_fit": 8.4
-   }
+   },
+   "tied": true
   },
   {
    "brand": "Aeocky",
    "id": "aeocky-rhea-pro-rcs50-y-n4-3-25",
    "name": "Aeocky RHEA PRO-RCS50(Y)-N4-3-25",
-   "rank": 8,
+   "rank": 7,
    "score": 95.4,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -323,7 +324,8 @@
     "cost5": 393.0,
     "ief": 2.21,
     "vs_fit": 8.4
-   }
+   },
+   "tied": true
   },
   {
    "brand": "ALORAIR",

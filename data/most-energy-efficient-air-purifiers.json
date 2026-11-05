@@ -49,7 +49,7 @@
    "id": "rainbow-luggable-xl-ultra",
    "name": "CleanAirKits Luggable XL Ultra (7-fan) (certified as Rainbow Luggable XL Ultra)",
    "rank": 1,
-   "score": 91.5,
+   "score": 79.4,
    "sold_as": {
     "as_of": "2026-11-03",
     "brand": "CleanAirKits",
@@ -72,7 +72,7 @@
    "id": "rainbow-brisk-box-ultra",
    "name": "CleanAirKits Brisk Box Ultra (8-fan) (certified as Rainbow Brisk Box Ultra)",
    "rank": 2,
-   "score": 88.3,
+   "score": 77.9,
    "sold_as": {
     "as_of": "2026-11-03",
     "brand": "CleanAirKits",
@@ -95,7 +95,7 @@
    "id": "coway-airmega-prox",
    "name": "Coway Airmega ProX",
    "rank": 3,
-   "score": 50.6,
+   "score": 47.7,
    "sold_as": {
     "as_of": "2026-11-03",
     "seller": "Coway",
@@ -110,13 +110,35 @@
    }
   },
   {
+   "best_for": "a five-year electricity cost below this page's average",
+   "best_for_key": "cost5",
+   "brand": "DREAME",
+   "id": "dreame-cva10b",
+   "name": "DREAME CVA10B",
+   "rank": 4,
+   "score": 46.9,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (Dreame store, sold by Dreame Technology HK Limited, in stock at $39.99 as a limited-time deal, list $69.99, when read 2026-11-04) gives Item model number CVA10B, the certified model number. It is marketed for a large room; ENERGY STAR certifies 54 cfm smoke CADR and 84 sq ft.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0H4SVJ2RF",
+    "url": "https://www.amazon.com/dp/B0H4SVJ2RF"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4662914, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H4SVJ2RF per https://www.amazon.com/dp/B0H4SVJ2RF (2026-11-04)",
+   "specs": {
+    "cost5": 29.0,
+    "efficiency": 10.0,
+    "smoke_cadr": 54.0
+   }
+  },
+  {
    "best_for": "faster cleaning than this page's average",
    "best_for_key": "smoke_cadr",
    "brand": "Coway",
    "id": "coway-ap-3018b",
    "name": "Coway AP-3018B",
-   "rank": 4,
-   "score": 47.1,
+   "rank": 5,
+   "score": 42.9,
    "sold_as": {
     "as_of": "2026-11-04",
     "note": "Coway USA sells it as the Ultra Air Purifier (Model AP-3018B), as a one-time purchase or a rental, and asks for your ZIP code to confirm your service area first (read 2026-11-04).",
@@ -137,8 +159,8 @@
    "brand": "CUCKOO",
    "id": "cuckoo-cac-f3010fw",
    "name": "CUCKOO CAC-F3010FW",
-   "rank": 5,
-   "score": 43.2,
+   "rank": 6,
+   "score": 40.8,
    "sold_as": {
     "as_of": "2026-11-03",
     "seller": "CUCKOO America",
@@ -156,8 +178,8 @@
    "brand": "LEVOIT",
    "id": "levoit-lap-c511s-wus",
    "name": "LEVOIT LAP-C511S-WUS",
-   "rank": 6,
-   "score": 42.0,
+   "rank": 7,
+   "score": 36.9,
    "sold_as": {
     "as_of": "2026-11-03",
     "note": "Levoit sells it as the Eleva 500X (Model LAP-C511S-WUS).",
@@ -176,8 +198,8 @@
    "brand": "Dreame",
    "id": "dreame-cvf20b",
    "name": "Dreame PM NEO (certified as DREAME CVF20B)",
-   "rank": 7,
-   "score": 41.2,
+   "rank": 8,
+   "score": 34.6,
    "sold_as": {
     "as_of": "2026-11-04",
     "brand": "Dreame",
@@ -194,53 +216,11 @@
    }
   },
   {
-   "best_for": "a five-year electricity cost below this page's average",
-   "best_for_key": "cost5",
-   "brand": "AROEVE",
-   "id": "aroeve-dh-jh021us-a00",
-   "name": "AROEVE DH-JH021US-A00",
-   "rank": 8,
-   "score": 40.9,
-   "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "In stock on Amazon at $99.99 when read 2026-11-04 (sold by GEECOOL INC, ships from Amazon). The listing is titled AROEVE Air Purifier, 145 CFM, ENERGY STAR, 22W, model MK21, and MK21 is a model number certified for this product (DH-JH021US-A00, DH-JH21, MK21); the page also gives the certified UPC. AROEVE's own store page prints no model number and sends its Buy button to Amazon. The listing prints 22 W; the certified record implies about 17 W.",
-    "seller": "Amazon",
-    "source": "https://www.amazon.com/dp/B0GXTVPR67",
-    "url": "https://www.amazon.com/dp/B0GXTVPR67"
-   },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4611114, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GXTVPR67 per https://www.amazon.com/dp/B0GXTVPR67 (2026-11-04)",
-   "specs": {
-    "cost5": 92.0,
-    "efficiency": 8.02,
-    "smoke_cadr": 138.0
-   }
-  },
-  {
-   "brand": "LEVOIT",
-   "id": "levoit-lap-c311s-wusr",
-   "name": "LEVOIT LAP-C311S-WUSR",
-   "rank": 9,
-   "score": 37.9,
-   "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "In stock at Best Buy at $99.99 (comparable value $129.99) with Add to Cart when read 2026-11-04: Levoit Eleva 320 Smart Air Purifier, Model LAP-C311S-WUSR, SKU 6686782.",
-    "seller": "Best Buy",
-    "source": "https://www.bestbuy.com/product/levoit-eleva-320-air-purifier-for-rooms-up-to-1313-sq-ft-white/J3GW8HQSXP",
-    "url": "https://www.bestbuy.com/product/levoit-eleva-320-air-purifier-for-rooms-up-to-1313-sq-ft-white/J3GW8HQSXP"
-   },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4639114, retrieved 2026-11-01; buy link https://www.bestbuy.com/product/levoit-eleva-320-air-purifier-for-rooms-up-to-1313-sq-ft-white/J3GW8HQSXP per https://www.bestbuy.com/product/levoit-eleva-320-air-purifier-for-rooms-up-to-1313-sq-ft-white/J3GW8HQSXP (2026-11-04)",
-   "specs": {
-    "cost5": 120.0,
-    "efficiency": 7.81,
-    "smoke_cadr": 175.0
-   }
-  },
-  {
    "brand": "Amazon Basics",
    "id": "amazon-basics-ap5110-ul",
    "name": "Amazon Basics AP5110-UL",
-   "rank": 10,
-   "score": 37.7,
+   "rank": 9,
+   "score": 33.6,
    "sold_as": {
     "as_of": "2026-11-03",
     "note": "The ENERGY STAR record itself names Amazon ASIN B0DT63BVN3 as this model.",
@@ -254,17 +234,37 @@
     "efficiency": 7.86,
     "smoke_cadr": 324.0
    }
+  },
+  {
+   "brand": "AROEVE",
+   "id": "aroeve-dh-jh021us-a00",
+   "name": "AROEVE DH-JH021US-A00",
+   "rank": 10,
+   "score": 31.2,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "In stock on Amazon at $99.99 when read 2026-11-04 (sold by GEECOOL INC, ships from Amazon). The listing is titled AROEVE Air Purifier, 145 CFM, ENERGY STAR, 22W, model MK21, and MK21 is a model number certified for this product (DH-JH021US-A00, DH-JH21, MK21); the page also gives the certified UPC. AROEVE's own store page prints no model number and sends its Buy button to Amazon. The listing prints 22 W; the certified record implies about 17 W.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0GXTVPR67",
+    "url": "https://www.amazon.com/dp/B0GXTVPR67"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4611114, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GXTVPR67 per https://www.amazon.com/dp/B0GXTVPR67 (2026-11-04)",
+   "specs": {
+    "cost5": 92.0,
+    "efficiency": 8.02,
+    "smoke_cadr": 138.0
+   }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
- "method": "We compared the zero-ozone ENERGY STAR air purifiers with the highest certified smoke CADR per watt, weighing efficiency, smoke CADR and the five-year electricity cost (certified yearly energy use x current EIA U.S. average residential price x 5). The CleanAirKits Luggable Ultra (5-fan) (certified as Rainbow Luggable Ultra, record 4518200) is left out: its certified yearly energy and its CADR per watt disagree, so one of the two printed numbers would be wrong.",
+ "method": "We compared the zero-ozone ENERGY STAR air purifiers with the highest certified smoke CADR per watt, weighing efficiency, smoke CADR and the five-year electricity cost (certified yearly energy use x current EIA U.S. average residential price x 5). The CleanAirKits Luggable Ultra (5-fan) (certified as Rainbow Luggable Ultra, record 4518200) is left out: its certified yearly energy and its CADR per watt disagree, so one of the two printed numbers would be wrong. Change on 2026-11-04: we found the maker's Amazon listing for the DREAME CVA10B and added it. Its five-year electricity cost is the lowest on this page and each criterion scores against the page's best, so the other models' cost points fell: the CleanAirKits Luggable XL Ultra (7-fan) stays #1, but its lead over #2 narrowed from 3.2 to 1.5 points, the deciding number moved from electricity cost to CADR per watt, and the LEVOIT LAP-C311S-WUSR left the top 10.",
  "name": "The most energy-efficient air purifiers, ranked mainly by certified CADR per watt",
  "next_refresh": "2026-12-01",
  "publisher": "ByTheRank",
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 23.96,
-  "cut": 7.81,
+  "cut": 7.86,
   "excluded": [
    {
     "examples": [
@@ -306,7 +306,7 @@
   "recerts_kept_apart": 6,
   "tied_beyond_cut": 0,
   "unit": "cfm/W",
-  "unranked": 6
+  "unranked": 5
  },
  "sources": [
   "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
@@ -363,20 +363,6 @@
   {
    "as_of": "2026-11-03",
    "ids": [
-    "CVA10B"
-   ],
-   "name": "DREAME CVA10B",
-   "note": "No listing we could confirm as of 2026-11-03. Searched: CVA10B.",
-   "specs": {
-    "cost5": 29.0,
-    "efficiency": 10.0,
-    "smoke_cadr": 54.0
-   },
-   "value": 10.0
-  },
-  {
-   "as_of": "2026-11-03",
-   "ids": [
     "AP-HCE99-WT"
    ],
    "name": "MegaLight AP-HCE99-WT",
@@ -423,7 +409,7 @@
     "label": "Smoke CADR per watt",
     "second_points": 58.3,
     "second_value": 23.27,
-    "spread_points": 40.4,
+    "spread_points": 40.3,
     "unit": "cfm/W",
     "weight_pct": 60.0
    },
@@ -435,48 +421,45 @@
     "label": "Smoke CADR",
     "second_points": 12.8,
     "second_value": 370.0,
-    "spread_points": 15.2,
+    "spread_points": 18.1,
     "unit": "cfm",
     "weight_pct": 20.0
    },
    {
-    "difference": 2.8,
-    "first_points": 20.0,
+    "difference": 1.1,
+    "first_points": 7.9,
     "first_value": 74.0,
     "key": "cost5",
     "label": "5-year electricity cost",
-    "second_points": 17.2,
+    "second_points": 6.8,
     "second_value": 85.0,
-    "spread_points": 16.0,
+    "spread_points": 18.4,
     "unit": "USD",
     "weight_pct": 20.0
    }
   ],
   "deciding": {
-   "also_from": [
-    "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
-   ],
-   "computed": true,
-   "first_value": 74.0,
-   "key": "cost5",
-   "label": "5-year electricity cost",
+   "computed": false,
+   "first_value": 23.96,
+   "key": "efficiency",
+   "label": "Smoke CADR per watt",
    "retrieved": "2026-11-01",
-   "second_value": 85.0,
+   "second_value": 23.27,
    "source": "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6"
   },
   "first": "CleanAirKits Luggable XL Ultra (7-fan)",
-  "first_score": 91.5,
+  "first_score": 79.4,
   "flip": {
    "key": "smoke_cadr",
    "label": "Smoke CADR",
    "name": "CleanAirKits Brisk Box Ultra (8-fan)",
-   "needed_pct": 46.7,
+   "needed_pct": 35.5,
    "now_pct": 20.0
   },
   "headline_leader": null,
-  "margin": 3.2,
+  "margin": 1.5,
   "second": "CleanAirKits Brisk Box Ultra (8-fan)",
-  "second_score": 88.3,
+  "second_score": 77.9,
   "ties": []
  }
 }

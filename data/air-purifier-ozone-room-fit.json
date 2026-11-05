@@ -1405,9 +1405,9 @@
     "units_960x9": 2
    },
    {
-    "also_models": "",
+    "also_models": "AP-1924A_BG, AP-1924A_WT",
     "brands": "Coway Airmega",
-    "models": "Airmega 350, AP-1924A, AP-1924A_BG, AP-1924A_WT",
+    "models": "Airmega 350, AP-1924A",
     "ozone_ppb": 0.0,
     "same_model": "",
     "same_values": "",
@@ -1425,9 +1425,9 @@
     "units_960x9": 2
    },
    {
-    "also_models": "",
+    "also_models": "AP-2524B_BG, AP-2524B_WT",
     "brands": "Coway Airmega",
-    "models": "Airmega 450, AP-2524B, AP-2524B_BG, AP-2524B_WT",
+    "models": "Airmega 450, AP-2524B",
     "ozone_ppb": 0.0,
     "same_model": "",
     "same_values": "differs from cs-3df34906fd (Coway Airmega, Airmega 450S) on annual energy use kWh per year: this 389, that 399; connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi; dust free clean air delivery: this 445, that 454; and 5 more fields",
@@ -1458,9 +1458,9 @@
     "units_960x9": 2
    },
    {
-    "also_models": "",
+    "also_models": "AP-2524C_BG, AP-2524C_WT",
     "brands": "Coway Airmega",
-    "models": "Airmega 450S, AP-2524C, AP-2524C_BG, AP-2524C_WT",
+    "models": "Airmega 450S, AP-2524C",
     "ozone_ppb": 0.0,
     "same_model": "",
     "same_values": "differs from cs-47e014056b (Coway Airmega, Airmega 450) on annual energy use kWh per year: this 399, that 389; connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported; dust free clean air delivery: this 454, that 445; and 5 more fields",
@@ -1511,9 +1511,9 @@
     "units_960x9": 11
    },
    {
-    "also_models": "",
+    "also_models": "AP-3522F_US, AP-3522F_WT",
     "brands": "Coway Airmega",
-    "models": "Airmega ProX, AP-3522F, AP-3522F_US, AP-3522F_WT",
+    "models": "Airmega ProX, AP-3522F",
     "ozone_ppb": 0.0,
     "same_model": "",
     "same_values": "",
@@ -1909,7 +1909,7 @@
     "models": "CVA11B",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-b4b76ad7fa (Dreo Home, DR-HAP005S) on annual energy use kWh per year: this 106, that 98; automatic mode: this not reported, that Air Quality Sensor,Timer; dust free clean air delivery rate cfm per W: this 7.12, that 7.88; integrated energy factor cfm per W: this 6.7, that 7.2; and 3 more fields",
+    "same_values": "differs from cs-b4b76ad7fa (Dreo, DR-HAP005S) on annual energy use kWh per year: this 106, that 98; automatic mode: this not reported, that Air Quality Sensor,Timer; dust free clean air delivery rate cfm per W: this 7.12, that 7.88; integrated energy factor cfm per W: this 6.7, that 7.2; and 3 more fields",
     "same_values_diff": {
      "cs-b4b76ad7fa": [
       "annual energy use kWh per year: this 106, that 98",
@@ -1992,7 +1992,7 @@
    },
    {
     "also_models": "DR-HAP003AS, DWAP03AS, DWAP03S",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP003S",
     "ozone_ppb": 0.0,
     "same_model": "",
@@ -2012,7 +2012,7 @@
    },
    {
     "also_models": "DR-HAP005S, DWAP05AS, DWAP05S",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP005AS",
     "ozone_ppb": 0.0,
     "same_model": "",
@@ -2032,7 +2032,7 @@
    },
    {
     "also_models": "DWAP05S",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP005S",
     "ozone_ppb": 0.0,
     "same_model": "",
@@ -2063,11 +2063,11 @@
    },
    {
     "also_models": "DWAP06",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP006",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-1d01ed14bb (Dreo Home, DR-HAP006S) on connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi",
+    "same_values": "differs from cs-1d01ed14bb (Dreo, DR-HAP006S) on connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi",
     "same_values_diff": {
      "cs-1d01ed14bb": [
       "connected capable: this No, that Yes",
@@ -2089,11 +2089,11 @@
    },
    {
     "also_models": "DWAP06S",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP006S",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-5e96d1b0ad (Dreo Home, DR-HAP006) on connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported",
+    "same_values": "differs from cs-5e96d1b0ad (Dreo, DR-HAP006) on connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported",
     "same_values_diff": {
      "cs-5e96d1b0ad": [
       "connected capable: this Yes, that No",
@@ -2115,11 +2115,11 @@
    },
    {
     "also_models": "DWAP07AS",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP007AS",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-0af1090a68 (Dreo Home, DR-HAP007S) on annual energy use kWh per year: this 152, that 140; dust free clean air delivery: this 156, that 160; dust free clean air delivery rate cfm per W: this 6.14, that 6.84; integrated energy factor cfm per W: this 5.6, that 6.3; and 4 more fields",
+    "same_values": "differs from cs-0af1090a68 (Dreo, DR-HAP007S) on annual energy use kWh per year: this 152, that 140; dust free clean air delivery: this 156, that 160; dust free clean air delivery rate cfm per W: this 6.14, that 6.84; integrated energy factor cfm per W: this 5.6, that 6.3; and 4 more fields",
     "same_values_diff": {
      "cs-0af1090a68": [
       "annual energy use kWh per year: this 152, that 140",
@@ -2147,11 +2147,11 @@
    },
    {
     "also_models": "DWAP07S",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP007S",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-7101825672 (Dreo Home, DR-HAP007AS) on annual energy use kWh per year: this 140, that 152; dust free clean air delivery: this 160, that 156; dust free clean air delivery rate cfm per W: this 6.84, that 6.14; integrated energy factor cfm per W: this 6.3, that 5.6; and 4 more fields",
+    "same_values": "differs from cs-7101825672 (Dreo, DR-HAP007AS) on annual energy use kWh per year: this 140, that 152; dust free clean air delivery: this 160, that 156; dust free clean air delivery rate cfm per W: this 6.84, that 6.14; integrated energy factor cfm per W: this 6.3, that 5.6; and 4 more fields",
     "same_values_diff": {
      "cs-7101825672": [
       "annual energy use kWh per year: this 140, that 152",
@@ -2179,11 +2179,11 @@
    },
    {
     "also_models": "DWAP08",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP008",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-50c4d63941 (Frigidaire, FHAP1020A1) on annual energy use kWh per year: this 125, that 108; dust free clean air delivery: this 121, that 116; dust free clean air delivery rate cfm per W: this 5.76, that 6.44; integrated energy factor cfm per W: this 5.5, that 6.3; and 4 more fields | differs from cs-b7ead07fdb (Frigidaire, FHAP1040A1) on annual energy use kWh per year: this 125, that 109; connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi; dust free clean air delivery: this 121, that 116; and 6 more fields | differs from cs-ab964c7cc7 (Dreo Home, DR-HAP008S) on connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi",
+    "same_values": "differs from cs-50c4d63941 (Frigidaire, FHAP1020A1) on annual energy use kWh per year: this 125, that 108; dust free clean air delivery: this 121, that 116; dust free clean air delivery rate cfm per W: this 5.76, that 6.44; integrated energy factor cfm per W: this 5.5, that 6.3; and 4 more fields | differs from cs-b7ead07fdb (Frigidaire, FHAP1040A1) on annual energy use kWh per year: this 125, that 109; connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi; dust free clean air delivery: this 121, that 116; and 6 more fields | differs from cs-ab964c7cc7 (Dreo, DR-HAP008S) on connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi",
     "same_values_diff": {
      "cs-50c4d63941": [
       "annual energy use kWh per year: this 125, that 108",
@@ -2227,11 +2227,11 @@
    },
    {
     "also_models": "DWAP08S",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP008S",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-50c4d63941 (Frigidaire, FHAP1020A1) on annual energy use kWh per year: this 125, that 108; connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported; dust free clean air delivery: this 121, that 116; and 6 more fields | differs from cs-b7ead07fdb (Frigidaire, FHAP1040A1) on annual energy use kWh per year: this 125, that 109; dust free clean air delivery: this 121, that 116; dust free clean air delivery rate cfm per W: this 5.76, that 6.44; integrated energy factor cfm per W: this 5.5, that 6.2; and 4 more fields | differs from cs-f8555aba4b (Dreo Home, DR-HAP008) on connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported",
+    "same_values": "differs from cs-50c4d63941 (Frigidaire, FHAP1020A1) on annual energy use kWh per year: this 125, that 108; connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported; dust free clean air delivery: this 121, that 116; and 6 more fields | differs from cs-b7ead07fdb (Frigidaire, FHAP1040A1) on annual energy use kWh per year: this 125, that 109; dust free clean air delivery: this 121, that 116; dust free clean air delivery rate cfm per W: this 5.76, that 6.44; integrated energy factor cfm per W: this 5.5, that 6.2; and 4 more fields | differs from cs-f8555aba4b (Dreo, DR-HAP008) on connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported",
     "same_values_diff": {
      "cs-50c4d63941": [
       "annual energy use kWh per year: this 125, that 108",
@@ -2275,7 +2275,7 @@
    },
    {
     "also_models": "DWAP09, DWAP09S",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP009, DR-HAP009S",
     "ozone_ppb": 0.0,
     "same_model": "",
@@ -2309,7 +2309,7 @@
    },
    {
     "also_models": "DWAP09AS",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP009AS",
     "ozone_ppb": 0.0,
     "same_model": "",
@@ -2329,7 +2329,7 @@
    },
    {
     "also_models": "DR-HAP010AS, DWAP10AS, DWAP10S",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HAP010S",
     "ozone_ppb": 0.0,
     "same_model": "",
@@ -2361,7 +2361,7 @@
    },
    {
     "also_models": "DR-HTF022AS, DWTF22AS, DWTF22S",
-    "brands": "Dreo Home",
+    "brands": "Dreo, Dreo Home",
     "models": "DR-HTF022S",
     "ozone_ppb": 0.0,
     "same_model": "",
@@ -2405,7 +2405,7 @@
     "models": "FHAP1020A1",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-b7ead07fdb (Frigidaire, FHAP1040A1) on annual energy use kWh per year: this 108, that 109; connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi; integrated energy factor cfm per W: this 6.3, that 6.2 | differs from cs-f8555aba4b (Dreo Home, DR-HAP008) on annual energy use kWh per year: this 108, that 125; dust free clean air delivery: this 116, that 121; dust free clean air delivery rate cfm per W: this 6.44, that 5.76; integrated energy factor cfm per W: this 6.3, that 5.5; and 4 more fields | differs from cs-ab964c7cc7 (Dreo Home, DR-HAP008S) on annual energy use kWh per year: this 108, that 125; connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi; dust free clean air delivery: this 116, that 121; and 6 more fields",
+    "same_values": "differs from cs-b7ead07fdb (Frigidaire, FHAP1040A1) on annual energy use kWh per year: this 108, that 109; connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi; integrated energy factor cfm per W: this 6.3, that 6.2 | differs from cs-f8555aba4b (Dreo, DR-HAP008) on annual energy use kWh per year: this 108, that 125; dust free clean air delivery: this 116, that 121; dust free clean air delivery rate cfm per W: this 6.44, that 5.76; integrated energy factor cfm per W: this 6.3, that 5.5; and 4 more fields | differs from cs-ab964c7cc7 (Dreo, DR-HAP008S) on annual energy use kWh per year: this 108, that 125; connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi; dust free clean air delivery: this 116, that 121; and 6 more fields",
     "same_values_diff": {
      "cs-ab964c7cc7": [
       "annual energy use kWh per year: this 108, that 125",
@@ -2455,7 +2455,7 @@
     "models": "FHAP1040A1",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-50c4d63941 (Frigidaire, FHAP1020A1) on annual energy use kWh per year: this 109, that 108; connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported; integrated energy factor cfm per W: this 6.2, that 6.3 | differs from cs-f8555aba4b (Dreo Home, DR-HAP008) on annual energy use kWh per year: this 109, that 125; connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported; dust free clean air delivery: this 116, that 121; and 6 more fields | differs from cs-ab964c7cc7 (Dreo Home, DR-HAP008S) on annual energy use kWh per year: this 109, that 125; dust free clean air delivery: this 116, that 121; dust free clean air delivery rate cfm per W: this 6.44, that 5.76; integrated energy factor cfm per W: this 6.2, that 5.5; and 4 more fields",
+    "same_values": "differs from cs-50c4d63941 (Frigidaire, FHAP1020A1) on annual energy use kWh per year: this 109, that 108; connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported; integrated energy factor cfm per W: this 6.2, that 6.3 | differs from cs-f8555aba4b (Dreo, DR-HAP008) on annual energy use kWh per year: this 109, that 125; connected capable: this Yes, that No; connects using: this Wi-Fi, that not reported; dust free clean air delivery: this 116, that 121; and 6 more fields | differs from cs-ab964c7cc7 (Dreo, DR-HAP008S) on annual energy use kWh per year: this 109, that 125; dust free clean air delivery: this 116, that 121; dust free clean air delivery rate cfm per W: this 6.44, that 5.76; integrated energy factor cfm per W: this 6.2, that 5.5; and 4 more fields",
     "same_values_diff": {
      "cs-50c4d63941": [
       "annual energy use kWh per year: this 109, that 108",
@@ -2618,7 +2618,7 @@
     "models": "G-Pure1-22W",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-37f4756468 (Dreo Home, DR-HAP009) on annual energy use kWh per year: this 129, that 162; connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi; dust free clean air delivery: this 177, that 172; and 6 more fields",
+    "same_values": "differs from cs-37f4756468 (Dreo, DR-HAP009) on annual energy use kWh per year: this 129, that 162; connected capable: this No, that Yes; connects using: this not reported, that Wi-Fi; dust free clean air delivery: this 177, that 172; and 6 more fields",
     "same_values_diff": {
      "cs-37f4756468": [
       "annual energy use kWh per year: this 129, that 162",
@@ -4017,7 +4017,7 @@
     "models": "SAP2V1",
     "ozone_ppb": 0.0,
     "same_model": "",
-    "same_values": "differs from cs-572afd0931 (Dreo Home, DR-HAP010S) on annual energy use kWh per year: this 132, that 148; dust free clean air delivery: this 159, that 152; dust free clean air delivery rate cfm per W: this 7.13, that 6.18; integrated energy factor cfm per W: this 6.4, that 5.6; and 4 more fields",
+    "same_values": "differs from cs-572afd0931 (Dreo, DR-HAP010S) on annual energy use kWh per year: this 132, that 148; dust free clean air delivery: this 159, that 152; dust free clean air delivery rate cfm per W: this 7.13, that 6.18; integrated energy factor cfm per W: this 6.4, that 5.6; and 4 more fields",
     "same_values_diff": {
      "cs-572afd0931": [
       "annual energy use kWh per year: this 132, that 148",
