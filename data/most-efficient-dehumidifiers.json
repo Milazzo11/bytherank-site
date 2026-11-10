@@ -10,6 +10,14 @@
   "top_value": 13.7,
   "unit": "%"
  },
+ "computed_from": {
+  "price_kwh": {
+   "as_of": "2026-08",
+   "label": "EIA residential average, U.S. Total",
+   "source": "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+   "value": 0.1816
+  }
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -148,6 +156,10 @@
    "best_for_key": "vs_fit",
    "brand": "Avylo",
    "id": "avylo-adc018",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.05,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 24.5
+   },
    "name": "Avylo ADC018",
    "rank": 1,
    "score": 100.0,
@@ -172,6 +184,10 @@
    "best_for_key": "vs_fit",
    "brand": "Sweetcrispy",
    "id": "sweetcrispy-as-csj72xk-5wt-ol",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.04,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 25.0
+   },
    "name": "Sweetcrispy AS-CSJ72XK-5WT-OL",
    "rank": 2,
    "score": 99.5,
@@ -196,6 +212,10 @@
    "best_for_key": "vs_fit",
    "brand": "Deye",
    "id": "deye-dyd-p30",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.03,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 25.0
+   },
    "name": "Deye DYD-P30",
    "rank": 3,
    "score": 99.0,
@@ -218,6 +238,10 @@
   {
    "brand": "Wellsle",
    "id": "wellsle-ydl24p",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.01,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 25.0
+   },
    "name": "Wellsle YDL24P",
    "rank": 4,
    "score": 98.1,
@@ -240,6 +264,10 @@
   {
    "brand": "Vellgoo",
    "id": "vellgoo-taurus-pro-rcs50-y-n4-3-25",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.24,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 45.0
+   },
    "name": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
    "rank": 5,
    "score": 96.7,
@@ -262,6 +290,10 @@
   {
    "brand": "Bufanli",
    "id": "bufanli-ol22-d076ffn3b1-fe",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 1.97,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 22.0
+   },
    "name": "Bufanli OL22-D076FFN3B1/FE",
    "rank": 6,
    "score": 96.0,
@@ -284,6 +316,10 @@
   {
    "brand": "Aeocky",
    "id": "aeocky-leo-pro-rcs50-y-n4-3-b-25",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.21,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 44.94
+   },
    "name": "Aeocky LEO PRO-RCS50(Y)-N4-3(B)-25",
    "rank": 7,
    "score": 95.4,
@@ -307,6 +343,10 @@
   {
    "brand": "Aeocky",
    "id": "aeocky-rhea-pro-rcs50-y-n4-3-25",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.21,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 44.34
+   },
    "name": "Aeocky RHEA PRO-RCS50(Y)-N4-3-25",
    "rank": 7,
    "score": 95.4,
@@ -331,6 +371,10 @@
    "brand": "ALORAIR",
    "buy_link": "https://thedryair.com/products/alorair-70-ppd-crawl-spaces-dehumidifier-size-for-1-000-sq-ft-with-drain-hose-helios-d35",
    "id": "alorair-helios-d35",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 1.95,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 24.0
+   },
    "name": "ALORAIR Helios D35",
    "rank": 9,
    "score": 95.1,
@@ -353,6 +397,10 @@
   {
    "brand": "Nypeak",
    "id": "nypeak-d076a",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 1.95,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 22.0
+   },
    "name": "Nypeak D076A",
    "rank": 10,
    "score": 95.0,
@@ -481,13 +529,7 @@
   },
   "first": "Avylo ADC018",
   "first_score": 100.0,
-  "flip": {
-   "key": "capacity",
-   "label": "Certified capacity",
-   "name": "Vellgoo TAURUS PRO-RCS50(Y)-N4-3-25",
-   "needed_pct": 6.8,
-   "now_pct": 0.0
-  },
+  "flip": null,
   "headline_leader": null,
   "margin": 0.5,
   "second": "Sweetcrispy AS-CSJ72XK-5WT-OL",

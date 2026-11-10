@@ -10,6 +10,14 @@
   "top_value": 586.0,
   "unit": "cfm"
  },
+ "computed_from": {
+  "price_kwh": {
+   "as_of": "2026-08",
+   "label": "EIA residential average, U.S. Total",
+   "source": "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+   "value": 0.1816
+  }
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -34,6 +42,15 @@
    "weight": 0
   }
  ],
+ "dataset_stats": {
+  "implied_hours": {
+   "label": "running hours a year implied by the certified records: certified kWh per year / (smoke CADR / smoke CADR per watt)",
+   "median_of": "annual_energy_use_kwh_yr * 1000 * smoke_free_clean_air_delivery_rate_cfm_w / smoke_free_clean_air_delivery",
+   "n": 247,
+   "unit": "hours/year",
+   "value": 5904.0
+  }
+ },
  "filters": [
   {
    "field": "ozone_emissions_ppb",
@@ -52,6 +69,9 @@
    "best_for_key": "dust_cadr",
    "brand": "Coway",
    "id": "coway-airmega-prox",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 335.0
+   },
    "name": "Coway Airmega ProX",
    "rank": 1,
    "score": 84.8,
@@ -72,8 +92,12 @@
    "best_for": "running all allergy season for less",
    "best_for_key": "cost5",
    "brand": "CleanAirKits",
+   "certified_as": "Rainbow Brisk Box Ultra",
    "id": "rainbow-brisk-box-ultra",
-   "name": "CleanAirKits Brisk Box Ultra (8-fan) (certified as Rainbow Brisk Box Ultra)",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 94.0
+   },
+   "name": "CleanAirKits Brisk Box Ultra (8-fan)",
    "rank": 2,
    "score": 77.4,
    "sold_as": {
@@ -96,6 +120,9 @@
    "best_for_key": "dust_cadr",
    "brand": "CUCKOO",
    "id": "cuckoo-cac-f3010fw",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 406.0
+   },
    "name": "CUCKOO CAC-F3010FW",
    "rank": 3,
    "score": 76.9,
@@ -117,6 +144,9 @@
    "best_for_key": "dust_cadr",
    "brand": "Soleusair",
    "id": "soleusair-ga1-w",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 463.0
+   },
    "name": "Soleusair GA1-W",
    "rank": 4,
    "score": 76.5,
@@ -138,8 +168,12 @@
    "best_for": "running all allergy season for less",
    "best_for_key": "cost5",
    "brand": "CleanAirKits",
+   "certified_as": "Rainbow Luggable XL Ultra",
    "id": "rainbow-luggable-xl-ultra",
-   "name": "CleanAirKits Luggable XL Ultra (7-fan) (certified as Rainbow Luggable XL Ultra)",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 81.0
+   },
+   "name": "CleanAirKits Luggable XL Ultra (7-fan)",
    "rank": 5,
    "score": 74.9,
    "sold_as": {
@@ -160,6 +194,9 @@
   {
    "brand": "Fellowes",
    "id": "fellowes-aeramax-sv",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 490.0
+   },
    "name": "Fellowes Aeramax SV",
    "rank": 6,
    "score": 73.2,
@@ -180,6 +217,9 @@
   {
    "brand": "CUCKOO",
    "id": "cuckoo-cac-ah2810fnw",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 388.0
+   },
    "name": "CUCKOO CAC-AH2810FNW",
    "rank": 7,
    "score": 67.8,
@@ -199,6 +239,9 @@
   {
    "brand": "Coway",
    "id": "coway-ap-3018b",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 235.0
+   },
    "name": "Coway AP-3018B",
    "rank": 8,
    "score": 66.0,
@@ -219,6 +262,9 @@
   {
    "brand": "Coway",
    "id": "coway-airmega-450",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 389.0
+   },
    "name": "Coway Airmega 450",
    "rank": 9,
    "score": 64.9,
@@ -238,6 +284,9 @@
   {
    "brand": "Coway",
    "id": "coway-airmega-350",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 344.0
+   },
    "name": "Coway Airmega 350",
    "rank": 10,
    "score": 56.3,
@@ -307,7 +356,7 @@
  ],
  "unranked": [
   {
-   "as_of": "2026-11-03",
+   "as_of": "2026-11-05",
    "ids": [
     "Airmega 450S",
     "AP-2524C",
@@ -315,7 +364,7 @@
     "AP-2524C_WT"
    ],
    "name": "Coway Airmega 450S",
-   "note": "No listing we could confirm as of 2026-11-03. Coway's store sells the Airmega 450 (AP-2524B), not the Wi-Fi 450S; its own search for 450S finds no product. Searched: Airmega 450S, AP-2524C, AP-2524C_WT, AP-2524C_BG, 826439000882, 826439000899.",
+   "note": "No listing we could confirm as of 2026-11-05. Coway's store and Amazon (B0DRPPZJZH) sell the Airmega 450 (AP-2524B), not the Wi-Fi 450S; Coway's own search for 450S finds no product and Amazon has no result for AP-2524C. Searched: Airmega 450S, AP-2524C, AP-2524C_WT, AP-2524C_BG, 826439000882, 826439000899.",
    "specs": {
     "cost5": 362.0,
     "dust_cadr": 454.0,

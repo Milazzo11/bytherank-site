@@ -10,6 +10,14 @@
   "top_value": 23.96,
   "unit": "cfm/W"
  },
+ "computed_from": {
+  "price_kwh": {
+   "as_of": "2026-08",
+   "label": "EIA residential average, U.S. Total",
+   "source": "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+   "value": 0.1816
+  }
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -34,6 +42,15 @@
    "weight": 0.2
   }
  ],
+ "dataset_stats": {
+  "implied_hours": {
+   "label": "running hours a year implied by the certified records: certified kWh per year / (smoke CADR / smoke CADR per watt)",
+   "median_of": "annual_energy_use_kwh_yr * 1000 * smoke_free_clean_air_delivery_rate_cfm_w / smoke_free_clean_air_delivery",
+   "n": 247,
+   "unit": "hours/year",
+   "value": 5904.0
+  }
+ },
  "filters": [
   {
    "field": "ozone_emissions_ppb",
@@ -46,8 +63,12 @@
    "best_for": "more clean air per watt than this page's average",
    "best_for_key": "efficiency",
    "brand": "CleanAirKits",
+   "certified_as": "Rainbow Luggable XL Ultra",
    "id": "rainbow-luggable-xl-ultra",
-   "name": "CleanAirKits Luggable XL Ultra (7-fan) (certified as Rainbow Luggable XL Ultra)",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 81.0
+   },
+   "name": "CleanAirKits Luggable XL Ultra (7-fan)",
    "rank": 1,
    "score": 79.4,
    "sold_as": {
@@ -69,8 +90,12 @@
    "best_for": "more clean air per watt than this page's average",
    "best_for_key": "efficiency",
    "brand": "CleanAirKits",
+   "certified_as": "Rainbow Brisk Box Ultra",
    "id": "rainbow-brisk-box-ultra",
-   "name": "CleanAirKits Brisk Box Ultra (8-fan) (certified as Rainbow Brisk Box Ultra)",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 94.0
+   },
+   "name": "CleanAirKits Brisk Box Ultra (8-fan)",
    "rank": 2,
    "score": 77.9,
    "sold_as": {
@@ -93,6 +118,9 @@
    "best_for_key": "smoke_cadr",
    "brand": "Coway",
    "id": "coway-airmega-prox",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 335.0
+   },
    "name": "Coway Airmega ProX",
    "rank": 3,
    "score": 47.7,
@@ -114,6 +142,9 @@
    "best_for_key": "cost5",
    "brand": "DREAME",
    "id": "dreame-cva10b",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 32.0
+   },
    "name": "DREAME CVA10B",
    "rank": 4,
    "score": 46.9,
@@ -136,6 +167,9 @@
    "best_for_key": "smoke_cadr",
    "brand": "Coway",
    "id": "coway-ap-3018b",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 235.0
+   },
    "name": "Coway AP-3018B",
    "rank": 5,
    "score": 42.9,
@@ -158,6 +192,9 @@
    "best_for_key": "smoke_cadr",
    "brand": "CUCKOO",
    "id": "cuckoo-cac-f3010fw",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 406.0
+   },
    "name": "CUCKOO CAC-F3010FW",
    "rank": 6,
    "score": 40.8,
@@ -177,6 +214,9 @@
   {
    "brand": "LEVOIT",
    "id": "levoit-lap-c511s-wus",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 194.0
+   },
    "name": "LEVOIT LAP-C511S-WUS",
    "rank": 7,
    "score": 36.9,
@@ -196,8 +236,12 @@
   },
   {
    "brand": "Dreame",
+   "certified_as": "DREAME CVF20B",
    "id": "dreame-cvf20b",
-   "name": "Dreame PM NEO (certified as DREAME CVF20B)",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 149.0
+   },
+   "name": "Dreame PM NEO",
    "rank": 8,
    "score": 34.6,
    "sold_as": {
@@ -218,6 +262,9 @@
   {
    "brand": "Amazon Basics",
    "id": "amazon-basics-ap5110-ul",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 239.5
+   },
    "name": "Amazon Basics AP5110-UL",
    "rank": 9,
    "score": 33.6,
@@ -238,6 +285,9 @@
   {
    "brand": "AROEVE",
    "id": "aroeve-dh-jh021us-a00",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 101.0
+   },
    "name": "AROEVE DH-JH021US-A00",
    "rank": 10,
    "score": 31.2,

@@ -10,6 +10,14 @@
   "top_value": 161.0,
   "unit": "cfm"
  },
+ "computed_from": {
+  "price_kwh": {
+   "as_of": "2026-08",
+   "label": "EIA residential average, U.S. Total",
+   "source": "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+   "value": 0.1816
+  }
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -34,6 +42,15 @@
    "weight": 0
   }
  ],
+ "dataset_stats": {
+  "implied_hours": {
+   "label": "running hours a year implied by the certified records: certified kWh per year / (smoke CADR / smoke CADR per watt)",
+   "median_of": "annual_energy_use_kwh_yr * 1000 * smoke_free_clean_air_delivery_rate_cfm_w / smoke_free_clean_air_delivery",
+   "n": 247,
+   "unit": "hours/year",
+   "value": 5904.0
+  }
+ },
  "filters": [
   {
    "field": "ozone_emissions_ppb",
@@ -51,8 +68,12 @@
    "best_for": "a bedroom or office that needs fast cleaning",
    "best_for_key": "smoke_cadr",
    "brand": "LEVOIT",
+   "certified_as": "LEVOIT LAP-C341S-WUSZ",
    "id": "levoit-lap-c341s-wusz",
-   "name": "LEVOIT Eleva 300X (certified as LEVOIT LAP-C341S-WUSZ)",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 145.0
+   },
+   "name": "LEVOIT Eleva 300X",
    "rank": 1,
    "score": 93.9,
    "sold_as": {
@@ -75,6 +96,9 @@
    "best_for_key": "smoke_cadr",
    "brand": "Bosch",
    "id": "bosch-air-4000",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 124.0
+   },
    "name": "Bosch Air 4000",
    "rank": 2,
    "score": 93.8,
@@ -96,8 +120,12 @@
    "best_for": "a bedroom or office that needs fast cleaning",
    "best_for_key": "smoke_cadr",
    "brand": "Dreo",
+   "certified_as": "Dreo DR-HAP009",
    "id": "dreo-dr-hap009",
-   "name": "Dreo DR-HAP009S (certified as Dreo DR-HAP009)",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 162.0
+   },
+   "name": "Dreo DR-HAP009S",
    "rank": 3,
    "score": 91.0,
    "sold_as": {
@@ -116,9 +144,15 @@
    }
   },
   {
+   "best_for": "a bedroom or office that needs fast cleaning",
+   "best_for_key": "smoke_cadr",
    "brand": "Senville",
+   "certified_as": "Senville SENAP-250G-Z41",
    "id": "senville-senap-250g-z41",
-   "name": "Senville Flow 500 (certified as Senville SENAP-250G-Z41)",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 126.0
+   },
+   "name": "Senville Flow 500",
    "rank": 4,
    "score": 90.1,
    "sold_as": {
@@ -141,6 +175,9 @@
    "best_for_key": "smoke_cadr",
    "brand": "Alen",
    "id": "alen-breathesmart-35i",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 136.0
+   },
    "name": "Alen BreatheSmart 35i",
    "rank": 5,
    "score": 89.4,
@@ -158,8 +195,13 @@
    }
   },
   {
+   "best_for": "running overnight for less than this page's average",
+   "best_for_key": "cost5",
    "brand": "CLOROX",
    "id": "clorox-type-ap32-11030",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 132.0
+   },
    "name": "CLOROX TYPE AP32 (11030)",
    "rank": 6,
    "score": 88.8,
@@ -182,6 +224,9 @@
    "best_for_key": "cost5",
    "brand": "AROEVE",
    "id": "aroeve-dh-jh021us-a00",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 101.0
+   },
    "name": "AROEVE DH-JH021US-A00",
    "rank": 7,
    "score": 88.6,
@@ -201,8 +246,12 @@
   },
   {
    "brand": "MaxLite",
+   "certified_as": "Longstar EP-KJTS01-140-25W",
    "id": "longstar-ep-kjts01-140-25w",
-   "name": "MaxLite AP215SF4B (certified as Longstar EP-KJTS01-140-25W)",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 144.0
+   },
+   "name": "MaxLite AP215SF4B",
    "rank": 8,
    "score": 87.6,
    "sold_as": {
@@ -223,30 +272,13 @@
   {
    "best_for": "running overnight for less than this page's average",
    "best_for_key": "cost5",
-   "brand": "Aeocky",
-   "id": "aeocky-lunapure-ejh001",
-   "name": "Aeocky LunaPure-EJH001",
-   "rank": 9,
-   "score": 86.6,
-   "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (AEOCKY store, sold by Aeocky Direct, in stock at $159.99 when read 2026-11-04) gives Item model number LunaPure-EJH001, the certified model number. It is marketed with a 515 CADR for 4,200 sq ft (Aeocky's own store gives that 515 in m3/h, about 303 cfm); ENERGY STAR certifies 137 cfm smoke CADR and 212 sq ft.",
-    "seller": "Amazon",
-    "source": "https://www.amazon.com/dp/B0FXDNVDTT",
-    "url": "https://www.amazon.com/dp/B0FXDNVDTT"
-   },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4512776, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0FXDNVDTT per https://www.amazon.com/dp/B0FXDNVDTT (2026-11-04)",
-   "specs": {
-    "cost5": 99.0,
-    "room": 212.0,
-    "smoke_cadr": 137.0
-   }
-  },
-  {
    "brand": "WOZOYO",
    "id": "wozoyo-200004-2",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 132.0
+   },
    "name": "WOZOYO 200004-2",
-   "rank": 10,
+   "rank": 9,
    "score": 85.9,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -265,8 +297,11 @@
   {
    "brand": "Dreo",
    "id": "dreo-dr-hap007s",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 140.0
+   },
    "name": "Dreo DR-HAP007S",
-   "rank": 11,
+   "rank": 10,
    "score": 85.5,
    "sold_as": {
     "as_of": "2026-11-03",
@@ -285,8 +320,11 @@
   {
    "brand": "Dreo",
    "id": "dreo-dr-hap009as",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 159.0
+   },
    "name": "Dreo DR-HAP009AS",
-   "rank": 12,
+   "rank": 11,
    "score": 84.8,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -307,8 +345,11 @@
    "best_for_key": "cost5",
    "brand": "Atmosphere MINI",
    "id": "atmosphere-mini-124746",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 122.0
+   },
    "name": "Atmosphere MINI 124746",
-   "rank": 13,
+   "rank": 12,
    "score": 84.1,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -327,8 +368,11 @@
   {
    "brand": "GoveeLife",
    "id": "goveelife-h7128",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 154.0
+   },
    "name": "GoveeLife H7128",
-   "rank": 14,
+   "rank": 13,
    "score": 83.7,
    "sold_as": {
     "as_of": "2026-11-03",
@@ -343,6 +387,54 @@
     "room": 220.0,
     "smoke_cadr": 142.0
    }
+  },
+  {
+   "best_for": "running overnight for less than this page's average",
+   "best_for_key": "cost5",
+   "brand": "Windmill",
+   "id": "windmill-sap2v1",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 132.0
+   },
+   "name": "Windmill SAP2V1",
+   "rank": 14,
+   "score": 79.9,
+   "sold_as": {
+    "as_of": "2026-11-03",
+    "note": "Windmill sells SAP2V1 as the Navy color of The Windmill Air Purifier; the other colors carry other model numbers.",
+    "seller": "Windmill",
+    "source": "https://windmillair.com/products/the-windmill-air-purifier",
+    "url": "https://windmillair.com/products/the-windmill-air-purifier"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4529359, retrieved 2026-11-01; buy link https://windmillair.com/products/the-windmill-air-purifier per https://windmillair.com/products/the-windmill-air-purifier (2026-11-03)",
+   "specs": {
+    "cost5": 120.0,
+    "room": 202.0,
+    "smoke_cadr": 130.0
+   }
+  },
+  {
+   "brand": "Dreo",
+   "id": "dreo-dr-hap010s",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 148.0
+   },
+   "name": "Dreo DR-HAP010S",
+   "rank": 15,
+   "score": 78.2,
+   "sold_as": {
+    "as_of": "2026-11-04",
+    "note": "The Amazon listing (DREO Smart Air Purifier, shipped and sold by Amazon.com, in stock at $129.99 when read 2026-11-04) gives Model DR-HAP010S Silver and UPC 850084149627 in its item details, a certified UPC. Dreo's own page for the Air Purifier 530S (DR-HAP010S) showed it sold out the same day.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0H5R53XC7",
+    "url": "https://www.amazon.com/dp/B0H5R53XC7"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4587204, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H5R53XC7 per https://www.amazon.com/dp/B0H5R53XC7 (2026-11-04)",
+   "specs": {
+    "cost5": 134.0,
+    "room": 202.0,
+    "smoke_cadr": 130.0
+   }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -353,7 +445,7 @@
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 161.0,
-  "cut": 136.0,
+  "cut": 130.0,
   "excluded": [
    {
     "examples": [
@@ -380,7 +472,7 @@
    }
   ],
   "label": "Smoke CADR",
-  "listed": 14,
+  "listed": 15,
   "listings": 106,
   "merge": "listings with identical certified values on all 23 reported fields",
   "not_in_stock": 1,
@@ -388,18 +480,9 @@
   "pool_unit": "distinct certified spec sets",
   "recerts_collapsed": 2,
   "recerts_kept_apart": 2,
-  "stopped_above_tie": {
-   "n": 2,
-   "names": [
-    "Dreo DR-HAP010S",
-    "Windmill SAP2V1"
-   ],
-   "place": 15,
-   "value": 130.0
-  },
   "tied_beyond_cut": 0,
   "unit": "cfm",
-  "unranked": 9
+  "unranked": 10
  },
  "sources": [
   "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
@@ -446,13 +529,13 @@
     "PELONIS KJ250G-Z43",
     "PURE CODE APU-Z43WUS"
    ],
-   "as_of": "2026-11-03",
+   "as_of": "2026-11-05",
    "ids": [
     "APU-Z43WUS",
     "KJ250G-Z43"
    ],
    "name": "Midea KJ250G-Z43",
-   "note": "No listing we could confirm as of 2026-11-03. Midea's KJ250G-Z43 page found is Australian (sold out); no U.S. store page found. Searched: KJ250G-Z43, APU-Z43WUS.",
+   "note": "No listing we could confirm as of 2026-11-05. Midea's KJ250G-Z43 page found is Australian (sold out); no U.S. store page found. Searched: KJ250G-Z43, APU-Z43WUS.",
    "specs": {
     "cost5": 114.0,
     "room": 234.0,
@@ -529,6 +612,23 @@
    "value": 141.0
   },
   {
+   "as_of": "2026-11-10",
+   "ids": [
+    "LunaPure-EJH001",
+    "LuanPure EJH100",
+    "LunaUltra-EJH001",
+    "LunaUltra-EJH100"
+   ],
+   "name": "Aeocky LunaPure-EJH001",
+   "note": "No listing we could confirm as of 2026-11-10. The Amazon listing B0FXDNVDTT (AEOCKY store, Item model number LunaPure-EJH001, the certified model number; in stock 2026-11-04) reads 'Currently unavailable' on 2026-11-10. Aeocky's own store sells a 'Luna' air purifier but does not name the model number. It is marketed with a 515 CADR for 4,200 sq ft (Aeocky's own store gives that 515 in m3/h, about 303 cfm); ENERGY STAR certifies 137 cfm smoke CADR and 212 sq ft.",
+   "specs": {
+    "cost5": 99.0,
+    "room": 212.0,
+    "smoke_cadr": 137.0
+   },
+   "value": 137.0
+  },
+  {
    "as_of": "2026-11-03",
    "ids": [
     "CVM10B"
@@ -569,7 +669,7 @@
     "label": "Smoke CADR",
     "second_points": 77.5,
     "second_value": 156.0,
-    "spread_points": 12.4,
+    "spread_points": 15.4,
     "unit": "cfm",
     "weight_pct": 80.0
    },

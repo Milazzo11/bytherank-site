@@ -10,6 +10,14 @@
   "top_value": 172.13,
   "unit": "pints/day"
  },
+ "computed_from": {
+  "price_kwh": {
+   "as_of": "2026-08",
+   "label": "EIA residential average, U.S. Total",
+   "source": "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+   "value": 0.1816
+  }
+ },
  "criteria": [
   {
    "direction": "higher",
@@ -48,6 +56,10 @@
    "best_for_key": "capacity",
    "brand": "Santa Fe",
    "id": "santa-fe-ultra-v205-4046180",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 3.12,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 172.13
+   },
    "name": "Santa Fe Ultra V205 (4046180)",
    "rank": 1,
    "score": 97.6,
@@ -71,6 +83,10 @@
    "best_for_key": "ief",
    "brand": "Santa Fe",
    "id": "santa-fe-ultra-v155-4047300",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 3.26,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 127.51
+   },
    "name": "Santa Fe Ultra V155 (4047300)",
    "rank": 2,
    "score": 88.3,
@@ -94,6 +110,10 @@
    "best_for_key": "ief",
    "brand": "Santa Fe",
    "id": "santa-fe-ultra-v125-4047200",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.63,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 102.69
+   },
    "name": "Santa Fe Ultra V125 (4047200)",
    "rank": 3,
    "score": 71.2,
@@ -117,6 +137,10 @@
    "best_for_key": "capacity",
    "brand": "Aprilaire",
    "id": "aprilaire-e130",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.35,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 105.0
+   },
    "name": "Aprilaire E130",
    "rank": 4,
    "score": 67.1,
@@ -140,8 +164,13 @@
    "best_for": "large or very humid homes",
    "best_for_key": "capacity",
    "brand": "Healthy Climate",
+   "certified_as": "Healthy Climate HCWHD-130",
    "id": "healthy-climate-hcwhd-130",
-   "name": "Healthy Climate HCWHD5-130 (certified as Healthy Climate HCWHD-130)",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.35,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 105.0
+   },
+   "name": "Healthy Climate HCWHD5-130",
    "rank": 4,
    "score": 67.1,
    "sold_as": {
@@ -164,6 +193,10 @@
   {
    "brand": "Santa Fe",
    "id": "santa-fe-ultra-v100-4047100",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.45,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 85.62
+   },
    "name": "Santa Fe Ultra V100 (4047100)",
    "rank": 6,
    "score": 63.7,
@@ -185,6 +218,10 @@
   {
    "brand": "Honeywell Home",
    "id": "honeywell-home-dhm120r4000-u",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.22,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 94.33
+   },
    "name": "Honeywell Home DHM120R4000/U",
    "rank": 7,
    "score": 62.1,
@@ -206,6 +243,10 @@
   {
    "brand": "Aprilaire",
    "id": "aprilaire-e100",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.35,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 85.0
+   },
    "name": "Aprilaire E100",
    "rank": 8,
    "score": 61.9,
@@ -227,8 +268,13 @@
   },
   {
    "brand": "Healthy Climate",
+   "certified_as": "Healthy Climate HCWHD-100",
    "id": "healthy-climate-hcwhd-100",
-   "name": "Healthy Climate HCWHD5-100 (certified as Healthy Climate HCWHD-100)",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.35,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 85.0
+   },
+   "name": "Healthy Climate HCWHD5-100",
    "rank": 8,
    "score": 61.9,
    "sold_as": {
@@ -251,6 +297,10 @@
   {
    "brand": "Aprilaire",
    "id": "aprilaire-e080",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.35,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 65.0
+   },
    "name": "Aprilaire E080",
    "rank": 10,
    "score": 56.6,
@@ -272,8 +322,13 @@
   },
   {
    "brand": "Healthy Climate",
+   "certified_as": "Healthy Climate HCWHD-080",
    "id": "healthy-climate-hcwhd-080",
-   "name": "Healthy Climate HCWHD5-080 (certified as Healthy Climate HCWHD-080)",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.35,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 65.0
+   },
+   "name": "Healthy Climate HCWHD5-080",
    "rank": 10,
    "score": 56.6,
    "sold_as": {
@@ -296,6 +351,10 @@
   {
    "brand": "MOISWELL",
    "id": "moiswell-admiral-w160",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.25,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 65.0
+   },
    "name": "MOISWELL Admiral W160",
    "rank": 12,
    "score": 55.0,
@@ -317,6 +376,10 @@
   {
    "brand": "Honeywell Home",
    "id": "honeywell-home-dhm090r4000",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.22,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 64.17
+   },
    "name": "Honeywell Home DHM090R4000",
    "rank": 13,
    "score": 54.2,
@@ -338,6 +401,10 @@
   {
    "brand": "Honeywell Home",
    "id": "honeywell-home-dhm065r4000-u",
+   "inputs": {
+    "dehumidifier_efficiency_integrated_energy_factor_l_kwh_": 2.23,
+    "dehumidifier_water_removal_capacity_per_appendix_x1_pints_day": 52.09
+   },
    "name": "Honeywell Home DHM065R4000/U",
    "rank": 14,
    "score": 51.2,
@@ -458,7 +525,7 @@
    {
     "names": [
      "Aprilaire E130",
-     "Healthy Climate HCWHD5-130 (certified as Healthy Climate HCWHD-130)"
+     "Healthy Climate HCWHD5-130"
     ],
     "rank": "=4",
     "rule": "equal scores share a rank; within it products are listed alphabetically (no difference on any column shown; the certified yearly energy differs, see the cards)",
@@ -467,7 +534,7 @@
    {
     "names": [
      "Aprilaire E100",
-     "Healthy Climate HCWHD5-100 (certified as Healthy Climate HCWHD-100)"
+     "Healthy Climate HCWHD5-100"
     ],
     "rank": "=8",
     "rule": "equal scores share a rank; within it products are listed alphabetically (no difference on any column shown; the certified yearly energy differs, see the cards)",
@@ -476,7 +543,7 @@
    {
     "names": [
      "Aprilaire E080",
-     "Healthy Climate HCWHD5-080 (certified as Healthy Climate HCWHD-080)"
+     "Healthy Climate HCWHD5-080"
     ],
     "rank": "=10",
     "rule": "equal scores share a rank; within it products are listed alphabetically (no difference on any column shown; the certified yearly energy differs, see the cards)",

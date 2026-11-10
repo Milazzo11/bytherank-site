@@ -4043,7 +4043,13 @@
   {
    "also_certified_as": [],
    "brand_models": {
-    "ECZWXZ or CPHCPH": [
+    "CPHCPH": [
+     "OL22-D076FFN3B1/FE"
+    ],
+    "ECZWXZ": [
+     "OL22-D076FFN3B1/FE"
+    ],
+    "FYHXZYB": [
      "OL22-D076FFN3B1/FE"
     ],
     "HUMILABS": [
@@ -4052,7 +4058,7 @@
     "Nypeak": [
      "D076A"
     ],
-    "UIDYGGD or FYHXZYB": [
+    "UIDYGGD": [
      "OL22-D076FFN3B1/FE"
     ]
    },
