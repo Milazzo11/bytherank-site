@@ -195,8 +195,6 @@
    }
   },
   {
-   "best_for": "running overnight for less than this page's average",
-   "best_for_key": "cost5",
    "brand": "CLOROX",
    "id": "clorox-type-ap32-11030",
    "inputs": {
@@ -272,13 +270,59 @@
   {
    "best_for": "running overnight for less than this page's average",
    "best_for_key": "cost5",
+   "brand": "Aeocky",
+   "id": "aeocky-lunapure-ejh001",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 109.0
+   },
+   "name": "Aeocky LunaPure-EJH001",
+   "rank": 9,
+   "score": 86.6,
+   "sold_as": {
+    "as_of": "2026-11-10",
+    "note": "The Amazon listing B0FXDQSX1Z (AEOCKY, Gold colour; sold by Aeocky Direct, shipped by Amazon, in stock at $89.99 when read logged out 2026-11-10) gives Model Number LunaPure-EJH001, the certified model number. The Silver colour B0FXDNVDTT read 'Currently unavailable' the same day. It is marketed with a 515 CADR for 4,200 sq ft (Aeocky's own store gives that 515 in m3/h, about 303 cfm); ENERGY STAR certifies 137 cfm smoke CADR and 212 sq ft.",
+    "seller": "Amazon",
+    "source": "https://www.amazon.com/dp/B0FXDQSX1Z",
+    "url": "https://www.amazon.com/dp/B0FXDQSX1Z"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4512776, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0FXDQSX1Z per https://www.amazon.com/dp/B0FXDQSX1Z (2026-11-10)",
+   "specs": {
+    "cost5": 99.0,
+    "room": 212.0,
+    "smoke_cadr": 137.0
+   }
+  },
+  {
+   "brand": "Honeywell",
+   "id": "honeywell-hpa4200b",
+   "inputs": {
+    "annual_energy_use_kwh_yr": 137.0
+   },
+   "name": "Honeywell HPA4200B",
+   "rank": 10,
+   "score": 86.3,
+   "sold_as": {
+    "as_of": "2026-11-10",
+    "note": "Walmart's search for the certified UPC 00328785015126 (HPA4200B, USA market, black) returns one item, 'Honeywell Allergen Plus 1080 Sq. Ft 4-in-1 HEPA Air Purifier' (black and white), sold and shipped by Walmart.com, in stock at $129.99 when read logged out 2026-11-10; its specs give a 144 CFM clean air delivery rate, the certified smoke CADR. Amazon sells the HPA4300B and HPA4300W, a different model number; Walmart's 818 sq ft Allergen Plus is the HPA4100.",
+    "seller": "Walmart",
+    "source": "https://www.walmart.com/ip/20396759988",
+    "url": "https://www.walmart.com/ip/20396759988"
+   },
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4518201, retrieved 2026-11-01; buy link https://www.walmart.com/ip/20396759988 per https://www.walmart.com/ip/20396759988 (2026-11-10)",
+   "specs": {
+    "cost5": 124.0,
+    "room": 223.0,
+    "smoke_cadr": 144.0
+   }
+  },
+  {
    "brand": "WOZOYO",
    "id": "wozoyo-200004-2",
    "inputs": {
     "annual_energy_use_kwh_yr": 132.0
    },
    "name": "WOZOYO 200004-2",
-   "rank": 9,
+   "rank": 11,
    "score": 85.9,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -301,7 +345,7 @@
     "annual_energy_use_kwh_yr": 140.0
    },
    "name": "Dreo DR-HAP007S",
-   "rank": 10,
+   "rank": 12,
    "score": 85.5,
    "sold_as": {
     "as_of": "2026-11-03",
@@ -324,7 +368,7 @@
     "annual_energy_use_kwh_yr": 159.0
    },
    "name": "Dreo DR-HAP009AS",
-   "rank": 11,
+   "rank": 13,
    "score": 84.8,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -349,7 +393,7 @@
     "annual_energy_use_kwh_yr": 122.0
    },
    "name": "Atmosphere MINI 124746",
-   "rank": 12,
+   "rank": 14,
    "score": 84.1,
    "sold_as": {
     "as_of": "2026-11-04",
@@ -372,7 +416,7 @@
     "annual_energy_use_kwh_yr": 154.0
    },
    "name": "GoveeLife H7128",
-   "rank": 13,
+   "rank": 15,
    "score": 83.7,
    "sold_as": {
     "as_of": "2026-11-03",
@@ -387,54 +431,6 @@
     "room": 220.0,
     "smoke_cadr": 142.0
    }
-  },
-  {
-   "best_for": "running overnight for less than this page's average",
-   "best_for_key": "cost5",
-   "brand": "Windmill",
-   "id": "windmill-sap2v1",
-   "inputs": {
-    "annual_energy_use_kwh_yr": 132.0
-   },
-   "name": "Windmill SAP2V1",
-   "rank": 14,
-   "score": 79.9,
-   "sold_as": {
-    "as_of": "2026-11-03",
-    "note": "Windmill sells SAP2V1 as the Navy color of The Windmill Air Purifier; the other colors carry other model numbers.",
-    "seller": "Windmill",
-    "source": "https://windmillair.com/products/the-windmill-air-purifier",
-    "url": "https://windmillair.com/products/the-windmill-air-purifier"
-   },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4529359, retrieved 2026-11-01; buy link https://windmillair.com/products/the-windmill-air-purifier per https://windmillair.com/products/the-windmill-air-purifier (2026-11-03)",
-   "specs": {
-    "cost5": 120.0,
-    "room": 202.0,
-    "smoke_cadr": 130.0
-   }
-  },
-  {
-   "brand": "Dreo",
-   "id": "dreo-dr-hap010s",
-   "inputs": {
-    "annual_energy_use_kwh_yr": 148.0
-   },
-   "name": "Dreo DR-HAP010S",
-   "rank": 15,
-   "score": 78.2,
-   "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (DREO Smart Air Purifier, shipped and sold by Amazon.com, in stock at $129.99 when read 2026-11-04) gives Model DR-HAP010S Silver and UPC 850084149627 in its item details, a certified UPC. Dreo's own page for the Air Purifier 530S (DR-HAP010S) showed it sold out the same day.",
-    "seller": "Amazon",
-    "source": "https://www.amazon.com/dp/B0H5R53XC7",
-    "url": "https://www.amazon.com/dp/B0H5R53XC7"
-   },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4587204, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H5R53XC7 per https://www.amazon.com/dp/B0H5R53XC7 (2026-11-04)",
-   "specs": {
-    "cost5": 134.0,
-    "room": 202.0,
-    "smoke_cadr": 130.0
-   }
   }
  ],
  "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -445,7 +441,7 @@
  "scoring": "each value scored against the best on the page (best = 1), times its weight; total out of 100",
  "selection": {
   "best": 161.0,
-  "cut": 130.0,
+  "cut": 136.0,
   "excluded": [
    {
     "examples": [
@@ -475,14 +471,14 @@
   "listed": 15,
   "listings": 106,
   "merge": "listings with identical certified values on all 23 reported fields",
-  "not_in_stock": 1,
+  "not_in_stock": 2,
   "pool": 68,
   "pool_unit": "distinct certified spec sets",
   "recerts_collapsed": 2,
   "recerts_kept_apart": 2,
   "tied_beyond_cut": 0,
   "unit": "cfm",
-  "unranked": 10
+  "unranked": 8
  },
  "sources": [
   "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Room-Air-Cleaners-V3-0/gaa3-swy6",
@@ -559,23 +555,6 @@
    "value": 148.0
   },
   {
-   "as_of": "2026-11-04",
-   "ids": [
-    "HPA4200B",
-    "HPA4200BC",
-    "HPA4200W",
-    "HPA4200WC"
-   ],
-   "name": "Honeywell HPA4200B",
-   "note": "No listing we could confirm as of 2026-11-04. Amazon sells the HPA4300B and HPA4300W, a different model number. A corporate-sales catalog (Premco) shows SKU HPA4200B at $129.99 with a request-info form and no cart. Searched: HPA4200B, HPA4200BC, HPA4200WC, HPA4200W, 00328785015126.",
-   "specs": {
-    "cost5": 124.0,
-    "room": 223.0,
-    "smoke_cadr": 144.0
-   },
-   "value": 144.0
-  },
-  {
    "aliases": [
     "Dreo Home DR-HAP007AS"
    ],
@@ -597,36 +576,20 @@
    "aliases": [
     "MaxLite AP215SF3B"
    ],
-   "as_of": "2026-11-03",
+   "as_of": "2026-11-10",
    "ids": [
     "AP2025",
     "AP215SF3B"
    ],
+   "listing_state": "not_in_stock",
    "name": "LEEDARSON AP2025",
-   "note": "No listing we could confirm as of 2026-11-03. Searched: AP2025, AP215SF3B.",
+   "note": "No in-stock listing we could confirm as of 2026-11-10. Coburn Supply, an HVAC distributor, lists Mfg# AP215SF3B at $138.33 each, but its stock reads 'Login To See Inventory' when signed out. Searched: AP2025, AP215SF3B.",
    "specs": {
     "cost5": 134.0,
     "room": 219.0,
     "smoke_cadr": 141.0
    },
    "value": 141.0
-  },
-  {
-   "as_of": "2026-11-10",
-   "ids": [
-    "LunaPure-EJH001",
-    "LuanPure EJH100",
-    "LunaUltra-EJH001",
-    "LunaUltra-EJH100"
-   ],
-   "name": "Aeocky LunaPure-EJH001",
-   "note": "No listing we could confirm as of 2026-11-10. The Amazon listing B0FXDNVDTT (AEOCKY store, Item model number LunaPure-EJH001, the certified model number; in stock 2026-11-04) reads 'Currently unavailable' on 2026-11-10. Aeocky's own store sells a 'Luna' air purifier but does not name the model number. It is marketed with a 515 CADR for 4,200 sq ft (Aeocky's own store gives that 515 in m3/h, about 303 cfm); ENERGY STAR certifies 137 cfm smoke CADR and 212 sq ft.",
-   "specs": {
-    "cost5": 99.0,
-    "room": 212.0,
-    "smoke_cadr": 137.0
-   },
-   "value": 137.0
   },
   {
    "as_of": "2026-11-03",
@@ -669,7 +632,7 @@
     "label": "Smoke CADR",
     "second_points": 77.5,
     "second_value": 156.0,
-    "spread_points": 15.4,
+    "spread_points": 12.4,
     "unit": "cfm",
     "weight_pct": 80.0
    },
