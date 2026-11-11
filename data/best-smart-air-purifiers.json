@@ -226,12 +226,13 @@
    "rank": 8,
    "score": 49.1,
    "sold_as": {
-    "as_of": "2026-11-03",
-    "seller": "AJ Madison",
-    "source": "https://www.ajmadison.com/cgi-bin/ajmadison/FHAP2040A1.html",
-    "url": "https://www.ajmadison.com/cgi-bin/ajmadison/FHAP2040A1.html"
+    "as_of": "2026-11-10",
+    "note": "Frigidaire sells it as the PureA300 XL HEPA Air Purifier with WiFi, FHAP2040A1 (in stock at $179 when read logged out 2026-11-10). AJ Madison also lists it at $179 but offers 'Notify me when item arrives in warehouse'.",
+    "seller": "Frigidaire",
+    "source": "https://www.frigidaire.com/en/p/air-care/air-purifiers/FHAP2040A1",
+    "url": "https://www.frigidaire.com/en/p/air-care/air-purifiers/FHAP2040A1"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4510048, retrieved 2026-11-01; buy link https://www.ajmadison.com/cgi-bin/ajmadison/FHAP2040A1.html per https://www.ajmadison.com/cgi-bin/ajmadison/FHAP2040A1.html (2026-11-03)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4510048, retrieved 2026-11-01; buy link https://www.frigidaire.com/en/p/air-care/air-purifiers/FHAP2040A1 per https://www.frigidaire.com/en/p/air-care/air-purifiers/FHAP2040A1 (2026-11-10)",
    "specs": {
     "cost5": 193.0,
     "smoke_cadr": 240.0
@@ -299,7 +300,7 @@
     "as_of": "2026-11-03",
     "brand": "Dreo",
     "name": "DR-HAP009S",
-    "note": "Dreo sells this certified set as the Air Purifier 539S (DR-HAP009S, with Wi-Fi) and markets the 539 (DR-HAP009) without Wi-Fi, though its certification lists Wi-Fi. The link goes to the 539S.",
+    "note": "Dreo sells this certified set as the Air Purifier 539S (DR-HAP009S, with Wi-Fi) and markets the 539 (DR-HAP009) without Wi-Fi, though its certification lists Wi-Fi. The link goes to the 539S. ENERGY STAR also lists the same certified spec set as Dreo Home DR-HAP009S (record 4586496).",
     "source": "https://www.dreo.com/products/air-purifier-539s",
     "url": "https://www.dreo.com/products/air-purifier-539s"
    },
@@ -396,12 +397,12 @@
    "value": 413.0
   },
   {
-   "as_of": "2026-11-03",
+   "as_of": "2026-11-10",
    "ids": [
     "ATEM E"
    ],
    "name": "IQAir ATEM E",
-   "note": "No listing we could confirm as of 2026-11-03. IQAir's Atem Earth page gives no model number or CADR that matches this certification. Searched: ATEM E.",
+   "note": "No listing we could confirm as ATEM E as of 2026-11-10. IQAir's US store sells the Atem Earth ($999.00) and the Atem Eco ($799.99), both in stock when read logged out 2026-11-10; both pages say ENERGY STAR certified and give 4 to 50 W and 60 to 390 cfm over 6 fan speeds. ATEM E is IQAir's only ENERGY STAR certified room air cleaner and is certified at 369 cfm smoke CADR and 7.38 cfm/W (50.0 W), so it is probably sold as one of them, but no IQAir page prints the model id ATEM E, so it is not ranked here until IQAir confirms which model it is. Searched: ATEM E.",
    "specs": {
     "cost5": 268.0,
     "smoke_cadr": 369.0

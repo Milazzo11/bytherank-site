@@ -132,7 +132,7 @@
     "as_of": "2026-11-03",
     "brand": "Dreo",
     "name": "DR-HAP009S",
-    "note": "Dreo sells this certified set as the Air Purifier 539S (DR-HAP009S, with Wi-Fi) and markets the 539 (DR-HAP009) without Wi-Fi, though its certification lists Wi-Fi. The link goes to the 539S.",
+    "note": "Dreo sells this certified set as the Air Purifier 539S (DR-HAP009S, with Wi-Fi) and markets the 539 (DR-HAP009) without Wi-Fi, though its certification lists Wi-Fi. The link goes to the 539S. ENERGY STAR also lists the same certified spec set as Dreo Home DR-HAP009S (record 4586496).",
     "source": "https://www.dreo.com/products/air-purifier-539s",
     "url": "https://www.dreo.com/products/air-purifier-539s"
    },
@@ -419,13 +419,13 @@
    "rank": 15,
    "score": 83.7,
    "sold_as": {
-    "as_of": "2026-11-03",
-    "note": "Govee sells it as the Smart Air Purifier 2 Pro; H7128 is the version without the dust sensor.",
+    "as_of": "2026-11-10",
+    "note": "Govee sells it as the Smart Air Purifier 2 Pro, listed as the H7129 with dust sensor. ENERGY STAR lists the H7129 under this certification (additional model; UPCs 810127733015 and 810127733022).",
     "seller": "Govee",
     "source": "https://us.govee.com/products/goveelife-smart-air-purifier-2-pro",
     "url": "https://us.govee.com/products/goveelife-smart-air-purifier-2-pro"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4437344, retrieved 2026-11-01; buy link https://us.govee.com/products/goveelife-smart-air-purifier-2-pro per https://us.govee.com/products/goveelife-smart-air-purifier-2-pro (2026-11-03)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4437344, retrieved 2026-11-01; buy link https://us.govee.com/products/goveelife-smart-air-purifier-2-pro per https://us.govee.com/products/goveelife-smart-air-purifier-2-pro (2026-11-10)",
    "specs": {
     "cost5": 140.0,
     "room": 220.0,
