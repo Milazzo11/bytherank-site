@@ -110,13 +110,13 @@
    "rank": 3,
    "score": 84.7,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "Amazon's listing (sold by Soleus Air International, in stock at $499.99 when read 2026-11-04) shows GA1-W in its item details. The listing markets 4,145 sq ft; the ENERGY STAR record certifies 811 sq ft.",
+    "as_of": "2026-11-12",
+    "note": "Amazon's listing (ships from Amazon, sold by Soleus Air International, $499.99 with 'Only 18 left in stock' when read logged out 2026-11-12) shows GA1-W in its item details. The listing markets 4,145 sq ft; the ENERGY STAR record certifies 811 sq ft.",
     "seller": "Amazon (Soleus Air International)",
     "source": "https://www.amazon.com/dp/B0HJ1JCHGT",
     "url": "https://www.amazon.com/dp/B0HJ1JCHGT"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4046703, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0HJ1JCHGT per https://www.amazon.com/dp/B0HJ1JCHGT (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4046703, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0HJ1JCHGT per https://www.amazon.com/dp/B0HJ1JCHGT (2026-11-12)",
    "specs": {
     "cost5": 420.0,
     "smoke_cadr": 523.0

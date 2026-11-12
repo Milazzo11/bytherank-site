@@ -253,14 +253,14 @@
    "rank": 8,
    "score": 87.6,
    "sold_as": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-12",
     "brand": "MaxLite",
     "name": "AP215SF4B",
-    "note": "The Amazon listing (MaxLite Gen4 Tabletop Air Purifier, shipped and sold by AltruWatt, in stock at $110.39 when read 2026-11-04) gives Brand Maxlite, Model AP215SF4B and UPC 767627090677 in its item details, the certified UPC of the MaxLite member of this set.",
+    "note": "The Amazon listing (MaxLite Gen4 Tabletop Air Purifier, shipped and sold by AltruWatt, In Stock at $110.39 when read logged out 2026-11-12) gives Brand Maxlite, Model AP215SF4B and UPC 767627090677 in its item details, the certified UPC of the MaxLite member of this set.",
     "source": "https://www.amazon.com/dp/B0HHFYZTLL",
     "url": "https://www.amazon.com/dp/B0HHFYZTLL"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4654774, retrieved 2026-11-01; sold as MaxLite AP215SF4B per https://www.amazon.com/dp/B0HHFYZTLL (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4654774, retrieved 2026-11-01; sold as MaxLite AP215SF4B per https://www.amazon.com/dp/B0HHFYZTLL (2026-11-12)",
    "specs": {
     "cost5": 131.0,
     "room": 229.0,
@@ -279,13 +279,13 @@
    "rank": 9,
    "score": 86.6,
    "sold_as": {
-    "as_of": "2026-11-10",
-    "note": "The Amazon listing B0FXDQSX1Z (AEOCKY, Gold colour; sold by Aeocky Direct, shipped by Amazon, in stock at $89.99 when read logged out 2026-11-10) gives Model Number LunaPure-EJH001, the certified model number. The Silver colour B0FXDNVDTT read 'Currently unavailable' the same day. It is marketed with a 515 CADR for 4,200 sq ft (Aeocky's own store gives that 515 in m3/h, about 303 cfm); ENERGY STAR certifies 137 cfm smoke CADR and 212 sq ft.",
+    "as_of": "2026-11-12",
+    "note": "The Amazon listing B0FXDQSX1Z (AEOCKY, Gold colour; sold by Aeocky Direct, shipped by Amazon, $89.99 with 'Only 9 left in stock' when read logged out 2026-11-12) gives Model Number LunaPure-EJH001, the certified model number. The Silver colour B0FXDNVDTT read 'Currently unavailable' on 2026-11-10. It is marketed with a 515 CADR for 4,200 sq ft (Aeocky's own store gives that 515 in m3/h, about 303 cfm); ENERGY STAR certifies 137 cfm smoke CADR and 212 sq ft.",
     "seller": "Amazon",
     "source": "https://www.amazon.com/dp/B0FXDQSX1Z",
     "url": "https://www.amazon.com/dp/B0FXDQSX1Z"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4512776, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0FXDQSX1Z per https://www.amazon.com/dp/B0FXDQSX1Z (2026-11-10)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4512776, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0FXDQSX1Z per https://www.amazon.com/dp/B0FXDQSX1Z (2026-11-12)",
    "specs": {
     "cost5": 99.0,
     "room": 212.0,
@@ -303,7 +303,7 @@
    "score": 86.3,
    "sold_as": {
     "as_of": "2026-11-10",
-    "note": "Walmart's search for the certified UPC 00328785015126 (HPA4200B, USA market, black) returns one item, 'Honeywell Allergen Plus 1080 Sq. Ft 4-in-1 HEPA Air Purifier' (black and white), sold and shipped by Walmart.com, in stock at $129.99 when read logged out 2026-11-10; its specs give a 144 CFM clean air delivery rate, the certified smoke CADR. Amazon sells the HPA4300B and HPA4300W, a different model number; Walmart's 818 sq ft Allergen Plus is the HPA4100.",
+    "note": "Walmart's search for the certified UPC 00328785015126 (HPA4200B, USA market, black) returns one item, 'Honeywell Allergen Plus 1080 Sq. Ft 4-in-1 HEPA Air Purifier' (black and white), sold and shipped by Walmart.com, $129.99 with Add to cart when read logged out 2026-11-10 (the same on 2026-11-12); its specs give a 144 CFM clean air delivery rate, the certified smoke CADR. Amazon sells the HPA4300B and HPA4300W, a different model number; Walmart's 818 sq ft Allergen Plus is the HPA4100.",
     "seller": "Walmart",
     "source": "https://www.walmart.com/ip/20396759988",
     "url": "https://www.walmart.com/ip/20396759988"
@@ -325,13 +325,13 @@
    "rank": 11,
    "score": 85.9,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (Pure Air PA4 Wozoyo Smart WiFi Air Purifier, ships from Amazon, sold by Secure Connection, in stock at $107.99 when read 2026-11-04) gives Brand Wozoyo, Part Number 200004-2 and UPC 810198590265 in its item details, the certified UPC.",
+    "as_of": "2026-11-12",
+    "note": "The Amazon listing (Pure Air PA4 Wozoyo Smart WiFi Air Purifier, ships from Amazon, sold by Secure Connection, In Stock at $107.99 when read logged out 2026-11-12) gives Brand Wozoyo, Part Number 200004-2 and UPC 810198590265 in its item details, the certified UPC.",
     "seller": "Amazon",
     "source": "https://www.amazon.com/dp/B0GX9CD1DZ",
     "url": "https://www.amazon.com/dp/B0GX9CD1DZ"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586108, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GX9CD1DZ per https://www.amazon.com/dp/B0GX9CD1DZ (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586108, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GX9CD1DZ per https://www.amazon.com/dp/B0GX9CD1DZ (2026-11-12)",
    "specs": {
     "cost5": 120.0,
     "room": 220.0,
@@ -371,13 +371,13 @@
    "rank": 13,
    "score": 84.8,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "Dreo sells this certified set as the Air Purifier 539AS (its page names model DR-HAP009AS), in stock at $119.99 (read 2026-11-04).",
+    "as_of": "2026-11-12",
+    "note": "Dreo sells this certified set as the Air Purifier 539AS (its page named model DR-HAP009AS when read 2026-11-04), $119.99 with Add to cart when read logged out 2026-11-12.",
     "seller": "Dreo",
     "source": "https://www.dreo.com/products/air-purifier-539as",
     "url": "https://www.dreo.com/products/air-purifier-539as"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586614, retrieved 2026-11-01; buy link https://www.dreo.com/products/air-purifier-539as per https://www.dreo.com/products/air-purifier-539as (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4586614, retrieved 2026-11-01; buy link https://www.dreo.com/products/air-purifier-539as per https://www.dreo.com/products/air-purifier-539as (2026-11-12)",
    "specs": {
     "cost5": 144.0,
     "room": 225.0,
@@ -396,13 +396,13 @@
    "rank": 14,
    "score": 84.1,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "Amway's U.S. store lists item 124746, the certified model number, in stock at $1,069.00 when read 2026-11-04.",
+    "as_of": "2026-11-12",
+    "note": "Amway's U.S. store lists item 124746, the certified model number, 'Availability: In Stock' at $1,069.00 with Add to cart when read logged out 2026-11-12.",
     "seller": "Amway",
     "source": "https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746",
     "url": "https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4572752, retrieved 2026-11-01; buy link https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746 per https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746 (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4572752, retrieved 2026-11-01; buy link https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746 per https://www.amway.com/en_US/Atmosphere-Mini%E2%84%A2-Air-Treatment-System-p-124746 (2026-11-12)",
    "specs": {
     "cost5": 111.0,
     "room": 211.0,

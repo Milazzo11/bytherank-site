@@ -149,13 +149,13 @@
    "rank": 4,
    "score": 46.9,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (Dreame store, sold by Dreame Technology HK Limited, in stock at $39.99 as a limited-time deal, list $69.99, when read 2026-11-04) gives Item model number CVA10B, the certified model number. It is marketed for a large room; ENERGY STAR certifies 54 cfm smoke CADR and 84 sq ft.",
+    "as_of": "2026-11-12",
+    "note": "The Amazon listing (Dreame store, sold by Dreame Technology HK Limited, ships from Amazon, In Stock at $34.99 as a timed 50 percent deal off a list price of $69.99 when read logged out 2026-11-12) gives Model Number CVA10B, the certified model number. It is marketed for a large room; ENERGY STAR certifies 54 cfm smoke CADR and 84 sq ft.",
     "seller": "Amazon",
     "source": "https://www.amazon.com/dp/B0H4SVJ2RF",
     "url": "https://www.amazon.com/dp/B0H4SVJ2RF"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4662914, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H4SVJ2RF per https://www.amazon.com/dp/B0H4SVJ2RF (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4662914, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H4SVJ2RF per https://www.amazon.com/dp/B0H4SVJ2RF (2026-11-12)",
    "specs": {
     "cost5": 29.0,
     "efficiency": 10.0,
@@ -245,14 +245,14 @@
    "rank": 8,
    "score": 34.6,
    "sold_as": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-12",
     "brand": "Dreame",
     "name": "PM NEO",
-    "note": "The Amazon listing (Dreame Smart Air Purifier PM NEO, shipped and sold by Amazon.com, in stock at $459.99 when read 2026-11-04) gives Brand dreame, Model CVF20B, Model Name PM NEO and UPC 810142565011 in its item details, the certified UPC. The listing markets a CADR of 177 CFM; ENERGY STAR certifies the figure shown here.",
+    "note": "The Amazon listing (Dreame Smart Air Purifier PM NEO, shipped and sold by Amazon.com, In Stock at $299.99 when read logged out 2026-11-12; $459.99 on 2026-11-04) gives Brand dreame, Model CVF20B, Model Name PM NEO and UPC 810142565011 in its item details, the certified UPC. The listing markets a CADR of 177 CFM; ENERGY STAR certifies the figure shown here.",
     "source": "https://www.amazon.com/dp/B0H5CB2RRF",
     "url": "https://www.amazon.com/dp/B0H5CB2RRF"
    },
-   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4614554, retrieved 2026-11-01; sold as Dreame PM NEO per https://www.amazon.com/dp/B0H5CB2RRF (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Room Air Cleaners dataset (U.S. EPA, data.energystar.gov gaa3-swy6), record 4614554, retrieved 2026-11-01; sold as Dreame PM NEO per https://www.amazon.com/dp/B0H5CB2RRF (2026-11-12)",
    "specs": {
     "cost5": 135.0,
     "efficiency": 9.0,

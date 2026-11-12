@@ -164,13 +164,13 @@
    "rank": 1,
    "score": 100.0,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (avylo store, sold by YUANC, in stock at $238.99 when read 2026-11-04) gives Brand avylo, Model ADC018 and UPC 199874824031 in its item details, the UPC of the certified Avylo record; it markets 'max 90 pints' a day, while ENERGY STAR certifies 24.5 pints a day under the DOE test.",
+    "as_of": "2026-11-12",
+    "note": "The Amazon listing (avylo store, ships from Amazon, sold by YUANC, In Stock at $238.99 when read logged out 2026-11-12) gives Manufacturer avylo, Model Number ADC018 and UPC 199874824031 in its item details, the UPC of the certified Avylo record; it markets 'max 90 pints' a day, while ENERGY STAR certifies 24.5 pints a day under the DOE test.",
     "seller": "Amazon",
     "source": "https://www.amazon.com/dp/B0GF7QBWXH",
     "url": "https://www.amazon.com/dp/B0GF7QBWXH"
    },
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572840, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GF7QBWXH per https://www.amazon.com/dp/B0GF7QBWXH (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4572840, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GF7QBWXH per https://www.amazon.com/dp/B0GF7QBWXH (2026-11-12)",
    "specs": {
     "capacity": 24.5,
     "cost100": 4.19,
@@ -220,13 +220,13 @@
    "rank": 3,
    "score": 99.0,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (Deye, ships from Amazon, sold by Woot, in stock at $206.99 when read 2026-11-04) gives Model DYD-P30 in its item details, the certified model number (the certified record lists no UPC). It is marketed as a 75-pint unit with WiFi and Alexa app control; ENERGY STAR certifies it at the capacity shown here and as not connected-capable.",
+    "as_of": "2026-11-12",
+    "note": "The Amazon listing (Deye, ships from Amazon, sold by Deye Home, In Stock at $229.99 when read logged out 2026-11-12; Woot was the seller at $206.99 on 2026-11-04) gives Model DYD-P30 in its item details, the certified model number (the certified record lists no UPC). It is marketed as a 75-pint unit with WiFi and Alexa app control; ENERGY STAR certifies it at the capacity shown here and as not connected-capable.",
     "seller": "Amazon",
     "source": "https://www.amazon.com/dp/B0GX4XZXDW",
     "url": "https://www.amazon.com/dp/B0GX4XZXDW"
    },
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4661614, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GX4XZXDW per https://www.amazon.com/dp/B0GX4XZXDW (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4661614, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0GX4XZXDW per https://www.amazon.com/dp/B0GX4XZXDW (2026-11-12)",
    "specs": {
     "capacity": 25.0,
     "cost100": 4.23,
@@ -246,13 +246,13 @@
    "rank": 4,
    "score": 98.1,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (Wellsle store, sold by Wellsle, in stock at $259.99 when read 2026-11-04) gives Brand Wellsle, Model YDL24P and UPC 850062409323 in its item details, the certified UPC.",
+    "as_of": "2026-11-12",
+    "note": "The Amazon listing (Wellsle store, ships from Amazon, sold by Wellsle, In Stock at $259.99 when read logged out 2026-11-12) gives Brand Wellsle, Model YDL24P and UPC 850062409323 in its item details, the certified UPC.",
     "seller": "Amazon",
     "source": "https://www.amazon.com/dp/B0DYV5WKY8",
     "url": "https://www.amazon.com/dp/B0DYV5WKY8"
    },
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4021635, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0DYV5WKY8 per https://www.amazon.com/dp/B0DYV5WKY8 (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4021635, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0DYV5WKY8 per https://www.amazon.com/dp/B0DYV5WKY8 (2026-11-12)",
    "specs": {
     "capacity": 25.0,
     "cost100": 4.28,
@@ -298,13 +298,13 @@
    "rank": 6,
    "score": 96.0,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (Bufanli, sold by Dehumidifier US, in stock at $208.99 when read 2026-11-04) gives Model OL22-D076FFN3B1/FE and UPC 772610634189 in its item details, a certified UPC. It is marketed as a Smart WiFi unit, while the certified record says not connected-capable.",
+    "as_of": "2026-11-12",
+    "note": "The Amazon listing (Bufanli, ships from Amazon, sold by Dehumidifier US, In Stock at $208.99 when read logged out 2026-11-12) gives Model OL22-D076FFN3B1/FE and UPC 772610634189 in its item details, a certified UPC. It is marketed as a Smart WiFi unit, while the certified record says not connected-capable.",
     "seller": "Amazon",
     "source": "https://www.amazon.com/dp/B0H8L791J4",
     "url": "https://www.amazon.com/dp/B0H8L791J4"
    },
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4680474, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H8L791J4 per https://www.amazon.com/dp/B0H8L791J4 (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4680474, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0H8L791J4 per https://www.amazon.com/dp/B0H8L791J4 (2026-11-12)",
    "specs": {
     "capacity": 22.0,
     "cost100": 4.36,
@@ -405,13 +405,13 @@
    "rank": 10,
    "score": 95.0,
    "sold_as": {
-    "as_of": "2026-11-04",
-    "note": "The Amazon listing (NYpeak, sold by NYpeak, in stock at $219.99 when read 2026-11-04) gives Model D076A and UPC 739067320003 in its item details, a certified UPC of this set (the set is also certified under the HUMILABS name). It is marketed as a Smart WiFi unit, while the certified record says not connected-capable.",
+    "as_of": "2026-11-12",
+    "note": "The Amazon listing (NYpeak, ships from Amazon, sold by NYpeak, In Stock at $219.99 when read logged out 2026-11-12) gives Model D076A and UPC 739067320003 in its item details, a certified UPC of this set (the set is also certified under the HUMILABS name). It is marketed with WiFi control, while the certified record says not connected-capable.",
     "seller": "Amazon",
     "source": "https://www.amazon.com/dp/B0HGBKK38V",
     "url": "https://www.amazon.com/dp/B0HGBKK38V"
    },
-   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4612895, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0HGBKK38V per https://www.amazon.com/dp/B0HGBKK38V (2026-11-04)",
+   "spec_source": "ENERGY STAR certified Dehumidifiers dataset (U.S. EPA, data.energystar.gov mgiu-hu4z), record 4612895, retrieved 2026-11-01; buy link https://www.amazon.com/dp/B0HGBKK38V per https://www.amazon.com/dp/B0HGBKK38V (2026-11-12)",
    "specs": {
     "capacity": 22.0,
     "cost100": 4.41,
